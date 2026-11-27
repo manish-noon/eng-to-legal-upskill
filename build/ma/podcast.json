@@ -1,0 +1,148 @@
+{
+ "show": "Calling the Deal",
+ "album": "Calling the Deal: M&A for builders",
+ "topic": "private M&A",
+ "feed_description": "Private M&A for builders: a partner and an ex-CTO, one module per episode.",
+ "guid_prefix": "calling-the-deal",
+ "listener": "a CTO and co-founder with 17 to 18 years in technology, based in Dubai, building an AI legal-services company. Very fast, sceptical, allergic to fluff. Not a lawyer. He has just been through the written course this episode is drawn from, or is about to. He needs to hold his own with senior M&A partners and, ultimately, to predict where negotiated terms land from precedent and leverage and advise whether a deal is worth pursuing.",
+ "hosts": {
+  "Nadia": {
+   "voice": "Kore",
+   "role": "senior M&A partner, English-qualified, 20 years of Gulf and European private M&A. Precise, dry, quietly funny. Explains mechanism, not trivia. Says where things usually land and what moves them."
+  },
+  "Sam": {
+   "voice": "Charon",
+   "role": "former CTO, now a deal partner at a growth investor; has sat across the table on a dozen acquisitions. Asks the question a smart engineer would ask, pushes back, reframes legal mechanisms in systems terms (state machines, failure modes, incentives, option value, SLAs) only when the analogy is exact, and is not afraid to say \"that sounds like a bad trade\"."
+  }
+ },
+ "words": "2,800 to 3,400",
+ "pace": "brisk professional podcast pace",
+ "extra_rules": "",
+ "episodes": [
+  {
+   "num": "01",
+   "title": "What lawyers actually sell",
+   "sources": [
+    "m00"
+   ]
+  },
+  {
+   "num": "02",
+   "title": "Contract mechanics: the physics under every deal",
+   "sources": [
+    "m01"
+   ]
+  },
+  {
+   "num": "03",
+   "title": "Companies, structures and who is in the room",
+   "sources": [
+    "m02"
+   ]
+  },
+  {
+   "num": "04",
+   "title": "The deal timeline and the documents before the SPA",
+   "sources": [
+    "m03"
+   ]
+  },
+  {
+   "num": "05",
+   "title": "Price: from enterprise value to the cheque",
+   "sources": [
+    "m04"
+   ]
+  },
+  {
+   "num": "06",
+   "title": "Due diligence: routing every finding",
+   "sources": [
+    "m05"
+   ]
+  },
+  {
+   "num": "07",
+   "title": "Reading an 80,000-word SPA in an hour",
+   "sources": [
+    "m06"
+   ]
+  },
+  {
+   "num": "08",
+   "title": "Warranties and disclosure: the information game",
+   "sources": [
+    "m07"
+   ]
+  },
+  {
+   "num": "09",
+   "title": "The claim pipeline: de minimis, basket, cap, time",
+   "sources": [
+    "m08"
+   ]
+  },
+  {
+   "num": "10",
+   "title": "Indemnities, W&I insurance and where the money comes from",
+   "sources": [
+    "m09"
+   ]
+  },
+  {
+   "num": "11",
+   "title": "Conditions, the gap and the right to walk",
+   "sources": [
+    "m10"
+   ]
+  },
+  {
+   "num": "12",
+   "title": "The clauses that decide disputes, and life after closing",
+   "sources": [
+    "m11"
+   ]
+  },
+  {
+   "num": "13",
+   "title": "The UAE and GCC overlay",
+   "sources": [
+    "m12"
+   ]
+  },
+  {
+   "num": "14",
+   "title": "How terms actually move: negotiation dynamics",
+   "sources": [
+    "m13"
+   ]
+  },
+  {
+   "num": "15",
+   "title": "Predicting the landing: precedent plus leverage",
+   "sources": [
+    "m14"
+   ]
+  },
+  {
+   "num": "16",
+   "title": "Kept risk and the pursue or walk call",
+   "sources": [
+    "m15"
+   ]
+  },
+  {
+   "num": "17",
+   "title": "Three deals, three verdicts",
+   "sources": [
+    {
+     "file": "labs.js",
+     "from": "const DEALS=",
+     "to": "function runDeal",
+     "label": "Capstone deals from the course's deal desk lab (JavaScript data: facts, leverage scores and reasons, diligence findings with routing, risk register, and the model advice):"
+    }
+   ],
+   "words": "3,200 to 3,800"
+  }
+ ]
+}

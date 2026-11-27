@@ -3,7 +3,7 @@
 A plain, checkable method. It isn't a black box. Every step leaves a cited trail, so a partner can disagree with a specific step.
 
 ## 1. The unit: one issue = one knowledge record
-For each disputed term (from the Gulfstream harness):
+For each disputed term (the "essence capture" format):
 
 | Field | Example (general warranty cap) |
 |---|---|
