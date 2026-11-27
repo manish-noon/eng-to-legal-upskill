@@ -4,135 +4,151 @@
   "title": "What lawyers actually sell",
   "file": "ep01.mp3",
   "transcript": "ep01.md",
-  "seconds": 1281,
-  "bytes": 10248175
+  "seconds": 1274,
+  "bytes": 10193071,
+  "lesson": "#/m/m00"
  },
  {
   "num": "02",
   "title": "Contract mechanics: the physics under every deal",
   "file": "ep02.mp3",
   "transcript": "ep02.md",
-  "seconds": 1214,
-  "bytes": 9712133
+  "seconds": 1194,
+  "bytes": 9554309,
+  "lesson": "#/m/m01"
  },
  {
   "num": "03",
   "title": "Companies, structures and who is in the room",
   "file": "ep03.mp3",
   "transcript": "ep03.md",
-  "seconds": 1281,
-  "bytes": 10248193
+  "seconds": 1264,
+  "bytes": 10116481,
+  "lesson": "#/m/m02"
  },
  {
   "num": "04",
   "title": "The deal timeline and the documents before the SPA",
   "file": "ep04.mp3",
   "transcript": "ep04.md",
-  "seconds": 1160,
-  "bytes": 9284551
+  "seconds": 1154,
+  "bytes": 9234631,
+  "lesson": "#/m/m03"
  },
  {
   "num": "05",
   "title": "Price: from enterprise value to the cheque",
   "file": "ep05.mp3",
   "transcript": "ep05.md",
-  "seconds": 992,
-  "bytes": 7933247
+  "seconds": 986,
+  "bytes": 7890047,
+  "lesson": "#/m/m04"
  },
  {
   "num": "06",
   "title": "Due diligence: routing every finding",
   "file": "ep06.mp3",
   "transcript": "ep06.md",
-  "seconds": 1039,
-  "bytes": 8311289
+  "seconds": 983,
+  "bytes": 7863737,
+  "lesson": "#/m/m05"
  },
  {
   "num": "07",
   "title": "Reading an 80,000-word SPA in an hour",
   "file": "ep07.mp3",
   "transcript": "ep07.md",
-  "seconds": 1175,
-  "bytes": 9398202
+  "seconds": 1155,
+  "bytes": 9243258,
+  "lesson": "#/m/m06"
  },
  {
   "num": "08",
   "title": "Warranties and disclosure: the information game",
   "file": "ep08.mp3",
   "transcript": "ep08.md",
-  "seconds": 1185,
-  "bytes": 9481732
+  "seconds": 1208,
+  "bytes": 9668164,
+  "lesson": "#/m/m07"
  },
  {
   "num": "09",
-  "title": "The claim pipeline: de minimis, basket, cap, time",
+  "title": "Limits on claims: de minimis, basket, cap, time",
   "file": "ep09.mp3",
   "transcript": "ep09.md",
-  "seconds": 1012,
-  "bytes": 8095878
+  "seconds": 986,
+  "bytes": 7888900,
+  "lesson": "#/m/m08"
  },
  {
   "num": "10",
   "title": "Indemnities, W&I insurance and where the money comes from",
   "file": "ep10.mp3",
   "transcript": "ep10.md",
-  "seconds": 1123,
-  "bytes": 8988688
+  "seconds": 1113,
+  "bytes": 8906704,
+  "lesson": "#/m/m09"
  },
  {
   "num": "11",
   "title": "Conditions, the gap and the right to walk",
   "file": "ep11.mp3",
   "transcript": "ep11.md",
-  "seconds": 1104,
-  "bytes": 8835840
+  "seconds": 1102,
+  "bytes": 8818368,
+  "lesson": "#/m/m10"
  },
  {
   "num": "12",
   "title": "The clauses that decide disputes, and life after closing",
   "file": "ep12.mp3",
   "transcript": "ep12.md",
-  "seconds": 1173,
-  "bytes": 9388431
+  "seconds": 1155,
+  "bytes": 9241743,
+  "lesson": "#/m/m11"
  },
  {
   "num": "13",
   "title": "The UAE and GCC overlay",
   "file": "ep13.mp3",
   "transcript": "ep13.md",
-  "seconds": 1018,
-  "bytes": 8140974
+  "seconds": 1004,
+  "bytes": 8029998,
+  "lesson": "#/m/m12"
  },
  {
   "num": "14",
   "title": "How terms actually move: negotiation dynamics",
   "file": "ep14.mp3",
   "transcript": "ep14.md",
-  "seconds": 1089,
-  "bytes": 8711812
+  "seconds": 1047,
+  "bytes": 8379076,
+  "lesson": "#/m/m13"
  },
  {
   "num": "15",
   "title": "Predicting the landing: precedent plus leverage",
   "file": "ep15.mp3",
   "transcript": "ep15.md",
-  "seconds": 972,
-  "bytes": 7776966
+  "seconds": 966,
+  "bytes": 7726086,
+  "lesson": "#/m/m14"
  },
  {
   "num": "16",
   "title": "Kept risk and the pursue or walk call",
   "file": "ep16.mp3",
   "transcript": "ep16.md",
-  "seconds": 1115,
-  "bytes": 8920892
+  "seconds": 1116,
+  "bytes": 8925692,
+  "lesson": "#/m/m15"
  },
  {
   "num": "17",
   "title": "Three deals, three verdicts",
   "file": "ep17.mp3",
   "transcript": "ep17.md",
-  "seconds": 1112,
-  "bytes": 8894770
+  "seconds": 1080,
+  "bytes": 8639410
  }
 ]

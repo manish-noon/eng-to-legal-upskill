@@ -9,7 +9,7 @@ Tool: `tools/podcast.py <course-id>` (generic, stdlib only, Python 3.9). Feed: `
 
 ## 1. Format (what worked)
 - One episode per module (plus one for the capstone), 16–21 min, ≈2,800–3,400 words (capstone 3,200–3,800).
-- **Two hosts who are PEERS**, not teacher/student: a senior practitioner of the domain (precise, dry, explains mechanism, says where things land and what moves them) and an ex-CTO/operator who stress-tests with fact patterns, pushes back, and reframes in systems terms only when the analogy is exact. Give them names and voices per course.
+- **Two hosts who are PEERS**, not teacher/student: a senior practitioner of the domain (precise, dry, explains mechanism, says where things land and what moves them) and a commercial operator who tests the advice against price, timing, evidence and alternatives. Give them names and voices per course.
 - Cold open on a concrete scenario; one line names the episode; numbers spoken as people say them; at least two worked numeric examples by ear; close with a 3-point takeaway; no "welcome back", recaps, "great question" or sign-offs.
 - Listener: the course learner profile (e.g. CTO with 17–18 years' experience; mature, word-efficient).
 - Accuracy boundary = the module text. No invented statistics, cases, statutes, real deals; no real living people.
@@ -21,7 +21,7 @@ Tool: `tools/podcast.py <course-id>` (generic, stdlib only, Python 3.9). Feed: `
  "feed_description": "one line for RSS", "guid_prefix": "show-slug",
  "listener": "who is listening and what they need",
  "hosts": {"Nadia": {"voice": "Kore", "role": "senior practitioner ..."},
-           "Sam":   {"voice": "Charon", "role": "former CTO ..."}},
+           "Sam":   {"voice": "Charon", "role": "commercial operator ..."}},
  "words": "2,800 to 3,400", "pace": "brisk professional podcast pace",
  "extra_rules": "optional extra numbered rules appended to the prompt",
  "prompt": "optional full override of the prompt template (same {placeholders})",
@@ -53,7 +53,7 @@ Response contains base64 `audio/wav` (24 kHz mono 16-bit); if it is raw PCM (no 
 ## 5. Chunking, retry, caching, assembly
 - Turns grouped into ≈2,200-character requests; 3 chunks in parallel per episode; `PAR` episodes in parallel (4–6 is fine).
 - Retry 429/5xx and network errors with exponential backoff (8 s doubling, max 90 s, 7 attempts); 4 tries if a response has no audio.
-- Cache: `/tmp/<id>-podcast/epNN.json` (script) and `epNN-CCC.wav` (chunks), so reruns resume. Existing MP3s are skipped: delete `courses/<id>/podcast/epNN.mp3` to rebuild one (and its cached `.json` to rewrite its script).
+- Cache: `/tmp/<id>-podcast/epNN.json` (script) and `epNN-CCC-<digest>.wav` (chunks), so reruns resume. Existing MP3s are skipped: delete `courses/<id>/podcast/epNN.mp3` to rebuild one (edit its published transcript first to change what the listener hears).
 - Join with 0.35 s silence, ffmpeg → MP3 64 kbps mono 24 kHz with ID3 title/artist/album/track.
 - Writes `courses/<id>/podcast/epNN.mp3`, `epNN.md` (transcript, `**Speaker:** text`), `episodes.json` (`num, title, file, transcript, seconds, bytes`).
 

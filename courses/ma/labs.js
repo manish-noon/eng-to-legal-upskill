@@ -82,7 +82,7 @@ const LAB={
 <details class="think"><summary>4. Turn on W&I in package B with a 1% seller cap. When is insurance worth its premium?</summary><p>Compare the fall in kept risk with the premium (add it to deal costs). W&I is worth most when the seller cannot or will not give a meaningful cap, and when the big risks are unknown ones. It does nothing for the known VAT issue or the change-of-control risk, which a policy would exclude.</p></details>`}));
   const w=el('div',{class:'widget'});main.append(w);WIDGETS.exposure(w);P.labs.exposure='opened';saveP();renderSide()},
 
- dealdesk(main){main.append(el('h1',{},'Lab 6 · Deal desk'),el('p',{class:'lede'},'Three complete deals. For each: score leverage, route the diligence findings, predict where the terms land, price what the buyer keeps, and advise. Commit to your answer at each step before you reveal the model answer.'));
+ dealdesk(main){main.append(el('h1',{},'Lab 6 · Deal desk'),el('p',{class:'lede'},'Three fictional acquisitions. For each, assess leverage, decide how to address the diligence findings, forecast the terms and advise the buyer on the risk it keeps. Commit to your answer at each step before you reveal the model answer.'));
   const pick=el('div',{class:'cards'}),stage=el('div');main.append(pick,stage);
   DEALS.forEach((D,i)=>pick.append(el('a',{href:'#',onclick:e=>{e.preventDefault();runDeal(D,stage)}},el('b',{},D.name),el('span',{},D.tag+(P.dd&&P.dd[D.id]?' · done: '+P.dd[D.id]:'')))))}
 };

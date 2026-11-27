@@ -39,7 +39,8 @@ LAB.fileread = async function(main) {
   const pick = el('select', {'aria-label':'Agreement to read'},
     cases.map(c=>el('option',{value:c.id},c.label)));
   const desk = el('div');
-  main.append(el('div',{class:'controls'},answerLabel('Agreement',pick)),desk);
+  main.append(el('p',{},'The agreement and section references come from the public filing. Each client brief describes an invented situation. Decide what the filed terms would require on those facts.'),
+    el('div',{class:'controls'},answerLabel('Agreement',pick)),desk);
 
   async function openCase() {
     const item = cases.find(c=>c.id === pick.value);

@@ -2,7 +2,7 @@
 
 Given an unfamiliar aircraft purchase or lease file and its issues list, find the controlling language across drafts, definitions and schedules, explain who must do what by when, predict and verify disputed outcomes, price the exposure left with the client and advise sign, negotiate or walk.
 
-Audience: Dubai-based technology founder with extensive engineering experience and no legal training. Prices, durations and probabilities in teaching scenarios are illustrative assumptions.
+For a Dubai-based reader approaching aircraft transactions for the first time. Prices, durations and probabilities in teaching scenarios are illustrative assumptions.
 
 | Part | Module | Capability |
 |---|---|---|

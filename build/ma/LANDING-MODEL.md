@@ -34,17 +34,17 @@ Score each factor from the **buyer's** point of view (+1 = favours the buyer, �
 | DD findings | Known red flags (they go to *specific indemnities*, not the general cap) | Clean DD |
 | Seller continuity | Founders leave with all the cash | Founders roll equity or stay as managers (buyer won't sue its own team) |
 | Buyer type | PE, financially disciplined | Strategic that "must have" the asset |
-| Market cycle | Buyer's market, few buyers (the aircraft-sale example) | Seller's market, too much cash chasing deals |
+| Market cycle | Buyer's market, few buyers | Seller's market, too much cash chasing deals |
 | Regulatory certainty | Low risk | Merger control or FDI risk, so the seller wants certainty |
 
 **Leverage score** = the sum of the factor scores, clipped to −2…+2.
-**Predicted landing** = the median, moved toward the buyer's end of the band by (score/2) × (P75−median) when the score is positive, or toward the seller's end by (|score|/2) × (median−P25) when it's negative. Then **clamp the result between the two opening positions**. A deal never lands outside its opens.
+**Predicted landing** = the median, moved toward the buyer's end of the band by (score/2) × (P75−median) when the score is positive, or toward the seller's end by (|score|/2) × (median−P25) when it's negative. Then **clamp the result between the two opening positions**. Use those bounds while the parties are negotiating the same package. Revisit both positions if the price, risks or scope change.
 
-Sanity rules from practice (practitioner rules of thumb, to be confirmed with a practising lawyer):
-- "Ask for ten, get three." Opening positions are padded. Don't treat the buyer's open as its real floor.
-- Durations follow audit logic: commercial ~12 months, business ~18 months, tax/financial ~24 months+ (one or two audit cycles). Tax often matches the statute of limitations.
-- Fundamental warranties (title, capacity, authority) are capped at the price. Fraud is uncapped. These rarely move.
-- Known risks go into **specific indemnities** at 100%, outside the basket and cap. Don't spend negotiating capital on them inside the general cap.
+Questions to check before relying on the forecast:
+- Which concessions has the client authorised? An opening proposal may leave room to trade.
+- Will the buyer have completed the relevant audit in time to serve a valid claim? Check the contractual notice period, any further deadline for proceedings and the relevant statutory period.
+- Which limits cover title, capacity and authority? Read the fraud exception and identify whose conduct it covers.
+- For a known risk, check whether a specific indemnity gives full recovery. Follow the cap, deadline, exclusions and payment source before pricing the protection.
 
 ## 4. Exposure: what the buyer keeps at the landing point
 For each risk *r* you identified in DD or think likely:

@@ -13,6 +13,7 @@ Fill in before sending: COURSE TITLE, LEARNER PROFILE, END CAPABILITY, MODULE LI
   - Clause sample `<blockquote class="clause">` followed by a plain-English decode; two-sides table `<table class="bs">` (Term | Side A wants | Side B wants | Why | Typical landing)
   - Widgets: `<div data-widget="NAME"></div>` (only names from WIDGETS)
 - 9–12 scored items per module (≥2 numeric), 3–5 think prompts; questions require reasoning on new fact patterns; ≥3 per module hard enough to catch a skimmer.
+- Use the learner profile to choose pace and difficulty. Explain clauses through the decisions the parties face. When a private matter suggests a lesson, write a fresh fictional transaction with a different disputed fact, remedy and commercial setting. Label the exercise, and ground claims about actual deals in the public source.
 - Accuracy: no invented statistics, statutes or case names; stats only from the research file with the study named; well-established doctrine is fine; flag jurisdiction variance.
 - Self-check before finishing: valid nesting, unique ids, one data-correct, recomputed numerics, no undefined terms.
 

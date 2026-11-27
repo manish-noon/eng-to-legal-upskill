@@ -24,5 +24,5 @@ const LABS=[
 ["explorer","Lab 3 · Precedent explorer","Filter 22 real deals and compute precedent bands. Unlocks after 4 graded extractions."],
 ["landing","Lab 4 · Blind landing prediction","Given a deal's facts, predict its terms, then see what was actually signed."],
 ["exposure","Lab 5 · Kept-risk simulator","Compare term packages against a risk register and get an effective price."],
-["dealdesk","Lab 6 · Deal desk (capstone)","Three full UAE-style deals: issues list in, landing memo and pursue/walk advice out."],
+["dealdesk","Lab 6 · Deal desk (capstone)","Three fictional UAE-style acquisitions. Use each issues list to forecast the terms and advise the buyer."],
 ["issues","Lab 7 · Write an issues list","Act for the sellers on a real signed agreement: find the points to push back on, then compare with a model list."]];

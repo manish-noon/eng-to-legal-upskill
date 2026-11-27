@@ -4,7 +4,7 @@
   "topic": "reading, negotiating and valuing aircraft purchases and leases",
   "guid_prefix": "clearing-the-aircraft-deal",
   "feed_description": "An aviation lawyer and an operator read the paper, trace the money and make the sign, negotiate or walk call.",
-  "listener": "A fast Dubai-based CTO with 17 years in technology, building an AI legal-services company, new to law. Help them find the controlling clause and give a concrete commercial instruction.",
+  "listener": "An experienced commercial operator learning to read agreements, weigh competing positions and advise on a deal.",
   "hosts": {
     "Mira": {
       "voice": "Kore",
@@ -12,12 +12,12 @@
     },
     "Leo": {
       "voice": "Charon",
-      "role": "Fictional former CTO and fleet operator who challenges timing, cash assumptions and whether a concession works on the day."
+      "role": "Fictional fleet operator who challenges timing, cash assumptions and whether a concession works on the day."
     }
   },
   "words": "2,800 to 3,400",
   "pace": "brisk conversational pace, clear figures",
-  "extra_rules": "7. Label hypothetical exercises as hypothetical. Distinguish observations in a filed clause from estimates of leverage. Give precise commercial instructions. Preserve the difference between approval, obligation and evidence. Only speak financial amounts and time limits from the supplied course text. Make both voices sound natural. Finish at the three takeaways. Do not forecast next week’s topic or read quiz options aloud.",
+  "extra_rules": "7. Label hypothetical exercises as hypothetical. Distinguish observations in a filed clause from estimates of leverage. Give precise commercial instructions. Preserve the difference between approval, obligation and evidence. Only speak financial amounts and time limits from the supplied course text. Make both voices sound natural. Finish at the three takeaways. Do not forecast next week’s topic or read quiz options aloud. Use plain commercial language. Teach through public filings and clearly fictional scenarios. Invent a different business problem when replacing private deal material. Keep private negotiations, walkthroughs and identifying facts out of the dialogue.",
   "episodes": [
     {
       "num": "01",

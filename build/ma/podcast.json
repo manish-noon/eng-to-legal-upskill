@@ -2,9 +2,9 @@
  "show": "Calling the Deal",
  "album": "Calling the Deal: M&A for builders",
  "topic": "private M&A",
- "feed_description": "Private M&A for builders: a partner and an ex-CTO, one module per episode.",
+ "feed_description": "A deal lawyer and an investor work through private M&A agreements, one negotiation at a time.",
  "guid_prefix": "calling-the-deal",
- "listener": "a CTO and co-founder with 17 to 18 years in technology, based in Dubai, building an AI legal-services company. Very fast, sceptical, allergic to fluff. Not a lawyer. He has just been through the written course this episode is drawn from, or is about to. He needs to hold his own with senior M&A partners and, ultimately, to predict where negotiated terms land from precedent and leverage and advise whether a deal is worth pursuing.",
+ "listener": "An experienced commercial operator learning to read agreements, weigh competing positions and advise on a deal.",
  "hosts": {
   "Nadia": {
    "voice": "Kore",
@@ -12,12 +12,12 @@
   },
   "Sam": {
    "voice": "Charon",
-   "role": "former CTO, now a deal partner at a growth investor; has sat across the table on a dozen acquisitions. Asks the question a smart engineer would ask, pushes back, reframes legal mechanisms in systems terms (state machines, failure modes, incentives, option value, SLAs) only when the analogy is exact, and is not afraid to say \"that sounds like a bad trade\"."
+   "role": "Deal partner at a growth investor. Tests the assumptions behind each recommendation and asks what the investor would do at signing or closing."
   }
  },
  "words": "2,800 to 3,400",
  "pace": "brisk professional podcast pace",
- "extra_rules": "",
+ "extra_rules": "Use plain commercial language. Teach through public filings and clearly fictional scenarios. Invent a different business problem when replacing private deal material. Keep private negotiations, walkthroughs and identifying facts out of the dialogue.",
  "episodes": [
   {
    "num": "01",
@@ -77,7 +77,7 @@
   },
   {
    "num": "09",
-   "title": "The claim pipeline: de minimis, basket, cap, time",
+   "title": "Limits on claims: de minimis, basket, cap, time",
    "sources": [
     "m08"
    ]

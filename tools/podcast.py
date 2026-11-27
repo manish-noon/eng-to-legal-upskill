@@ -9,11 +9,11 @@ Usage:
 Config:  build/<id>/podcast.json   (see .claude/skills/build-podcast/SKILL.md for the schema)
 Outputs: courses/<id>/podcast/epNN.mp3, epNN.md (transcript), episodes.json
 Cache:   /tmp/<id>-podcast/ (scripts epNN.json and per-chunk WAVs; reruns resume). Delete an mp3 to rebuild it;
-         delete the cached epNN.json too to rewrite its script.
+         an existing transcript is the source for the new recording.
 Env:     GOOGLE_API_KEY, TEXT_MODEL, TTS_MODEL, PAR (episodes in parallel, default 4). Loaded from .env automatically.
 Python 3.9 compatible, standard library only (plus ffmpeg/ffprobe on PATH).
 """
-import base64, concurrent.futures as cf, html, json, os, re, subprocess, sys, time, urllib.error, urllib.request
+import base64, concurrent.futures as cf, hashlib, html, json, os, re, subprocess, sys, time, urllib.error, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from env import ROOT, load_env  # noqa: E402
@@ -104,6 +104,27 @@ def module_text(c, src):
 def write_script(c, ep):
     num = ep["num"]
     path = os.path.join(c["tmp"], "ep%s.json" % num)
+    transcript = os.path.join(c["out"], "ep%s.md" % num)
+    if os.path.exists(transcript):
+        with open(transcript, encoding="utf-8") as source:
+            _, _, dialogue = source.read().strip().partition("\n")
+        styles = {}
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as cached:
+                for turn in json.load(cached):
+                    if turn.get("style"):
+                        styles[turn["speaker"], turn["text"]] = turn["style"]
+        turns = []
+        for paragraph in re.split(r"\n\s*\n", dialogue.strip()):
+            match = re.fullmatch(r"\*\*(.+?):\*\*\s+(.+)", paragraph, re.S)
+            if not match or match[1] not in c["hosts"]:
+                raise ValueError("Invalid dialogue in " + transcript)
+            turn = {"speaker": match[1], "text": match[2]}
+            style = styles.get((match[1], match[2]))
+            if style:
+                turn["style"] = style
+            turns.append(turn)
+        return turns
     if os.path.exists(path):
         return json.load(open(path))
     names = list(c["hosts"])
@@ -157,7 +178,10 @@ def _blobs(x):
 
 
 def tts(c, num, i, part):
-    wav = os.path.join(c["tmp"], "ep%s-%03d.wav" % (num, i))
+    # A wording, voice or delivery change needs a new take even at the same chunk index.
+    signature = json.dumps([part, c["hosts"], c.get("pace"), os.environ.get("TTS_MODEL")], sort_keys=True)
+    digest = hashlib.sha256(signature.encode("utf-8")).hexdigest()[:20]
+    wav = os.path.join(c["tmp"], "ep%s-%03d-%s.wav" % (num, i, digest))
     if os.path.exists(wav) and os.path.getsize(wav) > 1000:
         return wav
     pace = c.get("pace", "brisk professional podcast pace")

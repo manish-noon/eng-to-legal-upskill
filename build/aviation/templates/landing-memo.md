@@ -10,7 +10,7 @@
 | Distinct leverage fact | Whose evidence? | Buyer/airline score (-1/0/+1) | What reverses it? |
 |---|---|---|---|
 
-Report quartiles and orientation. State any widening, template dependence, model override and range after bounding by opens.
+Report the quartiles and explain which end favours the client. Identify any wider comparison group or shared forms. Show how the opening requests limit the forecast and explain any departure from the calculated result.
 
 | Loss state | Probability and basis | Gross loss PV | Collectible recovery PV | Kept loss × probability | Cash needed before collection |
 |---|---|---|---|---|---|
@@ -31,4 +31,4 @@ Make a file list with date, version, signatures, incorporated documents and anyt
 
 Track each issue to its last verifiable state. Record a conditional acceptance, unanswered comment, agreed wording and actual performance separately. A commercial forecast needs a fallback, evidence of each side’s alternative, and a named decision maker. When a financier, provider or registry must act, record its separate document or verification step.
 
-**Read your own agreement.** Without opening the answer key, map title and possession, the first and last cash events, one right that depends on another document, one third-party dependency and one unresolved exposure. Cite the provision for each. Calculate the peak cash requirement and a downside using stated assumptions. Give the instruction, its deadline and the evidence that would reverse it. A second reader should be able to recover each answer from your cited file.
+**Read your own agreement.** Without opening the answer key, map title and possession, the first and last cash events, one right that depends on another document, one action requiring a third party’s cooperation and one unresolved exposure. Cite the provision for each. Calculate the peak cash requirement and a downside using stated assumptions. Give the instruction, its deadline and the evidence that would reverse it. A second reader should be able to recover each answer from your cited file.

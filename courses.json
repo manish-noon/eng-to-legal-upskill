@@ -8,7 +8,7 @@
     "podcast": "courses/ma/podcast.html",
     "status": "live",
     "modules": 16,
-    "hours": "20 + 5h audio",
+    "hours": "20h study + 5h 13m audio",
     "cover": "courses/ma/assets/architecture.webp"
   },
   {
@@ -20,7 +20,7 @@
     "podcast": "courses/aviation/podcast.html",
     "status": "live",
     "modules": 16,
-    "hours": "16–21h study + 4h 54m audio",
+    "hours": "16–21h study + 4h 53m audio",
     "cover": "courses/aviation/assets/apron.webp"
   }
 ]
