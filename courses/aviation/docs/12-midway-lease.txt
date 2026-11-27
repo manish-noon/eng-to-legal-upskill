@@ -1,0 +1,813 @@
+Exhibit 10.143
+
+ CONFORMED COPY
+ TO THE EXTENT THAT THIS AIRCRAFT LEASE AGREEMENT CONSTITUTES CHATTEL PAPER
+ (AS DEFINED IN THE UNIFORM COMMERCIAL CODE AS IN EFFECT IN ANY APPLICABLE
+ JURISDICTION), NO SECURITY INTEREST IN THIS AIRCRAFT LEASE AGREEMENT MAY BE
+ CREATED THROUGH TRANSFER OR POSSESSION OF ANY COUNTERPART OTHER THAN THE
+ ORIGINAL COUNTERPART, WHICH SHALL BE IDENTIFIED AS THE COUNTERPART
+ DESIGNATED AS THE ORIGINAL ON THE SIGNATURE PAGE OF THIS AGREEMENT BY
+ LESSOR (AS TERM IS DEFINED HEREIN).
+
+ AIRCRAFT LEASE AGREEMENT
+
+ Dated as of November 6, 2000
+
+ between
+
+ AVIATION FINANCIAL SERVICES INC.
+
+ as Lessor
+
+ and
+
+ MIDWAY AIRLINES CORPORATION
+
+ as Lessee
+
+ in respect of Aircraft: Boeing 737-700
+
+ Serial No: 32582
+
+ _________________________________
+ incorporating the provisions of that certain
+
+ COMMON TERMS AGREEMENT
+
+ (as defined herein)
+ _________________________________
+
+ AIRCRAFTLEASE AGREEMENT
+
+THIS AIRCRAFT LEASE AGREEMENT is made as of November 6, 2000, and is BETWEEN:
+
+1. AVIATION FINANCIAL SERVICES INC., a company incorporated under the laws of
+ the State of Delaware, having its principal place of business and chief
+ executive office at 260 Long Ridge Road, Stamford, CT 06927 ("Lessor"); and
+
+2. MIDWAY AIRLINES CORPORATION, a company incorporated under the laws of the
+ State of Delaware, having its principal place of business and chief
+ executive office at 2801 Slater Road, Suite 200, Morrisville, NC 27560
+ ("Lessee").
+
+WHEREAS:
+
+(A) Lessee wishes to lease the Aircraft (as defined below) from Lessor, and
+ Lessor wishes to lease the Aircraft to Lessee, on the terms and subject to
+ the conditions provided herein;
+
+(B) General Electric Capital Corporation and Lessee have entered into the
+ Common Terms Agreement (as defined below); and
+
+(C) Lessor and Lessee wish to incorporate by reference such Common Terms
+ Agreement, as well as Schedules A and B attached hereto, into this Aircraft
+ Lease Agreement for the Aircraft;
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+1. INTERPRETATION
+
+1.1 Definitions: In this Aircraft Lease Agreement, the following capitalized
+ words and expressions have the respective meanings set forth below and the
+ meanings set forth in Schedules A and B:
+
+ Aircraft means the Airframe and Engines described on Part I of Schedule A
+ and includes the Aircraft Documents and Records.
+
+ Airframe Maintenance Adjustment shall have the meaning as set forth in
+ Schedule B, Part VI hereof.
+
+ Airframe Structural Check means a heavy maintenance visit which shall
+ include but not be limited to accomplishment of a block C6 Systems and
+ Structural Check (equivalent to a "D" check), all lesser checks, and
+ interior refurbishment (including lavatories and galley) consistent with
+ average industry standards for the first C6 Systems and Structural check
+ for the Airframe type. Where relevant, the workscope and intervals
+ (calendar and/or hourly) shall not be less than those prescribed by the
+ Lessee's Maintenance Program. If the Lessee's Maintenance Program is not a
+ block program then the Lessee shall perform those tasks required to bridge
+ the Aircraft to the block program as set forth in Appendix J of the
+ Manufacturer's Maintenance Planning Document.
+
+ C-1
+
+ Common Terms Agreement means the "Aircraft Lease Common Terms Agreement"
+ dated as of September 10, 1999 executed by General Electric Capital
+ Corporation and Midway Airlines Corporation, as amended by letter agreement
+ dated as of the date hereof (as in effect on the date hereof without,
+ unless Lessor and Lessee otherwise expressly agree, giving any effect to
+ any subsequent amendment, supplement, waiver or other modification
+ thereto), and which forms part of this Aircraft Lease Agreement.
+
+ Delivery Condition Requirements means the requirements specified in Section
+ 1 of Part III of Schedule A.
+
+ Delivery Location means a location in the United States mutually acceptable
+ to Lessor and Lessee.
+
+ Deposit means all amounts payable pursuant to Section 3.1 hereof.
+
+ Engine Refurbishment Maintenance Adjustment shall have the meaning as set
+ forth in Schedule B, Part VI hereof.
+
+ Final Delivery Date means the date that is two (2) months after the
+ Scheduled Delivery Date.
+
+ Indemnitee means each of Lessor, GECAS, and each of their respective
+ shareholders, subsidiaries, Affiliates, partners, servants, contractors,
+ directors, officers, agents and employees.
+
+ LC Amount is not applicable.
+
+ Lessee Modification Costs shall have the meaning as defined in the
+ Modification Side Letter.
+
+ Lessee Modification Fee means an amount equal to 1.98% of the Lessee
+ Modification Costs.
+
+ Maintenance Adjustment means collectively the Airframe Maintenance
+ Adjustment and the Engine Refurbishment Maintenance Adjustment as the
+ amounts payable by Lessee pursuant to Section 5.4 of the Common Terms
+ Agreement, Section 3 of this Agreement and Schedule B, Part VI of this
+ Agreement.
+
+ Manufacturer means the manufacturer of the Airframe or an Engine, as the
+ case may be, as set forth on Part I of Schedule A hereto.
+
+ Minimum Measurable Fuel Requirement means 2,000 U.S. gallons.
+
+ Modification Side Letter means a side letter agreement between Lessee and
+ Lessor substantially in the form attached hereto as Schedule C relating to
+ post-delivery modifications.
+
+ Owner means Lessor.
+
+ Redelivery Location means (i) such location in the continental United
+ States as Lessor may elect, or (ii) such other location as may be agreed in
+ writing by Lessor and Lessee.
+
+ Rent means all amounts payable pursuant to Section 3.2 hereof.
+
+ C-2
+
+ Rent Commencement Date means the date on which Lessor tenders the Aircraft
+ for Delivery to Lessee under Section 4.3(a) of the Common Terms Agreement.
+
+ Scheduled Delivery Date means a date notified by Lessor to Lessee in
+ accordance with Section 4.1(a) of the Common Terms Agreement in November,
+ 2001.
+
+ Scheduled Delivery Month means November, 2001.
+
+ Scheduled Delivery Week is not applicable.
+
+ Scheduled Expiry Date means the date falling sixty-one (61) months after
+ the Rent Commencement Date.
+
+ State of Registry means the United States of America.
+
+ Sublease Fee means the fee amount set forth in Part VII of Schedule B
+ hereof.
+
+ Supplemental Rent means all amounts payable pursuant to Section 3.3 hereof.
+
+ Tax Indemnitee means Lessor and each Financing Party, if any, and each
+ member of the consolidated group of which Lessor is a member for United
+ States Federal Income Tax purposes.
+
+ Term shall have the meaning as set forth for such word in Section 2.2
+ herein.
+
+1.2 Interpretation: Unless otherwise defined herein, words and expressions
+ defined in the Common Terms Agreement have the same respective meanings for
+ the purposes of this Aircraft Lease Agreement. The construction provisions
+ of Section 1.2 of the Common Terms Agreement shall apply to this Aircraft
+ Lease Agreement.
+
+2. LEASING
+
+2.1 Agreement to Lease: Subject to the terms and conditions of the Lease,
+ Lessor will lease the Aircraft to Lessee and Lessee will take delivery of
+ and lease the Aircraft from Lessor in accordance with the Lease for the
+ duration of the Term.
+
+2.2 Term: Subject to Sections 4.1 through 4.4 of the Common Terms Agreement,
+ Delivery of the Aircraft will occur at the Delivery Location, whereupon
+ Lessee shall accept the Aircraft hereunder and evidence such Delivery and
+ acceptance by executing and delivering a Certificate of Technical
+ Acceptance and Lease Supplement No. 1 as provided in Section 4.3 of the
+ Common Terms Agreement. The Term will commence on the Delivery Date, which
+ Delivery Date is scheduled to occur on the Scheduled Delivery Date, and
+ will expire on the Scheduled Expiry Date unless terminated earlier in
+ accordance with the provisions of the Lease.
+
+3. PAYMENTS
+
+3.1 Deposit: Lessee shall pay to Lessor the Deposit in cash (to which Deposit
+ Section 5.13 of the Common Terms Agreement shall apply), in the amounts and
+ at the times provided in Part II of Schedule B hereto.
+
+ C-3
+
+3.2 Rent: Lessee shall pay Rent to Lessor on each Rent Date during the Term in
+ the amount provided in Part III of Schedule B hereto and as provided in
+ Sections 5.2 and 5.3 of the Common Terms Agreement. The first instalment of
+ Rent shall be due and payable on the Rent Commencement Date as defined
+ herein. Provided no Default has occurred and is continuing, during the
+ first Rental Period of this Agreement, Lessor shall grant Lessee a credit
+ in an amount equal to fifty percent (50%) of the Rent otherwise due and
+ payable by Lessee hereunder, calculated on a per diem basis for the actual
+ number of days elapsed, for a period commencing on the Delivery Date to a
+ date not to exceed thirty (30) days after the Delivery Date during which
+ the Aircraft is undergoing post-Delivery modifications. Such credit shall
+ be applied against the Rent then due and payable for the second Rental
+ Period following the Delivery Date or in such other manner as Lessor and
+ Lessee may agree.
+
+3.3 Supplemental Rent and Maintenance Adjustment: Lessee shall pay (a)
+ Supplemental Rent to Lessor on each applicable date during the Term in
+ accordance with Section 5.4 of the Common Terms Agreement and in the
+ amounts provided in Schedule B hereto; and (b) the Maintenance Adjustments
+ to Lessor on the Return Occasion in the amounts provided in Schedule B
+ hereto and as provided in Section 5.4 of the Common Terms Agreement. Lessor
+ shall retain all Supplemental Rent and Maintenance Adjustments, subject to
+ Section 3.4 below.
+
+3.4 Lessor's Maintenance Contribution: Lessor shall make Maintenance
+ Contributions payments as and to the extent provided in Section 7.2 of the
+ Common Terms Agreement.
+
+3.5 Lessor's Bank Account: For the purposes of Section 5.5 of the Common Terms
+ Agreement, Lessor's bank account and wire transfer particulars, to which
+ all payments to Lessor shall be made, are at the date hereof Bankers Trust
+ Company, ABA number 021 001 033 for the account of GECC T&I Air Depository
+ Account, Account No. 50 255 888.
+
+4. Condition of the aircraft at delivery
+
+4.1 On the Delivery Date, as a condition to Lessee's obligation to accept
+ delivery thereof, the Aircraft shall be in the condition provided in Part
+ III of Schedule A; provided, however, Lessee shall have no obligation to
+ -------- -------
+ pay Rent until the Rent Commencement Date.
+
+5. CONDITION OF THE AIRCRAFT AT REDELIVERY
+
+5.1 On the Return Occasion, Lessee shall redeliver the Aircraft to Lessor at
+ the Redelivery Location and at such redelivery the Aircraft shall be in the
+ condition provided herein and in the Common Terms Agreement, including
+ Schedule 6 of the Common Terms Agreement.
+
+6. ADDRESSES FOR NOTICES
+
+ The addresses and facsimile and telephone numbers of Lessor and Lessee are
+ as follows:
+
+ Lessor: Aviation Financial Services Inc.
+ Address: c/o GE Capital Aviation Services
+ 201 High Ridge Road
+ Stamford, CT 06927
+
+ C-4
+
+ Attention: Contracts Leader
+ Facsimile: (203) 357-4585
+ Telephone: (203) 357-3201
+
+ Lessee: Midway Airlines Corporation
+ Address: 2801 Slater Road, Suite 200
+ Morrisville, NC 27560
+
+ Attention: General Counsel
+ Facsimile: (919) 595-1705
+ Telephone: (919) 595-6009
+
+7. SCHEDULES AND COMMON TERMS AGREEMENT
+
+ All the provisions of Schedule A, Schedule B hereto and the Common Terms
+ Agreement (including the schedules thereto) are incorporated by reference
+ herein and are part of this Aircraft Lease Agreement as if they were set
+ out in full herein. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, BY
+ ITS SIGNATURE BELOW, THE LESSEE ACKNOWLEDGES AND AGREES THAT THE LEASE OF
+ THE AIRCRAFT HEREUNDER IS ON AN "AS-IS, WHERE-IS" BASIS AND THAT THE
+ ----- --------
+ DISCLAIMERS, EXCULPATIONS AND LIMITATIONS OF LIABILITY, INDEMNITIES, THE
+ CHOICE OF NEW YORK LAW AS THE GOVERNING LAW, THE LESSEE'S SUBMISSION TO
+ PERSONAL JURISDICTION IN NEW YORK, AND THE WAIVER OF ANY RIGHT TO A TRIAL
+ BY JURY PROVIDED FOR IN THE COMMON TERMS AGREEMENT ARE INCORPORATED HEREIN
+ BY SUCH REFERENCE AND ARE PART OF THIS AGREEMENT AS IF THE SAME WERE SET
+ OUT IN FULL HEREIN.
+
+8. No amendment except in writing
+
+ No provision of this Lease, including any provision of Schedule A, Schedule
+ B or the Common Terms Agreement (including any provision of the schedules
+ thereto), may be amended, rescinded, changed, waived, discharged,
+ terminated or otherwise modified in any way whatsoever, except by a writing
+ signed by the party to be charged. Lessor and Lessee acknowledge their
+ agreement to the provisions of this Section 8 by their initials below:
+
+ Lessor: initialled Lessee: initialled
+ ---------- ----------
+
+ C-5
+
+ IN WITNESS WHEREOF, the parties hereto have executed this Aircraft Lease
+ Agreement, each by their duly authorized representative(s), as of the date
+ shown at the beginning of this Aircraft Lease Agreement.
+
+LESSOR:
+AVIATION FINANCIAL SERVICES INC.
+
+By: /s/ Charles H. Meyer
+ ---------------------------
+
+Name: Charles H. Meyer
+ ---------------------------
+
+Title: Vice President
+ ---------------------------
+
+LESSEE:
+MIDWAY AIRLINES CORPORATION
+
+By: /s/ Jonathan S. Waller
+ ---------------------------
+
+Name: Jonathan S. Waller
+ ---------------------------
+
+Title: Senior Vice President
+ ---------------------------
+ General Counsel
+
+ C-6
+
+ SCHEDULE A
+ PART I-AIRFRAME AND ENGINES DESCRIPTION
+
+AIRCRAFT
+
+ Manufacturer: Boeing
+
+ Model: 737-700
+
+ Serial Number: 32582
+
+ENGINES (each of which has 750 or more rated takeoff horsepower or the
+equivalent of such horsepower)
+
+ Manufacturer General Electric
+
+ Engine Type: CFM56-7B22
+
+ Serial Nos: To be determined and set forth in Lease Supplement No.2
+
+PART II-AIRCRAFT DOCUMENTS AND RECORDS
+
+A. CERTIFICATES
+
+ 1. FAA Certificate of Airworthiness (on board aircraft)
+
+ 2. Current Aircraft Registration Certificate (on board aircraft)
+
+B. AIRCRAFT RECORDS
+
+ At delivery the Aircraft will be accompanied by the standard compliment of
+ manuals and records furnished by the Aircraft and Engine manufacturers with
+ a new Aircraft for a customer entitled to Customer Support at the Boeing
+ Level Code 3.
+
+ C-7
+
+ SCHEDULE A
+
+ PART III-DELIVERY CONDITION REQUIREMENTS
+
+Set forth below is a description of the condition in which the Aircraft must be
+in order for Lessee to be obligated to accept the Aircraft under the Lease. It
+is solely a description of such condition precedent and shall not be construed
+as a representation, warranty or agreement of any kind whatsoever, express or
+implied, by Lessor with respect to the Aircraft or its condition, all of which
+have been disclaimed by Lessor and waived by Lessee as set forth in the Lease,
+including in the Common Terms Agreement. On delivery, the Aircraft shall be new,
+ex factory and painted in Lessee's external livery. The Aircraft will be in the
+condition required for delivery pursuant to the Purchase Agreement No. 1905
+dated as of April 25, 1996 between the Manufacturer (the "Purchase Agreement")
+and the Aircraft Specification D6-38808-34 except as amended by change orders
+initiated by Lessor under the terms of the Purchase Agreement. The Aircraft
+shall be configured in preparation for the configuration modifications as set
+forth in the Modification Side Letter.
+
+ C-8
+
+ SCHEDULE B
+ COMMERCIAL TERMS
+
+ Lessor and Lessee hereby agree that the definitions and other commercial
+and financial terms set forth in this Schedule B shall apply to the leasing of
+the Aircraft under the Lease.
+
+ In addition, Lessor and Lessee understand and agree that the commercial and
+financial information contained in this Schedule B are considered by Lessor and
+Lessee as proprietary and confidential. Lessor and Lessee each hereby agree, and
+any of their assignees, upon becoming such shall agree, that it will treat this
+Schedule B as proprietary and confidential and will not, without the prior
+written consent of the other, disclose or cause to be disclosed, the terms
+hereof or thereof to any Person, except to its agents, representatives,
+advisors, employees, counsel, underwriters and auditors as necessary or
+appropriate for the leasing transaction which is the subject hereof, or except
+(a) as may be required by applicable Law or pursuant to an order, or a valid and
+binding request, issued by any court or other Government Entity having
+jurisdiction over Lessor, Lessee or the assignee of either of them, as the case
+may be, or (b) as necessary to enable Lessor or its assignee to make transfers,
+assignments or other dispositions to potential transferees, assignees or
+participants of its interest in and to the Lease.
+
+ In connection with any such disclosure or any filing of the information
+contained herein or therein pursuant to any such applicable Law, Lessor, Lessee
+or the assignee of either of them, as the case may be, shall request and use its
+best reasonable efforts to obtain confidential treatment of this Schedule B and
+the other party will cooperate in making and supporting any such request for
+confidential treatment.
+
+ PART I CASUALTY OCCURRENCE DEFINITIONS
+
+ Agreed Value means $*
+
+ Damage Notification Threshold means $*
+
+ Deductible Amount means $* or such higher amount as requested by
+ Lessee and consented to by Lessor in writing (which consent may not be
+ unreasonably withheld upon receipt of an opinion from an internationally
+ recognized, independent insurance broker to the effect that such higher
+ amount is the deductible amount then being maintained by major United
+ States air carriers with respect to aircraft similar to the Aircraft).
+
+ Minimum Liability Coverage means $600,000,000.
+
+ PART II DEPOSIT; DISCOUNT RATE; INTEREST RATE
+
+ Deposit means $*; $* of which receipt is acknowledged by Owner
+ and $* of which shall be payable upon the Delivery Date. The cash
+ portions of the Deposit shall accrue interest at the GECC 90-day commercial
+ paper rate from the date the Deposit (or any portion thereof) is received
+ by
+
+________________________
+
+* Information delected for confidentiality purposes.
+
+ C-9
+
+ Lessor. Such interest will be compounded quarterly and paid to the Lessee
+ in accordance with Section 5.11 of the Common Terms Agreement. Lessor shall
+ notify Lessee annually in writing commencing with the first January next
+ succeeding the Delivery Date of each quarterly adjustment in the interest
+ rate based on the then applicable GECC 90-day commercial paper rate for the
+ preceding year or part thereof, as applicable. Lessee acknowledges and
+ agrees that it is not located in the State of New York within the meaning
+ of Section 7-101 1-c(b) of the New York General Obligations Law, and
+ therefore the requirements of Section 7-101 of the New York General
+ Obligations Law do not apply to the Deposit.
+
+ Discount Rate means the rate for U.S. Treasuries for the remainder of the
+ Term plus 100 basis points per annum.
+
+ Interest Rate: The Interest Rate shall be the "prime rate" as quoted in
+ the Wall Street Journal from time to time during the applicable period plus
+ -------------------
+ three and a half percent (*%) per annum, but not to exceed the maximum
+ amount permitted by Law.
+
+ PART III RENT
+
+ The Rent payable in respect of each Rental Period during the Term will be *
+ per month, which shall be due and payable in advance on each Rent Date and
+ is based a manufacturer's price paid in July 1999 Dollars and assumes a
+ five year US Dollar Swap Rate (ask side, semi-annual 30/360 basis) as
+ quoted in Bloomberg IRSB Page 1 yield of 7.25% per annum ("Cost of Funds").
+
+ (a) Rent shall be adjusted no less than two (2) days prior to the
+ Scheduled Delivery Date *
+
+ (b) *
+ (c) *
+
+ PART IV TAX DEFINITIONS; SPECIAL TAX INDEMNITY
+
+ TAX DEFINITIONS:
+
+ Lessor/Owner Tax Jurisdiction means the United States.
+
+ MACRS Deductions means cost recovery deductions for 100% of the cost of the
+ Aircraft pursuant to Section 168(b) of the Internal Revenue Code of 1986,
+ as amended (the "Code"), commencing in 1999, computed (a) on the basis that
+ the Aircraft is "7-year property" within the meaning of Section 168(e) of
+ the Code), (b) by using the 200% declining balance method over a seven (7)
+ year recovery period, switching to the straight-line method for the first
+ taxable year of the Indemnitee during the term for which such method yields
+ a larger allowance, (c) assuming salvage value is zero, and (d) using a
+ half-year convention.
+
+_______________________
+
+* Information deleted for confidentiality purposes.
+
+ C-10
+
+ SPECIAL TAX INDEMNITY:
+
+ MACRS Deductions Indemnity
+
+ Lessee will on demand pay and indemnify each Tax Indemnitee for any loss,
+ disallowance, or deferral of, or delay in claiming the MACRS Deductions
+ resulting from Lessee's using the Aircraft in such a manner as to cause the
+ Aircraft to be treated as "used predominantly outside the United States"
+ within the meaning of Section 168(g) of the Code (hereinafter referred to
+ as a "MACRS Loss"). In determining the indemnity required in connection
+ with a MACRS Loss to the Tax Indemnitee under this Clause, the Tax
+ Indemnitees shall be assumed to be subject to a combined U.S. and state
+ income tax rate of (after giving effect to the deductibility of such state
+ income taxes for U.S. income tax purposes) 38% in 1999 and in each year
+ thereafter (the "Assumed Tax Rate"), and the Tax Indemnitee will have
+ sufficient taxable income to be taxed at the Assumed Tax Rate after full
+ utilization of the MACRS Deductions. The amount payable under this
+ indemnity shall be the amounts required from time to time, which, after
+ deduction by the Tax Indemnitee of the amount of all additional U.S.,
+ state, local, and foreign taxes required to be paid by Tax Indemnitee in
+ respect of the receipt or accrual of such amount, will equal the increase
+ in income taxes payable by (or not refundable to) Tax Indemnitee as the
+ result of such MACRS Loss, plus the amount of any actual interest,
+ penalties, and additions to tax payable by Tax Indemnitee with respect to
+ such MACRS Loss.
+
+ If, as the result of a MACRS Loss, the amount of the U.S. income taxes
+ payable by an Tax Indemnitee for any taxable year shall be less than the
+ amount of such taxes that would have been payable by the Tax Indemnitee had
+ such MACRS Loss not occurred (or as the result thereof, an Tax Indemnitee
+ shall receive a refund of U.S. income taxes payable that shall be greater
+ than the amount of such refund , if any, that the Tax Indemnitee would have
+ received had such MACRS Loss not occurred), then such Tax Indemnitee shall
+ pay to the Lessee the amount of such increased reduction in taxes (or
+ refund, including any actual interest (net of any taxes payable with
+ respect to such interest) received thereon), plus any net additional U.S.,
+ state, local, or foreign tax benefits actually realized by the Tax
+ Indemnitee as the result of any payment made pursuant to this sentence
+ (such reduction in, or increased refund of, income taxes to be determined
+ on a hypothetical basis, i.e., assuming the Tax Indemnitee can utilize any
+ additional tax benefits resulting from the MACRS Loss at the Assumed Tax
+ Rate); provided, however, that the amount payable by the Tax Indemnitee
+ pursuant to this sentence shall not exceed the sum of the amounts
+ previously paid by the Lessee to the Tax Indemnitee pursuant to the
+ preceding paragraph with respect to such MACRS Loss to the extent not
+ previously taken into account under this sentence.
+
+ PART V SUPPLEMENTAL RENT
+
+ The Supplemental Rent payable will be determined with reference to the
+ following:
+
+ Airframe Supplemental Rent means all Supplemental Rent payable by Lessee
+ pursuant to Clause (a) below.
+
+ C-11
+
+ Annual Supplemental Rent Adjustment means *%.
+
+ APU Supplemental Rent means all Supplemental Rent payable pursuant to
+ Clause (d) below;
+
+ Assumed Ratio Adjustment: For the purposes of Section 5.4 of the Common
+ Terms Agreement, Assumed Ratio means a * and any adjustment pursuant to
+ Clause 5.4 shall be based on the following table:
+
+ *
+
+ Assumed Utilization means an annual utilization of * hours.
+
+ Engine LLP Supplemental Rent means all Supplemental Rent payable by Lessee
+ pursuant to Clause (b) below.
+
+ Engine Supplemental Rent means all Supplemental Rent payable by Lessee
+ pursuant to Clause (c) below.
+
+ Landing Gear Supplemental Rent means all Supplemental Rent payable by
+ Lessee pursuant to Clause (e) below.
+
+ Supplemental Rent equals each of the following amounts:
+
+ (a) Airframe: in respect of the Airframe, $* ("Airframe Supplemental
+ ---------------------
+ Rent Rate") for each Flight Hour operated by the Aircraft during the
+ ---------
+ calendar month ("Airframe Supplemental Rent");
+ --------------------------
+ (b) Engine Life-Limited Parts: in respect of the life-limited Parts for
+ each Engine, $40 ("Engine LLP Supplemental Rent Rate") for each Flight
+ ---------------------------------
+ Hour operated by that Engine during that calendar month ("Engine LLP
+ ----------
+ Supplemental Rent");
+ -----------------
+
+ (c) Engines: in respect of each Engine, $* ("Engine Supplemental Rent
+ ------------------------
+ Rate") for each Engine Flight Hour (or fraction thereof) operated by
+ ----
+ that Engine during that calendar month ("Engine Supplemental Rent");
+
+ (d) APU: in respect of the APU, $* ("APU Supplemental Rent Rate") for
+ --------------------------
+ each Flight Hour operated by the APU during that calendar month ("APU
+ ---
+ Supplemental Rent"); and
+ -----------------
+
+ (e) Landing Gear: in respect of the Landing Gear, $* ("Landing Gear
+ ------------
+ Supplemental Rent Rate") for each Flight Hour operated by the Landing
+ ----------------------
+ Gear during that calendar month ("Landing Gear Supplemental Rent").
+ ------------------------------
+
+___________________
+* Information deleted for confidential purposes.
+
+ C-12
+
+ PART VI MAINTENANCE AND RETURN CONDITION DEFINITIONS; MAINTENANCE PAYMENTS
+ AT REDELIVERY
+
+ DEFINITIONS:
+
+ Engine Cycles Restriction *
+
+ *
+
+ Minimum Airframe Life Limited Component Cycles means * Cycles.
+
+ Minimum Airframe Life Limited Component Flight Hours means * Flight
+ Hours.
+
+ Minimum APU Limit means * Flight Hours.
+
+ Minimum Component Calendar Life means * months.
+
+ Minimum Engine Cycles means * Cycles.
+
+ Minimum Engine Flight Hours means * Flight Hours.
+
+ Minimum Hard Time Component Cycles means * Cycles.
+
+ Minimum Hard Time Component Flight Hours means * Flight Hours
+
+ Minimum Landing Gear Calendar Time means * months.
+
+ Minimum Landing Gear Cycles means * Cycles.
+
+ Minimum Landing Gear Flight Hours means * Flight Hours.
+
+ Redelivery "C" Check *
+
+MAINTENANCE ADJUSTMENTS:
+
+Maintenance Adjustment: In respect of each calendar month (or part thereof)
+during the Term, Lessee will pay to Lessor at the end of the Term in accordance
+with Section 5.4 of the Common Terms Agreement and Section 3.3 of this Agreement
+the following Maintenance Adjustments:
+
+*
+
+ PART VII SUBLEASE FEE
+
+ *
+
+ PART VIII AD SHARING PAYMENTS
+
+ *
+
+__________________
+* Information deleted for confidentiality purposes.
+
+ C-13
+
+ SCHEDULE C
+
+ Form of Modification Side Letter
+
+As of November 6, 2000
+
+Midway Airlines Corporation
+2801 Slater Road, Suite 2000
+Morrisville, North Carolina 27560
+
+Re: Modification Services to be performed by BF Goodrich, on behalf of Midway
+ Airlines Corporation ("Lessee"), for one (1) Boeing 737-700 aircraft
+ bearing manufacturer's Serial Number 32582 (the "Aircraft") being purchased
+ by Aviation Financial Services Inc. ("Lessor") and leased by Lessor to
+ Lessee
+
+Ladies and Gentlemen:
+
+We refer to an Aircraft Lease Agreement dated as of November 6, 2000 between
+Lessor and Lessee and incorporating the provisions of one Common Terms Agreement
+dated September 10, 1999 between General Electric Capital Corporation, as
+lessor, and Lessee, as lessee (the "Lease") relating to the Aircraft.
+Capitalised terms used herein but not defined shall have the meanings ascribed
+thereto in the Lease. This is the Modification Side Letter as defined in the
+Lease.
+
+Following Delivery of the Aircraft to Lessee, Lessee shall, with the assistance
+of the Manufacturer and the Lessor, deliver the Aircraft to BF Goodrich in the
+State of Washington (the "Location") for post-delivery modifications described
+in Annex A hereto (the "Modifications") pursuant to an agreement between GE
+Capital Aviation Services, Inc., as agent for Lessor ("GECAS"), and BF Goodrich
+(the "Modification Agreement"). The Modifications to be performed by BF
+Goodrich under the Modification Agreement have been ordered or procured by GECAS
+solely at the request of Lessee.
+
+For good and valuable consideration, the receipt of which is hereby
+acknowledged, the parties hereto hereby agree as follows:
+
+1. *
+
+2. Lessee shall ensure that its representative is available to accept the
+ satisfactory completion of the Modifications and/or any relevant services
+ and/or works as and when required by the terms of the Modification
+ Agreement.
+
+3. *
+
+4. *
+
+ wilful misconduct of BF Goodrich, (ii) for which Claims GECAS would have
+ liability to a third party whether under a theory of strict liability or
+ otherwise (whether or not any indemnified party might also be deemed
+ liable), or (iii) which Claims are made by any employee of Lessee or in
+ respect of the death of, or injury to or any loss suffered by, any employee
+ of Lessee; except in the case of clauses (i), (ii) and (iii) above where
+ such costs and expenses arise from the gross negligence or wilful
+ misconduct of Lessor or GECAS.
+
+____________________
+* Information deleted for condidentiality purposes.
+
+ C-14
+
+5. Nothing in this Side Letter shall be construed to modify the Lease.
+
+6. *
+
+7. GECAS shall be responsible for any breach of its obligations set forth
+ herein.
+
+8. GECAS is authorized to designate any person or persons to carry out its
+ obligations under this Side Letter.
+
+This letter shall be governed by and construed in accordance with New York law
+and shall be incorporated by reference into each of the Leases.
+
+____________________
+* Information deleted for condidentiality purposes.
+
+ C-15
+
+Please confirm your agreement and acceptance of the terms of this letter by
+countersigning below.
+
+Yours faithfully
+
+GE CAPITAL AVIATION SERVICES, INC.
+as agent for Lessor
+
+By: _________________________
+
+Name: _________________________
+
+Title: _________________________
+
+Date: As of November 6, 2000
+
+We hereby confirm and agree to be bound by the terms of this letter.
+
+MIDWAY AIRLINES CORPORATION
+
+By: _________________________
+
+Name: _________________________
+
+Title: _________________________
+
+ C-16
+
+ ANNEX A
+ -------
+ *
+
+________________________
+
+ * Information deleted for confidentiality purposes.
+
+ C-17

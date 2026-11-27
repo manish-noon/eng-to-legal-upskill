@@ -1,0 +1,2901 @@
+Purchase Agreement No. 2444
+
+Exhibit 10.2
+
+PURCHASE AGREEMENT No. 2444
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS,
+INC.
+
+Relating to Boeing
+
+Model 737-7BD Aircraft
+
+TABLE OF CONTENTS
+
+ SA
+NUMBER
+
+ARTICLES
+
+ 1.
+
+ Quantity, Model and Description
+
+ 1
+
+ 2.
+
+ Delivery Schedule
+
+ 1
+
+ 3.
+
+ Price
+
+ 1
+
+ 4.
+
+ Payment
+
+ 2
+
+ 5.
+
+ Miscellaneous
+
+ 2
+
+TABLE
+
+ 1.
+
+ Aircraft Information Table
+
+EXHIBIT
+
+ A.
+
+ Aircraft Configuration
+
+ B.
+
+ Aircraft Delivery Requirements and Responsibilities
+
+SUPPLEMENTAL EXHIBITS
+
+ AE1.
+
+ Escalation Adjustment/Airframe and Optional Features
+
+ BFE1.
+
+ BFE Variables
+
+ CS1.
+
+ Customer Support Variables
+
+ EE1.
+
+ Engine Escalation/Engine Warranty and Patent Indemnity
+
+ SLP1.
+
+ Service Life Policy Components
+
+i
+
+LETTER AGREEMENTS
+
+2444-01
+
+ Aircraft Model Substitution
+
+2444-02
+
+ Customer Software
+
+2444-03
+
+ Demonstration Flight Wavier
+
+2444-04
+
+ Open Configuration Matters
+
+2444-05
+
+ Schedule Reliability
+
+6-1162-SSM-2321
+
+ Maintenance Cost Protection
+
+6-1162-SSM-2322
+
+ Performance Guarantees
+
+6-1162-SSM-2323
+
+ Promotional Support
+
+6-1162-SSM-2324
+
+ Special Matters
+
+6-1162-SSM-2325
+
+ ***
+
+6-1162-SSM-2326
+
+ Purchase Right Aircraft
+
+6-1162-SSM-2327
+
+ Performance Retention Commitment
+
+6-1162-SSM-2406
+
+ Remedy for Deviation from Fuel Burn Guarantee
+
+6-1162-SSM-2421
+
+ Maintenance Cost Protection Guarantee
+
+6-1162-SSM-2426
+
+ Option Aircraft
+
+6-1162-SSM-2429
+
+ Miscellaneous Special Matters
+
+6-1162-SSM-2431
+
+ Training and Technical Publications
+
+6-1162-SSM-2432
+
+ ***
+
+6-1162-SSM-2433
+
+ ***
+
+6-1162-SSM-2434
+
+ MCG and Performance Guarantees
+
+6-1162-SSM-2435
+
+ Special Considerations
+
+6-1162-SSM-2436
+
+ Additional Matters
+
+ ***
+ Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 of the Securities
+Exchange Act of 1934, as amended.
+
+ii
+
+Purchase Agreement No. 2444
+
+between
+
+The Boeing Company
+
+and
+
+AirTran Airways, Inc.
+
+This Purchase Agreement No.
+2444 dated as of July 3, 2003 between The Boeing Company (Boeing) and AirTran Airways, Inc. (Customer) relating to the purchase and sale of Model 737-7BD aircraft incorporates the terms and conditions of the Aircraft General Terms
+Agreement dated as of July 3, 2003, between the parties, identified as AGTA-CQT (AGTA).
+
+Article 1. Quantity, Model and Description.
+
+The aircraft to be delivered to Customer will be designated as Model 737-7BD aircraft (the Aircraft). Boeing will manufacture and sell to Customer Aircraft conforming to the configuration described in Exhibit A, which is part of this
+Purchase Agreement, in the quantities listed in Table 1 to the Purchase Agreement.
+
+Article 2. Delivery Schedule.
+
+The scheduled
+months of delivery of the Aircraft are listed in the attached Table 1, which is part of this Purchase Agreement. Exhibit B, which is part of this Purchase Agreement, describes certain responsibilities for both Customer and Boeing in order to
+accomplish the delivery of the Aircraft.
+
+Article 3. Price.
+
+3.1 Aircraft Basic Price. The Aircraft Basic Price is listed in
+Table 1 in subject to escalation dollars.
+
+3.2 Advance
+Payment Base Prices. The Advance Payment Base Prices listed in Table 1 were calculated utilizing the latest escalation factors available to Boeing on the date of this Purchase Agreement projected to the month of scheduled delivery.
+
+1
+
+3.3 Boeing has not yet established the Aircraft Basic Price for Aircraft scheduled to be delivered after
+December 31, 2007. The prices listed in Table 1 for such Aircraft are only to provide Customer with an estimate of the applicable Advance Payment Base Prices. Accordingly, the Aircraft Basic Price for such Aircraft will be the sum of the Airframe
+Price and Optional Features Prices first published by Boeing for the same model of aircraft to be delivered after December 31, 2007.
+
+Article 4. Payment.
+
+4.1 Boeing acknowledges receipt of a deposit in the amount shown in Table 1 for each Aircraft (Deposit).
+
+4.2 The standard advance payment schedule for the Model 737-7BD aircraft
+requires Customer to make certain advance payments, expressed in a percentage of the Advance Payment Base Price of each Aircraft, beginning with a payment of 1%, less the Deposit, on the effective date of the Purchase Agreement for the
+Aircraft. Additional advance payments for each Aircraft are due on the first business day of the months listed in the attached Table 1.
+
+4.3 For any Aircraft whose scheduled month of delivery is less than 24 months from the date of this Purchase Agreement, the total amount of advance
+payments due for payment upon signing of this Purchase Agreement will include all advance payments which were due on or before the date of this Purchase Agreement in accordance with the standard advance payment schedule set forth in paragraph 4.2
+above.
+
+4.4 Customer will pay the balance of the Aircraft Price
+of each Aircraft at delivery.
+
+Article 5. Miscellaneous.
+
+5.1 Aircraft Information Table. Table 1 consolidates information
+contained in Articles 1, 2, 3 and 4 with respect to (i) quantity of Aircraft, (ii) applicable Detail Specification, (iii) month and year of scheduled deliveries, (iv) Aircraft Basic Price, (v) applicable escalation factors and (vi) Advance Payment
+Base Prices and advance payments and their schedules.
+
+5.2
+Escalation Adjustment/Airframe and Optional Features. Supplemental Exhibit AE1 contains the applicable airframe and optional features escalation formula.
+
+2
+
+5.3 Buyer Furnished Equipment Variables. Supplemental Exhibit BFE1 contains vendor selection
+dates, on dock dates and other variables applicable to the Aircraft.
+
+5.4 Customer Support Variables. Information, training, services and other things furnished by Boeing in support of introduction of the Aircraft into Customer’s fleet are described in Supplemental Exhibit CS1. The level of
+support to be provided under Supplemental Exhibit CS1 (the Entitlements) assumes that at the time of delivery of Customer’s first Aircraft under the Purchase Agreement, Customer has not taken possession of a 737 aircraft whether such 737
+aircraft was purchased, leased or otherwise obtained by Customer from Boeing or another party. If prior to the delivery of Customer’s first Aircraft, Customer has taken possession of a 737 aircraft, Boeing will revise the Entitlements to
+reflect the level of support normally provided by Boeing to operators already operating such aircraft. Under no circumstances under the Purchase Agreement or any other agreement will Boeing provide the Entitlements more than once to support
+Customer’s operation of 737 aircraft.
+
+5.5 Engine
+Escalation Variables. Supplemental Exhibit EE1 describes the applicable engine escalation formula and contains the engine warranty and the engine patent indemnity for the Aircraft.
+
+5.6 Service Life Policy Component Variables. Supplemental Exhibit SLP1 lists the airframe, landing gear and other
+components covered by the Service Life Policy for the Aircraft.
+
+5.7 Public Announcement. Boeing reserves the right to make a public announcement regarding Customer’s purchase of the Aircraft upon approval of Boeing’s press release by Customer’s public relations department or other
+authorized representative.
+
+3
+
+5.8 Negotiated Agreement; Entire Agreement. This Purchase Agreement, including the provisions of
+Article 8.2 of the AGTA relating to insurance, and Article 11 of Part 2 of Exhibit C of the AGTA relating to DISCLAIMER AND RELEASE and EXCLUSION OF CONSEQUENTIAL AND OTHER DAMAGES, has been the subject of discussion and negotiation
+and is understood by the parties; the Aircraft Price and other agreements of the parties stated in this Purchase Agreement were arrived at in consideration of such provisions. This Purchase Agreement, including the AGTA, contains the entire
+agreement between the parties and supersedes all previous proposals, understandings, commitments or representations whatsoever, oral or written, and may be changed only in writing signed by authorized representatives of the parties.
+
+DATED AS OF July 3, 2003
+
+AIRTRAN AIRWAYS, INC.
+
+THE BOEING COMPANY
+
+By
+
+/s/ Richard P. Magurno
+
+By
+
+/s/ Scott S. Massey
+
+Its
+
+Sr. V.P.
+
+Its
+
+Attorney-In-Fact
+
+4
+
+Table 1 to
+
+Purchase Agreement No. 2444
+
+Model 737-700 Aircraft
+
+Delivery, Description, Price and Advance Payments
+
+***
+
+ ***
+ Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 of the Securities
+Exchange Act of 1934, as amended.
+
+AIRCRAFT CONFIGURATION
+
+Between
+
+THE BOEING
+
+COMPANY
+
+And
+
+AIRTRAN AIRWAYS, INC.
+
+Exhibit A to Purchase Agreement Number 2444
+
+A
+
+AIRCRAFT CONFIGURATION
+
+Dated
+
+Relating to
+
+BOEING MODEL 737-7BD AIRCRAFT
+
+The Detail Specification is Boeing Detail Specification D019- /dated as of
++ / /dated as of even date herewith/. Such Detail Specification will be comprised of Boeing Configuration Specification D019A001 Revision E, dated July 3, 2002, as amended to
+incorporate the Options listed below, including the effects on Manufacturer’s Empty Weight (MEW) and Operating Empty Weight (OEW). Such Options are set forth in Boeing Document D019-+
+ . As soon as practicable, Boeing will furnish to Buyer copies of the Detail Specification, which copies will reflect such Options.
+
+A-1
+
+AIRCRAFT DELIVERY REQUIREMENTS AND RESPONSIBILITIES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Exhibit B to Purchase Agreement Number 2444
+
+B
+
+AIRCRAFT DELIVERY REQUIREMENTS AND RESPONSIBILITIES
+
+relating to
+
+BOEING MODEL 737-7BD AIRCRAFT
+
+Both Boeing and Customer have certain documentation and approval responsibilities at various times during the construction cycle of Customer’s Aircraft that are
+critical to making the delivery of each Aircraft a positive experience for both parties. This Exhibit B documents those responsibilities and indicates recommended completion deadlines for the actions to be accomplished.
+
+B-1
+
+1. GOVERNMENT DOCUMENTATION REQUIREMENTS.
+
+Certain actions are required to be taken by Customer in advance of the scheduled delivery
+month of each Aircraft with respect to obtaining certain government issued documentation.
+
+1.1 Airworthiness and Registration Documents.
+
+Not later than 6 months prior to delivery of each Aircraft, Customer will notify Boeing of the registration number to be painted on the side of the Aircraft. In addition, and not later than 3 months prior to
+delivery of each Aircraft, Customer will, by letter to the regulatory authority having jurisdiction, authorize the temporary use of such registration numbers by Boeing during the pre-delivery testing of the Aircraft.
+
+Customer is responsible for furnishing any Temporary or Permanent Registration Certificates
+required by any governmental authority having jurisdiction to be displayed aboard the Aircraft after delivery.
+
+1.2 Certificate of Sanitary Construction.
+
+1.2.1 U.S. Registered Aircraft. Boeing will obtain from the United States Public Health Service, a United States Certificate of Sanitary
+Construction which shall be provided to Customer by Boeing at delivery of each Aircraft for display aboard each Aircraft after delivery to Customer.
+
+1.2.2 Non-U.S. Registered Aircraft. If Customer requires, with respect to an Aircraft to be registered in a country other than the United States,
+a United States Certificate of Sanitary Construction at the time of delivery of such Aircraft, Customer will give written notice thereof to Boeing at least 3 months prior to delivery. Boeing will then use its reasonable best efforts to obtain
+the Certificate from the United States Public Health Service and present it to Customer at the time of Aircraft delivery.
+
+1.3 Customs Documentation.
+
+1.3.1 Import Documentation. If the Aircraft is intended to be exported from the United States, Customer shall notify Boeing not later than 3
+months prior to delivery of each Aircraft of any documentation required by the customs authorities or by any other agency of the country of import.
+
+1.3.2 General Declaration - U.S. If the Aircraft is intended to be exported from the United States, Boeing will prepare Customs Form 7507, General
+Declaration, for execution by U.S. Customs immediately prior to the ferry flight of the Aircraft. For this purpose, Customer will furnish to Boeing not later than 20 days prior to delivery all information required by U.S. Customs or U.S.
+Immigration and Naturalization Service, including without limitation (i) a complete crew and passenger list identifying the names, birth dates, passport numbers and passport expiration dates of all crew and passengers and (ii) a complete ferry
+flight itinerary, including point of exit from the United States for the Aircraft.
+
+B-2
+
+If Customer intends, during the ferry flight of an Aircraft, to land at a U.S. airport after clearing Customs at
+delivery, Customer must notify Boeing not later than 20 days prior to delivery of such intention. If Boeing receives such notification, Boeing will provide to Customer the documents constituting a Customs permit to proceed, allowing such
+Aircraft to depart after any such landing. Sufficient copies of completed Form 7507, along with passenger manifest, will be furnished to Customer to cover U.S. stops scheduled for the ferry flight.
+
+1.3.3 Export Declaration - U.S. If the Aircraft is intended to be
+exported from the United States, Boeing will prepare Form 7525V and, immediately prior to the ferry flight, will submit such Form to U.S. Customs in Seattle in order to obtain clearance for the departure of the Aircraft, including any cargo,
+from the United States. U.S. Customs will deliver the Export Declaration to the U.S. Department of Commerce after export.
+
+2. INSURANCE CERTIFICATES.
+
+Unless provided earlier, Customer will provide to Boeing not later than 30 days prior to delivery of the first Aircraft, a copy of the requisite
+annual insurance certificate in accordance with the requirements of Article 8 of the AGTA.
+
+3. NOTICE OF FLYAWAY CONFIGURATION.
+
+Not later than 20 days prior to delivery of the Aircraft, Customer will provide to Boeing a configuration letter stating the requested “flyaway configuration” of the Aircraft for its ferry flight.
+This configuration letter should include:
+
+(i)
+the name of the company which is to furnish fuel for the ferry flight and any scheduled post-delivery flight training to occur at Boeing’s facility, the method of payment for such fuel, and fuel load for the ferry flight;
+
+(ii) the cargo to be loaded and where it is to be stowed on
+board the Aircraft, the address where cargo is to be shipped after flyaway and notification of any hazardous materials requiring special handling;
+
+(iii) any BFE equipment to be removed prior to flyaway and returned to Boeing BFE stores for installation on Customer’s subsequent
+Aircraft;
+
+(iv) a complete list of names and
+citizenship of each crew member and non-revenue passenger who will be aboard the ferry flight; and
+
+(v) a complete ferry flight itinerary.
+
+B-3
+
+4. DELIVERY ACTIONS BY BOEING.
+
+4.1 Schedule of Inspections. All FAA, Boeing, Customer and, if required, U.S. Customs Bureau inspections will be
+scheduled by Boeing for completion prior to delivery or departure of the Aircraft. Boeing will use its best efforts to inform Customer of such schedules with as much notice as practicable.
+
+4.2 Schedule of Demonstration Flights. All FAA and Customer
+demonstration flights will be scheduled by Boeing for completion prior to delivery of the Aircraft.
+
+4.3 Schedule for Customer’s Flight Crew. Boeing will inform Customer of the date that a flight crew is required for acceptance routines
+associated with delivery of the Aircraft.
+
+4.4 Fuel Provided
+by Boeing. Boeing will provide to Customer, without charge, the amount of fuel shown in U.S. gallons in the table below for the model of Aircraft being delivered and full capacity of engine oil at the time of delivery or prior to the ferry
+flight of the Aircraft.
+
+Aircraft Model
+
+Fuel Provided
+
+737
+
+ 1,000
+
+747
+
+ 4,000
+
+757
+
+ 1,600
+
+767
+
+ 2,000
+
+777
+
+ 3,000
+
+4.5 Flight Crew and
+Passenger Consumables. Boeing will provide reasonable quantities of food, coat hangers, towels, toilet tissue, drinking cups and soap for the first segment of the ferry flight for the Aircraft.
+
+4.6 Delivery Papers, Documents and Data. Boeing will have available at
+the time of delivery of the Aircraft, to the extent reasonably available (with drafts to the extent reasonably available provided to Customer not less than five (5) days prior thereto) all delivery papers, documents and data for execution and
+delivery. If title for the Aircraft will be transferred to Customer (or any of its assignees) through Boeing or a Boeing sales subsidiary and if the Aircraft will be registered with the FAA, Boeing will pre-position in Oklahoma City, Oklahoma, for
+filing with the FAA at the time of delivery of the Aircraft an executed original Form 8050-2, Aircraft Bill of Sale, indicating transfer of title to the Aircraft from Boeing or a Boeing’s sales subsidiary to Customer (or any of its assignees).
+
+4.7 Delegation of Authority. If specifically requested
+in advance by Customer, Boeing will present a certified copy of a Resolution of Boeing’s Board of Directors, designating and authorizing certain persons to act on its behalf in connection with delivery of the Aircraft.
+
+4.8 Standard Airworthiness Certificate/Export Certificate of
+Airworthiness. Boeing will provide at delivery of each Aircraft the Standard Airworthiness Certificate (or, if applicable Export Certificate of Airworthiness) in accordance with Article 3 of the AGTA
+
+B-4
+
+5. DELIVERY ACTIONS BY CUSTOMER.
+
+5.1 Aircraft Radio Station License. At delivery Customer will provide a copy of its Aircraft Radio Station License
+(or a written statement as to the location of the same) to be placed on board the Aircraft following delivery.
+
+5.2. Aircraft Flight Log. At delivery Customer will provide the Aircraft Flight Log for the Aircraft.
+
+5.3 Delegation of Authority. Customer will present to Boeing at
+delivery of the Aircraft an original or certified copy of Customer’s Delegation of Authority designating and authorizing certain persons to act on its behalf in connection with delivery of the specified Aircraft.
+
+B-5
+
+ESCALATION ADJUSTMENT
+
+AIRFRAME AND OPTIONAL FEATURES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Supplemental Exhibit AE1 to
+Purchase Agreement Number 2444
+
+AE1
+
+1. Formula.
+
+Airframe and Optional Features price adjustments (Airframe Price Adjustment) are used to allow prices to be stated in current year dollars at the signing
+of this Purchase Agreement and to adjust the amount to be paid by Customer at delivery for the effects of economic fluctuation. The Airframe Price Adjustment will be determined at the time of Aircraft delivery in accordance with the following
+formula:
+
+Pa = (P+B)(L + M) - P
+
+Where:
+
+Pa =
+
+ Airframe Price Adjustment. (For Models 717-200, 737-600, 737-700, 737-800, 737-900, 777-200X and 777-300X the Airframe Price includes the Engine Price at its basic
+thrust level.)
+
+L =
+
+.65 x ( ECI
+
+ ECIb )
+
+ where ECIb is the base year index (as set
+forth in Table 1 of this Purchase Agreement)
+
+M =
+
+.35 x ( ICI
+
+ ICIb )
+
+ where ICIb is the base year index (as set
+forth in Table 1 of this Purchase Agreement)
+
+P =
+
+ Airframe Price plus Optional Features Price (as set forth in Table 1 of this Purchase Agreement).
+
+B =
+
+0.005 x (N/12) x (P)
+
+ where N is the number of calendar months which have elapsed from the Airframe Price Base Year and Month up to and including the month of delivery, both as shown in Table 1 of the
+Purchase Agreement. The entire calculation of 0.005 X (N/12) will be rounded to 4 places, and the final value of B will be rounded to the nearest dollar.
+
+ ECI is a value determined using the U.S. Department of Labor, Bureau of Labor Statistics “Employment Cost Index for workers in aircraft manufacturing - Wages and
+Salaries” (ECI code 3721), calculated by establishing a
+
+AE1-1
+
+ three-month arithmetic average value (expressed as a decimal and rounded to the nearest tenth) using the values for the fifth, sixth and seventh months prior to the month of
+scheduled delivery of the applicable Aircraft. As the Employment Cost Index values are only released on a quarterly basis, the value released for the month of March will be used for the months of January and February; the value for June used for
+April and May; the value for September used for July and August; and the value for December used for October and November.
+
+ ICI is a value determined using the U.S. Department of Labor, Bureau of Labor Statistics “Producer Prices and Price Index - Industrial Commodities Index “, calculated as a
+3-month arithmetic average of the released monthly values (expressed as a decimal and rounded to the nearest tenth) using the values for the 5th, 6th and 7th months prior to the month of scheduled delivery of the applicable
+Aircraft.
+
+ As an example, for an Aircraft scheduled to be delivered in the month of January, the months June, July and August of the preceding year will be utilized in determining the value of
+ECI and ICI.
+
+ Note:
+ i. In determining the values of L and M, all calculations and resulting values will be expressed as a decimal rounded to the nearest ten-thousandth.
+
+ ii. 65 is the numeric ratio attributed to labor in the Airframe Price Adjustment formula.
+
+ iii. 35 is the numeric ratio attributed to materials in the Airframe Price Adjustment formula.
+
+ iv. The denominators (base year indices) are the actual average values reported by the U.S. Department of Labor, Bureau of Labor Statistics (base year June 1989 = 100). The
+applicable base year and corresponding denominator is provided by Boeing in Table 1 of this Purchase Agreement.
+
+ v. The final value of Pa will be rounded to the
+nearest dollar.
+
+ vi. The Airframe Price Adjustment will not be made if it will result in a decrease in the Aircraft Basic Price.
+
+2. Values to be Utilized in the Event of Unavailability.
+
+2.1 If the Bureau of Labor Statistics substantially revises, prior to the
+delivery of an Aircraft, the methodology used for the determination of the values to be used to determine the ECI and ICI values (in contrast to benchmark adjustments or other corrections of previously
+
+AE1-2
+
+released values), or for any reason has not released values needed to determine the applicable Airframe Price Adjustment, the parties will, prior to the
+delivery of any such Aircraft, select a substitute from other Bureau of Labor Statistics data or similar data reported by non-governmental organizations. Such substitute will result in the same adjustment, insofar as possible, as would have been
+calculated utilizing the original values adjusted for fluctuation during the applicable time period. However, if within 24 months after delivery of the Aircraft, the Bureau of Labor Statistics should resume releasing values for the months needed to
+determine the Airframe Price Adjustment, such values will be used to determine any increase or decrease in the Airframe Price Adjustment for the Aircraft from that determined at the time of delivery of the Aircraft.
+
+2.2 Notwithstanding Article 2.1 above, if prior to the scheduled delivery
+month of an Aircraft the Bureau of Labor Statistics changes the base year for determination of the ECI and ICI values as defined above, such re-based values will be incorporated in the Airframe Price Adjustment calculation.
+
+2.3 In the event escalation provisions are made non-enforceable or otherwise
+rendered void by any agency of the United States Government, the parties agree, to the extent they may lawfully do so, to equitably adjust the Aircraft Price of any affected Aircraft to reflect an allowance for increases or decreases in labor
+compensation and material costs occurring since February of the price base year shown in the Purchase Agreement which is consistent with the applicable provisions of paragraph 1 of this Supplemental Exhibit AE1.
+
+2.4 If within 12 months of Aircraft delivery, the published index values are
+revised due to an acknowledged error by the Bureau of Labor Statistics, the Airframe Price Adjustment will be re-calculated using the revised index values (this does not include those values noted as preliminary by the Bureau of Labor Statistics). A
+credit memorandum or supplemental invoice will be issued for the Airframe Price Adjustment difference. Interest charges will not apply for the period of original invoice to issuance of credit memorandum or supplemental invoice.
+
+ Note:
+ i. The values released by the Bureau of Labor Statistics and available to Boeing 30 days prior to the first day of the scheduled delivery month of an Aircraft will be used to
+determine the ECI and ICI values for the applicable months (including those noted as preliminary by the Bureau of Labor Statistics) to calculate the Airframe Price Adjustment for the Aircraft invoice at the time of delivery. The values will be
+considered final and no Airframe Price Adjustments will be made after Aircraft delivery for any subsequent changes in published Index values, subject always to paragraph 2.4 above.
+
+ ii. The maximum number of digits to the right of the decimal after rounding utilized in any part of the Airframe Price Adjustment equation will be 4, where rounding of the fourth
+digit will be increased to the next highest digit when the 5th digit is equal to 5 or greater.
+
+AE1-3
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Supplemental Exhibit BFE1 to
+Purchase Agreement Number 2444
+
+BFE1
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+relating to
+
+BOEING MODEL 737-7BD AIRCRAFT
+
+This Supplemental Exhibit BFE1 contains vendor selection dates, on-dock dates and other variables applicable to the Aircraft.
+
+1. Supplier Selection.
+
+Customer will:
+
+1.1 Select and notify Boeing of the suppliers and part numbers of the following BFE items by the following dates:
+
+Galley System
+
+ July 30, 2003
+
+Galley Inserts
+
+ July 30, 2003
+
+Seats (passenger)
+
+ July 16, 2003
+
+Overhead & Audio System
+
+ July 16, 2003
+
+In-Seat Video System
+
+ July 16, 2003
+
+Miscellaneous Emergency Equipment
+
+ July 30, 2003
+
+Cargo Handling Systems*
+
+ December 7, 2003
+
+ *
+ Previously Certified System
+
+BFE1-1
+
+2. On-dock Dates
+
+On or before November 2003, Boeing will provide to Customer a BFE Requirements On-Dock/Inventory Document (BFE Document) or an electronically transmitted BFE Report which
+may be periodically revised, setting forth the items, quantities, on-dock dates and shipping instructions relating to the in-sequence installation of BFE. For planning purposes, a preliminary BFE on-dock schedule is set forth below:
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+August 2004
+
+Aircraft
+
+December 2004
+
+Aircraft
+
+Seats
+
+ 6/25/04
+
+ 10/18/04
+
+Galleys/Furnishings
+
+ 6/21/04
+
+ 10/13/04
+
+Miscellaneous Emergency Equipment
+
+ 6/21/04
+
+ 10/13/04
+
+Electronics
+
+ 4/25/04
+
+ 8/18/04
+
+Textiles/Raw Material
+
+ 3/17/04
+
+ 7/9/04
+
+Cargo Systems
+
+ 6/7/04
+
+ 9/29/04
+
+Provision Kits
+
+ 2/7/04
+
+ 5/28/04
+
+Radomes
+
+ 5/21/04
+
+ 9/13/04
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+March 2005
+
+Aircraft
+
+September 2005
+
+Aircraft
+
+Seats
+
+ 1/19/05
+
+ 7/19/05
+
+Galleys/Furnishings
+
+ 1/13/05
+
+ 7/13/05
+
+Miscellaneous Emergency Equipment
+
+ 1/13/05
+
+ 7/13/05
+
+Electronics
+
+ 11/13/04
+
+ 5/13/05
+
+Textiles/Raw Material
+
+ 9/29/04
+
+ 4/6/05
+
+Cargo Systems
+
+ 12/13/04
+
+ 6/29/05
+
+Provision Kits
+
+ 8/13/04
+
+ 2/28/05
+
+Radomes
+
+ 12/13/04
+
+ 6/13/05
+
+BFE1-2
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+ October 2005
+Aircraft
+
+ November 2005
+Aircraft
+
+Seats
+
+ 8/19/05
+
+ 9/20/05
+
+Galleys/Furnishings
+
+ 8/13/05
+
+ 9/14/05
+
+Miscellaneous Emergency Equipment
+
+ 8/13/05
+
+ 9/20/05
+
+Electronics
+
+ 6/19/05
+
+ 7/20/05
+
+Textiles/Raw Material
+
+ 5/15/05
+
+ 6/9/05
+
+Cargo Systems
+
+ 7/29/05
+
+ 8/31/05
+
+Provision Kits
+
+ 3/29/05
+
+ 4/29/05
+
+Radomes
+
+ 7/13/05
+
+ 8/14/05
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+ January 2006
+Aircraft
+
+ February 2006
+Aircraft
+
+Seats
+
+ 11/16/05
+
+ 12/13/05
+
+Galleys/Furnishings
+
+ 11/10/05
+
+ 12/7/05
+
+Miscellaneous Emergency Equipment
+
+ 11/10/05
+
+ 12/7/05
+
+Electronics
+
+ 9/16/05
+
+ 10/13/05
+
+Textiles/Raw Material
+
+ 8/8/05
+
+ 8/30/05
+
+Cargo Systems
+
+ 10/27/05
+
+ 11/23/05
+
+Provision Kits
+
+ 6/27/05
+
+ 7/23/05
+
+Radomes
+
+ 10/10/05
+
+ 11/7/05
+
+BFE1-3
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+ May 2006
+Aircraft
+
+ June 2006
+Aircraft
+
+Seats
+
+ 3/22/06
+
+ 4/20/06
+
+Galleys/Furnishings
+
+ 3/16/06
+
+ 4/14/06
+
+Miscellaneous Emergency Equipment
+
+ 3/16/06
+
+ 4/14/06
+
+Electronics
+
+ 1/22/06
+
+ 2/14/06
+
+Textiles/Raw Material
+
+ 12/2/05
+
+ 1/11/06
+
+Cargo Systems
+
+ 3/3/06
+
+ 3/14/06
+
+Provision Kits
+
+ 11/3/05
+
+ 3/31/06
+
+Radomes
+
+ 2/16/06
+
+ 3/14/06
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+ August 2006
+Aircraft
+
+ September 2006
+Aircraft
+
+Seats
+
+ 6/25/06
+
+ 7/19/06
+
+Galleys/Furnishings
+
+ 6/21/06
+
+ 7/13/06
+
+Miscellaneous Emergency Equipment
+
+ 6/21/06
+
+ 7/13/06
+
+Electronics
+
+ 4/25/06
+
+ 5/13/06
+
+Textiles/Raw Material
+
+ 3/17/06
+
+ 4/6/06
+
+Cargo Systems
+
+ 6/7/06
+
+ 6/29/06
+
+Provision Kits
+
+ 2/7/06
+
+ 2/28/06
+
+Radomes
+
+ 5/21/06
+
+ 6/13/06
+
+BFE1-4
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+November 2006
+
+Aircraft
+
+December 2006
+
+Aircraft
+
+Seats
+
+ 9/20/06
+
+ 10/18/06
+
+Galleys/Furnishings
+
+ 9/14/06
+
+ 10/13/06
+
+Miscellaneous Emergency Equipment
+
+ 9/20/06
+
+ 10/13/06
+
+Electronics
+
+ 7/20/06
+
+ 8/18/06
+
+Textiles/Raw Material
+
+ 6/9/06
+
+ 7/9/06
+
+Cargo Systems
+
+ 8/31/06
+
+ 9/29/06
+
+Provision Kits
+
+ 4/29/06
+
+ 5/28/06
+
+Radomes
+
+ 8/14/06
+
+ 9/13/06
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+January 2007
+
+Aircraft
+
+March 2007
+
+Aircraft
+
+Seats
+
+ 11/16/06
+
+ 1/19/07
+
+Galleys/Furnishings
+
+ 11/10/06
+
+ 1/13/07
+
+Miscellaneous Emergency Equipment
+
+ 11/10/06
+
+ 1/13/07
+
+Electronics
+
+ 9/16/06
+
+ 11/13/06
+
+Textiles/Raw Material
+
+ 8/8/06
+
+ 9/29/06
+
+Cargo Systems
+
+ 10/27/06
+
+ 12/13/06
+
+Provision Kits
+
+ 6/27/06
+
+ 8/13/06
+
+Radomes
+
+ 10/10/06
+
+ 12/13/06
+
+BFE1-5
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+April 2007
+
+Aircraft
+
+May 2007
+
+Aircraft
+
+Seats
+
+ 2/17/07
+
+ 3/22/07
+
+Galleys/Furnishings
+
+ 2/11/07
+
+ 3/16/07
+
+Miscellaneous Emergency Equipment
+
+ 2/11/07
+
+ 3/16/07
+
+Electronics
+
+ 12/17/06
+
+ 1/22/07
+
+Textiles/Raw Material
+
+ 10/27/06
+
+ 12/2/06
+
+Cargo Systems
+
+ 2/2/07
+
+ 3/3/07
+
+Provision Kits
+
+ 10/2/06
+
+ 11/3/06
+
+Radomes
+
+ 1/11/07
+
+ 2/16/07
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+July 2007
+
+Aircraft
+
+August 2007
+
+Aircraft
+
+Seats
+
+ 5/19/07
+
+ 6/25/07
+
+Galleys/Furnishings
+
+ 5/13/07
+
+ 6/21/07
+
+Miscellaneous Emergency Equipment
+
+ 5/13/07
+
+ 6/21/07
+
+Electronics
+
+ 3/19/07
+
+ 4/25/07
+
+Textiles/Raw Material
+
+ 2/8/07
+
+ 3/17/07
+
+Cargo Systems
+
+ 4/27/04
+
+ 6/7/07
+
+Provision Kits
+
+ 12/21/06
+
+ 2/7/07
+
+Radomes
+
+ 4/13/04
+
+ 5/21/07
+
+BFE1-6
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+September 2007
+
+Aircraft
+
+October 2007
+
+Aircraft
+
+Seats
+
+ 7/19/07
+
+ 8/19/07
+
+Galleys/Furnishings
+
+ 7/13/07
+
+ 8/13/07
+
+Miscellaneous Emergency Equipment
+
+ 7/13/07
+
+ 6/19/07
+
+Electronics
+
+ 5/13/07
+
+ 8/13/07
+
+Textiles/Raw Material
+
+ 4/6/07
+
+ 5/10/07
+
+Cargo Systems
+
+ 6/29/07
+
+ 7/30/07
+
+Provision Kits
+
+ 2/28/07
+
+ 3/30/07
+
+Radomes
+
+ 6/13/07
+
+ 7/13/07
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+November 2007
+
+Aircraft
+
+December 2007
+
+Aircraft
+
+Seats
+
+ 9/20/07
+
+ 10/18/07
+
+Galleys/Furnishings
+
+ 9/14/07
+
+ 10/13/07
+
+Miscellaneous Emergency Equipment
+
+ 9/20/07
+
+ 10/13/07
+
+Electronics
+
+ 7/20/07
+
+ 8/18/07
+
+Textiles/Raw Material
+
+ 6/9/07
+
+ 7/9/07
+
+Cargo Systems
+
+ 8/31/07
+
+ 9/29/07
+
+Provision Kits
+
+ 4/29/07
+
+ 5/28/07
+
+Radomes
+
+ 8/14/07
+
+ 9/13/07
+
+BFE1-7
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+January 2008
+
+Aircraft
+
+February 2008
+
+Aircraft
+
+Seats
+
+ 11/16/07
+
+ 12/13/07
+
+Galleys/Furnishings
+
+ 11/10/07
+
+ 12/7/07
+
+Miscellaneous Emergency Equipment
+
+ 11/10/07
+
+ 12/7/07
+
+Electronics
+
+ 9/16/07
+
+ 10/13/07
+
+Textiles/Raw Material
+
+ 8/8/07
+
+ 8/30/07
+
+Cargo Systems
+
+ 10/27/07
+
+ 11/23/07
+
+Provision Kits
+
+ 6/27/07
+
+ 7/23/07
+
+Radomes
+
+ 10/10/07
+
+ 11/7/07
+
+Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+March 2008
+
+Aircraft
+
+April 2008
+
+Aircraft
+
+Seats
+
+ 1/19/08
+
+ 2/17/08
+
+Galleys/Furnishings
+
+ 1/13/08
+
+ 2/11/08
+
+Miscellaneous Emergency Equipment
+
+ 1/13/08
+
+ 2/11/08
+
+Electronics
+
+ 11/13/07
+
+ 12/17/07
+
+Textiles/Raw Material
+
+ 9/29/07
+
+ 10/27/07
+
+Cargo Systems
+
+ 12/13/07
+
+ 2/2/08
+
+Provision Kits
+
+ 8/13/07
+
+ 10/2/07
+
+Radomes
+
+ 12/13/07
+
+ 1/11/08
+
+BFE1-8
+
+CUSTOMER SUPPORT VARIABLES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Supplemental Exhibit CS1 to
+Purchase Agreement Number 2444
+
+CS1
+
+CUSTOMER SUPPORT VARIABLES
+
+relating to
+
+BOEING MODEL 737-7BD AIRCRAFT
+
+Customer and Boeing will conduct planning conferences approximately 12 months before delivery of the first Aircraft, or as otherwise agreed, to develop and schedule a
+customized Customer Support Program to be furnished by Boeing in support of the Aircraft. Boeing will assist Customer in arranging for appropriate free of charge training for Customer’s personnel from suppliers.
+
+The customized Customer Services Program will be based upon and equivalent to the
+entitlements summarized below.
+
+1. Maintenance Training
+
+1.1 Airplane General Familiarization Course; 1 class of 24 students;
+
+1.2 Mechanical/Power Plant Systems Course; 2 classes of 15
+students
+
+1.3 Electrical Systems Course; 2 classes of 15
+students
+
+1.4 Avionics Systems Course; 2 classes of 15
+students
+
+1.5 Corrosion Prevention & Control Course; 1
+class of 10 students
+
+1.6 Aircraft Rigging Course; 1 class of
+6 students
+
+1.7 Composite Repair for Technicians – Basic;
+1 class of 8 students
+
+1.8 Training materials will be provided
+to each student. In addition, one set of training materials used in Boeing’s training program, including but not limited to: visual aids, Computer Based Training Courseware, instrument panel wall charts, text/graphics, video programs, etc. will
+be provided for use in Customer’s own training program.
+
+1.9 At the completion of the maintenance training, Boeing will provide Customer with course completion records consisting of the following:
+
+ 1.9.1
+ Copies of all examinations given.
+
+ 1.9.2
+ Attendance and examination records for each student.
+
+CS1-1
+
+ 1.9.3
+ Certificate of completion for each course each student successfully completes.
+
+2. Flight Training.
+
+ 2.1
+ Transition training for 8 flight crews (16 pilots) in 2 classes. The training will consist of ground school (utilizing computer based training), fixed base simulator, full flight
+simulator and actual aircraft training on Customer’s Aircraft.
+
+ 2.2
+ Flight Dispatcher training; 2 classes of 6 students;
+
+ 2.3
+ Flight Attendant training; 2 classes of 12 students;
+
+ 2.4
+ Performance Engineer training in Boeing’s regularly scheduled courses; schedules are published twice yearly.
+
+ 2.5
+ Training materials will be provided to each student. In addition, one set of training materials as used in Boeing’s training program, including visual aids, Computer Based
+Training Courseware, instrument panel wall charts, text/graphics, video programs, Flight Attendant Manuals, etc. will be provided for use in Customer’s own training program.
+
+ 2.5.1
+ At the conclusion of the Flight Training, Boeing will provide Customer with copies of the following materials.
+
+ 2.5.1.1
+ Flight crew training records.
+
+ 2.5.1.2
+ Examinations questions.
+
+ 2.6
+ Additional Flight Operations Services:
+
+ a.
+ Boeing flight crew personnel to assist in ferrying the first aircraft to Customer’s main base;
+
+ b.
+ Instructor pilots for 90 calendar days for revenue service training assistance;
+
+ c.
+ An instructor pilot to visit Customer 6 months after revenue service training to review Customer’s flight crew operations for a 2 week period.
+
+3. Planning Assistance. Boeing shall provide the following additional training,
+services and documents
+
+CS1-2
+
+3.1 Maintenance and Ground Operations.
+
+Upon request, Boeing will visit Customer’s main base to evaluate aircraft maintenance facilities, develop
+recommendations and assist in maintenance planning.
+
+3.2 Spares.
+
+ a)
+ Recommended Spares Parts List (RSPL)
+
+customized
+RSPL, data and documents will be provided to identify spare parts required for Customer’s support program. Boeing will update the RSPL every 60 days until 90 days after delivery of last aircraft.
+
+ b)
+ Illustrated Parts Catalog (IPC)
+
+A customized IPC
+in accordance with ATA 100 will be provided.
+
+ c)
+ Provisioning Training
+
+Provisioning training will
+be provided for Customer’s personnel at Boeing’s facilities, where documentation and technical expertise are available. Training is focused on the initial provisioning process and calculations reflected in the Boeing RSPL.
+
+ d)
+ Spares Provisioning Conference
+
+A provisioning
+conference will be conducted, normally at Boeing’s facilities where technical data and personnel are available.
+
+4. Technical Data and Documents. All technical data and documents which Boeing customarily makes available to airlines free of charge via Boeing’s on-line
+database shall also be available to Customer free of charge via such on-line database. Boeing guarantees that its on-line database shall be available to Customer twenty-fours per day, seven days per week, and 365 days per year. All non-proprietary
+engineering installation and assembly drawings shall also be available to Customer free of charge on such on-line database. At a minimum, Boeing shall provide Customer the following data and documents.
+
+ 4.1.
+ Flight Operations.
+
+Airplane Flight Manual
+
+Operations Manual
+
+Quick Reference Handbook
+
+Weight and Balance Manual
+
+Dispatch Deviation Procedures Guide
+
+Flight Crew Training Manual
+
+Performance
+Engineer’s Manual
+
+Jet Transport Performance Methods
+
+CS1-3
+
+FMC Supplemental Data Document
+
+Operational Performance Software
+
+Fault
+Reporting Manual
+
+ETOPS Guide Vol. III
+
+Flight Planning and Performance Manual
+
+ 4.2.
+ Maintenance.
+
+Aircraft Maintenance Manual
+
+Wiring Diagram
+Manual
+
+Systems Schematics Manual
+
+Connector Part Number Options Document
+
+Structural Repair Manual
+
+Overhaul/Component Maintenance Manual
+
+Standard Overhaul Practices Manual
+
+Standard Wiring Practices Manual
+
+Non-Destructive Test Manual
+
+Service
+Bulletins and Index
+
+Corrosion Prevention Manual
+
+Fault Isolation Manual
+
+Fuel Measuring Stick Calibration Document
+
+Power Plant Buildup Manual
+
+Central
+Maintenance Computer System Reporting Table
+
+In Service Activity Report
+
+All Operator Letters
+
+Service Letters
+
+Structural Item Interim Advisory
+
+Maintenance Tips
+
+Combined Index
+
+Baggage/Cargo Loading Manual (747 and 767 Aircraft)
+
+ 4.3.
+ Maintenance Planning.
+
+Maintenance Planning Data Document
+
+Maintenance Planning Data Tasks Masterfile
+
+Maintenance Task Cards and Index
+
+Maintenance Inspection Intervals Report
+
+ETOPS Guide Vol. II
+
+Configuration Maintenance and Procedures for Extended Range Operations
+
+ 4.4.
+ Spares.
+
+Illustrated Parts Catalog
+
+Standards Books
+
+ 4.5.
+ Facilities and Equipment Planning.
+
+Facilities and Equipment Planning Document
+
+CS1-4
+
+Special Tool and Ground Handling Equipment Drawings and Index
+
+Supplementary Tooling Documentation
+
+Illustrated Tool and Equipment List/Manual
+
+Aircraft Recovery Document
+
+Airplane Characteristics for Airport Planning Document
+
+Airplane Rescue and Fire Fighting Document
+
+Engine Handling Document
+
+ETOPS Guide Vol. I
+
+ 4.6.
+ Supplier Technical Data.
+
+Service Bulletins
+
+Ground Support Equipment
+Data
+
+Provisioning Information
+
+Component Maintenance/Overhaul Manuals and Index
+
+Publications Index
+
+Product Support Supplier Directory
+
+CS1-5
+
+ENGINE ESCALATION,
+
+ENGINE WARRANTY AND PATENT INDEMNITY
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Supplemental Exhibit EE1 to Purchase Agreement Number 2444
+
+EE1
+
+ENGINE ESCALATION,
+
+ENGINE WARRANTY AND PATENT INDEMNITY
+
+relating to
+
+BOEING MODEL 737-7BD AIRCRAFT
+
+1. ENGINE ESCALATION. No separate engine escalation methodology is defined for the
+737-600, -700, -800 or -900 Aircraft. Pursuant to the AGTA, the engine prices for these Aircraft are included in and will be escalated in the same manner as the Airframe.
+
+2. ENGINE WARRANTY AND PRODUCT SUPPORT PLAN. Boeing has obtained from CFM International, Inc. (or CFM International, S.A., as the
+case may be) (CFM) the right to extend to Customer the provisions of CFM’s warranty as set forth below (herein referred to as the “Warranty”); subject, however, to Customer’s acceptance of the conditions set forth herein.
+Accordingly, Boeing hereby extends to Customer and Customer hereby accepts the provisions of CFM’s Warranty as hereinafter set forth, and such Warranty shall apply to all CFM56-7 type Engines (including all Modules and Parts thereof) installed
+in the Aircraft at the time of delivery or purchased from Boeing by Customer for support of the Aircraft except that, if Customer and CFM have executed, or hereafter execute, a General Terms Agreement, then the terms of that Agreement shall be
+substituted for and supersede the provisions of Paragraphs 1 through 10 below and Paragraphs 1 through 10 below shall be of no force or effect and neither Boeing nor CFM shall have any obligation arising therefrom. In consideration for Boeing’s
+extension of the CFM Warranty to Customer, Customer hereby releases and discharges Boeing from any and all claims, obligations and liabilities whatsoever arising out of the purchase or use of such CFM56-7 type Engines and Customer hereby waives,
+releases and renounces all its rights in all such claims, obligations and liabilities. In addition, Customer hereby releases and discharges CFM from any and all claims, obligations and liabilities whatsoever arising out of the purchase or use of
+such CFM56-7 type Engines except as otherwise expressly assumed by CFM in such CFM Warranty or General Terms Agreement between Customer and CFM and Customer hereby waives, releases and renounces all its rights in all such claims, obligations and
+liabilities.
+
+2.1. Title. CFM warrants that at the date
+of delivery, CFM has legal title to and good and lawful right to sell its CFM56-7 type Engine and Products and furthermore warrants that such title is free and clear of all claims, liens and encumbrances of any nature whatsoever.
+
+EE1-1
+
+2.2. Patents.
+
+2.2.1 CFM shall handle all claims and defend any suit or proceeding brought against Customer insofar as based on a claim that any product or part
+furnished under this Agreement constitutes an infringement of any patent of the United States, and shall pay all damages and costs awarded therein against Customer. This paragraph shall not apply to any product or any part manufactured to
+Customer’s design or to the aircraft manufacturer’s design. As to such product or part, CFM assumes no liability for patent infringement.
+
+2.2.2 CFM’s liability hereunder is conditioned upon Customer promptly notifying CFM in writing and giving CFM authority, information and assistance
+(at CFM’s expense) for the defense of any suit. In case said equipment or part is held in such suit to constitute infringement and the use of said equipment or part is enjoined, CFM shall expeditiously, at its own expense and at its option,
+either (i) procure for Customer the rights to continue using said product or part; (ii) replace the same with a satisfactory and noninfringing product or part; or (iii) modify the same so it becomes satisfactory and noninfringing. The foregoing
+shall constitute the sole remedy of Customer and the sole liability of CFM for patent infringement.
+
+2.2.3 The above provisions also apply to products which are the same as those covered by this Agreement and are delivered to Customer as part of the
+installed equipment on CFM56-7 powered Aircraft.
+
+2.3. Initial
+Warranty. CFM warrants that CFM56-7 Engine products will conform to CFM’s applicable specifications and will be free from defects in material and workmanship prior to Customer’s initial use of such products.
+
+2.4. Warranty Pass-On.
+
+2.4.1 If requested by Customer and agreed to by CFM in writing, CFM will extend warranty support for Engines sold by
+Customer to commercial airline operators, or to other aircraft operators. Such warranty support will be limited to the New Engine Warranty, New Parts Warranty, Ultimate Life Warranty and Campaign Change Warranty and will require such operator(s) to
+agree in writing to be bound by and comply with all the terms and conditions, including the limitations, applicable to such warranties.
+
+EE1-2
+
+2.4.2 Any warranties set forth herein shall not be transferable to a third party, merging company or an
+acquiring entity of Customer.
+
+2.4.3 In the event Customer is
+merged with, or acquired by, another aircraft operator which has a general terms agreement with CFM, the Warranties as set forth herein shall apply to the Engines, Modules, and Parts.
+
+2.5. New Engine Warranty.
+
+2.5.1. CFM warrants each new Engine and Module against Failure for the initial 3000 Flight Hours as follows:
+
+(i) Parts Credit Allowance will be granted for any Failed
+Parts.
+
+(ii) Labor Allowance for disassembly,
+reassembly, test and Parts repair of any new Engine Part will be granted for replacement of Failed Parts.
+
+(iii) Such Parts Credit Allowance, test and Labor Allowance will be: 100% from new to 2500 Flight Hours and decreasing pro rata from 100%
+at 2500 Flight Hours to zero percent at 3000 Flight Hours.
+
+2.5.2 As an alternative to the above allowances, CFM shall, upon request of Customer:
+
+(i) Arrange to have the failed Engines and Modules repaired, as appropriate, at a facility designated by CFM at no charge to Customer for
+the first 2500 Flight Hours and at a charge to Customer increasing pro rata from zero percent of CFM’s repair cost at 2500 Flight Hours to 100% of such CFM repair costs at 3000 Flight Hours.
+
+(ii) Transportation to and from the designated facility
+shall be at Customer’s expense.
+
+2.6. New Parts Warranty. In
+addition to the warranty granted for new Engines and new Modules, CFM warrants Engine and Module Parts as follows:
+
+2.6.1. During the first 1000 Flight Hours for such Parts and Expendable Parts, CFM will grant 100% Parts Credit Allowance or Labor Allowance for repair
+labor for failed Parts.
+
+EE1-3
+
+2.6.2. CFM will grant a pro rata Parts Credit Allowance for Scrapped Parts decreasing from 100% at 1000
+Flight Hours Part Time to zero percent at the applicable hours designated in Table 1.
+
+2.7. Ultimate Life Warranty.
+
+2.7.1. CFM
+warrants Ultimate Life limits on the following Parts:
+
+ (i)
+ Fan and Compressor Disks/Drums
+
+ (ii)
+ Fan and Compressor Shafts
+
+ (iii)
+ Compressor Discharge Pressure Seal (CDP)
+
+ (iv)
+ Turbine Disks
+
+ (v)
+ HPT Forward and Stub Shaft
+
+ (vi)
+ LPT Driving Cone
+
+ (vii)
+ LPT Shaft and Stub Shaft
+
+2.7.2. CFM will grant a pro rata Parts Credit Allowance decreasing from 100% when new to zero percent at 25,000 Flight Hours or 15,000 Flight Cycles,
+whichever comes earlier. Credit will be granted only when such Parts are permanently removed from service by a CFM or a U.S. and/or French Government imposed Ultimate Life limitation of less than 25,000 Flight Hours or 15,000 Flight Cycles.
+
+2.8. Campaign Change Warranty.
+
+2.8.1. A campaign change will be declared by CFM when a new Part design
+introduction, Part modification, Part Inspection, or premature replacement of an Engine or Module is required by a mandatory time compliance CFM Service Bulletin or FAA Airworthiness Directive. Campaign change may also be declared for CFM Service
+Bulletins requesting new Part introduction no later than the next Engine or Module shop visit. CFM will grant following Parts Credit Allowances:
+
+Engines and Modules
+
+ (i)
+ 100% for Parts in inventory or removed from service when new or with 2500 Flight Hours or less total Part Time.
+
+ (ii)
+ 50% for Parts in inventory or removed from service with over 2500 Flight Hours since new, regardless of warranty status.
+
+EE1-4
+
+2.8.2. Labor Allowance - CFM will grant 100% Labor Allowance for disassembly, reassembly, modification,
+testing, or Inspection of CFM supplied Engines, Modules, or Parts therefor when such action is required to comply with a mandatory time compliance CFM Service Bulletin or FAA Airworthiness Directive. A Labor Allowance will be granted by CFM for
+other CFM issued Service Bulletins if so specified in such Service Bulletins.
+
+2.8.3. Life Controlled Rotating Parts retired by Ultimate Life limits including FAA and/or DGAC Airworthiness Directive, are excluded from Campaign Change Warranty.
+
+2.9. Limitations. THE PROVISIONS SET FORTH HEREIN ARE EXCLUSIVE AND ARE IN LIEU OF
+ALL OTHER WARRANTIES WHETHER WRITTEN, ORAL OR IMPLIED. THERE ARE NO IMPLIED WARRANTIES OF FITNESS OR MERCHANTABILITY. SAID PROVISIONS SET FORTH THE MAXIMUM LIABILITY OF CFM WITH RESPECT TO CLAIMS OF ANY KIND, INCLUDING NEGLIGENCE, ARISING OUT OF
+MANUFACTURE, SALE, POSSESSION, USE OR HANDLING OF THE PRODUCTS OR PARTS THEREOF OR THEREFOR, AND IN NO EVENT SHALL CFM’S LIABILITY TO CUSTOMER EXCEED THE PURCHASE PRICE OF THE PRODUCT GIVING RISE TO CUSTOMER’S CLAIM OR INCLUDE INCIDENTAL
+OR CONSEQUENTIAL DAMAGES.
+
+2.10. Indemnity and Contribution.
+
+2.10.1. IN THE EVENT CUSTOMER ASSERTS A CLAIM AGAINST A THIRD PARTY FOR
+DAMAGES OF THE TYPE LIMITED OR EXCLUDED IN LIMITATIONS, PARAGRAPH 2.9. ABOVE, CUSTOMER SHALL INDEMNIFY AND HOLD CFM HARMLESS FROM AND AGAINST ANY CLAIM BY OR LIABILITY TO SUCH THIRD PARTY FOR CONTRIBUTION OR INDEMNITY, INCLUDING COSTS AND EXPENSES
+(INCLUDING ATTORNEYS’ FEES) INCIDENT THERETO OR INCIDENT TO ESTABLISHING SUCCESSFULLY THE RIGHT TO INDEMNIFICATION UNDER THIS PROVISION. THIS INDEMNITY SHALL APPLY WHETHER OR NOT SUCH DAMAGES WERE OCCASIONED IN WHOLE OR IN PART BY THE FAULT OR
+NEGLIGENCE OF CFM, WHETHER ACTIVE, PASSIVE OR IMPUTED.
+
+2.10.2. CUSTOMER SHALL INDEMNIFY AND HOLD CFM HARMLESS FROM ANY DAMAGE, LOSS, CLAIM, AND LIABILITY OF ANY KIND (INCLUDING EXPENSES OF
+
+EE1-5
+
+LITIGATION AND ATTORNEYS’ FEES) FOR PHYSICAL INJURY TO OR DEATH OF ANY PERSON, OR FOR PROPERTY DAMAGE OF ANY TYPE, ARISING OUT OF THE ALLEGED DEFECTIVE
+NATURE OF ANY PRODUCT OR SERVICE FURNISHED UNDER THIS AGREEMENT, TO THE EXTENT THAT THE PAYMENTS MADE OR REQUIRED TO BE MADE BY CFM EXCEED ITS ALLOCATED SHARE OF THE TOTAL FAULT OR LEGAL RESPONSIBILITY OF ALL PERSONS ALLEGED TO HAVE CAUSED SUCH
+DAMAGE, LOSS, CLAIM, OR LIABILITY BECAUSE OF A LIMITATION OF LIABILITY ASSERTED BY CUSTOMER OR BECAUSE CUSTOMER DID NOT APPEAR IN AN ACTION BROUGHT AGAINST CFM. CUSTOMER’S OBLIGATION TO INDEMNIFY CFM HEREUNDER SHALL BE APPLICABLE AT SUCH TIME
+AS CFM IS REQUIRED TO MAKE PAYMENT PURSUANT TO A FINAL JUDGEMENT IN AN ACTION OR PROCEEDING IN WHICH CFM WAS A PARTY, PERSONALLY APPEARED, AND HAD THE OPPORTUNITY TO DEFEND ITSELF. THIS INDEMNITY SHALL APPLY WHETHER OR NOT CUSTOMER’S LIABILITY
+IS OTHERWISE LIMITED.
+
+EE1-6
+
+TABLE 1
+
+737X
+
+CFM56 WARRANTY PARTS LIST
+
+FLIGHT HOURS
+
+ Flight Hours
+
+ 2000
+
+ 3000
+
+ 4000
+
+ 6000
+
+ 8000
+
+ 12000
+
+Fan Rotor/Booster
+
+Blades
+
+ X
+
+Disk, Drum
+
+ X
+
+Spinner
+
+ X
+
+Fan Frame
+
+Casing
+
+ X
+
+Hub & Struts
+
+ X
+
+Fairings
+
+ X
+
+Splitter (Mid Ring)
+
+ X
+
+Vanes
+
+ X
+
+Engine Mount
+
+ X
+
+No. 1 & No. 2 Bearing Support
+
+Bearings
+
+ X
+
+Shaft
+
+ X
+
+Support (Case)
+
+ X
+
+Inlet Gearbox & No. 3 Bearing
+
+Bearings
+
+ X
+
+Gear
+
+ X
+
+Case
+
+ X
+
+Compressor Rotor
+
+Blades
+
+ X
+
+Disk & Drums
+
+ X
+
+Shaft
+
+ X
+
+Compressor Stator
+
+Casing
+
+ X
+
+Shrouds
+
+ X
+
+Vanes
+
+ X
+
+Variable Stator Actuating Rings
+
+ X
+
+Combustor Diffuser Nozzle (CDN)
+
+Casings
+
+ X
+
+Combustor Liners
+
+ X
+
+Fuel Atomizer
+
+ X
+
+HPT Nozzle
+
+ X
+
+HPT Nozzle Support
+
+ X
+
+HPT Shroud
+
+ X
+
+EE1-7
+
+TABLE 1
+
+737X
+
+CFM56 WARRANTY PARTS LIST
+
+(continued)
+
+ Flight Hours
+
+ 2000
+
+ 3000
+
+ 4000
+
+ 6000
+
+ 8000
+
+ 12000
+
+HPT Rotor
+
+Blades
+
+ X
+
+Disks
+
+ X
+
+Shafts
+
+ X
+
+Retaining Ring
+
+ X
+
+LP Turbine
+
+Casing
+
+ X
+
+Vane Assemblies
+
+ X
+
+Interstage Seals
+
+ X
+
+Shrouds
+
+ X
+
+Disks
+
+ X
+
+Shaft
+
+ X
+
+Bearings
+
+ X
+
+Blades
+
+ X
+
+Turbine Frame
+
+Casing & Struts
+
+ X
+
+Hub
+
+ X
+
+Sump
+
+ X
+
+Accessory & Transfer Gearboxes
+
+Case
+
+ X
+
+Shafts
+
+ X
+
+Gears
+
+ X
+
+Bearings
+
+ X
+
+Air-Oil Seals
+
+ X
+
+Controls & Accessories
+
+Engine
+
+ X
+
+Condition Monitoring Equipment
+
+ X
+
+EE1-8
+
+SERVICE LIFE POLICY COMPONENTS
+
+between
+
+THE BOEING COMPANY
+
+and
+
+AIRTRAN AIRWAYS, INC.
+
+Supplemental Exhibit SLP1 to
+Purchase Agreement Number 2444
+
+SLP1
+
+SERVICE LIFE POLICY COMPONENTS
+
+relating to
+
+BOEING MODEL 737 AIRCRAFT
+
+This is the listing of SLP Components for the Aircraft which relate to Part 3, Boeing Service Life Policy of Exhibit C, Product Assurance Document to the
+AGTA and is a part of Purchase Agreement No. 2444.
+
+ 1.
+ Wing.
+
+ (a)
+ Upper and lower skins and stiffeners between the forward and rear wing spars.
+
+ (b)
+ Wing spar webs, chords and stiffeners.
+
+ (c)
+ Inspar wing ribs.
+
+ (d)
+ Inspar splice plates and fittings.
+
+ (e)
+ Main landing gear support structure.
+
+ (f)
+ Wing center section floor beams, lower beams and spanwise beams, but not the seat tracks attached to floor beams.
+
+ (g)
+ Engine strut support fittings attached directly to wing primary structure.
+
+ (h)
+ Wing-to-body structural attachments.
+
+ (i)
+ Support structure in the wing for spoilers and spoiler actuators; for aileron hinges and reaction links; and for leading edge devices and trailing edge flaps.
+
+ (j)
+ Trailing edge flap tracks and carriages.
+
+ (k)
+ Aileron leading edge device and trailing edge flap internal, fixed attachment and actuator support structure.
+
+SLP1-1
+
+ 2.
+ Body.
+
+ (a)
+ External surface skins and doublers, longitudinal stiffeners, longerons and circumferential rings and frames between the forward pressure bulkhead and the vertical stabilizer rear
+spar bulkhead and structural support and enclosure for the APU but excluding all system components and related installation and connecting devices, insulation, lining, and decorative panels and related installation and connecting devices.
+
+ (b)
+ Window and windshield structure but excluding the windows and windshields.
+
+ (c)
+ Fixed attachment structure of the passenger doors, cargo doors and emergency exits, excluding door mechanisms and movable hinge components. Sills and frames around the body openings
+for the passenger doors, cargo doors and emergency exits, excluding scuff plates and pressure seals.
+
+ (d)
+ Nose wheel well structure, including the wheel well walls, pressure deck, bulkheads, and gear support structure.
+
+ (e)
+ Main gear wheel well structure including pressure deck and landing gear beam support structure.
+
+ (f)
+ Floor beams and support posts in the control cab and passenger cabin area, but excluding seat tracks.
+
+ (g)
+ Forward and aft pressure bulkheads.
+
+ (h)
+ Keel structure between the wing front spar bulkhead and the main gear wheel well aft bulkhead including splices.
+
+ (i)
+ Wing front and rear spar support bulkheads, and vertical and horizontal stabilizer front and rear spar support bulkheads including terminal fittings but excluding all system
+components and related installation and connecting devices, insulation, lining, decorative panels and related installation and connecting devices.
+
+ (j)
+ Support structure in the body for the stabilizer pivot and stabilizer screw.
+
+SLP1-2
+
+ 3.
+ Vertical Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Front, rear and auxiliary spar chords, webs and stiffeners and attachment fittings.
+
+ (c)
+ Inspar ribs.
+
+ (d)
+ Rudder hinges and supporting ribs, excluding bearings.
+
+ (e)
+ Support structure in the vertical stabilizer for rudder hinges, reaction links and actuators.
+
+ (f)
+ Rudder internal, fixed attachment and actuator support structure.
+
+ 4.
+ Horizontal Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Front and rear spar chords, webs and stiffeners.
+
+ (c)
+ Inspar ribs.
+
+ (d)
+ Stabilizer center section including hinge and screw support structure.
+
+ (e)
+ Support structure in the horizontal stabilizer for the elevator hinges, reaction links and actuators.
+
+ (f)
+ Elevator internal, fixed attachment and actuator support structure.
+
+ 5.
+ Engine Strut.
+
+ (a)
+ Strut external surface skin and doublers and stiffeners.
+
+ (b)
+ Internal strut chords, frames and bulkheads.
+
+ (c)
+ Strut to wing fittings and diagonal brace.
+
+ (d)
+ Engine mount support fittings attached directly to strut structure and including the engine-mounted support fittings.
+
+SLP1-3
+
+ 6.
+ Main Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder, including axles.
+
+ (c)
+ Upper and lower side struts, including spindles, universals and reaction links.
+
+ (d)
+ Drag strut.
+
+ (e)
+ Bell crank.
+
+ (f)
+ Orifice support tube.
+
+ (g)
+ Trunnion link.
+
+ (h)
+ Downlock links including spindles and universals.
+
+ (i)
+ Torsion links.
+
+ (j)
+ Actuator beam, support link and beam arm.
+
+ 7.
+ Nose Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder, including axles.
+
+ (c)
+ Orifice support tube.
+
+ (d)
+ Upper and lower drag strut, including lock links.
+
+ (e)
+ Steering plates and steering collars.
+
+ (f)
+ Torsion links.
+
+ NOTE:
+ The Service Life Policy does not cover any bearings, bolts, bushings, clamps, brackets, actuating mechanisms or latching mechanisms used in or on the Covered Components.
+
+SLP1-4
+
+PURCHASE AGREEMENT No. 2444 SUPPLEMENT NO. 1
+
+PURCHASE AGREEMENT No. 2444 SUPPLEMENT NO. 1 (this “Agreement”)
+dated , 2003, between The Boeing Company (“Boeing”) and AirTran Airways, Inc. (“Customer”).
+
+R E C I T A L
+S:
+
+ A.
+ Boeing and Customer have heretofore entered into that certain Purchase Agreement No. 2444, dated July 3, 2003, as amended and supplemented, (capitalized terms used herein without
+definition shall have the meanings specified therefore in such Purchase Agreement).
+
+ B.
+ Boeing and Customer have agreed to revise the scheduled delivery months of four (4) Aircraft as described below.
+
+ C.
+ Boeing and Customer have agreed to revise the quarterly delivery positions of the Option Aircraft.
+
+ D.
+ Boeing and Customer desire to amend and supplement the Purchase Agreement as provided below.
+
+In consideration of the foregoing premises and other good and sufficient consideration, Boeing and Customer hereby agree as follows:
+
+ 1.
+ Amendment to Reflect Revisions to Scheduled Delivery Months. The Purchase Agreement is amended and supplemented to reflect the revisions to the Scheduled Delivery
+Months for four (4) Aircraft as follows:
+
+From Scheduled
+
+Delivery
+
+Month-Year
+
+Manufacturer
+
+Serial Number
+
+To Scheduled
+
+Delivery
+
+Month-Year
+
+Dec-04
+
+ 33918
+
+ Sep-04
+
+Feb-06
+
+ 33923
+
+ Oct-06
+
+Jul-06
+
+ 33927
+
+ Jan-07
+
+Aug-06
+
+ 33928
+
+ Feb-07
+
+ 2.
+ Revised Scheduled Delivery Month. Table 1 to the Purchase Agreement is hereby replaced in its entirety with the revised Table 1 attached hereto and hereby made a part
+of the Purchase Agreement. The revised Scheduled Delivery Months for the Aircraft pursuant to this Agreement are included in the attached Table 1.
+
+SA1-1
+
+ 3.
+ Option Aircraft. The schedule delivery quarters of the Option Aircraft have been revised as follows:
+
+Delivery
+
+Date
+
+From
+
+Number of
+
+Aircraft
+
+To
+
+Number of
+
+Aircraft
+
+4Q2005
+
+ 2
+
+ 0
+
+4Q2006
+
+ 0
+
+ 2
+
+1Q2007
+
+ 3
+
+ 2
+
+2Q2007
+
+ 0
+
+ 2
+
+3Q2007
+
+ 2
+
+ 1
+
+The Attachment to Letter Agreement No.
+6-1162-SSM-2426, Option Aircraft, is replaced in its entirety with the Attachment (R1-SA1) to Letter Agreement No. 6-1162-SSM-2426 attached hereto to reflect the new quarterly delivery positions of Option Aircraft.
+
+ 4.
+ List of Letter Agreements. The list of letter agreements in the Table of Contents is revised to reflect the deletion of letter agreement 6-1162-SSM-2421,
+Maintenance Cost Protection Guarantee. This agreement was not executed by the parties.
+
+ 5.
+ Effect on Purchase Agreement. Except as expressly set forth herein, all terms and provisions contained in the Purchase Agreement shall remain in full force and effect.
+This Agreement contains the entire agreement between the parties with respect to the subject matter hereof and supersedes all previous proposals, and agreements, understandings, commitments or representations whatsoever, oral or written, and may be
+changed only in writing signed by authorized representatives of the parties.
+
+IN WITNESS WHEREOF, Boeing and Customer have each caused this Agreement to be duly executed as of the day and year first above written.
+
+AIRTRAN AIRWAYS, INC.
+
+THE BOEING COMPANY
+
+By
+
+/s/ Richard P. Magurno
+
+By
+
+/s/ Scott S. Massey
+
+Its
+
+Sr. V.P.
+
+Its
+
+Attorney-In-Fact
+
+SA1-2
+
+Attachments:
+
+(1)
+
+ Table 1 (SA1) to Purchase Agreement No. 2444, 737-700 Aircraft Delivery Schedule and Aircraft Data
+
+(2)
+
+ Attachment (R1-SA1) to Letter Agreement No. 6-1162-SSM-2426, Option Aircraft
+
+(3)
+
+ Revised Table of Contents
+
+SA1-3
+
+Table 1 to Boeing
+
+Purchase Agreement No. 2444
+
+Model 737-7BD Aircraft
+
+Delivery, Description, Price and Advance Payments
+
+***
+
+ ***
+ Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 of the Securities
+Exchange Act of 1934, as amended.
+
+Attachment to
+
+Letter Agreement No. 6-1162-SSM-2426
+
+Option Aircraft Delivery, Description, Price and Advance
+Payments
+
+***
+
+ ***
+ Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 of the Securities
+Exchange Act of 1934, as amended.
+
+TABLE OF CONTENTS
+
+ SA
+NUMBER
+
+ARTICLES
+
+ 1.
+
+Quantity, Model and Description
+
+ 2.
+
+Delivery Schedule
+
+ 3.
+
+Price
+
+ 4.
+
+Payment
+
+ 5.
+
+Miscellaneous
+
+TABLE
+
+ 1.
+
+Aircraft Information Table
+
+ SA 1
+
+EXHIBIT
+
+A. Aircraft Configuration
+
+B. Aircraft Delivery Requirements and Responsibilities
+
+SUPPLEMENTAL EXHIBITS
+
+ AE1.
+
+Escalation Adjustment/Airframe and Optional Features
+
+ BFE1.
+
+BFE Variables
+
+ CS1.
+
+Customer Support Variables
+
+ EE1.
+
+Engine Escalation/Engine Warranty and Patent Indemnity
+
+ SLP1.
+
+Service Life Policy Components
+
+i
+
+LETTER AGREEMENTS
+
+ SA
+NUMBER
+
+2444-01
+
+ Aircraft Model Substitution
+
+2444-02
+
+ Customer Software
+
+2444-03
+
+ Demonstration Flight Waiver
+
+2444-04
+
+ Open Configuration Matters
+
+2444-05
+
+ Schedule Reliability
+
+6-1162-SSM-2321
+
+ Maintenance Cost Protection
+
+6-1162-SSM-2322
+
+ Performance Guarantees
+
+6-1162-SSM-2323
+
+ Promotional Support
+
+6-1162-SSM-2324
+
+ Special Matters
+
+6-1162-SSM-2325
+
+ ***
+
+6-1162-SSM-2326
+
+ Purchase Right Aircraft
+
+6-1162-SSM-2327
+
+ Performance Retention Commitment
+
+6-1162-SSM-2406
+
+ Remedy for Deviation from Fuel Burn Guarantee
+
+6-1162-SSM-2421
+
+ —deleted—
+
+ SA 1
+
+6-1162-SSM-2426
+
+ Option Aircraft
+
+6-1162-SSM-2429
+
+ Miscellaneous Special Matters
+
+6-1162-SSM-2431
+
+ Training and Technical Publications
+
+6-1162-SSM-2432
+
+ ***
+
+6-1162-SSM-2433
+
+ ***
+
+6-1162-SSM-2435
+
+ Special Consideration
+
+6-1162-SSM-2436
+
+ Additional Matters
+
+ ***
+ Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 of the Securities
+Exchange Act of 1934, as amended.
+
+ii

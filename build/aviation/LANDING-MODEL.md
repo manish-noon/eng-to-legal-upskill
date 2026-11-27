@@ -1,0 +1,7 @@
+# From clause to instruction
+
+Record whose paper this is, the operative verb, trigger, exception, deadline, remedy and survival. Keep an evidence pointer for each. Segment OEM purchases, used sales, operating leases and financings before comparing a field. Filter further by mechanism and definition. Treat a withheld rate as unknown. Report sample size, quartiles using linear interpolation, and the actual row IDs. Below four, widen one defensible filter and disclose it. If still thin, use scenarios, not market quartiles.
+
+Score the buyer or airline's alternatives, slot or placement scarcity, financing certainty, timetable and control of the draft at -1/0/+1 per distinct fact. Clip the total to +/-2. Move from the median toward the favourable or adverse quartile by half the absolute clipped score, then bound by the opening positions. Explain overrides and sensitivity. Never turn a categorical protection into a percentile.
+
+Compare all cash flows on one date and currency. For each scenario price loss less collectible, timely recovery (floor zero), times probability. State tail cash and liquidity separately. Add costs once, and compare with the client's value ceiling. Sign inside budget with triggers clear; negotiate when an identified concession closes the gap; walk on an uncured veto or an unbridgeable gap.

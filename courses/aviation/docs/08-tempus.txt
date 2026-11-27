@@ -1,0 +1,1314 @@
+Exhibit 10.1
+
+AIRCRAFT
+PURCHASE AGREEMENT
+
+Dated
+as of the 11 day of August, 2017
+
+between
+
+ME
+Aviation Services, LLC
+
+as
+Seller,
+
+and
+
+Tempus
+Applied Solutions Holdings, Inc.
+
+as
+Purchaser,
+
+concerning
+six (6) Lockheed Corporation model L-1011 Tristar aircraft bearing
+
+United
+States registration marks
+
+N304CS
+
+N405CS
+
+N309CS
+
+N705CS
+
+N507CS
+
+N703CS
+
+and
+
+manufacturer’s
+serial numbers
+
+1157
+
+1164
+
+1165
+
+1174
+
+1186
+
+1188
+
+AIRCRAFT
+PURCHASE AGREEMENT
+
+This
+AIRCRAFT PURCHASE AGREEMENT (this “Agreement”) is made and entered into as of the __11th__ day of August,
+2017 (the “Effective Date”), by and between Tempus Applied Solutions Holdings, Inc., having its office at471
+McLaws Circle, Suite A, Williamsburg, VA 23185, The United States of America, and/or its assigns (“Purchaser”),
+and ME Aviation Services LLC, having its registered offices at 3033 5th Avenue, Suite 227, San Diego, CA 92103 (“Seller”).
+
+W
+I T N E S S E T H:
+
+WHEREAS,
+Seller owns each Aircraft described and referred to herein;
+
+WHEREAS,
+Purchaser desires to purchase each Aircraft from Seller.
+
+NOW,
+THEREFORE, in consideration of these premises and the mutual covenants and agreements herein contained, the Parties agree
+as follows:
+
+ARTICLE
+I. DEFINITIONS
+
+ 1.1 The
+ following terms shall have the following meanings for all purposes of this Agreement:
+
+“Aircraft”
+means (i) those certain Lockheed Corporation model L-1011 Tristar aircraft bearing the respective United States registration
+marks and manufacturer’s serial numbers more particularly described in Exhibit A attached hereto (each, an “Airframe”),
+together with the turbofan aircraft engines, bearing the respective manufacturer’s and model information, and serial numbers as
+more particularly described in Exhibit A attached hereto (each, an “Engine”), and the installed Auxiliary Power
+Units, bearing the respective manufacturer’s serial numbers more particularly described in Exhibit A attached hereto (each,
+an “APU”) (ii) all appurtenances, appliances, parts, avionics, instruments, components, accessions and furnishings
+pertaining thereto, (iii) loose equipment, accessories and other items, if any, specifically included on the Aircraft Specification
+or the Inventory Listing, and (iv) all Aircraft Documents.
+
+“Aircraft
+Documents” means all documents and records relating to or required to be maintained with respect to an Aircraft, of any
+kind or nature, including, without limitation, all airframe, engine, and accessory logbooks, manuals, flight records, weight and
+balance manuals, tags, technical records, traceability records, task cards, information, overhaul records, maintenance records,
+maintenance contracts, computerized maintenance programs, airframe and aircraft component warranties and service plans (if any),
+engine warranties and service plans (if any), auxiliary power unit warranties and service plans (if any), avionics warranties
+and service plans (if any), wiring diagrams, drawings and data. “Aircraft Documents” shall not include any flight logs
+or records containing Seller’s confidential or proprietary information unrelated to the physical condition or maintenance
+of an Aircraft, including passenger manifests, pilot assignments or financial, tax or accounting records.
+
+“Aircraft
+Protocol” means the official English language text of the Protocol to the Convention on International Interests in Mobile
+Equipment on Matters Specific to Aircraft Equipment, adopted on 16 November 2001, at a diplomatic conference in Cape Town, South
+Africa.
+
+“Aircraft
+Specification” means the Aircraft Specification set forth in Exhibit A attached hereto.
+
+ 2
+
+“Business
+Day” means a day on which banks are open for general business in London and New York.
+
+“Cape
+Town Convention” means, collectively, the Convention and the Aircraft Protocol.
+
+“Closing”
+means the consummation of the purchase and sale transaction of the Aircraft contemplated by this Agreement.
+
+“Closing
+Date” means the date the Closing occurs.
+
+“Contract
+of Sale” has the meaning given to it in the Convention.
+
+“Convention”
+means the official English language text of the Convention on International Interests in Mobile Equipment, adopted on 16 November
+2001, at a diplomatic conference in Cape Town, South Africa.
+
+“Damage”
+means, in relation to an Aircraft, damage that requires a major repair within the definition of Appendix A or Appendix B of
+the FAR’s, Part 43, or the completion of an FAA Form 337, or for which an insurance claim is filed by Seller.
+
+“Delivery
+Location” means Bruntingthorpe Aerodrome, Lutterworth, LE17 5QS, England or such other location in the United Kingdom
+as Purchaser, acting reasonably, may elect and to which Seller, acting reasonably, may consent.
+
+“Delivery
+Receipt” means an Aircraft Delivery Receipt in the form of Exhibit D attached hereto.
+
+“Escrow
+Agent” means Insured Aircraft Title Service, Inc., 4848 SW 36th Street, Oklahoma City, 73179, The United States of America.
+
+“FAA”
+means the United States Federal Aviation Administration.
+
+“FAA
+Bill of Sale” means an AC Form 8050-2 Aircraft Bill of Sale.
+
+“FAR’s”
+means the Federal Aviation Regulations, as amended from time to time.
+
+“Inspections”
+means Purchaser’s pre-purchase inspection of an Aircraft in accordance with Sections 3.2 and 3.4 hereof.
+
+“Inspection
+Workscope” means those tests and inspections described on Exhibit B attached hereto.
+
+“Inspection
+Facility” means the facilities at the Delivery Location.
+
+“International
+Interest” has the meaning given to it in the Convention.
+
+ 3
+
+“International
+Registry” means the international registry located in Dublin, Ireland, established pursuant to the Cape Town Convention.
+
+“International
+Registry Procedures” means the official English language text of the Procedures of the International Registry issued
+by the supervisory authority thereof pursuant to the Cape Town Convention.
+
+“International
+Registry Regulations” means the official English language text of the Regulations of the International Registry issued
+by the supervisory authority thereof pursuant to the Cape Town Convention.
+
+“Inventory
+Listing” means an inventory of parts, loose equipment, engine covers, tool kits, and spares, if any, pertaining to an
+Airframe, Engine and/or APU to be prepared jointly by Purchaser and Seller during the Inspection as more particularly set out
+in Exhibit F.
+
+“Lien”
+means any lien, mortgage, security interest, lease or other charge or encumbrance or claim or right of others, including,
+without limitation, rights of others under any engine or parts interchange, loan, lease, or pooling agreement and any International
+Interests.
+
+“Parties”
+means the parties to this Agreement.
+
+“Purchase
+Price” means the amount of Three Million Five Hundred Thousand and 00/100 United States Dollars (US$3,500,000.00), represented
+by the Shares.
+
+“Report”
+means the report of discrepancies prepared by the Inspection Facility in connection with the Inspection.
+
+“Shares”
+means [6,730,770] shares of the authorized share capital of Tempus Applied Solutions Holdings, Inc.
+
+“Share
+Transfer Forms” means share transfer forms in respect of the transfer of title to the Shares.
+
+“Technical
+Acceptance Letter” means a Technical Acceptance Letter in the form of Exhibit C attached hereto.
+
+“Warranty
+Bill of Sale” means a Warranty Bill of Sale for each Aircraft in the form of Exhibit E attached hereto executed by Seller
+in favor of Purchaser (or Purchaser’s designee).
+
+ARTICLE
+II. AGREEMENT TO BUY AND SELL
+
+ 2.1 Agreement.
+ For and in consideration of the Purchase Price, on the Closing Date, Seller shall sell
+ and deliver each Aircraft to Purchaser, and Purchaser shall purchase and accept delivery
+ of each Aircraft from Seller, on and subject to the terms and conditions set forth herein.
+
+ 2.2 Appointment
+ of Escrow Agent. The Parties hereby agree to appoint the Escrow Agent as document
+ holder and stakeholder for the sale and purchase of each Aircraft. Purchaser and Seller
+ shall each pay one-half (½) of the Escrow Agent’s fees and expenses.
+
+ 2.3 Share
+ Transfer Forms. Prior to the Effective Date, Purchaser shall transfer the Share Transfer
+ Forms to the Escrow Agent. The Share Transfer Forms shall be held by the Escrow Agent
+ to Purchaser’s order and subject further to the terms of this Agreement. Upon delivery
+ by Purchaser to Seller of an executed Technical Acceptance Letter in respect of each
+ Aircraft pursuant to Section 3.4.1 or Section 3.4.2, Escrow Agent shall release the Share
+ Transfer Forms to Seller, except as otherwise set forth herein, and such release shall
+ constitute and in all respects be deemed to satisfy Purchaser’s obligation to make
+ payment of the Purchase Price to Seller.
+
+ 4
+
+ARTICLE
+III. AIRCRAFT CONDITION AND INSPECTION
+
+ 3.1
+ Aircraft Condition. Unless otherwise agreed to
+by Purchaser, it shall be a condition to Purchaser’s obligation to consummate the transaction contemplated herein that each
+Aircraft shall be delivered in conformance with the following conditions (collectively, the “Delivery Conditions”)
+on the Closing Date:
+
+ 3.1.1
+ with good and marketable title, free and clear of all
+Liens other than Liens claimed by or through the Purchaser; and
+
+ 3.1.2 equipped
+ as specified in the Aircraft Specification and in the same condition as at the completion
+ of the Inspection, normal wear and tear excepted; and
+
+ 3.1.3 without
+ further warranty or representation as to condition, as the Aircraft are otherwise sold
+ in an “As Is – Where Is” condition.
+
+ 3.1.4 Notwithstanding
+ the foregoing, normal wear tear and cosmetic issues that do not materially impair the
+ performance of an Aircraft shall be deemed to satisfy the Delivery Conditions.
+
+ 3.2 Pre-Purchase
+ Inspection. Each Aircraft and Aircraft Documents shall be subjected to a Pre-Purchase
+ inspection to confirm that each Aircraft, its Engines and APU conform the Delivery Conditions
+ as set forth on the Inspection Workscope (collectively, the “Inspections”).
+ Provided, however, that the scope of the Inspections may by modified during the performance
+ of the Inspections upon the recommendation of the Inspection Facility, with the consent
+ of the Parties, such consent not to be unreasonably withheld. Prior to the commencement
+ of the Inspections, Purchaser shall open a work order at the Inspection Facility, and
+ arrange for and pay the flat rate cost of the Inspections and Purchaser shall cause to
+ be delivered to Seller evidence of such payment in full such that no lien may be asserted
+ by the Inspection Facility against any Aircraft for the flat rate cost of the Inspection.
+ Purchaser and Seller shall have the right to have a representative present at the Inspection
+ Facility during the Inspection.
+
+ 3.3 Inspection
+ Location and Commencement. The Inspection of each Aircraft shall be performed at
+ the Inspection Facility. Within two (2) calendar days of the Seller and Purchaser signing
+ this Agreement, or such other mutually acceptable date, Seller shall cause the delivery
+ of each Aircraft and the Aircraft Documents to the Inspection Facility for the Inspections.
+
+ 3.4 Technical
+ Acceptance or Rejection. Within two (2) Business Days after completion of the Inspection
+ and receipt of the final written Report from the Inspection Facility, Purchaser shall
+ execute and deliver to Seller a Technical Acceptance Letter, and shall therein indicate,
+ at Purchaser’s sole discretion and without any obligation:
+
+ 3.4.1 Purchaser’s
+Acceptance of an Aircraft. Purchaser’s acceptance of an Aircraft in its condition “as is”; or
+
+ 5
+
+ 3.4.2 Purchaser’s
+ rejection of an Aircraft. Upon any rejection of an Aircraft, regardless of the cause
+ thereof, the Share Transfer Forms shall be returned by the Escrow Agent to the Purchaser
+ (unless Purchaser agrees otherwise in writing) and thereafter neither Party shall have
+ any further liability to the other.
+
+Purchaser’s
+failure to deliver a Technical Acceptance Letter within two (2) Business Days after completion of the Inspection and receipt of
+the final written Report from the Inspection Facility shall be deemed a Purchaser’s rejection of the relevant and all other Aircraft.
+
+ 3.5 Intentionally
+ Omitted.
+
+ 3.6 Positioning
+ of Aircraft for Delivery. After completion of the Inspection of an Aircraft and until
+ Closing in respect of that Aircraft or earlier termination of this Agreement, Seller
+ shall not operate that Aircraft for any purpose whatsoever, provided, however, that Seller
+ shall be permitted to fly that Aircraft to the Delivery Location, if different from the
+ Inspection Facility, as required hereby and to minimize any potential loss or damage
+ that may result from any event or potential event of Force Majeure. Purchaser shall have
+ the right to have up to two (2) representatives present on that Aircraft during the flight
+ from the Inspection Facility to the Delivery Location.
+
+ARTICLE
+IV. CLOSING PROCEDURES
+
+ 4.1 Pre-Closing
+ Obligations. Within three (3) Business Days of Purchaser’s acceptance of the Aircraft
+ in accordance with Section 3.4.1 (which acceptance shall, for the avoidance of doubt,
+ in all respects be at Purchaser’s sole discretion):
+
+ 4.1.1 Seller
+ shall pre-position or cause to be pre-positioned with the Escrow Agent:
+
+ 4.1.1.1 an
+ undated, but otherwise fully executed, Warranty Bill of Sale in respect of each Aircraft;
+
+ 4.1.1.2 an
+undated, but otherwise fully completed and executed FAA Bill of Sale in respect of each Aircraft; and
+
+ 4.1.1.3 releases
+ or terminations of all Liens, if any, affecting title to any Aircraft or its Engines.
+
+ 4.1.2 Purchaser
+ shall pre-position with the Escrow Agent:
+
+ 4.1.2.1 the
+ Share Transfer Forms and Purchaser’s share of the Escrow Agent’s fees and expenses.
+
+THE
+PRE-POSITIONING OF ANY DOCUMENT OR THE SHARE TRANSFER FORMS WITH THE ESCROW AGENT IS FOR THE CONVENIENCE OF THE PARTIES ONLY SO
+THAT THEY MAY BE RELEASED AT THE ORAL OR WRITTEN DIRECTION OF THE DEPOSITING PARTIES FOLLOWING SATISFACTION OF ANY CONDITIONS
+CONTAINED HEREIN, AND SHALL NOT BE CONSTRUED AS OR IMPLY ACCEPTANCE OF ANY AIRCRAFT OR CONVEYANCE OF TITLE THERETO, WHICH MAY
+ONLY OCCUR AS SPECIFICALLY PROVIDED IN THIS AGREEMENT.
+
+ 6
+
+ 4.2 Conditions
+ Precedent to Seller’s Obligations. Seller’s obligation to sell and deliver an Aircraft
+ to Purchaser on the Closing Date shall be subject to the following conditions precedent:
+
+ 4.2.1 at
+ the time of Closing, Purchaser shall not be in breach or default of any of Purchaser’s
+ obligations arising under this Agreement;
+
+ 4.2.2 at
+ the time of Closing, all of Purchaser’s representations set forth in Section 5.2 shall
+ be true and accurate;
+
+ 4.2.3 prior
+ to the Closing, Purchaser shall have delivered the items identified in Section 4.1 required
+ to be delivered by it;
+
+ 4.2.4 Purchaser’s
+ obligations expressed in Section 7.23 shall have been complied with;
+
+ 4.2.5 Purchaser
+ shall have performed and complied with all of the terms, conditions and covenants required
+ by this Agreement to be performed or complied with by it prior to or at the Closing;
+ and
+
+ 4.2.6 Purchaser
+ shall have positioned with the Escrow Agent the Share Transfer Forms and Purchaser’s
+ share of the Escrow Agent’s fees.
+
+ 4.3 Conditions
+ Precedent to Purchaser’s Obligations. Purchaser’s obligation to purchase and accept
+ delivery of an Aircraft from Seller on the Closing Date shall be subject to the following
+ conditions precedent:
+
+ 4.3.1 at
+ the time of Closing, Seller shall not be in breach or default of any of Seller’s obligations
+ arising under this Agreement;
+
+ 4.3.2 at
+ the time of Closing, all of Seller’s representations set forth in Section 5.1 shall be
+ true and accurate as of the time of Closing;
+
+ 4.3.3 prior
+ to the Closing, Seller shall have delivered the items identified in Section 4.1 required
+ to be delivered by it;
+
+4.3.4 prior
+to the Closing, Seller shall have positioned the relevant Aircraft at the Delivery Location;
+
+ 4.3.6 at
+ the time of Closing, the relevant Aircraft shall be in the condition required by Section
+ 3.1 of this Agreement unless waived in whole or in part by Purchaser in its sole discretion;
+ and
+
+ 4.3.7 Seller’s
+ obligations expressed in Section 7.23 shall have been complied with.
+
+ 4.4 Closing.
+ The Closing shall occur within three (3) Business Days after all of the pre-closing obligations
+ of the Parties under Section 4.1 have been performed, provided all the conditions set
+ forth in Section 4.2 and Section 4.3 have been performed, satisfied or waived. At the
+ time of the Closing, the Parties shall perform the following closing deliveries in the
+ order presented, all of which collectively shall constitute the Closing:
+
+ 4.4.1 the
+ Parties shall confirm that all of the Aircraft are in position at the Delivery Location;
+
+ 7
+
+ 4.4.2 if
+ not already done, Purchaser shall position with the Escrow Agent the Share Transfer Forms,
+ Purchaser’s share of the Escrow Agent’s escrow fees, and any additional amounts as may
+ be due from Purchaser to Seller or to the Inspection Facility (if not already paid in
+ full as confirmed by the Inspection Facility prior to Closing);
+
+ 4.4.3 Seller
+ shall simultaneously deliver possession of all of the Aircraft to the Purchaser at the
+ Delivery Location;
+
+ 4.4.4 subject
+ to the terms of this Agreement, Purchaser shall accept delivery of all of the Aircraft
+ from Seller at the Delivery Location, and shall simultaneously deliver to Seller a fully
+ executed Delivery Receipt and either (i) such federal, state, county, local or other
+ domestic authority sales, use or other similar taxes imposed on the sale, delivery or
+ transfer of the Aircraft to Purchaser as may be due from Purchaser and which Seller is
+ required by applicable law to collect, report and remit, or (i) a proper certificate
+ of Purchaser’s exemption from any such taxes; and
+
+ 4.4.5 Seller
+ and Purchaser shall commence a conference call with Escrow Agent during which:
+
+ 4.4.5.1 Escrow
+ Agent shall confirm that the procedures set forth in Section 7.23 have been followed,
+ that Priority Search Certificates from the International Registry addressed to Purchaser
+ indicate that there is no International Interest registered on the International Registry
+ with respect to any of the Aircraft and that the FAA records indicate that there are
+ no Liens on any of the Aircraft, or, if there is, that Escrow Agent has been irrevocably
+ authorized to discharge the same, and, if applicable, has received executed Lien releases
+ to file with the applicable filing offices, each such action to occur contemporaneous
+ with Closing;
+
+ 4.4.5.2 Purchaser
+ shall, concurrently with Seller’s instruction in Section 4.4.5.3, instruct the Escrow
+ Agent to release the Share Transfer Forms to Seller;
+
+ 4.4.5.3 Seller
+ shall, concurrently with Purchaser’s instruction in Section 4.4.5.4, instruct the Escrow
+ Agent to date and file any Lien releases with the applicable filing offices and to date
+ and deliver the FAA Bills of Sale and Warranty Bills of Sale in respect of all of the
+ Aircraft to Purchaser, which instruction Seller shall confirm to Escrow Agent is subject
+ only to actual receipt by Seller of the Share Transfer Forms and such items as identified
+ in Section 4.4.4 above. Seller’s obligations in this Section 4.4.5.3 shall be subject
+ to any instructions to the Escrow Agent by any lien holder but which shall not in any
+ event relieve Seller of its obligation to transfer that Aircraft to Purchaser free and
+ clear of Liens; and
+
+ 4.4.5.4 Purchaser
+ and Seller shall authorize Escrow Agent, upon release of the FAA Bills of Sale and Warranty
+ Bills of Sale to Purchaser, to file the FAA Bills of Sale with the FAA, and to register
+ the Contract of Sale for all of the Aircraft and Engines, on the International Registry
+ as set forth in paragraph 7.23 below.
+
+ARTICLE
+V. REPRESENTATIONS AND WARRANTIES
+
+ 5.1 Seller’s
+ Representations and Warranties. Seller hereby represents and warrants as follows:
+
+ 5.1.1 Seller
+ is a limited liability company, duly organized, validly existing, and in good standing;
+ having the capacity to sue and be sued in its own name, having full power, legal right
+ and authority to carry on its business as currently conducted, and to execute, deliver
+ and perform the provisions of this Agreement;
+
+ 8
+
+ 5.1.2 the
+ execution, delivery, and performance by Seller of this Agreement, and the sale of each
+ Aircraft, has been duly authorized by all necessary action on behalf of Seller and do
+ not conflict with or result in any breach of any of the terms or constitute a default
+ under any document, instrument, or agreement to which Seller is a party;
+
+ 5.1.3 the
+ person executing this Agreement on behalf of Seller has full power and authority to do
+ so;
+
+ 5.1.4 this
+ Agreement constitutes the legal, valid and binding obligations of Seller and is enforceable
+ against Seller in accordance with its terms, except as may be restricted, limited or
+ delayed by applicable bankruptcy, insolvency, fraudulent conveyance, reorganization,
+ moratorium and similar laws affecting the enforceability of contractual obligations and
+ creditors’ rights generally and by the application of equitable principles by courts
+ of competent jurisdiction, sitting at law or in equity;
+
+ 5.1.5 at
+ the time of the Closing, Seller shall convey to Purchaser good and marketable title to
+ each Aircraft, free and clear of all Liens, except for any Liens created by Purchaser,
+ and Seller will warrant and defend such title forever against all claims and demands
+ whatsoever;
+
+ 5.1.6 Seller
+ has paid (or as applicable has collected and remitted to the proper taxing authorities)
+ any and all taxes, fees, duties, penalties, charges, invoices, and statements: (i) arising
+ from any purchase, sale, delivery, transfer, possessions, use, storage, operation, consumption,
+ or registration of each Aircraft prior to the Closing; or (ii) which, if not paid or
+ collected and remitted by Seller prior to Closing, could (as a result of the transactions
+ contemplated by this Agreement, with the passage of time, or otherwise) result in a lien
+ upon any of the assets acquired by Purchaser pursuant to this Agreement, or otherwise
+ result in liability of the Purchaser therefor to a taxing authority or any other person
+ or entity, regardless of whether any of the foregoing are not yet due, due or past due,
+ known or unknown to Seller or Purchaser, or not yet imposed, levied or assessed against
+ Seller or any of the Aircraft;
+
+ 5.1.7 Seller
+ has not entered into any agreement (other than this Agreement) pursuant to which Seller
+ is or may be contractually and/or legally obligated to sell, lease, assign or otherwise
+ transfer any of the Aircraft or any interest in any of the Aircraft to any party other
+ than Purchaser;
+
+ 5.1.8 Seller
+ is not, and at the time of Closing will not be, (i) a person, (ii) a person controlling
+ or controlled by an individual or entity, (iii) a person with a beneficial interest in
+ an entity, or (iv) an agent for an individual or entity, any of which is named on the
+ Office of Foreign Asset Control (“OFAC”) Specially Designated Nationals
+ and Blocked Persons list (the “SDN List”), nor is it prohibited from
+ consummating the transactions contemplated hereunder because of any of the OFAC Sanction
+ Programs, and
+
+ 5.1.9 The
+ Seller is an “accredited investor” as defined in Rule 501(a) under the Securities
+ Act of 1933, as amended (the “Securities Act”). The
+ Shares to be transferred to Seller pursuant to the Share Transfer Forms will be “restricted
+ securities” as defined in Rule 144(a) under the Securities Act, and have not been
+ and will not be registered under the Securities Act of
+ 1933, as amended, and may not be offered or sold in the United
+ States absent registration or an
+ applicable exemption from registration requirements. The stock certificate(s) representing
+ the Shares shall be appropriately legended to reflect such restriction.
+
+ 9
+
+ 5.2 Purchaser’s
+ Representations and Warranties. Purchaser hereby represents and warrants as follows:
+
+ 5.2.1 Purchaser
+ is a limited liability company duly organized, validly existing, and in good standing,
+ having the capacity to sue and be sued in its own name, having full power, legal right
+ and authority to carry on its business as currently conducted, and to execute, deliver
+ and perform the provisions of this Agreement;
+
+ 5.2.2 the
+ execution, delivery, and performance by Purchaser of this Agreement, and the acquisition
+ of each Aircraft, has been duly authorized by all necessary action on behalf of Purchaser
+ and do not conflict with or result in any breach of any of the terms or constitute a
+ default under any document, instrument, or agreement to which Purchaser is a party;
+
+ 5.2.3 the
+ person executing this Agreement on behalf of Purchaser has full power and authority to
+ do so;
+
+ 5.2.4 this
+ Agreement constitutes the legal, valid and binding obligations of Purchaser and is enforceable
+ against Purchaser in accordance with its terms, except as may be restricted, limited
+ or delayed by applicable bankruptcy, insolvency, fraudulent conveyance, reorganization,
+ moratorium and similar laws affecting the enforceability of contractual obligations and
+ creditors’ rights generally and by the application of equitable principles by courts
+ of competent jurisdiction, sitting at law or in equity; and
+
+ 5.2.5 Purchaser
+ is not, and at the time of Closing will not be, (i) a person, (ii) a person controlling
+ or controlled by an individual or entity, (iii) a person with a beneficial interest in
+ an entity, or (iv) an agent for an individual or entity, any of which is named on the
+ OFAC SDN List, nor is it prohibited from consummating the transactions contemplated hereunder
+ because of any of the OFAC Sanction Programs.
+
+ARTICLE
+VI. DISCLAIMER
+
+ 6.1 DISCLAIMER
+ AND LIMITATION OF LIABILITY. EXCEPT AS TO TITLE AND FREEDOM FROM LIENS OR ENCUMBRANCES,
+ EACH AIRCRAFT AND EACH PART THEREOF IS BEING SOLD AND DELIVERED TO PURCHASER IN “AS
+ IS, WHERE IS, WITH ALL FAULTS” CONDITION AT TIME OF DELIVERY, WITHOUT ANY REPRESENTATION,
+ WARRANTY OR GUARANTY OF ANY KIND BEING MADE OR GIVEN BY SELLER, ITS SHAREHOLDERS. DIRECTORS,
+ MEMBERS, MANAGERS, OFFICERS, AGENTS, EMPLOYEES, ATTORNEYS OR ASSIGNS, EXPRESS OR IMPLIED,
+ ARISING BY LAW OR OTHERWISE AND SELLER DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES WHETHER
+ ARISING IN LAW, IN EQUITY, IN CONTRACT, OR IN TORT, INCLUDING, WITHOUT LIMITATION, ANY
+ IMPLIED WARRANTY OF MERCHANTABILITY, AIRWORTHINESS, DESIGN, CONDITION, OR FITNESS FOR
+ A PARTICULAR USE. PURCHASER HEREBY WAIVES, RELEASES AND RENOUNCES ANY CLAIM (INCLUDING,
+ WITHOUT LIMITATION, INCIDENTAL OR CONSEQUENTIAL DAMAGES) OR EXPENSE CAUSED BY AN AIRCRAFT
+ OR BY PURCHASER’S LOSS OF USE THEREOF FOR ANY REASON WHATSOEVER, EXCEPT FOR ANY CLAIM
+ ARISING OUT OF SELLER’S COVENANT OF TITLE AND FREEDOM FROM LIENS OR ENCUMBRANCES. WITHOUT
+ LIMITING THE GENERALITY OF THE FOREGOING, SELLER SHALL NOT BE LIABLE OR RESPONSIBLE TO
+ PURCHASER FOR ANY DEFECTS, EITHER PATENT OR LATENT IN AN AIRCRAFT, OR FOR ANY DIRECT
+ OR INDIRECT DAMAGE TO PERSONS OR PROPERTIES RESULTING THEREFROM OR FOR PURCHASER’S LOSS
+ OF USE OF OR A DIMINUTION IN VALUE OF THE AIRCRAFT OR FOR ANY INTERRUPTION IN PURCHASER’S
+ BUSINESS CAUSED BY PURCHASER’S INABILITY TO USE AN AIRCRAFT FOR ANY REASON WHATSOEVER.
+
+ 10
+
+ 6.2 UNDER
+ NO CIRCUMSTANCES SHALL EITHER PARTY BE LIABLE FOR LOST PROFITS, LOSS OF BUSINESS, LOSS
+ OF USE OR ANY OTHER INCIDENTAL, INDIRECT, CONSEQUENTIAL OR SPECIAL DAMAGES ARISING OUT
+ OF OR RELATED TO THE CONSUMMATION OF THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT
+ OR ANY DELAY IN CONSUMMATION OF THE TRANSACTIONS CONTEMPLATED HEREBY, AND EACH PARTY
+ HEREBY WAIVES ANY RIGHT IT MAY HAVE TO SUCH DAMAGES.
+
+ARTICLE
+VII. MISCELLANEOUS
+
+ 7.1 Taxes.
+ Purchaser shall bear (and shall indemnify Seller for and against) all sales, use, and
+ other similar taxes that may be imposed by any federal, state, county, local, or other
+ governmental authority as a result of the sale, delivery, or transfer of each Aircraft
+ to Purchaser, except for any taxes imposed on or measured by Seller’s income.
+
+ 7.2 Warranties
+ and Maintenance Program Contracts. To the extent that any warranties and service
+ plans from manufacturers, prior owners of each Aircraft, service providers or suppliers
+ with respect to each Aircraft are still in effect and are assignable, all rights under
+ such warranties and service plans are hereby assigned and transferred to Purchaser effective
+ at the time of the Closing. Seller shall assist Purchaser in maintaining continuity of
+ and transferring any such warranties and service plans, and shall execute whatever documents
+ or agreements may be reasonably necessary or convenient to vest all rights under such
+ warranties and service plans in Purchaser and to permit Purchaser to assert or process
+ claims thereunder. All fees and costs of such transfers shall be paid by Purchaser. Without
+ limiting the generality of the foregoing, effective upon the Closing, Seller hereby assigns
+ to Purchaser:
+
+ 7.2.1 all
+ rights to enforce or compel performance under any such warranty or service plan;
+
+ 7.2.2 all
+ rights to receive any services, property, or moneys accruing or becoming due after the
+ Closing Date pursuant to any such warranty or service plan, and to receive proceeds of
+ any indemnity, guaranty, or collateral security with respect to any such warranty or
+ service plan; and
+
+ 7.2.3 all
+ claims for damages arising out of or for breach or default under any such warranty or
+ service plan, and all rights to exercise any remedy for breach or default under any such
+ warranty or service plan that may be available under such warranty or service plan, at
+ law, or in equity.
+
+ 7.2.4 Notwithstanding
+ the foregoing provisions, Seller represents to Purchaser that Aircraft have been maintained
+ in storage pursuant to a manufacturers’ approved Maintenance Storage Program, and
+ will be delivered in conformity with such program. There are no other Maintenance Program
+ Contracts or Warranties in place with respect to the Aircraft, to the best of Seller’s
+ information and belief.
+
+ 11
+
+ 7.3 Intentionally
+ Omitted. .
+
+ 7.4 Risk
+ of Loss, Damage or Destruction of Aircraft.
+
+ 7.4.1 Risk
+ of Loss. Title to, and risk of loss, injury, destruction or damage to each Aircraft,
+ shall pass from Seller to Purchaser at the time that (i) the Share Transfer Forms are
+ released to Seller, and (ii) the FAA Bills of Sale and Warranty Bills of Sale are released
+ to Purchaser, and (iii) Seller delivers possession of each Aircraft to Purchaser.
+
+ 7.4.2 Destruction
+ or Damage. Notwithstanding any contrary provision of this Agreement, if at any time
+ prior to the Delivery an Aircraft is destroyed or damaged, the Share Transfer Forms shall
+ immediately be refunded to Purchaser, Seller shall reimburse Purchaser the sums expended
+ by Purchaser in connection with the Inspection, if any, and any documented out of pocket
+ costs expended by Purchaser in connection with the transactions contemplated hereby,
+ and this Agreement shall terminate and be of no further force or effect. For purposes
+ of this Section 7.4.2 the word “damaged” shall mean if (i) the total costs
+ of properly repairing such damage prior to Closing, as determined by the Inspection Facility,
+ would exceed the sum of US$50,000.00 or take more than thirty (30) calendar days to repair,
+ or (ii) such damage if properly repaired would, in the sole opinion of Purchaser, adversely
+ affect the value or marketability of that Aircraft, or (iii) after repair, such damage
+ will result in operational limitations or adverse changes to the inspection or maintenance
+ program for that Aircraft.
+
+ 7.5 Default.
+
+ 7.5.1 Seller’s
+ Default. This Agreement may be terminated by Purchaser in the event of a breach by
+ Seller of any provision of this Agreement which breach is not cured within five (5) Business
+ Days of the delivery to Seller of written notice thereof from Purchaser or which breach
+ by its nature cannot be cured prior to Closing. If Purchaser elects to terminate this
+ Agreement under this Section 7.5.1, the Share Transfer Forms shall be immediately returned
+ to Purchaser, Seller shall reimburse Purchaser upon Purchaser’s demand for the reasonable
+ and documented out of pocket costs paid by Purchaser in connection with the Inspections
+ and this transaction, and this Agreement shall be of no further force or effect. Purchaser
+ acknowledges and represents that the above-referenced damages and reimbursements are
+ a reasonable estimate of the damages that would be incurred by Purchaser in the event
+ Seller defaults on Seller’s obligations under this Agreement. Purchaser’s rights to receive
+ the above-referenced amounts shall be the sole and exclusive remedies available to Purchaser
+ in the event Seller defaults on Seller’s obligations under this Agreement, and Purchaser
+ waives any other remedies that may be available to Purchaser at law or in equity.
+
+ 7.5.2 Purchaser’s
+ Default. This Agreement may be terminated by Seller in the event of a breach by Purchaser
+ of any provision of this Agreement which breach is not cured within five (5) Business
+ Days of the delivery to Purchaser of written notice thereof from Seller or which breach
+ by its nature cannot be cured prior to Closing. If Seller elects to terminate this Agreement
+ under this Section 7.5.2, Purchaser shall pay US$1,000.00 ( One Thousand U.S. Dollars)
+ (the “LD Amount”) to Seller as liquidated damages, Purchaser shall
+ pay to the Inspection Facility any unpaid costs of the Inspections, and this Agreement
+ shall be of no further force or effect. Seller acknowledges and represents that the liquidated
+ damages amount provided for in this Section 7.5.2 is a reasonable estimate of the damages
+ that would be incurred by Seller in the event Purchaser defaults on Purchaser’s obligations
+ under this Agreement. Seller’s right to receive the LD Amount as liquidated damages and
+ to require Purchaser to make payment to the Inspection Facility for any unpaid Inspection
+ costs shall be the sole and exclusive remedies available to Seller in the event Purchaser
+ defaults on Purchaser’s obligations under this Agreement, and Seller waives any other
+ remedies that may be available to Seller at law or in equity.
+
+ 12
+
+ 7.6 Force
+ Majeure. The term “Force Majeure” means any cause beyond a Party’s
+ reasonable control that prevents a Party from meeting its obligations under this Agreement,
+ including, but not limited to, acts of God or the public enemy, acts of terrorism, war
+ or other outbreak of hostilities, civil commotion, strikes, lockouts, and labor disputes
+ (but excludes events described in Section 7.4.2, the remedies for of which are described
+ therein). A Party shall promptly notify the other Party that it will be unable to perform
+ its obligations hereunder due to a Force Majeure. In such event, the time for such Party’s
+ performance shall be extended for the pendency of such event, provided, however, that
+ should such non-performance extend beyond twenty (20) days, the unaffected Party may
+ at its option terminate this Agreement upon written notice to the other Party. In such
+ event, each Party shall pay its share of the Escrow Agent’s fees to the Escrow
+ Agent; and the Escrow Agent shall return the Share Transfer Forms to Purchaser. Thereafter,
+ neither Party shall have any obligation or liability to the other with respect to the
+ subject matter of this Agreement, except that Purchaser shall remain liable for the cost
+ of the Inspections (as a matter of clarification, excluding the cost of any repairs or
+ improvements made on an Aircraft).
+
+ 7.7 Amendments.
+ The provisions of this Agreement may not be waived, altered, modified, amended, supplemented
+ or terminated in any manner whatsoever except by written instrument signed by both Parties
+ hereto.
+
+ 7.8 Severability.
+ Any provision of this Agreement that may be determined by competent authority to be prohibited
+ or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to
+ the extent of such prohibition or unenforceability without invalidating the remaining
+ provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall
+ not invalidate or render unenforceable such provision in any other jurisdiction.
+
+ 7.9 Assignment.
+ This Agreement may not be assigned by any Party without the prior written consent of
+ the other Party; provided that Purchaser shall have the right to assign this Agreement
+ to an owner trustee(s) of a trust(s) established for registration purposes, or to an
+ entity owned, controlled, or affiliated with Purchaser.
+
+ 7.10 Successor
+ and Assigns. This Agreement shall inure to the benefit of and be binding upon each
+ of the Parties hereto and their respective successors and permitted assigns.
+
+ 7.11 Headings
+ and References. The division of this Agreement into sections, and the insertion of
+ headings, are for convenience of reference only and shall not affect the construction
+ or interpretation of this Agreement.
+
+ 7.12 Counterparts.
+ This Agreement may be fully executed in two or more counterparts by each of the Parties
+ hereto, such counterparts together constituting but one and the same instrument. Such
+ counterparts may be exchanged via facsimile or other electronic transmission.
+
+ 13
+
+ 7.13 Notices.
+ All communications, declarations, demands, consents, directions, approvals, instructions,
+ requests and notices required or permitted by this Agreement shall be in writing and
+ shall be deemed to have been duly given or made when delivered personally or transmitted
+ electronically by facsimile or email, receipt acknowledged, or in the case of documented
+ overnight delivery service or registered or certified mail, return receipt requested,
+ delivery charge or postage prepaid, on the date shown on the receipt therefor, in each
+ case at the address set forth below:
+
+ If
+ to Purchaser:
+ Tempus
+ Applied Solutions Holdings, Inc.
+
+ 471
+ McLaws Circle, Suite A, Williamsburg, VA 23185, The United States of America
+
+ Attn:
+ Mr Scott Terry
+
+ E-Mail:
+ sterry@tempus-as.com
+
+ With
+ copies to:
+ Groom
+ & Cave, LLP
+
+ 1570
+ The Alameda, Suite 100
+
+ San
+ Jose, California 95126
+
+ Attn:
+ Timothy H. Hopkins, Esq.
+
+ Phone:
+ (408)-286-3300
+
+ E-Mail:
+ thopkins@groomandcave.com
+
+ If
+ to Seller:
+ ME
+ Aviation Services, LLC
+
+ 3033
+ 5th Avenue, Suite 227
+
+ San
+ Diego, CA 92103
+
+ Attn:
+ Johan Claasen
+
+ Phone:
+
+ E-Mail:
+ johan@claasengroup.com
+
+ With
+ a copy to:
+ Davis
+ & Boyd, LLC
+
+ 1110
+ London St., Suite 201
+
+ Myrtle
+ Beach, SC 29577
+
+ Attention:
+ Reese R. Boyd III, Esq.
+
+ Phone:
+ 843-839-9800
+
+ E-mail:
+ reese@davisboydlaw.com
+
+ 7.15 Attorney
+ Fees. In the event it becomes necessary to enforce the terms of this Agreement by
+ litigation or otherwise, the prevailing Party shall be entitled to recover its reasonable
+ attorney fees and court costs, including any such fees or costs arising from subsequent
+ appeals and efforts to execute on any judgment.
+
+ 7.16 Non-Waiver.
+ Any failure at any time of either Party to enforce any provision of this Agreement shall
+ not constitute a waiver of such provision or prejudice the right of such Party to enforce
+ such provision at any subsequent time.
+
+ 7.17 Entire
+ Agreement. The Parties agree that the terms and conditions of this Agreement constitute
+ the entire agreement between the Parties with respect to the subject matter hereof. This
+ Agreement supersedes all prior agreements between the Parties, express or implied including,
+ without limitation, any offer to purchase or letter of intent.
+
+ 14
+
+ 7.18 Transaction
+ Costs and Expenses. Except as otherwise set forth herein, each Party to this Agreement
+ shall bear its own transaction costs and expenses, including, without limitation, any
+ brokers’ commissions and/or attorneys’ fees. Purchaser and Seller shall each pay one-half
+ (½) of Escrow Agent’s fees and expenses relating to the transactions contemplated
+ hereby.
+
+ 7.19 Survival.
+ The representations, warranties, and indemnification obligations of Purchaser and Seller,
+ if any, shall survive the Closing in perpetuity; provided, however, that any of the same
+ pertaining to the condition of an Aircraft, if any, shall terminate at Closing.
+
+ 7.20 Time
+ is of the Essence. Time shall be of the essence for all events contemplated hereunder.
+
+ 7.21 Further
+ Assurances. Each of the Parties hereto covenants and agrees to execute such other
+ and further documents relating to the matters set forth herein and to take or cause to
+ be taken such other and further actions, as may be reasonably necessary or appropriate
+ to carry out the purposes and intent of this Agreement, and to consummate the transactions
+ contemplated hereby.
+
+ 7.22 Governing
+ Law. This Agreement shall in all respects be governed by, and construed in accordance
+ with, the laws of the State of New York, including all matters of construction, validity
+ and performance, without giving effect to its conflict of laws provisions. Each of the
+ Parties irrevocably and unconditionally: (a) agrees that any suit, action or legal proceeding
+ arising out of or relating to this Agreement shall be brought in the courts of the State
+ of Oklahoma, Oklahoma County or the United States District Court for the Western District
+ of Oklahoma located in Oklahoma City, Oklahoma; (b) consents to the jurisdiction and
+ court rules in Oklahoma and such federal district court; (c) waives any objection which
+ it may have to the laying of venue of any such suit, action or proceeding in any of such
+ courts.; and (d) agrees that service of any court paper may be effected on such Party
+ by mail, or in such other manner as may be provided under applicable laws or court rules
+ in Oklahoma and such federal district court.
+
+ 7.23 Cape
+Town Convention.
+
+ 7.23.1 Prior
+ to the closing, Purchaser shall become a “transacting user entity” and Seller
+ shall become a “transacting user entity” with the International Registry. Each
+ of Purchaser and Seller shall bear its own expense in doing so.
+
+ 7.23.2 Each
+ Party shall provide to the other, as a condition to closing, evidence that it has been
+ approved by the International Registry as a “transacting user entity” and has
+ duly registered with, is authorized to make filings with and has received all approvals
+ from the International Registry, and has appointed an “administrator” (as such
+ term is defined and used in the International Registry Procedures and International Registry
+ Regulations).
+
+ 15
+
+ 7.23.3 Each
+ Party shall, as a condition to closing, authorize Escrow Agent to act as, and shall designate
+ Escrow Agent as, a “professional user entity” (as such term is defined and
+ used in the International Registry Procedures and International Registry Regulations)
+ to effect, amend, discharge and consent to registrations with respect to an Aircraft
+ (including the airframe and the related engines) on its behalf. Neither Seller nor Purchaser
+ shall revoke such authorization until after the earlier to occur of (i) registration
+ of a Contract of Sale of an Aircraft with the International Registry following the Closing,
+ or (ii) termination of this Agreement in accordance with its terms. Without Seller’s
+ prior written consent, Purchaser and Purchaser’s lender shall not effect or cause to
+ effect a prospective International Interest on an Aircraft (including the airframe and
+ the related engines) and shall upon such registration of any such prospective International
+ Interest take all necessary actions to discharge or cause to discharge such registration.
+ Purchaser and Purchaser’s lender understand and agree that in no event shall Seller authorize
+ the creation of any lien or other security interest to be created in an Aircraft (including
+ the airframe and the related engines) prior to title passing to Purchaser.
+
+ 7.23.4 Purchaser
+ and Seller shall cooperate to cause Escrow Agent, as a professional user entity, to register
+ a Contract of Sale of each Aircraft with the International Registry immediately after
+ title passing to Purchaser. Seller and Purchaser each hereby expressly consents to the
+ registration of the International Interest arising from the Contract of Sale with respect
+ to each Aircraft (including the airframe and related engines).
+
+ 7.23.5 Immediately
+ prior to Closing, the Escrow Agent shall obtain a Priority Search Certificate (as such
+ term is defined and used in the International Registry Procedures and the International
+ Registry Regulations) from the International Registry with respect to each Aircraft (including
+ the airframe and related engines) confirming that no prior International Interest exists
+ that will not be otherwise discharged at Closing with respect to each Aircraft (including
+ the relevant Airframe and related Engines). Any Priority Search Certificate obtained
+ by the Escrow Agent from the International Registry with respect to an Aircraft shall
+ identify the Purchaser and the Seller as having the benefit of the search.
+
+[SIGNATURES
+APPEAR ON FOLLOWING PAGE]
+
+ 16
+
+IN
+WITNESS WHEREOF, the undersigned Parties have caused this Aircraft Purchase Agreement to be executed, delivered and effective
+as of the date first above written.
+
+ Seller:
+
+ ME
+ Aviation Services, LLC,
+
+ By:
+
+ Name:
+ Johan
+ Claasen
+
+ Title:
+ CEO
+
+ Purchaser:
+
+ Tempus
+ Applied Solutions Holdings, Inc.,
+
+ By:
+
+ Name:
+ Mr
+ Scott Terry
+
+ Title:
+ Authorised
+ Signatory
+
+CONSENT
+AND JOINDER OF ESCROW AGENT
+
+Purchaser
+and Seller have appointed the Escrow Agent as document holder and stakeholder for the sale and purchase of each Aircraft, and
+the Escrow Agent accepts such appointment for and in consideration of escrow fees set out below. The Parties acknowledge that
+the Escrow Agent is acting as a document holder and stakeholder only, its duties being purely ministerial, at their request and
+for their convenience, that in such role the Escrow Agent shall not be deemed to be the agent or trustee for either of the Parties,
+and that the Escrow Agent shall not be liable to either of the Parties for any act or omission done in good faith unless it involves
+willful misconduct or gross negligence on its part. Escrow Agent confirms that the Share Transfer Forms are being held exclusively
+with respect to the sale of the Aircraft by Seller to Purchaser as contemplated by this Agreement and for no other transaction
+and no other person and to treat the Share Transfer Forms solely as Purchaser may direct in writing.
+
+The
+undersigned does hereby consent to and join in the foregoing Agreement, hereby agreeing to act as the Escrow Agent and to perform
+and discharge all of the duties and obligations of the Escrow Agent as set forth in such Agreement strictly in accordance with
+the terms thereof.
+
+The
+Escrow Fees shall be a total of US$[●], and Purchaser and Seller shall each be responsible for one-half (1/2) of said total.
+
+Executed
+and delivered this ___ day of August, 2017.
+
+ Escrow Agent:
+
+ Insured Aircraft Title Service, Inc.
+
+ By:
+
+ Name:
+ [●]
+
+ Title:
+ [●]
+
+ 17
+
+Exhibit
+A
+
+AIRCRAFT
+SPECIFICATION
+
+DESCRIPTION
+
+ AIRCRAFT 1
+ AIRCRAFT 2
+ AIRCRAFT 3
+ AIRCRAFT 4
+ AIRCRAFT 5
+ AIRCRAFT 6
+
+ Registered Owner
+ Aero Airtanker 1 LLC
+ Aero Airtanker 2 LLC
+ Aero Airtanker 4 LLC
+ Aero Airtanker 3 LLC
+ Aero Airmed 1 LLC
+ Aero Airtrans 1 LLC
+
+ General Description
+ Lockheed L-1011 TriStar
+ Lockheed L-1011 TriStar
+ Lockheed L-1011 TriStar
+ Lockheed L-1011 TriStar
+ Lockheed L-1011 TriStar
+ Lockheed L-1011 TriStar
+
+ Registration
+ N304CS
+ N405CS
+ N309CS
+ N705CS
+
+ N507CS
+ N703CS
+
+ Year of Manufacture
+
+ Airframe Serial Number
+ 1157
+ 1164
+ 1165
+ 1174
+ 1186
+ 1188
+
+ Engine 1 Description
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+
+ Engine 2 Description
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+
+ Engine 3 Description
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+ RB211-524B
+
+ Engine 1 Serial Number
+ 14618
+ 14751
+ 14711
+ 14752
+ 14603
+ 14769
+
+ Engine 2 Serial Number
+ 14744
+ 14746
+ 14799
+ 14712
+ 14622
+ 14754
+
+ Engine 3 Serial Number
+ 14801
+ 14855
+ 14604
+ 14630
+ 14800
+ 14804
+
+ APU Description
+
+ APU Serial Number
+
+ 55276
+
+ 55371
+ 55214
+ 55373
+ 55376
+ 860378
+
+ 18
+
+Exhibit
+B
+
+INSPECTION
+WORKSCOPE
+
+The
+following terms shall govern the Pre-Purchase Inspection as set forth and provided for in Sections 3.2, 3.2, and 3.4:
+
+(A)
+Purchaser, or Purchaser’s designated agent for performance of the Inspection, shall have full and unfettered access to the
+Aircraft. As necessary to accomplish the inspection, Purchaser may remove or open all necessary inspection plates, access doors,
+fairing, and cowling, as reasonably necessary to observer and/or assess all essential aircraft systems, and specifically, the
+following systems and/or Aircraft components:
+
+(1)
+Skin—for deterioration, distortion, evidence of failure, or defective or insecure attachment of fittings.
+
+(2)
+Systems and components—for improper installation, apparent defects, and unsatisfactory operation.
+
+(3)
+Envelope, gas bags, ballast tanks, and related parts—for poor condition.
+
+(4)
+Cabin and Cockpit Group:
+
+(a)
+Generally—for uncleanliness and loose equipment that might foul the controls.
+
+(b)
+Seats and safety belts—for poor condition and apparent defects.
+
+(c)
+Windows and windshields—for deterioration and breakage.
+
+(d)
+Instruments—for poor condition, mounting, marking, and (where practicable) improper operation.
+
+(e)
+Flight and engine controls—for improper installation and improper operation.
+
+(f)
+Batteries—for improper installation and improper charge.
+
+(g)
+All systems—for improper installation, poor general condition, apparent and obvious defects, and insecurity of attachment.
+
+(5)
+Engine and Nacelle Group:
+
+(a)
+Engine section—for visual evidence of excessive oil, fuel, or hydraulic leaks, and sources of such leaks.
+
+(b)
+Studs and nuts—for improper torqueing and obvious defects.
+
+ 19
+
+(c)
+Internal engine—for cylinder compression and for metal particles or foreign matter on screens and sump drain plugs. If there
+is weak cylinder compression, for improper internal condition and improper internal tolerances.
+
+(d)
+Engine mount—for cracks, looseness of mounting, and looseness of engine to mount.
+
+(e)
+Flexible vibration dampeners—for poor condition and deterioration.
+
+(f)
+Engine controls—for defects, improper travel, and improper safe tying.
+
+(g)
+Lines, hoses, and clamps—for leaks, improper condition and looseness.
+
+(h)
+Exhaust stacks—for cracks, defects, and improper attachment.
+
+(i)
+Accessories—for apparent defects in security of mounting.
+
+(j)
+All systems—for improper installation, poor general condition, defects, and insecure attachment.
+
+(k)
+Cowling—for cracks, and defects.
+
+(6)
+Landing Gear Group:
+
+(a)
+All units—for poor condition and insecurity of attachment.
+
+(b)
+Shock absorbing devices—for improper oleo fluid level.
+
+(c)
+Linkages, trusses, and members—for undue or excessive wear fatigue, and distortion.
+
+(d)
+Retracting and locking mechanism—for improper operation.
+
+(e)
+Hydraulic lines—for leakage.
+
+(f)
+Electrical system—for chafing and improper operation of switches.
+
+(g)
+Wheels—for cracks, defects, and condition of bearings.
+
+(h)
+Tires—for wear and cuts.
+
+(i)
+Brakes—for improper adjustment.
+
+(7)
+All components of the wing and center section assembly for poor general condition, skin deterioration, distortion, evidence of
+failure, or insecurity of attachment, including any anti-icing devices, for improper operation or obvious defects.
+
+ 20
+
+(8)
+All components and systems that make up the complete empennage assembly for poor general condition, skin deterioration, distortion,
+evidence of failure, insecure attachment, improper component installation, and improper component operation.
+
+(9)
+Radio Group:
+
+(a)
+Radio and electronic equipment—for improper installation and insecure mounting.
+
+(b)
+Wiring and conduits—for improper routing, insecure mounting, or obvious defects.
+
+(c)
+Bonding and shielding—for improper installation and poor condition.
+
+(d)
+Antenna including trailing antenna—for poor condition, insecure mounting, and improper operation.
+
+(B)
+ Purchaser may otherwise inspect each installed miscellaneous item that is not otherwise
+covered by the above listing for improper installation or improper operation. However, and in NO CASE may Purchaser or Purchaser’s
+agent(s) engage in any inspection procedure or undertaking which is destructive in any manner to the aircraft, or from which it
+is not readily and immediately capable of restoring the Aircraft to its prior and Pre-Inspection condition.
+
+(C) This
+Exhibit B / Inspection Workscope is intended only to identify those Aircraft systems and components which Purchaser may review,
+assess, and/or inspect as part of the Pre-Purchase Inspection. It is not intended as any Representation or Warranty as to the
+condition or fitness of any Aircraft system or component for any purpose, and does not in any way alter the terms of this Aircraft
+Purchase Agreement which provide for the sale of the Aircraft in an “AS-IS / WHERE-IS” Condition.
+
+21

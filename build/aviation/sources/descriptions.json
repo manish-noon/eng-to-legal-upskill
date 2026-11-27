@@ -1,0 +1,149 @@
+{
+  "01-jetblue-a320": {
+    "parties": "Airbus S.A.S. (seller) and JetBlue Airways Corporation (buyer)",
+    "agreementDate": "19 October 2011",
+    "governingLaw": "New York (§22.6).",
+    "size": "§0.1 identifies 22 A320 backlog aircraft, 30 A321 backlog aircraft and 40 firm A320 NEO aircraft. §3 base price components are redacted.",
+    "scope": "New-build A320 family purchase with configuration, price revision, delay, acceptance, warranty and support."
+  },
+  "02-united-boeing": {
+    "parties": "The Boeing Company (seller) and United Air Lines, Inc. (customer)",
+    "agreementDate": "19 February 2010",
+    "governingLaw": "No standalone choice located in PA 3427. The preamble incorporates and amends AGTA-UAL.",
+    "size": "787-8 order. Articles 1 and 3.1 refer quantity and basic price to Table 1, with economic data withheld.",
+    "scope": "OEM purchase with advance payments, escalation exhibits and support obligations."
+  },
+  "03-lan-boeing": {
+    "parties": "The Boeing Company (seller) and LAN Airlines S.A. (customer)",
+    "agreementDate": "July 2007 (signature page leaves the day blank)",
+    "governingLaw": "No standalone choice located in PA 3194. The preamble incorporates AGTA-LAN.",
+    "size": "777 freighter order. Table 1 withholds aircraft basic price and shows a $230,000 proposal-acceptance deposit per aircraft.",
+    "scope": "OEM freighter purchase with advance-payment catch-up, configuration and spares support."
+  },
+  "04-airtran-boeing": {
+    "parties": "The Boeing Company (seller) and AirTran Airways, Inc. (customer)",
+    "agreementDate": "3 July 2003",
+    "governingLaw": "No standalone choice located in PA 2444. The preamble incorporates AGTA-CQT.",
+    "size": "737-7BD order. Articles 1 and 3.1 refer to Table 1, which is redacted. §3.3 treats prices for later deliveries separately.",
+    "scope": "OEM purchase with model substitution and option agreements."
+  },
+  "05-baltia-kalitta": {
+    "parties": "Kalitta Air, L.L.C. (seller) and Baltia Air Lines, Inc. (buyer)",
+    "agreementDate": "24 November 2010",
+    "governingLaw": "Michigan and US law (§13(a)).",
+    "size": "One used 747-251B airframe without engines (recitals). Purchase price $1,100,000 (§2).",
+    "scope": "As-is airframe sale with a landing-gear condition, inspection acceptance and a warranty bill of sale."
+  },
+  "06-coachmen": {
+    "parties": "Coachmen Industries, Inc. (seller) and Hudson Company of Tennessee (purchaser)",
+    "agreementDate": "25 May 2006 (both signatures)",
+    "governingLaw": "No express governing-law choice located in the filed agreement.",
+    "size": "One 1994 Cessna Citation Jet for $2,275,000 (§§1–2).",
+    "scope": "Used aircraft sale with inspection, corrective work, an escrowed deposit and written delivery acceptance."
+  },
+  "07-microstrategy": {
+    "parties": "Bombardier Inc. (seller) and MicroStrategy Incorporated (buyer)",
+    "agreementDate": "31 January 2007 (both signatures)",
+    "governingLaw": "New York (Article 4.4).",
+    "size": "One new Global Express XRS for $46,025,685 (Articles 1 and 2.1).",
+    "scope": "Business-jet OEM purchase covering completion, staged payments, delay and a move-up option."
+  },
+  "08-tempus": {
+    "parties": "ME Aviation Services, LLC (seller) and Tempus Applied Solutions Holdings, Inc. (purchaser)",
+    "agreementDate": "11 August 2017",
+    "governingLaw": "New York (§7.22).",
+    "size": "Six L-1011 aircraft (cover). Defined purchase price $3,500,000, represented by shares (§1.1).",
+    "scope": "Portfolio sale with a package-wide inspection election and pre-closing conditions."
+  },
+  "09-wwe": {
+    "parties": "Bombardier Aerospace Corporation (seller) and World Wrestling Entertainment, Inc. (purchaser)",
+    "agreementDate": "30 April 2013",
+    "governingLaw": "New York (§8.18).",
+    "size": "One 2006 Global 5000 for $27,500,000 (§1.1).",
+    "scope": "Sale of an existing business jet with inspection, deemed rejection and risk-of-loss provisions."
+  },
+  "10-spirit-sale": {
+    "parties": "Spirit Airlines, Inc. (seller) and GA Telesis, LLC (buyer)",
+    "agreementDate": "29 October 2024",
+    "governingLaw": "New York (§11.6(a)).",
+    "size": "23 used A320 and A321 aircraft. Exhibit A's base purchase prices total $518,896,500 before §3.2 delivery adjustments.",
+    "scope": "Fleet sale with separate deliveries, technical acceptance, milestones and owner-trustee designation."
+  },
+  "11-aircastle-shared-terms": {
+    "parties": "LATAM Airlines Group S.A. (lessee). The relevant aircraft lease identifies its lessor.",
+    "agreementDate": "21 February 2014",
+    "governingLaw": "England (§17.1).",
+    "size": "Shared terms for individual leases. Schedule 1 refers the periodic rent amount to §1.1 of the relevant aircraft lease agreement.",
+    "scope": "Terms incorporated into aircraft leases covering payment, loss, default, remedies and redelivery."
+  },
+  "12-midway-lease": {
+    "parties": "Aviation Financial Services Inc. (lessor) and Midway Airlines Corporation (lessee)",
+    "agreementDate": "6 November 2000",
+    "governingLaw": "New York, expressly confirmed on incorporation of common terms (§7).",
+    "size": "One 737-700, serial 32582 (cover). Schedule B, Part III withholds monthly rent.",
+    "scope": "Aircraft-specific lease incorporating common terms, with deposit, rent and return schedules."
+  },
+  "13-airtran-common-terms": {
+    "parties": "Aviation Financial Services Inc. and AirTran Airways, Inc.",
+    "agreementDate": "15 August 2003",
+    "governingLaw": "New York (§15.8 and Schedule 1, Governing Law).",
+    "size": "Common terms. §5.3(b) refers to Schedule B of each aircraft lease for rent.",
+    "scope": "Shared drafting for aircraft leases covering information covenants, insurance, maintenance and default."
+  },
+  "14-kitty-hawk-terms": {
+    "parties": "Aviation Financial Services Inc. and Kitty Hawk Aircargo, Inc.",
+    "agreementDate": "4 May 2004",
+    "governingLaw": "New York (§15.8 and Schedule 1, Governing Law).",
+    "size": "Common terms. §5.3(b) refers the rent calculation to the aircraft lease.",
+    "scope": "Common lease terms with separate default clocks for rent, supplemental rent and other amounts."
+  },
+  "15-frontier-lease": {
+    "parties": "AFS Investments XVI LLC (lessor) and Frontier Airlines, Inc. (lessee)",
+    "agreementDate": "1 May 2002",
+    "governingLaw": "The recitals incorporate separate common terms. No standalone general choice located in this aircraft lease.",
+    "size": "One A319. Schedule B, Part III sets assumed rents of $205,900, $215,900 and $225,900 for periods 1–12, 13–24 and later periods, subject to adjustments.",
+    "scope": "Aircraft-specific lease with rent schedules, security and maintenance payments."
+  },
+  "16-aircastle-lease": {
+    "parties": "Maersk Aircraft A/S (lessor) and Sterling Airlines A/S (lessee)",
+    "agreementDate": "12 September 2005",
+    "governingLaw": "Danish law (§§1.1 and 23.1).",
+    "size": "One 737-700, serial 28010 (cover). §5.1.1 requires monthly rent. The Annex K calculation is redacted.",
+    "scope": "Lease with deposit rights across defined leases, reserve adjustments and insurance-proceeds allocation."
+  },
+  "17-airlease": {
+    "parties": "First Union National Bank (solely as trustee lessor), CSI Aviation Services, Inc. (lessee) and Airlease Ltd. (owner participant)",
+    "agreementDate": "21 November 2001",
+    "governingLaw": "New York (§20).",
+    "size": "One DC-9 Series 82 (cover). Schedule 2 specifies $125,000 monthly basic rent for the first year and $120,000 monthly if extended beyond 30 September 2002.",
+    "scope": "Owner-trust lease with separate basic rent, component payments, insurance and filing covenants."
+  },
+  "18-ubiquiti-lease": {
+    "parties": "RJP Manageco, LLC (lessor) and Ubiquiti Networks, Inc. (lessee)",
+    "agreementDate": "13 November 2013",
+    "governingLaw": "California (§13.10 and Exhibit A).",
+    "size": "One CL600-2B16 at $5,000 per flight hour (§3.3 and Exhibits A–B).",
+    "scope": "Non-exclusive dry lease with scheduling, insurer roles and termination on written notice."
+  },
+  "19-williams-sonoma": {
+    "parties": "WHL Management LLC (lessor) and Williams-Sonoma, Inc. (lessee)",
+    "agreementDate": "16 May 2008",
+    "governingLaw": "California (§21).",
+    "size": "One Global 5000 (recitals). Stated term 36 months subject to early termination. Basic rent $375,000 per calendar month with partial-month proration (§§2–3(b)).",
+    "scope": "Corporate aircraft lease with operating costs, insurance, defaults and a mortgage assignment provision."
+  },
+  "20-lan-common-terms": {
+    "parties": "GE Commercial Aviation Services Limited and LAN Cargo S.A.",
+    "agreementDate": "30 April 2007",
+    "governingLaw": "New York (§15.8 and Schedule 1, Governing Law).",
+    "size": "Common terms. §5.3(b) refers to the applicable aircraft lease for the rent calculation.",
+    "scope": "Cargo-airline lease framework covering delivery, rent, reports, event of loss and default."
+  },
+  "21-global-crossing-finance": {
+    "parties": "Bank of Utah (solely as owner trustee lessor) and Global Crossing Airlines, Inc. (lessee)",
+    "agreementDate": "24 August 2026",
+    "governingLaw": "New York (§17.1).",
+    "size": "One used A320-232, serial 5999. Schedule 9 provides the airframe financing schedule and $50,000 periodic rent per engine, prorated for partial months.",
+    "scope": "Airframe financing alongside engine rental, with a purchase option and a residual payment on non-exercise."
+  }
+}

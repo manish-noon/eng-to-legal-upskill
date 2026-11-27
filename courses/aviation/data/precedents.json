@@ -1,0 +1,901 @@
+[
+  {
+    "id": "01-jetblue-a320",
+    "name": "JetBlue / Airbus A320 family",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What document delivery accompanies transfer of title and risk under the ordinary delivery process?",
+        "value": "Bill of Sale",
+        "choices": [
+          "Bill of Sale",
+          "Technical Acceptance report",
+          "Training certificate"
+        ],
+        "section": "9.2.2",
+        "quote": "contemporaneously with the delivery by the Seller to the Buyer of such Bill of Sale"
+      },
+      {
+        "prompt": "How long after receipt of the support-representative accounting does the buyer have to object in writing?",
+        "value": "30 calendar days",
+        "choices": [
+          "30 calendar days",
+          "30 business days",
+          "60 calendar days"
+        ],
+        "section": "15.1.3",
+        "quote": "within thirty (30) calendar days of receipt of such accounting"
+      },
+      {
+        "prompt": "How far before a course starts must the validated trainee attendance list be provided at the latest?",
+        "value": "60 calendar days",
+        "choices": [
+          "60 calendar days",
+          "30 business days",
+          "60 business days"
+        ],
+        "section": "16.4.4.3",
+        "quote": "in no event any later than sixty (60) calendar days before the start of the training course"
+      }
+    ]
+  },
+  {
+    "id": "02-united-boeing",
+    "name": "United / Boeing 787-8",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than twenty-four (24) months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When is the remaining aircraft price payable?",
+        "value": "At delivery",
+        "choices": [
+          "At delivery",
+          "At contract signing",
+          "After entry into service"
+        ],
+        "section": "4.4",
+        "quote": "pay the balance of the Aircraft Price of each Aircraft at delivery"
+      },
+      {
+        "prompt": "Which supplemental exhibit gives the airframe and optional features escalation formula?",
+        "value": "AE1",
+        "choices": [
+          "AE1",
+          "Exhibit B",
+          "Table 1"
+        ],
+        "section": "5.2",
+        "quote": "Supplemental\nExhibit AE1 contains the applicable airframe and optional features escalation formula"
+      }
+    ]
+  },
+  {
+    "id": "03-lan-boeing",
+    "name": "LAN / Boeing 777 freighter",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What is the initial advance on the effective date as a percentage of the advance payment base price, before deducting the deposit?",
+        "value": "1%",
+        "choices": [
+          "1%",
+          "5%",
+          "10%"
+        ],
+        "section": "4.2",
+        "quote": "beginning with a payment of 1%, less the Deposit"
+      },
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than 24 months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When is the remaining aircraft price payable?",
+        "value": "At delivery",
+        "choices": [
+          "At delivery",
+          "At contract signing",
+          "After entry into service"
+        ],
+        "section": "4.4",
+        "quote": "pay the balance of the Aircraft Price of each Aircraft at delivery"
+      }
+    ]
+  },
+  {
+    "id": "04-airtran-boeing",
+    "name": "AirTran / Boeing 737",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What is the initial advance on the effective date as a percentage of the advance payment base price, before deducting the deposit?",
+        "value": "1%",
+        "choices": [
+          "1%",
+          "5%",
+          "10%"
+        ],
+        "section": "4.2",
+        "quote": "beginning with a payment of 1%, less the Deposit"
+      },
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than 24 months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When in each month specified in Table 1 do additional advance payments fall due?",
+        "value": "First business day",
+        "choices": [
+          "First business day",
+          "Last business day",
+          "Fifteenth calendar day"
+        ],
+        "section": "4.2",
+        "quote": "due on the first business day of the months listed in the attached Table 1"
+      }
+    ]
+  },
+  {
+    "id": "05-baltia-kalitta",
+    "name": "Baltia / Kalitta 747",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "Despite the as-is language, what minimum time must remain to the specified landing-gear inspection?",
+        "value": "3 years",
+        "choices": [
+          "3 years",
+          "3 months",
+          "1 year"
+        ],
+        "section": "1(b)",
+        "quote": "landing gear will have at least three (3) years time remaining to"
+      },
+      {
+        "prompt": "When the agreement is signed, what is the status of the buyer's inspections?",
+        "value": "Completed",
+        "choices": [
+          "Completed",
+          "Scheduled but outstanding",
+          "Conditional on financing"
+        ],
+        "section": "3(b)",
+        "quote": "Buyer has completed all inspections of the Aircraft"
+      },
+      {
+        "prompt": "Which US state's laws are named alongside the laws of the United States?",
+        "value": "Michigan",
+        "choices": [
+          "Michigan",
+          "New York",
+          "Delaware"
+        ],
+        "section": "13(a)",
+        "quote": "laws of the State of Michigan"
+      }
+    ]
+  },
+  {
+    "id": "06-coachmen",
+    "name": "Hudson / Coachmen sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "What amount must the purchaser deposit as earnest money?",
+        "value": "USD 50,000",
+        "choices": [
+          "USD 50,000",
+          "USD 25,000",
+          "USD 100,000"
+        ],
+        "section": "2(a)",
+        "quote": "earnest money deposit in the sum of $50,000"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "2(b)",
+        "quote": "The escrow fees to be equally shared between the Purchaser and Seller"
+      },
+      {
+        "prompt": "What is the maximum interval from completion of agreed corrective action to closing?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "2(c)",
+        "quote": "no more than 3 business days following completion of all agreed upon corrective action"
+      }
+    ]
+  },
+  {
+    "id": "07-microstrategy",
+    "name": "MicroStrategy / Bombardier new aircraft",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "Excusable delay prevents presentation for inspection and flight testing. What threshold after expiry of the Delivery Period gives the buyer its termination election?",
+        "value": "100 days",
+        "choices": [
+          "100 days",
+          "300 days",
+          "75 business days"
+        ],
+        "section": "8.3",
+        "quote": "within one hundred (100) days after the expiry of the Delivery"
+      },
+      {
+        "prompt": "For the same excusable failure to present for inspection and flight testing, which threshold after the Delivery Period applies to the seller's termination election?",
+        "value": "300 days",
+        "choices": [
+          "300 days",
+          "100 days",
+          "30 business days"
+        ],
+        "section": "8.3",
+        "quote": "within three hundred (300) days after the expiry of the Delivery Period"
+      },
+      {
+        "prompt": "How long after receipt of a Move-Up Option Notice does the buyer have to notify exercise in writing?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "15.2",
+        "quote": "within three (3) business days of receipt of the applicable Move-Up Option Notice"
+      }
+    ]
+  },
+  {
+    "id": "08-tempus",
+    "name": "Tempus / ME Aviation six-aircraft purchase",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "If no technical acceptance letter arrives by the inspection decision deadline, which aircraft are deemed rejected?",
+        "value": "The relevant aircraft and all others",
+        "choices": [
+          "The relevant aircraft and all others",
+          "Only the inspected aircraft",
+          "No aircraft"
+        ],
+        "section": "3.4",
+        "quote": "deemed a Purchaser’s rejection of the relevant and all other Aircraft"
+      },
+      {
+        "prompt": "Once the specified pre-closing obligations have been performed and conditions satisfied or waived, how long is the closing interval?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "4.4",
+        "quote": "The Closing shall occur within three (3) Business Days"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "Escrow agent joinder",
+        "quote": "Purchaser and Seller shall each be responsible for one-half (1/2) of said total"
+      }
+    ]
+  },
+  {
+    "id": "09-wwe",
+    "name": "WWE / Bombardier Global 5000 sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "What does missing the technical acceptance/rejection letter deadline do to the inspection election?",
+        "value": "Deemed rejection",
+        "choices": [
+          "Deemed rejection",
+          "Deemed acceptance",
+          "Automatic extension"
+        ],
+        "section": "3.5",
+        "quote": "Purchaser shall be deemed to have rejected the Aircraft"
+      },
+      {
+        "prompt": "Who bears the risk of loss before title transfer?",
+        "value": "Seller",
+        "choices": [
+          "Seller",
+          "Purchaser",
+          "Escrow agent"
+        ],
+        "section": "8.2.2",
+        "quote": "Seller shall bear all risk of loss, damage, or destruction of the Aircraft until title"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "8.13",
+        "quote": "Purchaser and Seller shall each pay one-half (½) of the Escrow and Title Search Fees"
+      }
+    ]
+  },
+  {
+    "id": "10-spirit-sale",
+    "name": "Spirit fleet sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "How much advance written notice must the buyer give to designate an owner trustee before delivery?",
+        "value": "At least 5 business days",
+        "choices": [
+          "At least 5 business days",
+          "At least 5 calendar days",
+          "At least 10 business days"
+        ],
+        "section": "2.5",
+        "quote": "at least five Business Days before the Delivery of such Aircraft"
+      },
+      {
+        "prompt": "Who remains responsible for obligations owed to the seller after designation of a buyer's owner trustee?",
+        "value": "Buyer",
+        "choices": [
+          "Buyer",
+          "Owner trustee alone",
+          "Trust beneficiary alone"
+        ],
+        "section": "2.5",
+        "quote": "Buyer shall remain responsible for any obligations owed to Seller hereunder notwithstanding any such designation"
+      },
+      {
+        "prompt": "What jurisdiction do the listed New York courts receive under the forum clause?",
+        "value": "Non-exclusive",
+        "choices": [
+          "Non-exclusive",
+          "Exclusive",
+          "Appellate only"
+        ],
+        "section": "11.6(b)",
+        "quote": "non-exclusive jurisdiction of the courts of the State of New York"
+      }
+    ]
+  },
+  {
+    "id": "11-aircastle-shared-terms",
+    "name": "LATAM aircraft lease shared terms",
+    "kind": "Operating lease shared terms",
+    "fields": [
+      {
+        "prompt": "Annual audited accounts: what is the outside reporting limit after financial year end?",
+        "value": "120 days",
+        "choices": [
+          "120 days",
+          "90 days",
+          "150 days"
+        ],
+        "section": "6.2.1(2)",
+        "quote": "within 120 days after the close of each financial year of Lessee, copies of audited consolidated financial statements"
+      },
+      {
+        "prompt": "Ignoring earlier insurance payment, what is the outside payment clock following an aircraft Event of Loss?",
+        "value": "90 days",
+        "choices": [
+          "90 days",
+          "120 days",
+          "60 business days"
+        ],
+        "section": "10.3(1)",
+        "quote": "90 days after the occurrence of an Event of Loss with respect to the Aircraft"
+      },
+      {
+        "prompt": "What rent abatement results from a loss limited to an engine?",
+        "value": "None",
+        "choices": [
+          "None",
+          "Half rent until replacement",
+          "All rent pending recovery"
+        ],
+        "section": "10.4(4)",
+        "quote": "no Event of Loss with respect to an Engine will result in any reduction in or abatement of Rent"
+      },
+      {
+        "prompt": "For ordinary periodic rent, how many business days from the due date does the non-payment default test allow? Exclude special transfer-error relief and other kinds of payments.",
+        "value": "3",
+        "choices": [
+          "3",
+          "7",
+          "10"
+        ],
+        "section": "12.1(x)",
+        "quote": "Periodic, Maintenance Amounts or Agreed Insurance Value within three Business Days after the same has become due",
+        "metric": "rentGrace"
+      }
+    ]
+  },
+  {
+    "id": "12-midway-lease",
+    "name": "Midway 737-700 lease",
+    "kind": "Operating lease aircraft schedule",
+    "fields": [
+      {
+        "prompt": "When is the defined Final Delivery Date relative to scheduled delivery?",
+        "value": "Two months later",
+        "choices": [
+          "Two months later",
+          "On scheduled delivery",
+          "One year later"
+        ],
+        "section": "1.1 Final Delivery Date",
+        "quote": "the date that is two (2) months after the\n Scheduled Delivery Date"
+      },
+      {
+        "prompt": "What form must the lessee use to pay the deposit under clause 3.1?",
+        "value": "Cash",
+        "choices": [
+          "Cash",
+          "Parent guarantee only",
+          "Promissory note"
+        ],
+        "section": "3.1 Deposit",
+        "quote": "Lessee shall pay to Lessor the Deposit in cash"
+      },
+      {
+        "prompt": "What numeric Minimum Engine Cycles threshold can a reader verify from the filed return definitions?",
+        "value": "Figure withheld",
+        "choices": [
+          "Figure withheld",
+          "Zero cycles",
+          "One full engine interval"
+        ],
+        "section": "Schedule B, Part VI",
+        "quote": "Minimum Engine Cycles means * Cycles."
+      }
+    ]
+  },
+  {
+    "id": "13-airtran-common-terms",
+    "name": "AirTran aircraft lease common terms",
+    "kind": "Operating lease common terms",
+    "fields": [
+      {
+        "prompt": "Annual audited accounts: what is the outside reporting limit after financial year end?",
+        "value": "120 days",
+        "choices": [
+          "120 days",
+          "90 days",
+          "150 days"
+        ],
+        "section": "8.2(b), Schedule 1 Financial Information (b)",
+        "quote": "120 days after the last day of each fiscal year of each of Lessee and Guarantor"
+      },
+      {
+        "prompt": "What is the outside calendar-day clock for paying agreed value after a post-delivery Event of Loss, assuming no earlier insurance payment?",
+        "value": "120 days",
+        "choices": [
+          "120 days",
+          "60 days",
+          "90 days"
+        ],
+        "section": "11.1(b)",
+        "quote": "one hundred twenty (120) days after the Event of Loss"
+      },
+      {
+        "prompt": "How soon is the technical report due after each calendar month ends?",
+        "value": "Seven days",
+        "choices": [
+          "Seven days",
+          "Seven business days",
+          "Fifteen days"
+        ],
+        "section": "8.2(a)",
+        "quote": "within seven (7) days after the end of each calendar month"
+      },
+      {
+        "prompt": "For ordinary periodic rent, how many business days from the due date does the non-payment default test allow? Exclude special transfer-error relief and other kinds of payments.",
+        "value": "5",
+        "choices": [
+          "5",
+          "7",
+          "10"
+        ],
+        "section": "Schedule 9(a)",
+        "quote": "on the due date and such failure continues for five (5) Business Days or more",
+        "metric": "rentGrace"
+      }
+    ]
+  },
+  {
+    "id": "14-kitty-hawk-terms",
+    "name": "Kitty Hawk Aircargo aircraft lease common terms",
+    "kind": "Operating lease common terms",
+    "fields": [
+      {
+        "prompt": "Annual audited accounts: what is the outside reporting limit after financial year end?",
+        "value": "120 days",
+        "choices": [
+          "120 days",
+          "90 days",
+          "150 days"
+        ],
+        "section": "8.2(b), Schedule 1 Financial Information (b)",
+        "quote": "one hundred and\n twenty (120) days after the last day of each fiscal year of Lessee"
+      },
+      {
+        "prompt": "Ignoring earlier insurance receipt, what is the outside payment clock for agreed value after a post-delivery Event of Loss?",
+        "value": "60 days",
+        "choices": [
+          "60 days",
+          "60 business days",
+          "120 days"
+        ],
+        "section": "11.1(b)",
+        "quote": "sixty\n (60) days after the Event of Loss"
+      },
+      {
+        "prompt": "How much advance written notice of the time and location of Major Checks is required?",
+        "value": "At least 60 days",
+        "choices": [
+          "At least 60 days",
+          "Seven days",
+          "After completion only"
+        ],
+        "section": "8.2(g)",
+        "quote": "sixty (60) days prior written notice\n as to the time and location of all Major Checks"
+      },
+      {
+        "prompt": "For ordinary periodic rent, how many business days from the due date does the non-payment default test allow? Exclude special transfer-error relief and other kinds of payments.",
+        "value": "3",
+        "choices": [
+          "3",
+          "7",
+          "10"
+        ],
+        "section": "Schedule 9(a)(i)",
+        "quote": "Rent on the due\n date and such failure continues for three (3) Business Days or more",
+        "metric": "rentGrace"
+      }
+    ]
+  },
+  {
+    "id": "15-frontier-lease",
+    "name": "Frontier A319 aircraft lease",
+    "kind": "Operating lease aircraft schedule",
+    "fields": [
+      {
+        "prompt": "What total deposit amount does the schedule specify?",
+        "value": "USD 411,800",
+        "choices": [
+          "USD 411,800",
+          "USD 205,900",
+          "USD 2,500,000"
+        ],
+        "section": "Schedule B, Part II, Deposit",
+        "quote": "Deposit means, for the purposes of Section 3.1 of the Aircraft Lease Agreement, $411,800"
+      },
+      {
+        "prompt": "From the last day of the scheduled delivery month, how far out is the defined Final Delivery Date?",
+        "value": "Six months",
+        "choices": [
+          "Six months",
+          "Two months",
+          "One year"
+        ],
+        "section": "1.1 Final Delivery Date",
+        "quote": "six (6) months after the last day of the Scheduled\n Delivery Month"
+      },
+      {
+        "prompt": "What is the scheduled minimum liability insurance coverage?",
+        "value": "USD 600 million",
+        "choices": [
+          "USD 600 million",
+          "USD 60 million",
+          "USD 2.5 million"
+        ],
+        "section": "Schedule B, Part I, Minimum Liability Coverage",
+        "quote": "Minimum Liability Coverage means $600,000,000"
+      }
+    ]
+  },
+  {
+    "id": "16-aircastle-lease",
+    "name": "Sterling 737-700 lease",
+    "kind": "Operating lease",
+    "fields": [
+      {
+        "prompt": "Annual audited accounts: what is the outside reporting limit after financial year end?",
+        "value": "150 days",
+        "choices": [
+          "150 days",
+          "90 days",
+          "120 days"
+        ],
+        "section": "11.2.1",
+        "quote": "in any event within 150\ndays after the end of the relevant financial year"
+      },
+      {
+        "prompt": "Which outstanding amounts can the lessor cover by applying the deposit?",
+        "value": "This lease and defined Other Leases",
+        "choices": [
+          "This lease and defined Other Leases",
+          "Only this tail's basic rent",
+          "Only the deductible for a total loss"
+        ],
+        "section": "6.2.1",
+        "quote": "any amount outstanding to the Lessor hereunder\nor under the Other Leases"
+      },
+      {
+        "prompt": "Where do non-total-loss insurance proceeds go first?",
+        "value": "Reinstatement or repair",
+        "choices": [
+          "Reinstatement or repair",
+          "Automatic rent abatement",
+          "Immediate payment to shareholders"
+        ],
+        "section": "13.11",
+        "quote": "firstly in or towards the cost of reinstating or repairing the\nAircraft"
+      }
+    ]
+  },
+  {
+    "id": "17-airlease",
+    "name": "CSI DC-9-82 aircraft lease",
+    "kind": "Aircraft lease with owner trustee",
+    "fields": [
+      {
+        "prompt": "Annual audited accounts: what is the outside reporting limit after financial year end?",
+        "value": "90 days",
+        "choices": [
+          "90 days",
+          "120 days",
+          "150 days"
+        ],
+        "section": "18(c)",
+        "quote": "in\nany event within 90 days) after the end of each of its financial years"
+      },
+      {
+        "prompt": "What per-occurrence ceiling applies to deductibles for damage short of an Event of Loss?",
+        "value": "USD 100,000",
+        "choices": [
+          "USD 100,000",
+          "USD 1 million",
+          "USD 10,000"
+        ],
+        "section": "11.2(c)",
+        "quote": "not in\nexcess of US$100,000 per occurrence"
+      },
+      {
+        "prompt": "Who must cause the lease to be filed and recorded to the extent specified?",
+        "value": "Lessee",
+        "choices": [
+          "Lessee",
+          "Owner participant",
+          "Insurer"
+        ],
+        "section": "18(b)",
+        "quote": "Lessee will cause this Lease\nin respect of the Aircraft to be duly and timely filed and recorded"
+      }
+    ]
+  },
+  {
+    "id": "18-ubiquiti-lease",
+    "name": "Ubiquiti nonexclusive aircraft lease",
+    "kind": "Nonexclusive corporate aircraft lease",
+    "fields": [
+      {
+        "prompt": "What notice permits either party to terminate this lease at any time?",
+        "value": "30 days in writing",
+        "choices": [
+          "30 days in writing",
+          "Five business days orally",
+          "90 days in writing"
+        ],
+        "section": "3.1",
+        "quote": "thirty (30) days prior written notice of termination to the other party"
+      },
+      {
+        "prompt": "How is the lessee's right to scheduled use characterised?",
+        "value": "Non-exclusive",
+        "choices": [
+          "Non-exclusive",
+          "Exclusive for the whole term",
+          "Restricted to weekends"
+        ],
+        "section": "3.2",
+        "quote": "use of the Aircraft during the Term of this Lease is non-exclusive"
+      },
+      {
+        "prompt": "Who is to maintain or cause the maintenance of hull insurance?",
+        "value": "Lessor",
+        "choices": [
+          "Lessor",
+          "Lessee",
+          "Lessee's pilots"
+        ],
+        "section": "8.2",
+        "quote": "Lessor shall maintain, or cause to be maintained, all risks aircraft hull insurance"
+      }
+    ]
+  },
+  {
+    "id": "19-williams-sonoma",
+    "name": "Williams-Sonoma aircraft lease",
+    "kind": "Corporate aircraft lease",
+    "fields": [
+      {
+        "prompt": "How long may a missed rent payment remain uncured before it meets the payment Event of Default definition?",
+        "value": "10 days",
+        "choices": [
+          "10 days",
+          "30 days after notice",
+          "90 business days"
+        ],
+        "section": "15(a)",
+        "quote": "fails to cure such breach within ten (10) days"
+      },
+      {
+        "prompt": "For a material breach of another obligation under paragraph (c), when does the cure period run?",
+        "value": "30 days after written notice",
+        "choices": [
+          "30 days after written notice",
+          "10 days from breach",
+          "Until next rent falls due"
+        ],
+        "section": "15(c)",
+        "quote": "within thirty (30) days after written notice from Lessor to Lessee"
+      },
+      {
+        "prompt": "To whom may the lessor assign its rights with notice under the mortgage exception?",
+        "value": "Bank",
+        "choices": [
+          "Bank",
+          "Any purchaser",
+          "Any affiliate"
+        ],
+        "section": "17",
+        "quote": "with notice to Lessee, Lessor may assign its rights hereunder to Bank in connection with the Aircraft Mortgage"
+      }
+    ]
+  },
+  {
+    "id": "20-lan-common-terms",
+    "name": "LAN aircraft lease common terms",
+    "kind": "Operating lease common terms",
+    "fields": [
+      {
+        "prompt": "Absent an earlier insurance receipt or qualifying restoration, what outside clock runs for agreed value after a post-delivery Event of Loss?",
+        "value": "60 business days",
+        "choices": [
+          "60 business days",
+          "60 calendar days",
+          "120 calendar days"
+        ],
+        "section": "11.1(b)",
+        "quote": "sixty (60) Business Days after the Event of\n Loss"
+      },
+      {
+        "prompt": "How soon must the lessee supply a technical report after month end?",
+        "value": "Seven days",
+        "choices": [
+          "Seven days",
+          "Seven business days",
+          "Thirty days"
+        ],
+        "section": "8.2(a)",
+        "quote": "within seven (7) days after the\n end of each calendar month"
+      },
+      {
+        "prompt": "If neither party delivers the prescribed advance notice of its intent to terminate for late tender, how long is the single extension of the Final Delivery Date?",
+        "value": "90 days",
+        "choices": [
+          "90 days",
+          "Ten days",
+          "One month"
+        ],
+        "section": "4.4",
+        "quote": "extended for one additional period of ninety\n (90) days"
+      },
+      {
+        "prompt": "For ordinary periodic rent, how many business days from the due date does the non-payment default test allow? Exclude special transfer-error relief and other kinds of payments.",
+        "value": "5",
+        "choices": [
+          "5",
+          "7",
+          "10"
+        ],
+        "section": "Schedule 9(a)",
+        "quote": "within five Business Days of the due date for payment",
+        "metric": "rentGrace"
+      }
+    ]
+  },
+  {
+    "id": "21-global-crossing-finance",
+    "name": "Global Crossing A320 finance lease",
+    "kind": "Finance lease",
+    "fields": [
+      {
+        "prompt": "To which party does the finance lease certification say legal title to the airframe passed by bill of sale?",
+        "value": "Lessor",
+        "choices": [
+          "Lessor",
+          "Lessee",
+          "Engine manufacturer"
+        ],
+        "section": "21(a)",
+        "quote": "Legal title to the Airframe has passed to Lessor by bill of sale"
+      },
+      {
+        "prompt": "If the lessee does not exercise its option, how does the required residual value or termination sum compare with the option price?",
+        "value": "At least the purchase option price",
+        "choices": [
+          "At least the purchase option price",
+          "Capped at half the purchase option price",
+          "No amount is payable"
+        ],
+        "section": "21(c)",
+        "quote": "a residual value or termination sum equal to or exceeding the purchase option price"
+      },
+      {
+        "prompt": "In whose name must the lessee apply to register the airframe with the FAA under this agreement?",
+        "value": "Lessee",
+        "choices": [
+          "Lessee",
+          "Lessor",
+          "Servicer"
+        ],
+        "section": "21(d)",
+        "quote": "to register the Airframe with the FAA in the name of Lessee"
+      },
+      {
+        "prompt": "When is airframe value measured for the comparison between the option price and ten percent of the airframe value?",
+        "value": "At lease execution",
+        "choices": [
+          "At lease execution",
+          "On delivery of an exercise notice",
+          "On the final rent payment date"
+        ],
+        "section": "21(c)",
+        "quote": "the value of the Airframe determined at the time the lease was executed"
+      }
+    ]
+  }
+]

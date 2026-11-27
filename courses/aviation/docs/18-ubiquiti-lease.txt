@@ -1,0 +1,667 @@
+UBNT-12.31.2013-EX 10.1
+
+AIRCRAFT LEASE AGREEMENT
+
+(Non-Exclusive)
+
+Dated as of the 13th day of November, 2013
+
+between
+
+RJP Manageco, LLC,
+
+as Lessor,
+
+and
+
+Ubiquiti Networks, Inc.
+
+as Lessee,
+
+concerning one Bombardier, Inc. CL600-2B16, aircraft
+
+bearing U.S. registration number N775RP,
+
+and
+
+Manufacturer’s Serial Number 5821
+
+* * *
+
+Carry a copy of this Aircraft Lease Agreement in the aircraft at all times.
+
+(See Instructions for Truth In Leasing Compliance on Exhibit “E” hereto)
+
+* * *
+
+This AIRCRAFT LEASE AGREEMENT (Non-Exclusive) (the "Agreement"), is entered into as of this 13th day of November 2013 (the "Effective Date"), by and between RJP Manageco, LLC, a Delaware limited liability company ("Lessor") and Ubiquiti Networks, Inc., a Delaware corporation ("Lessee ").
+
+RECITALS
+
+WHEREAS, Lessor holds title to, and possession of, the Aircraft described and referred to herein; and,
+
+WHEREAS, Lessee desires to lease from Lessor, and Lessor desires to lease to Lessee, the Aircraft, without crew, upon and subject to the terms and conditions of this Agreement.
+
+WHEREAS, Lessee intends to operate the Aircraft under Part 91 of the FAR; and
+
+WHEREAS, during the term of this Agreement, the Aircraft may be subject to concurrent dry leases with one (1) or more parties.
+
+NOW, THEREFORE, in consideration of the mutual promises herein contained and other good and valid consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+SECTION 1. DEFINITIONS
+
+1.1
+
+The following terms shall have the following meanings for all purposes of this Agreement:
+
+"Aircraft" means the Airframe, the Engines, and the Aircraft Documents. Such Engines shall be deemed part of the "Aircraft" whether or not from time to time attached to the Airframe or on the ground.
+
+“Aircraft Delivery Receipt” means an Aircraft Delivery Receipt in the form of Exhibit C attached hereto.
+
+"Aircraft Documents" means all flight records, maintenance records, historical records, modification records, overhaul records, manuals, logbooks, authorizations, drawings and data relating to the Airframe, any Engine, or any Part, that have been provided to Lessee by Lessor, or are required by Applicable Law to be created or maintained with respect to the maintenance and/or operation of the Aircraft.
+
+"Airframe" means the aircraft specified in Exhibit A, together with any and all Parts (including, but not limited to, landing gear and auxiliary power units but excluding Engines or engines) so long as such Parts shall be either incorporated or installed in or attached to the Airframe.
+
+"Applicable Law" means, without limitation, all applicable laws, treaties, international agreements, decisions and orders of any court, arbitration or governmental agency or authority and rules, regulations, orders, directives, licenses and permits of any governmental body, instrumentality, agency or authority, including, without limitation, the FAR and 49 U.S.C. § 41101, et seq., as amended.
+
+"Business Day" means any day of the year in which banks are not authorized or required to close in the State of California.
+
+"Commercial Transportation Tax" means the federal excise tax imposed under Internal Revenue Code Section 4261.
+
+"Engines" means the engine(s) specified in Exhibit A, together with any and all Parts so long as the same shall be either incorporated or installed in or attached to such Engine. An Engine shall remain leased hereunder whether or not from time to time attached to the Airframe or on the ground.
+
+"Event of Loss" shall mean any of the following events with respect to any property:
+
+(i)
+
+loss of such property or of the use thereof due to theft or disappearance (with loss being conclusive following 30 days or such other period specified in applicable insurance), destruction, damage beyond economic repair or rendition of such property permanently unfit for normal use for any reason;
+
+(ii)
+
+any damage to such property which results in an insurance settlement with respect to such property on the basis of an actual, constructive or compromised total loss; or
+
+(iii)
+
+the condemnation, confiscation or seizure of, or requisition of title to or use of, such property by private persons or by any governmental or purported governmental authority.
+
+"FAA" means the Federal Aviation Administration or any successor agency.
+
+"FAR" means collectively the Aeronautics Regulations of the Federal Aviation Administration and the Department of Transportation, as codified at Title 14, Parts 1 to 399 of the United States Code of Federal Regulations.
+
+"Flight Hour" means each flight hour of use of the Aircraft by Lessee, as recorded on the Aircraft hour meter, or similar tracking device.
+
+"Lien" means any mortgage, security interest, lease or other charge or encumbrance or claim or right of others, including, without limitation, rights of others under any airframe or engine interchange or pooling agreement.
+
+"Operating Base" means that airport described in Exhibit A.
+
+"Operational Control" has the same meaning given the term in Section 1.1 of the FAR.
+
+"Parts" means all appliances, components, parts, instruments, appurtenances, accessories, furnishings or other equipment of whatever nature (other than complete Engines or engines) which may from time to time be incorporated or installed in or attached to the Airframe or any Engine and includes replacement parts.
+
+"Pilot in Command" has the same meaning given the term in Section 1.1 of the FAR.
+
+“Rent” means the Hourly Rent as set forth in Section 3.3, and on Exhibit B attached hereto.
+
+"Rent Payment Date" means the payments dates as outlined in Exhibit B.
+
+"Taxes" means all taxes, fees and assessments due, imposed, assessed or levied against the Aircraft (or purchase, ownership, delivery, leasing, possession, use or operation thereof), this Agreement (or any rents or receipts hereunder), Lessor or Lessee, by any domestic or foreign governmental entity or taxing authority during or related to the term of this Agreement, including, without limitation, all
+
+license and registration fees, and all sales, use, personal property, excise, gross receipts, franchise, stamp, value added, custom duties, landing fees, airport charges, navigation service charges, route navigation charges or other taxes, imposts, duties and charges, together with any penalties, fines or interest thereon.
+
+"Term" means the term of this Agreement set forth in Section 3.1.
+
+SECTION 2. LEASE AND DELIVERY OF THE AIRCRAFT
+
+2.1
+
+Lease. Lessor agrees to lease to Lessee, and Lessee agrees to lease from Lessor, the Aircraft, on the terms and conditions of this Agreement.
+
+1.
+
+Delivery. The Aircraft shall be delivered to Lessee on a mutually agreed date (the "Delivery Date") at the Operating Base and "AS IS," "WHERE IS," AND SUBJECT TO EACH AND EVERY DISCLAIMER OF WARRANTY AND REPRESENTATION AS SET FORTH IN SECTION 4 HEREOF. Lessor shall not be liable for delay or failure to furnish the Aircraft pursuant to this Agreement when such failure is caused by government regulation or authority, mechanical difficulty, war, civil commotion, acts of terrorism, strikes or labor disputes, weather conditions, or acts of God.
+
+2.3
+
+Non-Exclusivity. Lessee and Lessor acknowledge that the Aircraft is leased to Lessee on a non-exclusive basis, and that the Aircraft may be otherwise subject to lease to others during the Term, subject to reasonable notice. During any period which another lessee of Lessor or any other person or entity leasing an interest in the Aircraft has scheduled use of the Aircraft, Lessee’s leasehold rights to possession of the Aircraft under this Agreement shall temporarily abate, but all other provisions of this Agreement shall nevertheless continue in full force and effect.
+
+SECTION 3. TERM, SCHEDULING, AND RENT
+
+3.1
+
+Term. This Agreement shall have a term of twelve (12) months from the Effective Date and shall continue thereafter on an annual basis unless terminated by Lessor or Lessee as provided herein. Either Lessor or Lessee may terminate this Lease at any time upon delivery of thirty (30) days prior written notice of termination to the other party.
+
+3.2
+
+Scheduling. Lessee's use of the Aircraft during the Term of this Lease is non-exclusive. The parties agree as follows:
+
+(i)
+
+Use by Other Parties. Lessor and Lessee agree that Lessor may Lease the Aircraft to one or more other lessees during the Term on a non-exclusive basis.
+
+(ii)
+
+Minimum Usage by Lessee. Nothing contained herein shall obligate Lessee to any minimum usage of the Aircraft, it being understood and agreed that Lessee's usage shall be on an "as-needed" basis.
+
+3.3
+
+Rent. Lessee shall pay rent in an amount equal to the Hourly Rent, specified in Exhibit B attached hereto for each Flight Hour of use by Lessee, which amount may be amended in writing by mutual agreement of the parties from time to time. All rent shall be paid to the Lessor in immediately available U.S. funds and in form and manner as the Lessor in its sole discretion may instruct Lessee from time to time.
+
+SECTION 4. DISCLAIMER OF WARRANTIES
+
+4.1
+
+“As Is” Condition. THE AIRCRAFT IS BEING LEASED BY THE LESSOR TO THE LESSEE HEREUNDER ON A COMPLETELY "AS IS," "WHERE IS," BASIS, WHICH IS HEREBY ACKNOWLEDGED AND AGREED TO BY THE LESSEE.
+
+4.2
+
+No Lessor Representations. LESSOR HAS NOT MADE AND SHALL NOT BE CONSIDERED OR DEEMED TO HAVE MADE (WHETHER BY VIRTUE OF HAVING LEASED THE AIRCRAFT UNDER THIS AGREEMENT, OR HAVING ACQUIRED THE AIRCRAFT, OR HAVING DONE OR FAILED TO DO ANY ACT, OR HAVING ACQUIRED OR FAILED TO ACQUIRE ANY STATUS UNDER OR IN RELATION TO THIS AGREEMENT OR OTHERWISE), ANY REPRESENTATION OR WARRANTY OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, WITH RESPECT TO THE AIRCRAFT OR TO ANY PART THEREOF.
+
+4.3
+
+Lessor’s Disclaimers. LESSOR SPECIFICALLY DISCLAIMS ANY REPRESENTATION OR WARRANTY WHATSOEVER, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTY ARISING FROM A COURSE OF PERFORMANCE OR DEALING OR USAGE OF TRADE, WITH RESPECT TO THE AIRCRAFT OR ANY PART THEREOF, INCLUDING AS TO THE TITLE, AIRWORTHINESS, VALUE, CONDITION, DESIGN, MERCHANTABILITY, COMPLIANCE WITH SPECIFICATIONS, CONSTRUCTION, CONDITION OF THE AIRCRAFT, OR FITNESS FOR A PARTICULAR PURPOSE OR USE OF THE AIRCRAFT. FURTHER, LESSOR DISCLAIMS AS TO THE ABSENCE OF LATENT AND OTHER DEFECTS, WHETHER OR NOT DISCOVERABLE, AS TO THE ABSENCE OF ANY INFRINGEMENT OR THE LIKE HEREUNDER OF ANY PATENT, TRADEMARK, OR COPYRIGHT, AS TO THE ABSENCE OF OBLIGATIONS BASED ON STRICT LIABILITY IN TORT, OR AS TO THE QUALITY OF THE MATERIAL OR WORKMANSHIP OF THE AIRCRAFT OR ANY PART THEREOF.
+
+4.4
+
+Lessee’s Waiver and Release. THE LESSEE HEREBY WAIVES, RELEASES, DISCLAIMS AND RENOUNCES ALL EXPECTATION OF OR RELIANCE UPON ANY SUCH WARRANTIES, OBLIGATIONS, OR LIABILITIES OF LESSOR AND RIGHTS, CLAIMS AND REMEDIES OF THE LESSEE AGAINST LESSOR, EXPRESS OR IMPLIED, ARISING BY LAW OR OTHERWISE, INCLUDING BUT NOT LIMITED TO (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY OF FITNESS FOR ANY PARTICULAR USE OR PURPOSE, (B) ANY IMPLIED WARRANTY ARISING FROM COURSE OF PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE, (C) ANY OBLIGATION, LIABILITY, RIGHT, CLAIM, OR REMEDY IN TORT, WHETHER OR NOT ARISING FROM THE NEGLIGENCE OF LESSOR, ACTUAL OR IMPUTED, AND (D) ANY OBLIGATION, LIABILITY, RIGHT, CLAIM OR REMEDY FOR LOSS OF OR DAMAGE TO THE AIRCRAFT, FOR LOSS OF USE, REVENUE OR PROFIT WITH RESPECT TO THE AIRCRAFT, OR FOR ANY OTHER DIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+
+SECTION 5. REGISTRATION, USE, OPERATION, MAINTENANCE AND POSSESSION
+
+5.1
+
+Title and Registration; Subordination. Lessor has title to the Aircraft. Lessee acknowledges that title to the Aircraft shall remain vested in Lessor and Lessee undertakes, to the extent permitted by Applicable Law, to do all such further acts, deeds, assurances, or things as may, (i) in the reasonable opinion of the Lessor, be necessary or desirable in order to protect or preserve title to the Aircraft and (ii) in the reasonable opinion of the Lessor, be necessary or desirable in order to protect or preserve Lessor’s rights in the Aircraft or hereunder. Notwithstanding anything in this Agreement to the
+
+contrary, any rights Lessee may have in or to the Aircraft by virtue of this Agreement, including Lessee’s rights to possession and use of the Aircraft, are in all respects subordinate, junior, and subject to Lessor's rights and interests. To the extent requested by Lessor, its successors or assigns, Lessee shall take all action necessary to continue all right, title and interest of Lessor, its successors or assigns in the Aircraft under Applicable Law.
+
+5.2
+
+Use and Operation of the Aircraft. Except as otherwise expressly provided herein, Lessor shall be solely and exclusively responsible for the use, operation and control of the Aircraft during the Term of this Agreement. Lessee (i) shall operate the Aircraft in accordance with the provisions of Part 91 of the FAR, (ii) shall not operate the Aircraft in commercial service, as a common carrier, or otherwise on a compensatory or "for hire" basis except to the limited extent permitted under Subpart F of Part 91 of the FAR, if applicable, (iii) shall not operate or locate the Airframe or any Engine, or suffer the Airframe or any Engine to be operated or located, in any area excluded from coverage by any insurance policy in effect or required to be maintained hereunder with respect to the Airframe or Engines, or in any war zone, (iv) shall not operate the Airframe or any Engine or permit the Airframe or any Engine to be operated during the Term except in operations for which Lessee is duly authorized, or use or permit the Aircraft to be used for a purpose for which the Aircraft is not designed or reasonably suitable, (v) shall not permit the Airframe or any Engine to be maintained, used or operated during the Term in violation of any Applicable Law, or contrary to any manufacturer's operating manuals or instructions, and (vi) shall not knowingly permit the Aircraft to be used for the carriage of any persons or property prohibited by law, nor knowingly permit the Aircraft to be used during the existence of any known defect except in accordance with the FAR.
+
+5.3
+
+Lessee to Pay All Operating Costs. Lessee shall arrange for and pay all operating costs associated with Lessee’s use of the Aircraft incurred during the Term, including, without limitation, costs of pilots, cabin personnel, mechanics, and other ground support personnel (the foregoing collectively, the "Flight Crew"); landing and navigation fees; airport charges; passenger service and any and all other expenses of any kind or nature, arising directly or indirectly in connection with, or related to the use, movement or operation of the Aircraft by Lessee during the Term. Lessee’s obligation hereunder shall not include fuel, oil, or lubricants. The obligations of Lessee under this provision shall survive the end of the Term.
+
+5.4
+
+Maintenance of Aircraft. Lessor agrees to maintain and to deliver the Aircraft to Lessee in a good and airworthy operating condition and in compliance with applicable maintenance standards and practices. Lessee shall thereafter be solely responsible for any repairs or maintenance of the Aircraft that shall be required during the term of this Agreement associated with Lessee’s use, movement or operation of the Aircraft. The term "repairs" shall include all necessary service, repairs, tests, and maintenance of the Aircraft as appropriate to maintain the Aircraft in accordance with Applicable Law. During its operation of the Aircraft, Lessee shall maintain or cause to be maintained all Aircraft Documents required by the FAA, the Airframe manufacturer, the Engine manufacturer, and the manufacturers of component Parts, and said Aircraft Documents shall be maintained in a current, accurate, and complete manner and shall be available at all reasonable times for examination and inspection by Lessor. Lessee also agrees to use its best efforts promptly to furnish Lessor such information with respect to its use of the Aircraft as shall be required to enable Lessor to maintain all Aircraft Documents, and to file all reports required by any government authority relating to Lessor’s interest in the Aircraft. Lessor shall have no expense or liability for repair or maintenance delays and shall not be liable to Lessee for any damage from loss of profit or loss of use of Aircraft, either before or after delivery of Aircraft to Lessee.
+
+5.5
+
+Flight Crew. Lessee shall locate and retain (either through direct employment or contracting with an independent contractor for flight services) a properly qualified Flight Crew. All members of the Flight Crew shall be fully competent and experienced, duly licensed, and qualified in accordance with the requirements of Applicable Law and all insurance policies covering the Aircraft. All members of the Flight Crew who are pilots shall be fully trained in accordance with an FAA-approved training program, including initial and recurrent training and, where appropriate, contractor-provided simulator training.
+
+5.6
+
+Operational Control. THE PARTIES EXPRESSLY AGREE THAT LESSEE SHALL AT ALL TIMES WHILE OPERATING THE AIRCRAFT DURING THE TERM MAINTAIN OPERATIONAL CONTROL OF THE AIRCRAFT, AND THAT THE INTENT OF THE PARTIES IS THAT THIS AGREEMENT CONSTITUTE A "DRY" OPERATING LEASE. Lessee shall exercise exclusive authority over initiating, conducting, or terminating any flight conducted pursuant to this Agreement, and the Flight Crew shall be under the exclusive command and control of Lessee in all phases of such flights.
+
+5.7
+
+Authority of Pilot in Command. Notwithstanding that Lessee shall have operational control of the Aircraft during any flight conducted pursuant to this Agreement, Lessor and Lessee expressly agree that the Pilot in Command, in his or her sole discretion, may terminate any flight, refuse to commence any flight, or take any other flight-related action which in the judgment of the Pilot in Command is necessitated by considerations of safety. The Pilot in Command shall have final and complete authority to postpone or cancel any flight for any reason or condition, which in his or her judgment would compromise the safety of the flight. No such action of the Pilot in Command shall create or support any liability for loss, injury, damage or delay to Lessor.
+
+5.8
+
+Right to Inspect. Lessor and its agents shall have the right to inspect the Aircraft or the Aircraft Documents at any reasonable time, upon giving Lessee reasonable notice, to ascertain the condition of the Aircraft and to satisfy Lessor that the Aircraft is being properly repaired and maintained in accordance with the requirements of this Agreement. All required repairs shall be performed as soon as practicable after such inspection.
+
+5.9
+
+Aircraft Documents. Lessee shall, at its expense, for all periods during which Lessee is operating the Aircraft, maintain and preserve, or cause to be maintained and preserved, in the English language, all Aircraft Documents in a complete, accurate, and up-to-date manner.
+
+SECTION 6. CONDITION DURING TERM AND RETURN OF AIRCRAFT
+
+6.1
+
+Return. Upon Lessee’s return of the Aircraft to Lessor from time to time during the Term, or upon the date of termination of this Agreement, Lessee shall return the Aircraft to the Lessor by delivering the same, at the Lessee’s own risk and expense, to the Operating Base, fully equipped with all Engines installed thereon. The Aircraft at the time of its return shall be in the condition set forth in this Section 6 and shall be free and clear of all Liens.
+
+6.2
+
+Condition of Aircraft. The Aircraft at the time of its return to Lessor shall have been maintained and repaired in accordance with the provisions of this Agreement with the same care and consideration for the technical condition of the Aircraft as if it were to have been kept in continued regular service by the Lessee, and shall meet the following requirements:
+
+(a)
+
+Operating Condition. The Aircraft shall be in as good operating condition as on the Delivery Date, ordinary wear and tear excepted.
+
+(b)
+
+Cleanliness Standards. The Aircraft shall be clean and free of debris and any personal property of the Lessee.
+
+(c)
+
+Certificate of Airworthiness. The Aircraft shall have, and be in compliance with, a current valid certificate of airworthiness issued by the FAA, and shall be airworthy according to manufacturer's specifications and FAA regulations.
+
+6.3
+
+Aircraft Documents. Lessee shall deliver, or cause to be delivered to Lessor, at the time the Aircraft is returned to Lessor, all of the Aircraft Documents, updated and maintained by Lessee, or on behalf of Lessee, through the date of return of the Aircraft.
+
+SECTION 7. LIENS
+
+7.1
+
+Lessee shall ensure that no Liens are created or placed against the Aircraft by Lessee or third parties as a result of Lessee’s actions. Lessee shall notify Lessor promptly upon learning of any Liens not permitted by these terms. Lessee shall, at its own cost and expense, take all such actions as may be necessary to discharge and satisfy in full any such Lien promptly after the same becomes known to it. Lessee shall pay all charges related to the Aircraft as they become due and payable.
+
+SECTION 8. INSURANCE
+
+8.1
+
+Liability; Lessee as Additional Insured. Lessor shall maintain, or cause to be maintained, bodily injury and property damage, liability insurance in an amount no less than the amount outlined on Exhibit “A,” and with the coverage described on Exhibit “D” attached hereto. Combined Single Limit for the benefit of itself, Lessee, and Lessor, in connection with the use of the Aircraft. Said policy shall be an occurrence policy, naming Lessee, and its Officers, Directors, employees, agents, and guests as an Additional Named Insured.
+
+8.2
+
+Hull. Lessor shall maintain, or cause to be maintained, all risks aircraft hull insurance in an amount equal to the fair market value of the Aircraft, which the parties agree is not less than the amount outlined on Exhibit “A,” and with the coverage described on Exhibit “D” attached hereto, and such insurance shall name Lessor and Lessee as loss payees as their interests may appear.
+
+8.3
+
+Insurance Certificates. Lessor will provide Lessee with a Certificate of Insurance upon execution of this Agreement.
+
+SECTION 9. DEFAULTS AND REMEDIES
+
+1.
+
+Upon the occurrence of any failure of Lessee to duly observe or perform any of its obligations hereunder and at any time thereafter so long as the same shall be continuing, the Lessor may, at its option, declare in writing to the Lessee that this Agreement is in default; and at any time thereafter, so long as the Lessee shall not have remedied the outstanding default within five (5) days of such written notice, the Lessor may cancel, terminate, or rescind this Agreement.
+
+SECTION 10. NOTICES
+
+10.1
+
+All communications, declarations, demands, consents, directions, approvals, instructions, requests and notices required or permitted by this Agreement shall be in writing and shall be deemed to have been duly given or made when delivered personally or transmitted electronically by e-mail or facsimile, receipt acknowledged, or in the case of documented overnight delivery service or registered
+
+or certified mail, return receipt requested, delivery charge or postage prepaid, on the date shown on the receipt thereof, in each case at the address set forth below:
+
+If to Lessor: RJP Manageco, LLC Tel (415)-321-1243
+
+c/o Eichstaedt Fax: (415)-362-2434
+
+200 S. Virginia 8th Floor
+
+Reno, Nevada 89501
+
+Attn: Jill Lervold
+
+If to Lessee: Ubiquiti Networks, Inc. Tel: (408)-942-3085
+
+2580 Orchard Parkway Fax: (408)-890-4729
+
+San Jose, California 95131
+
+Attn: Craig L. Foster
+
+SECTION 11. RISK OF DAMAGE OR LOSS
+
+1.
+
+Risk of Loss. At all times during Lessee’s operation of the Aircraft during the Term, Lessee shall bear the risk of (i) damage to the Aircraft, or (ii) an Event of Loss to the Aircraft, to the extent such damage or Event of Loss arises from Lessee’s use, operation, or storage of the Aircraft. Notwithstanding the foregoing, Lessee shall not bear the risk of damage to the Aircraft, or an Event of Loss to the Aircraft, which arises out of Lessor’s failure to maintain the Aircraft, or otherwise provide the Aircraft to Lessee in the condition required under this Agreement. In the event of damage to the Aircraft, or an Event of Loss to the Aircraft, Lessee shall immediately (i) report the damage and/or Event of Loss to Lessor, the insurance company or companies, and to any and all applicable governmental agencies, and (ii) furnish such information and execute such documents as may be required and necessary to collect the proceeds from any insurance policies.
+
+11.2
+
+Limitation of Liability. Each party to this Agreement agrees to defend, indemnify, and hold harmless the other party and its respective officers, directors, members, managers, partners, employees, shareholders, and affiliates from any claim, damage, loss, or reasonable expense, including any insurance deductible, reasonable attorney’s fees resulting from the bodily injury or property damage caused by an occurrence and arising out of the ownership, maintenance, or use of the Aircraft which results from the gross negligence or willful misconduct of such party, provided that neither party shall be liable for any such loss to the extent: (a) such loss is covered through the payment of insurance proceeds from the insurance policies described in Section 8, (b) such loss is covered by such policies, but the amount of such loss exceeds the policy limits; or (c) such loss consists of expenses incurred in connection with any loss covered, in whole or in part, by the insurance policies in effect, but such expenses are not payable under the insurance policies in effect, excluding any insurance deductibles.
+
+EACH PARTY AGREES THAT (A) THE PROCEEDS OF INSURANCE TO WHICH IT IS ENTITLED, (B) ITS RIGHTS TO INDEMNIFICATION FROM THE OTHER PARTY UNDER THIS SECTION, AND (C) ITS RIGHT TO COLLECT DAMAGES ARISING IN CONTRACT FROM A MATERIAL BREACH OF THE OTHER PARTY’S OBLIGATIONS UNDER THIS AGREEMENT ARE THE SOLE REMEDIES FOR ANY DAMAGE, LOSS OR EXPENSE ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT. EXCEPT AS SET FORTH IN THIS SECTION, EACH PARTY WAIVES ANY RIGHT TO RECOVER ANY DAMAGE, LOSS OR EXPENSE ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR OR HAVE ANY DUTY FOR INDEMNIFICATION OR CONTRIBUTION TO THE OTHER PARTY FOR ANY CLAIMED
+
+INDIRECT, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY DAMAGES CONSISTING OF DAMAGES FOR LOSS OF USE OR DIMINUTION IN VALUE OF THE AIRCRAFT, OR LOSS OF PROFIT.
+
+SECTION 12. TAXES
+
+12.1
+
+Lessee shall report and pay promptly all Taxes arising from Lessee’s lease of the Aircraft under this Agreement. Lessee shall promptly reimburse (on an after tax basis) Lessor for any Taxes charged to or assessed against Lessor. Lessee shall show Lessor as the Lessor of the Aircraft on all tax reports or returns, and send Lessor a copy of each report or return and evidence of Lessees payment of Taxes upon request.
+
+12.2
+
+If any taxing authority requires that a tax required to be paid by Lessee hereunder be paid to the taxing authority directly by Lessor, including the Commercial Transportation Tax, Lessee shall, within thirty (30) days of his receipt of written notice from Lessor, pay to Lessor the amount of such tax, unless such tax is being contested pursuant to Section 12.3.
+
+12.3
+
+Lessor hereby acknowledges and agrees that Lessee may, from time to time, pursue refunds of any Taxes that Lessee is required to pay, to or on behalf of Lessor or otherwise, hereunder. Lessor agrees to fully cooperate in the process of obtaining such refunds, which may require the submission of claims for refund by Lessor in Lessor’s own name. Upon receipt of any such refund, Lessor agrees to immediately pay the amount of such refund to Lessee. In connection with any such refund pursuit by Lessee under the circumstances described above, (i) Lessor shall not be required to take any action pursuant thereto unless Lessor, in its sole discretion, determines there exists a reasonable basis in law and/or fact so to do, and (ii) in any event, Lessee hereby agrees to indemnify Lessor for any liability or loss which Lessor may incur as a result of or in any way relating to such contest or related proceeding and agrees to pay Lessor on demand all costs and expenses, including attorneys' fees, incurred by or on behalf of Lessor in connection with such contest/pursuit.
+
+12.4
+
+Notwithstanding the foregoing, the term “Taxes” shall not include Taxes to the extent they are (1) taxes imposed by the United States of America or any state or political subdivision thereof which are on or measured by the gross or net income of Lessor; (2) in the nature of franchise or conduct or business taxes imposed on Lessor; (3) the result of Lessor’s own bankruptcy or any act on the part of Lessor in contravention of the provisions of this Lease or any failure of Lessor to observe the provisions of this Lease; (4) imposed as a result of any voluntary sale, assignment, transfer, or other disposition by Lessor of any interest in the Aircraft, unless such transfer or disposition occurs during the existence of default under this Agreement, in which case, Lessor agrees to use commercially reasonably efforts to minimize any adverse tax consequences related to such disposition; (5) so long as no default under this Agreement shall have occurred and be continuing, any personal property taxes imposed with respect to the Aircraft; (6) imposed solely as a result of a transaction which is unrelated to the transactions contemplated under this Agreement; (7) interest or penalties resulting from Lessor’s failure to file timely and proper tax returns unless such failure is a result of Lessee’s failure to provide Lessor in a timely manner with the information needed to pay such Taxes; or (8) a result of the willful misconduct or gross negligence of Lessor.
+
+12.5
+
+For purposes of this Section 12, all references to “Lessor” shall be deemed to include any assignee of Lessor.
+
+12.6
+
+Lessee shall also be liable for and shall pay any and all fees for licenses, registrations, permits, and other certificates as may be required for the lawful operation of the Aircraft and as applicable to the
+
+lease operations. Lessee shall also pay any and all liabilities, fines, forfeitures, or penalties for violations of any applicable governmental regulations relating to the lease operations and reimburse Lessor for any amounts expended by Lessor on account of such violations except as otherwise set forth herein.
+
+12.7
+
+Lessee hereby agrees to reimburse Lessor for any amount paid by Lessor on behalf of Lessee or otherwise for any of Lessee’s obligations under this Section 12 within thirty (30) days after Lessee’s receipt of a written demand for such reimbursement from Lessor together with supporting invoices relating to such payments.
+
+SECTION 13. MISCELLANEOUS
+
+13.1
+
+Entire Agreement. This Agreement, and all terms, conditions, warranties, and representations herein, are for the sole and exclusive benefit of the signatories hereto. This Agreement constitutes the entire agreement of the parties as of its Effective Date and supersedes all prior or independent, oral or written agreements, understandings, statements, representations, commitments, promises, and warranties made with respect to the subject matter of this Agreement.
+
+13.2
+
+Other Transactions. Except as specifically provided in this Agreement, none of the provisions of this Agreement, nor any oral or written statements, representations, commitments, promises, or warranties made with respect to the subject matter of this Agreement shall be construed or relied upon by any party as the basis of, consideration for, or inducement to engage in, any separate agreement, transaction or commitment for any purpose whatsoever.
+
+13.3
+
+Prohibited and Unenforceable Provisions. Any provision of this Agreement, which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibitions or unenforceability in any jurisdiction. To the extent permitted by applicable law, each of Lessor and Lessee hereby waives any provision of applicable law which renders any provision hereof prohibited or unenforceable in any respect.
+
+13.4
+
+Enforcement. This Agreement, including all agreements, covenants, representations and warranties, shall be binding upon and inure to the benefit of, and may be enforced by Lessor, Lessee, and each of their agents, servants and personal representatives.
+
+13.5
+
+Headings. The section and subsection headings in this Agreement are for convenience of reference only and shall not modify, define, expand, or limit any of the terms or provisions hereof.
+
+13.6
+
+Counterparts. This Agreement may be executed by the parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all such counterparts shall together constitute but one and the same instrument.
+
+13.7
+
+Amendments. No term or provision of this Agreement may be amended, changed, waived, discharged, or terminated orally, but only by an instrument in writing signed by the party against which the enforcement of the change, waiver, discharge, or termination is sought.
+
+13.8
+
+No Waiver. No delay or omission in the exercise or enforcement or any right or remedy hereunder by either party shall be construed as a waiver of such right or remedy. All remedies, rights, undertakings, obligations, and agreements contained herein shall be cumulative and not mutually exclusive, and in addition to all other rights and remedies which either party possesses at law or in equity.
+
+13.9
+
+No Assignments. Neither party may assign its rights or obligations under this Agreement without the prior written permission of the other.
+
+13.10
+
+Governing Law. This Agreement shall in all respects be governed by, and construed in accordance with, the laws of the state designated in Exhibit A, including all matters of construction, validity and performance, without giving effect to its conflict of laws provisions.
+
+13.11
+
+Truth In Leasing.
+
+THE AIRCRAFT, A BOMBARDIER, INC. CL600-2B16 AIRCRAFT, MANUFACTURER'S SERIAL NO. 5821, CURRENTLY REGISTERED WITH THE FEDERAL AVIATION ADMINISTRATION AS N775RP, HAS BEEN MAINTAINED AND INSPECTED UNDER FAR PART 91 DURING THE 12 MONTH PERIOD PRECEDING THE DATE OF THIS LEASE.
+
+THE AIRCRAFT WILL BE MAINTAINED AND INSPECTED UNDER FAR PART 91 FOR OPERATIONS TO BE CONDUCTED UNDER THIS LEASE. DURING THE DURATION OF THIS LEASE, UBIQUITI NETWORKS, INC., WITH AN ADDRESS OF 2580 ORCHARD PARKWAY, SAN JOSE, CALIFORNIA 95131, IS CONSIDERED RESPONSIBLE FOR OPERATIONAL CONTROL OF THE AIRCRAFT UNDER THIS LEASE.
+
+AN EXPLANATION OF FACTORS BEARING ON OPERATIONAL CONTROL AND PERTINENT FEDERAL AVIATION REGULATIONS CAN BE OBTAINED FROM THE NEAREST FAA FLIGHT STANDARDS DISTRICT OFFICE.
+
+THE "INSTRUCTIONS FOR COMPLIANCE WITH TRUTH IN LEASING REQUIREMENTS" ATTACHED HERETO ARE INCORPORATED HEREIN BY REFERENCE.
+
+I, THE UNDERSIGNED CRAIG L. FOSTER, AS THE CHIEF FINANCIAL OFFICER OF UBIQUITI NETWORKS, INC., WITH AN ADDRESS OF 2580 ORCHARD PARKWAY, SAN JOSE, CALIFORNIA 95131, CERTIFY THAT IT IS RESPONSIBLE FOR OPERATIONAL CONTROL OF THE AIRCRAFT AND THAT IT UNDERSTAND ITS RESPONSIBILITIES FOR COMPLIANCE WITH APPLICABLE FEDERAL AVIATION REGULATIONS.
+
+IN WITNESS WHEREOF, the Lessor and the Lessee have each caused this Aircraft Lease Agreement to be duly executed as of the Effective Date.
+
+LESSOR:
+
+RJP Manageco, LLC,
+
+a Delaware limited liability company,
+
+By: ____________/s/_____________
+
+Name: Robert J. Pera
+
+Title: Authorized Signatory
+
+LESSEE:
+
+Ubiquiti Networks, Inc.,
+
+a Delaware corporation,
+
+By: ____________/s/_____________
+
+Name: Craig L. Foster
+
+Title: Chief Financial Officer
+
+AIRCRAFT LEASE AGREEMENT
+
+(Non-Exclusive)
+
+EXHIBIT “A”
+
+Aircraft Make/Model
+
+Bombardier. Inc., CL600-2B16
+
+FAA Registration No.
+
+N775RP
+
+Serial Number
+
+5821
+
+Engine Manufacturer & Model
+
+General Electric CF34-3
+
+Serial Nos. 950861 and 950862
+
+Base Airport
+
+San Jose International (SJC), San Jose, California
+
+Minimum Liability Insurance Coverage
+
+$200,000,000.00, as further described in Exhibit “D” hereto.
+
+Minimum Hull Insurance Coverage
+
+$18,000,000.00, as further described in Exhibit “D” hereto.
+
+Controlling State Law & Venue
+
+California and Santa Clara County
+
+ AIRCRAFT LEASE AGREEMENT
+
+(Non-Exclusive)
+
+EXHIBIT “B”
+
+Hourly Rent: $5,000.00
+
+The Hourly Rent Payment Date shall be the tenth (10th) day after receipt of an Invoice from the Lessor.
+
+EXHIBIT “C”
+
+AIRCRAFT DELIVERY RECEIPT
+
+Ubiquiti Networks, Inc. (“Lessee”) hereby acknowledges delivery and acceptance of the Aircraft described in that Aircraft Lease Agreement (the “Agreement”) by and between Lessee and RJP Manageco, LLC (“Lessor”) as of November 13, 2013. Lessee hereby accepts custody of the Aircraft in good working order and airworthy condition for the purposes set forth in the Agreement.
+
+Total Airframe Time at Delivery: 659.5 hours
+
+Total Engine Time at Delivery: 659.5 Left
+
+659.5 Right
+
+Total Landings at Delivery: 469 cycles
+
+Lessee:
+
+Ubiquiti Networks, Inc.,
+
+a Delaware corporation,
+
+By: _________/s/________
+
+Name: Craig L. Foster
+
+Title: Chief Financial Officer
+
+EXHIBIT “D”
+
+SUMMARY OF MINIMUM POLICY INSURANCE COVERAGES
+
+AVIATION LIABILITY
+
+COVERAGES
+
+POLICY LIMITS
+
+BUT NOT LESS THAN
+
+Liability for Scheduled Aircraft, Including War Risks
+
+*Note: certain aircraft must carry minimum liability limits including war risks based on the maximum takeoff weight of the aircraft. This is a requirement of the EU member countries in order to overfly or land in those areas.
+
+$150,000,000 BI/PD each occurrence for aircraft with 9 or fewer passenger seats, or $200,000,000 BI/PD each occurrence (or higher if necessary to meet EU requirements) for aircraft with 10 or more passenger seats*
+
+* War risks liability limit for passengers is same as applicable liability limit above. A sublimit of $50,000,000 per occurrence for bodily injury to persons and property damage automatically applies with respect to war liability to non-passengers.
+
+Liability for Use of Non-Owned Aircraft, Including War Risks
+
+Up to 40 non-crew seats
+
+Not less than the policy limit set forth above for Scheduled Aircraft.*
+
+*Same terms and conditions regarding war risk and liability limits as above.
+
+Liability for Physical Damage to Non-Owned Aircraft
+
+$50,000,000 each aircraft/each occurrence
+
+Host Liquor Liability
+
+Not less than the policy limit set forth above for Scheduled Aircraft
+
+Liability Assumed Under Written Contractual Agreements
+
+Not less than the policy limit set forth above for Scheduled Aircraft
+
+Liability for Personal Injury
+
+$25,000,000 each occurrence/aggregate
+
+Voluntary Settlement, Including Passengers and Flight Crew
+
+$500,000 each person x maximum seats
+
+Voluntary Settlement for Non-Owned Aircraft, Including Passengers and Flight Crew employed by Solairus Aviation.
+
+$500,000 each person x maximum seats
+
+Medical Payments for Scheduled and Non-Owned Aircraft
+
+$50,000 each person
+
+Cargo Liability
+
+$1,000,000 each occurrence
+
+Liability for Personal Effects & Baggage
+
+$500,000 each passenger/each occurrence
+
+$500,000 each crew member/each occurrence
+
+Liability for Property Damage to Non-Owned Hangars and Contents
+
+$10,000,000 aggregate
+
+Products Liability for Sale of Owned Aircraft or Parts
+
+Not less than the policy limit set forth above for Scheduled Aircraft.
+
+Mexican Liability Insurance
+
+Statutory Limits required by Mexico
+
+AIRCRAFT PHYSICAL DAMAGE
+
+COVERAGES
+
+POLICY LIMITS
+
+BUT NOT LESS THAN
+
+All-Risks Aircraft Physical Damage for Scheduled Aircraft (Including War Risks/Confiscation)
+
+$18,000,000.00
+
+Automatic Insurance for Increased Value of Scheduled Aircraft
+
+Actual Amount Paid
+
+Spare Engines and Spare Parts
+
+$6,000,000 maximum any one loss
+
+Extra Expenses Resulting from Covered Loss:
+
+Temporary Substitute Aircraft
+
+Temporary Replacement Parts
+
+NIL per day/$2,000,000 per occurrence (180 days maximum)
+
+$500,000 per occurrence
+
+Trip Interruption Expense (arising from covered loss)
+
+$75,000 each passenger any one occurrence
+
+$75,000 each crew member any one occurrence
+
+Search and Rescue Expense
+
+$1,000,000 any one occurrence
+
+Runway Foaming & Crash Control Expense
+
+$1,000,000 any one occurrence
+
+Emergency Landing
+
+Cost to transport
+
+OTHER PROVISIONS
+
+Reciprocal Breach of Warranty/Invalidation of Interest
+
+Coverage for one insured party will not be voided or invalidated by any act or neglect of another insured party under the policy, provided no knowing consent or prior knowledge that such action would void coverage.
+
+Loss Payable Payee for Hull claims
+
+Loss payment claim reimbursements will be paid to Solairus Aviation, Lessor, and Lessee, and any lienholder, as their interest may appear
+
+Purpose of Use
+
+Any use (including passenger carrying for a charge)
+
+Territory
+
+Worldwide
+
+Notice of Cancellation
+
+90 days (10 days for non-payment of premium) except for Agreement termination (up to 15 days as mutually agreed). War risk per the policy in effect at the time.
+
+•
+
+Deductibles: Nil unless specifically indicated.
+
+EXHIBIT “E”
+
+INSTRUCTIONS FOR
+
+COMPLIANCE WITH “TRUTH IN LEASING” REQUIREMENTS
+
+1.
+
+Mail a copy of the Lease to the following address via certified mail, return receipt requested immediately upon the execution of the Lease: (14 C.F.R. 91.23 requires that the copy be sent within twenty four hours after it is signed.)
+
+Federal Aviation Administration
+
+Aircraft Registration Branch
+
+ATTN: Technical Section
+
+P.O. Box 25724
+
+Oklahoma City, Oklahoma 73125
+
+2.
+
+Telephone (or fax) the nearest Flight Standards District Office at least forty-eight hours prior to the first flight under this Lease.
+
+3.
+
+Carry a copy of the Lease in the Aircraft at all times.

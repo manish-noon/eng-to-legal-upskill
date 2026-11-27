@@ -1,0 +1,402 @@
+[
+  {
+    "id": "01-jetblue-a320",
+    "name": "JetBlue / Airbus A320 family",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What document delivery accompanies transfer of title and risk under the ordinary delivery process?",
+        "value": "Bill of Sale",
+        "choices": [
+          "Bill of Sale",
+          "Technical Acceptance report",
+          "Training certificate"
+        ],
+        "section": "9.2.2",
+        "quote": "contemporaneously with the delivery by the Seller to the Buyer of such Bill of Sale"
+      },
+      {
+        "prompt": "How long after receipt of the support-representative accounting does the buyer have to object in writing?",
+        "value": "30 calendar days",
+        "choices": [
+          "30 calendar days",
+          "30 business days",
+          "60 calendar days"
+        ],
+        "section": "15.1.3",
+        "quote": "within thirty (30) calendar days of receipt of such accounting"
+      },
+      {
+        "prompt": "How far before a course starts must the validated trainee attendance list be provided at the latest?",
+        "value": "60 calendar days",
+        "choices": [
+          "60 calendar days",
+          "30 business days",
+          "60 business days"
+        ],
+        "section": "16.4.4.3",
+        "quote": "in no event any later than sixty (60) calendar days before the start of the training course"
+      }
+    ]
+  },
+  {
+    "id": "02-united-boeing",
+    "name": "United / Boeing 787-8",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than twenty-four (24) months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When is the remaining aircraft price payable?",
+        "value": "At delivery",
+        "choices": [
+          "At delivery",
+          "At contract signing",
+          "After entry into service"
+        ],
+        "section": "4.4",
+        "quote": "pay the balance of the Aircraft Price of each Aircraft at delivery"
+      },
+      {
+        "prompt": "Which supplemental exhibit gives the airframe and optional features escalation formula?",
+        "value": "AE1",
+        "choices": [
+          "AE1",
+          "Exhibit B",
+          "Table 1"
+        ],
+        "section": "5.2",
+        "quote": "Supplemental\nExhibit AE1 contains the applicable airframe and optional features escalation formula"
+      }
+    ]
+  },
+  {
+    "id": "03-lan-boeing",
+    "name": "LAN / Boeing 777 freighter",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What is the initial advance on the effective date as a percentage of the advance payment base price, before deducting the deposit?",
+        "value": "1%",
+        "choices": [
+          "1%",
+          "5%",
+          "10%"
+        ],
+        "section": "4.2",
+        "quote": "beginning with a payment of 1%, less the Deposit"
+      },
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than 24 months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When is the remaining aircraft price payable?",
+        "value": "At delivery",
+        "choices": [
+          "At delivery",
+          "At contract signing",
+          "After entry into service"
+        ],
+        "section": "4.4",
+        "quote": "pay the balance of the Aircraft Price of each Aircraft at delivery"
+      }
+    ]
+  },
+  {
+    "id": "04-airtran-boeing",
+    "name": "AirTran / Boeing 737",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "What is the initial advance on the effective date as a percentage of the advance payment base price, before deducting the deposit?",
+        "value": "1%",
+        "choices": [
+          "1%",
+          "5%",
+          "10%"
+        ],
+        "section": "4.2",
+        "quote": "beginning with a payment of 1%, less the Deposit"
+      },
+      {
+        "prompt": "For the advance-payment catch-up rule, delivery must be scheduled less than how many months from the purchase agreement?",
+        "value": "24 months",
+        "choices": [
+          "24 months",
+          "12 months",
+          "36 months"
+        ],
+        "section": "4.3",
+        "quote": "less than 24 months from the date of this Purchase Agreement"
+      },
+      {
+        "prompt": "When in each month specified in Table 1 do additional advance payments fall due?",
+        "value": "First business day",
+        "choices": [
+          "First business day",
+          "Last business day",
+          "Fifteenth calendar day"
+        ],
+        "section": "4.2",
+        "quote": "due on the first business day of the months listed in the attached Table 1"
+      }
+    ]
+  },
+  {
+    "id": "05-baltia-kalitta",
+    "name": "Baltia / Kalitta 747",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "Despite the as-is language, what minimum time must remain to the specified landing-gear inspection?",
+        "value": "3 years",
+        "choices": [
+          "3 years",
+          "3 months",
+          "1 year"
+        ],
+        "section": "1(b)",
+        "quote": "landing gear will have at least three (3) years time remaining to"
+      },
+      {
+        "prompt": "When the agreement is signed, what is the status of the buyer's inspections?",
+        "value": "Completed",
+        "choices": [
+          "Completed",
+          "Scheduled but outstanding",
+          "Conditional on financing"
+        ],
+        "section": "3(b)",
+        "quote": "Buyer has completed all inspections of the Aircraft"
+      },
+      {
+        "prompt": "Which US state's laws are named alongside the laws of the United States?",
+        "value": "Michigan",
+        "choices": [
+          "Michigan",
+          "New York",
+          "Delaware"
+        ],
+        "section": "13(a)",
+        "quote": "laws of the State of Michigan"
+      }
+    ]
+  },
+  {
+    "id": "06-coachmen",
+    "name": "Hudson / Coachmen sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "What amount must the purchaser deposit as earnest money?",
+        "value": "USD 50,000",
+        "choices": [
+          "USD 50,000",
+          "USD 25,000",
+          "USD 100,000"
+        ],
+        "section": "2(a)",
+        "quote": "earnest money deposit in the sum of $50,000"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "2(b)",
+        "quote": "The escrow fees to be equally shared between the Purchaser and Seller"
+      },
+      {
+        "prompt": "What is the maximum interval from completion of agreed corrective action to closing?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "2(c)",
+        "quote": "no more than 3 business days following completion of all agreed upon corrective action"
+      }
+    ]
+  },
+  {
+    "id": "07-microstrategy",
+    "name": "MicroStrategy / Bombardier new aircraft",
+    "kind": "OEM purchase",
+    "fields": [
+      {
+        "prompt": "Excusable delay prevents presentation for inspection and flight testing. What threshold after expiry of the Delivery Period gives the buyer its termination election?",
+        "value": "100 days",
+        "choices": [
+          "100 days",
+          "300 days",
+          "75 business days"
+        ],
+        "section": "8.3",
+        "quote": "within one hundred (100) days after the expiry of the Delivery"
+      },
+      {
+        "prompt": "For the same excusable failure to present for inspection and flight testing, which threshold after the Delivery Period applies to the seller's termination election?",
+        "value": "300 days",
+        "choices": [
+          "300 days",
+          "100 days",
+          "30 business days"
+        ],
+        "section": "8.3",
+        "quote": "within three hundred (300) days after the expiry of the Delivery Period"
+      },
+      {
+        "prompt": "How long after receipt of a Move-Up Option Notice does the buyer have to notify exercise in writing?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "15.2",
+        "quote": "within three (3) business days of receipt of the applicable Move-Up Option Notice"
+      }
+    ]
+  },
+  {
+    "id": "08-tempus",
+    "name": "Tempus / ME Aviation six-aircraft purchase",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "If no technical acceptance letter arrives by the inspection decision deadline, which aircraft are deemed rejected?",
+        "value": "The relevant aircraft and all others",
+        "choices": [
+          "The relevant aircraft and all others",
+          "Only the inspected aircraft",
+          "No aircraft"
+        ],
+        "section": "3.4",
+        "quote": "deemed a Purchaser’s rejection of the relevant and all other Aircraft"
+      },
+      {
+        "prompt": "Once the specified pre-closing obligations have been performed and conditions satisfied or waived, how long is the closing interval?",
+        "value": "3 business days",
+        "choices": [
+          "3 business days",
+          "3 calendar days",
+          "5 business days"
+        ],
+        "section": "4.4",
+        "quote": "The Closing shall occur within three (3) Business Days"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "Escrow agent joinder",
+        "quote": "Purchaser and Seller shall each be responsible for one-half (1/2) of said total"
+      }
+    ]
+  },
+  {
+    "id": "09-wwe",
+    "name": "WWE / Bombardier Global 5000 sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "What does missing the technical acceptance/rejection letter deadline do to the inspection election?",
+        "value": "Deemed rejection",
+        "choices": [
+          "Deemed rejection",
+          "Deemed acceptance",
+          "Automatic extension"
+        ],
+        "section": "3.5",
+        "quote": "Purchaser shall be deemed to have rejected the Aircraft"
+      },
+      {
+        "prompt": "Who bears the risk of loss before title transfer?",
+        "value": "Seller",
+        "choices": [
+          "Seller",
+          "Purchaser",
+          "Escrow agent"
+        ],
+        "section": "8.2.2",
+        "quote": "Seller shall bear all risk of loss, damage, or destruction of the Aircraft until title"
+      },
+      {
+        "prompt": "How are escrow fees allocated between purchaser and seller?",
+        "value": "Equal shares",
+        "choices": [
+          "Equal shares",
+          "Seller pays all",
+          "Purchaser pays all"
+        ],
+        "section": "8.13",
+        "quote": "Purchaser and Seller shall each pay one-half (½) of the Escrow and Title Search Fees"
+      }
+    ]
+  },
+  {
+    "id": "10-spirit-sale",
+    "name": "Spirit fleet sale",
+    "kind": "Aircraft sale",
+    "fields": [
+      {
+        "prompt": "How much advance written notice must the buyer give to designate an owner trustee before delivery?",
+        "value": "At least 5 business days",
+        "choices": [
+          "At least 5 business days",
+          "At least 5 calendar days",
+          "At least 10 business days"
+        ],
+        "section": "2.5",
+        "quote": "at least five Business Days before the Delivery of such Aircraft"
+      },
+      {
+        "prompt": "Who remains responsible for obligations owed to the seller after designation of a buyer's owner trustee?",
+        "value": "Buyer",
+        "choices": [
+          "Buyer",
+          "Owner trustee alone",
+          "Trust beneficiary alone"
+        ],
+        "section": "2.5",
+        "quote": "Buyer shall remain responsible for any obligations owed to Seller hereunder notwithstanding any such designation"
+      },
+      {
+        "prompt": "What jurisdiction do the listed New York courts receive under the forum clause?",
+        "value": "Non-exclusive",
+        "choices": [
+          "Non-exclusive",
+          "Exclusive",
+          "Appellate only"
+        ],
+        "section": "11.6(b)",
+        "quote": "non-exclusive jurisdiction of the courts of the State of New York"
+      }
+    ]
+  }
+]

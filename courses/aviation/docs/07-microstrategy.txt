@@ -1,0 +1,2977 @@
+Aircraft Purchase Agreement
+
+Exhibit 10.1
+
+AIRCRAFT PURCHASE AGREEMENT
+
+This Aircraft Purchase Agreement (this “Agreement”) is made by and between
+BOMBARDIER INC. (“Seller”) and MICROSTRATEGY INCORPORATED (“Buyer”) and shall be effective as of the date of its acceptance and execution by the parties.
+
+ARTICLE 1. AIRCRAFT DESCRIPTION
+
+Subject to the provisions of this Agreement, Seller agrees to manufacture, sell and
+deliver, and Buyer agrees to take delivery of, and pay for, that certain Bombardier Global Express XRS aircraft as described in the Baseline Aircraft Specification and Customer Support Services manual dated February 2006 Revision 5, Effectivity: s/n
+A10-216-9282 and subs, attached hereto as Schedule “A”, together with the aircraft interior completion specification (Executive Summary dated November 21, 2006, entitled “Global Express XRS - for MicroStrategy”) and floor
+plan bearing drawing number GP-1653-001, Rev. P2 as specified in Schedule “A-1” (as such Schedule “A-1” may be modified from time to time pursuant to Article 3.2 below), which replaces the interior completion specification and
+floor plan described in Schedule “A”. Schedules “A” and “A-1” (collectively, the “Specification”, and together with the “Green Aircraft” (as defined below), the “Aircraft”) are made a part
+of this Agreement by this reference. Seller shall notify Buyer in writing of the serial number for the Aircraft not later than the earlier of (a) ninety (90) days prior to the issuance of the green certificate of airworthiness; or
+(b) fifteen (15) days prior to the mating of the wings to the fuselage. In addition, attached as Schedule “D” hereto is a list of undertakings that Seller shall fulfill on or prior to Delivery Time with respect to the Rockwell
+Collins cabin management system to be installed on the Aircraft.
+
+The Aircraft shall be manufactured and completed using only “new” serialized
+parts, components or structures. For the purpose of this Agreement, “new” shall mean parts, components or structures having all applicable warranties in place first effective as of the Delivery Time and if installed on, or incorporated in
+another aircraft, not having flown for more than 35 hours (excluding life-limited parts), except for parts, components or structures included in the Completion Work, which shall not have been previously installed or incorporated in another aircraft.
+The term “life limited parts” as used in this paragraph shall mean all altimeters, transponders, life vests, life rafts and other life limited and safety equipment with a life limit of one year or less from Delivery Time which shall be
+re-calibrated or re-certified, as appropriate no earlier than forty-five days prior to Delivery Time
+
+ARTICLE 2. PRICE, PAYMENT SCHEDULE AND DELIVERY
+
+ 2.1
+ Subject to the terms and conditions of this Agreement, in consideration of Seller’s obligations to manufacture, sell and deliver the Aircraft to Buyer, Buyer shall pay to
+Seller the amount of Forty-Six Million Twenty-Five Thousand Six Hundred and Eighty-Five United States Dollars ($46,025,685 USD) (the “Purchase Price”) as follows:
+
+(i) 1st payment due by no
+later than 31 January 2007 following execution of this Agreement by the parties:
+
+ $5,000,000 USD
+
+(ii) 2nd payment due twelve
+(12) months prior to the estimated delivery date of the green aircraft certificate of airworthiness (the current estimated delivery date for the green aircraft certificate of airworthiness is 22 September 2008; provided, that in the event such
+estimated delivery date is revised prior to 22 September 2007, Seller shall notify Buyer of any such revision and the 2nd payment shall then be due twelve (12) months prior to the new estimated delivery date):
+
+ $2,500,000 USD
+
+AIRCRAFT PURCHASE AGREEMENT
+
+(iii) 3rd payment due upon
+actual delivery of the green aircraft certificate of airworthiness:
+
+ $25,000,000 USD
+
+(iv) Balance of the Purchase Price due at the Delivery Time (as hereinafter defined):
+
+ $13,525,685 USD
+
+Seller shall provide not less than thirty (30) days’ written notice to Buyer of the date on which each of the payments set forth in 2.1(ii) and 2.1(iii) is
+due. Such notice may be by way of an invoice.
+
+ 2.2
+
+ The Aircraft (including, without limitation, the documentation referred to in Article 5.1(c)) shall be ready for Buyer’s Final Inspection (as defined in Article 5.1(c)) at
+Seller’s facility in the city of Montreal, Quebec between July 1, 2009 and August 30, 2009 (the “Delivery Period”). The Aircraft shall be delivered to Buyer at Seller’s facility in the city of Montreal, Quebec or at such other
+location as may be agreed between the parties (the “Delivery Location”).
+
+ 2.3
+
+ Buyer shall have the option to request in writing to Seller not later than 22 July 2008 that this Agreement be amended to provide (a) for the transfer by Seller to Buyer of legal
+title to the Green Aircraft upon receipt by Seller of the payments referred to in Articles 2.1(i), 2.1(ii), 2.1(iii), and sixty percent (60%) of the payment referred to in Article 2.1(iv); and (b) that such transfer of legal title to the Green
+Aircraft shall not shift the risk of loss or damage to the Aircraft to Buyer or otherwise adversely affect any of Buyer’s rights under this Agreement. Within twenty (20) business days after Seller’s receipt of such written request from
+Buyer, the parties shall enter into a mutually-agreed amendment to this Agreement incorporating the matters provided for in the previous sentence and in the mutually-agreed amendment required to provide for such transfer of title to the Green
+Aircraft to Buyer. For the purposes of this Agreement, the term “Green Aircraft” shall mean the Aircraft completed in accordance with Schedule “A”, excluding the Completion Work.
+
+ 2.4
+
+All payments to be made to the Seller herein shall be by way of wire
+transfer in accordance with the following wire transfer instructions:
+
+ABA #:
+
+Account Name:
+
+Account Number:
+
+Bank Name:
+
+SWIFT number:
+
+Please:
+Reference Contract Number
+
+ARTICLE 3. COMPLETION WORK
+
+3.1 The parties acknowledge that Buyer has not selected all of the details of the Aircraft interior completion Specification and exterior paint scheme (collectively, the “Completion Work”) as of the
+execution date of this Agreement. Buyer agrees to complete the selection of the Completion Work on or before 15 February 2008 (the “Specification Date”). In the event Buyer does not make all such selections on or prior to the
+Specification Date, Buyer agrees that Seller may complete the Aircraft in accordance with Schedule A-1, and, with respect to matters for which Buyer did not make a selection, Seller, acting reasonably, may select the interior materials and colors
+and exterior paint scheme to complete the Completion Work (the “Seller Selections”). Seller acknowledges and agrees that the Purchase Price includes the cost of completing the Aircraft in accordance with the Specification and the
+Completion Work as set out in Schedule A-1 as in effect as of the date of this Agreement, including, if applicable, any Seller Selections.
+
+3.2 In the
+event Buyer requests a change to the Completion Work, Seller agrees to evaluate, acting in good faith, such request with respect to feasibility, price and possible impact on Seller’s production schedule and the Inspection Availability Date (as
+defined in Article 5.1(c)); provided, that the parties agree that any change selected from the Seller’s Published Options Catalogue, to the Completion Work made prior to the Specification Date shall not affect the production schedule or the
+Inspection Availability Date. In the event Buyer either requests a change not selected from the Seller’s Published Options Catalogue or requests a change after the Specification Date, Seller shall (a) determine, acting in good faith,
+whether such a change is feasible and will not adversely affect its production schedule; and, if so (b) prepare and send, acting in good faith, a change order to Buyer setting out the date by which Buyer must elect whether to accept such change
+order and indicating
+
+AIRCRAFT PURCHASE AGREEMENT
+
+whether such change order will affect the Purchase Price (either through an increase or decrease) or the Inspection Availability Date. To the extent any
+adjustment of the Purchase Price is necessary, such adjustment shall be calculated by deleting the cost of items that Buyer elects to cancel, if any, and adding the cost of items that Buyer elects to add, with all such costs determined (i) by
+the price listed in Seller’s then current Published Options Catalogue to the extent such items are contained therein; or (ii) to the extent that such items are not contained in Seller’s then current Published Options Catalogue, using
+Seller’s quotation provided to Buyer as part of the change order. Provided Buyer accepts such change order by the date indicated by executing a counterpart thereof, the change order shall be added to the Completion Work and become a part of
+this Agreement. Any increase in Purchase Price due as a result of such change order shall be due and payable at the Delivery Time. Buyer acknowledges that such change may have an impact on the weight and the performance of the Aircraft.
+
+ARTICLE 4. GENERAL PROVISIONS
+
+4.1 THE WARRANTY, OBLIGATIONS AND
+LIABILITIES OF SELLER AND THE RIGHTS AND REMEDIES OF BUYER SET FORTH IN THE AGREEMENT ARE EXCLUSIVE AND ARE IN LIEU OF AND BUYER HEREBY WAIVES AND RELEASES ALL OTHER WARRANTIES, OBLIGATIONS, REPRESENTATIONS OR LIABILITIES, EXPRESS OR IMPLIED,
+ARISING BY LAW, IN CONTRACT, CIVIL LIABILITY OR IN TORT, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO A) ANY IMPLIED WARRANTY OF MERCHANTABILITY OR OF FITNESS FOR A PARTICULAR PURPOSE, AND B) ANY OTHER OBLIGATION OR LIABILITY ON THE PART OF
+SELLER TO ANYONE OF ANY NATURE WHATSOEVER BY REASON OF THE DESIGN, MANUFACTURE, SALE, REPAIR, LEASE OR USE OF THE AIRCRAFT OR RELATED PRODUCTS AND SERVICES DELIVERED OR RENDERED HEREUNDER OR OTHERWISE.
+
+4.2 SELLER SHALL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL AND/OR PUNITIVE DAMAGES OF ANY KIND OR NATURE UNDER ANY CIRCUMSTANCES OR, WITHOUT
+LIMITING THE FOREGOING, FOR ANY LOST PROFITS OR ANY OTHER LOSSES OR DAMAGES FOR OR ARISING OUT OF ANY LACK OR LOSS OF USE OF ANY AIRCRAFT, ANY EQUIPMENT, ANY ACCESSORY OR ANY SPARE PART FOR ANY REASON.
+
+4.3 THE PARTIES HERETO HEREBY ACKNOWLEDGE AND AGREE THAT THE LIMITED WARRANTIES AND THE LIMITATION OF LIABILITY PROVISIONS CONTAINED HEREIN AND IN THE SPECIFICATION HAVE
+BEEN EXPRESSLY AGREED TO IN CONSIDERATION OF THE PURCHASE PRICE AND OTHER PROVISIONS OF THIS AGREEMENT. TO THE EXTENT APPLICABLE LAWS DO NOT ALLOW THE LIMITATIONS SET OUT IN THIS ARTICLE 4, SUCH LIMITATIONS SHALL NOT BE APPLIED OR INVOKED.
+
+4.4 This Agreement shall be governed by and interpreted in accordance with the substantive laws of the State of New York, excluding any conflicts of law
+provisions thereof.
+
+ARTICLE 5. DELIVERIES AND INSPECTIONS
+
+ 5.1
+ Buyer shall be entitled to conduct the following inspections:
+
+AIRCRAFT PURCHASE AGREEMENT
+
+ a)
+ Green Aircraft Inspection. Seller shall give Buyer not less than ten (10) days prior written notice of the date (the “Green Aircraft Inspection Availability
+Date”) on which following issuance of the Green Aircraft certificate of airworthiness, the Green Aircraft will be ready at Seller’s facility in Toronto for Buyer’s inspection and acceptance flight testing of not more than three
+(3) hours duration or such longer period as may reasonably be required by Buyer to establish compliance of the Aircraft with Schedule “A”, as it relates to the Green Aircraft (the “Green Aircraft Inspection”). Buyer agrees
+to perform and complete such Green Aircraft Inspection during the five (5) day period following the Green Aircraft Inspection Availability Date. The Green Aircraft Inspection shall include, without limitation, a review of all symmetry numbers
+for the airframe to the extent such numbers are available for the Aircraft, or if such numbers are not available, the symmetry numbers for the airframe of the most recent aircraft for which such numbers are available. In the event Buyer, acting in
+good faith, determines the condition of the Green Aircraft to be satisfactory, Buyer shall execute and deliver to Seller on or before the end of such five (5) day period, the receipt confirming the completion of the Green Aircraft Inspection in
+accordance with the terms of Article 5.3(a). In the event Buyer identifies, acting in good faith, discrepancies or defects on the Green Aircraft, Buyer shall provide a written list of such discrepancies or defects to Seller and Seller shall correct
+such discrepancies and defects according to the terms of Article 5.2(a) below.
+
+ b)
+ Pre-Paint Inspection. Not less than thirty (30) days prior to the date on which the exterior painting of the Aircraft is scheduled to begin (the “Paint Application
+Date”), Seller shall notify Buyer in writing of such date. Upon seven (7) days’ prior written notice to Seller, Buyer shall have the right to inspect the Aircraft prior to the Paint Application Date, which inspection (a) shall
+take place not less than three (3) days prior to the Paint Application Date and (b) may last in duration up to three (3) days or such longer time as may be necessary to allow additional or new sealant to dry (the “Pre-Paint
+Inspection”). In the event Buyer, acting in good faith, determines the condition of the pre-painted Aircraft to be satisfactory, Buyer shall execute and deliver to Seller on or before the end of such three (3) day period, the receipt
+confirming the completion of the Pre-Paint Inspection in accordance with the terms of Article 5.3(b). In the event Buyer identifies, acting in good faith, discrepancies or defects on the pre-painted Aircraft, Buyer shall provide a written list of
+such discrepancies or defects to Seller and Seller shall correct such discrepancies and defects according to the terms of Article 5.2(b) below. Buyer agrees that the Pre-Paint Inspection shall serve to address only discrepancies or defects that, if
+not corrected prior to the painting of the Aircraft, may affect the performance and/or quality of such painting, and all other discrepancies or defects, if any, shall be addressed as part of the Final Inspection.
+
+ c)
+
+Final Inspection. Seller shall give Buyer not less than ten (10) days prior written notice of the date on which the Aircraft will be ready for
+Buyer’s inspection and acceptance flight testing (the “Inspection Availability Date”) in connection with Buyer’s final inspection of the Aircraft (the “Final Inspection”). Buyer shall have up to fifteen (15) days
+to conduct the Final Inspection and the acceptance flight testing shall be not more than ten (10) hours duration, or such longer period as may reasonably be required by Buyer for the Final Inspection and flight testing to establish compliance
+of the Aircraft with the Specification. Within fifteen (15) days after the Inspection Availability Date, Buyer agrees to perform and complete such Final Inspection of the Aircraft and, if Buyer determines, acting in good faith, that the
+Aircraft is in the condition required by this Agreement (including, without limitation, Article 5.4), Buyer shall accept delivery of the Aircraft before the end of such fifteen-day period, according to the terms of Article 5.3(c). In the event Buyer
+identifies, acting in good faith, discrepancies or defects on the Aircraft, Buyer shall provide a written list of such discrepancies or defects to Seller and Seller shall correct such discrepancies and
+
+AIRCRAFT PURCHASE AGREEMENT
+
+defects according to the terms of Article 5.2(c). As part of the Final Inspection, Buyer’s representatives shall have the right to review all applicable
+records and logbooks relating to the Aircraft and not otherwise considered confidential by Seller, which records shall include, among others, Class I RNCs, BOIs situated with the Aircraft, Buyer Snags and Buyer Worksheets, SRPSAs, EOs, quality
+assurance records and records of acceptance tests performed on the Aircraft.
+
+5.2 Any defect or discrepancy revealed by Buyer’s
+inspections and/or acceptance flight tests provided for in this Article 5 shall be corrected as follows:
+
+ a)
+ Green Aircraft Defects. Any defect or discrepancy revealed during Buyer’s Green Aircraft Inspection (“Green Aircraft Defects”) shall be corrected by Seller, at
+Seller’s sole cost and expense, either at Seller’s Toronto facility before Green Aircraft Acceptance Time (as defined in Article 5.3(a)) or at Seller’s Dorval completion facility, after Green Aircraft Acceptance Time, as determined by
+the parties acting in good faith and taking into account (i) the nature of the Green Aircraft Defects and Seller’s ability to properly correct such defects during performance of the Completion Work; and (ii) the delay, if any, such
+correction would cause to the performance of the Completion Work. If the parties, acting in good faith, cannot agree on the time and location of such corrections and Buyer requires that such corrections be performed at Seller’s Toronto facility
+prior to Green Aircraft Acceptance Time, then Seller shall correct the Green Aircraft Defects at Seller’s Toronto facility prior to Green Aircraft Acceptance Time, and the number of days required to complete such corrections shall constitute
+days of Excusable Delay pursuant to the terms of Article 8.1. Within three (3) days after the satisfactory correction of the Green Aircraft Defects that the parties agreed to correct prior to Green Aircraft Acceptance Time, Buyer shall execute
+and deliver the receipt confirming the completion of the Green Aircraft Inspection in accordance with the terms of Article 5.3(a) below.
+
+ b)
+ Pre-Paint Defects. Any defect or discrepancy having an effect on the performance and/or quality of the painting to be performed and revealed during Buyer’s Pre-Paint
+Inspection shall be corrected by Seller, at Seller’s sole cost and expense, prior to the painting of the Aircraft or, with Buyer’s written consent, acting in good faith, after painting. Within one (1) day of correction of the
+Pre-Paint Defects that were required to be corrected prior to the painting of the Aircraft, Buyer shall execute and deliver the receipt confirming the completion of the Pre-Paint Inspection in accordance with the terms of Article 5.3(b).
+
+ c)
+
+Final Inspection Defects. Any defect or discrepancy revealed during Buyer’s Final Inspection shall be corrected by Seller, at Seller’s sole cost
+and expense, before the Delivery Time or, with Buyer’s written consent, acting in good faith, after the Delivery Time, in which case, such discrepancies and defects shall be corrected by Seller at a mutually agreeable time, at a
+Seller-designated facility, and at Seller’s sole cost and expense (for the avoidance of doubt, such costs shall include the correction costs of any defects or discrepancies, the additional flight test costs, if required, but such costs shall
+not cover Aircraft downtime; and the parties shall determine in writing at Delivery Time, acting reasonably, which party shall be responsible for Buyer’s operating costs to position the Aircraft to Seller’s designated facility). In the
+case of defects or discrepancies to be corrected after Delivery Time, Seller shall promptly notify the Buyer of the work necessary for the correction of the discrepancies or defects as well as the anticipated time needed for the correction. Seller
+agrees to use its reasonable commercial efforts to complete such corrections as promptly as possible given the nature of the defect or discrepancy and time required for correction. If any such corrections require an additional flight testing, such
+flight testing shall be conducted in accordance with Articles 5.1, 5.4 and 5.5. In the event such defects or discrepancies are corrected by Seller prior to the Delivery Time, Buyer shall accept delivery of the Aircraft within three (3) days
+after an inspection by Buyer
+
+AIRCRAFT PURCHASE AGREEMENT
+
+determines, acting in good faith, that the Aircraft is in the condition required by this Agreement (including, without limitation, Article 5.4 hereof),
+according to the terms of Article 5.3(c). In the event Buyer consents to the correction by Seller of any defect or discrepancy after the Delivery Time, Buyer shall be entitled to withhold from the balance of the Purchase Price an amount equal to the
+Seller’s estimated cost to correct such defect or discrepancy (the “Withheld Amount”); provided, that Seller shall act in good faith in estimating such cost. The estimated cost to correct each defect or discrepancy shall be released
+from the Withheld Amount and be paid by Buyer to Seller upon Seller having completed correction of such defect or discrepancy to Buyer’s satisfaction, acting in good faith. Buyer shall present the Aircraft to a Seller designated facility for
+correction within the period agreed to in advance by the parties, failing which the corresponding portion of the Withheld Amount associated with such correction shall be returned to Seller within five (5) business days after the expiry of such
+period except where such failure to present the Aircraft is due to a cause beyond Buyer’s reasonable control and without Buyer’s negligence, in which case a new final period for delivery will be mutually agreed by the parties.
+
+For avoidance of doubt, nothing in Article 5.1(a), Article 5.1(b), Article 5.2(a), or Article 5.2(b) shall in any way limit Buyer’s
+Final Inspection rights or preclude Buyer from giving Seller notice of a discrepancy or defect during the Final Inspection even if such discrepancy or defect existed at the time of the Green Aircraft Inspection or the Pre-Paint Inspection.
+
+5.3 Buyer’s acceptance of the Green Aircraft, or the Aircraft, as applicable, shall be confirmed as follows:
+
+ a)
+ Green Aircraft. Buyer shall confirm completion of the Green Aircraft Inspection by executing a receipt in the form of Schedule “B” attached hereto (the time of
+execution of such receipt being the “Green Aircraft Acceptance Time”).
+
+ b)
+ Pre-Paint. Buyer shall confirm completion of the Pre-Paint Inspection by executing a receipt in the form of Schedule “B-1” attached hereto.
+
+ c)
+ Aircraft. Buyer’s acceptance of the Aircraft shall be evidenced by Buyer’s execution of a receipt for delivery in a form substantially similar to the form attached
+hereto as Schedule “B-2”, adjusted as necessary in the event the Aircraft is accepted with defects or discrepancies (the date of Buyer’s acceptance of delivery of the Aircraft and signature of the receipt being the “Delivery
+Time”). Upon receipt of all payments due at Delivery Time (excluding any Withheld Amounts), Seller shall deliver to Buyer a warranty bill of sale in a form substantially similar to the form attached hereto as Schedule “C.” Upon the
+delivery by Seller of the warranty bill of sale to Buyer, title to the Aircraft shall pass to Buyer free and clear of all rights, prior claims, interests, liens, charges, registrations and encumbrances (hereinafter “Liens”) other than
+those created by or through Buyer or by persons claiming by or through Buyer and risk of damage to or loss of the Aircraft shall pass to Buyer.
+
+5.4 The inspection and flight testing are for the purpose of confirming that the Aircraft is in airworthy condition with all systems and components functioning properly (including, without limitation, the Rockwell Collins cabin management
+system, which shall be operational and shall have had all of the undertakings identified on Schedule “D” completed at Delivery Time), is in full and complete compliance with the Specification and the Completion Work is free from defects in
+material and workmanship, and meets all other terms of this Agreement.
+
+5.5 Seller shall indemnify, defend and hold harmless Buyer, including Buyer’s
+parent and subsidiaries, and any
+
+AIRCRAFT PURCHASE AGREEMENT
+
+representatives of Buyer on board any flight testing (“Buyer Indemnitees”) from and against all liabilities, damages, losses, costs and expenses
+for all injuries to or death of persons and all loss of or damage to personal property arising from, out of or in connection with the operation of the Aircraft during any flight testing conducted prior to Delivery Time, except if caused by the
+negligence or willful misconduct of such Buyer Indemnitees. Without limiting the foregoing indemnification obligations of Seller, Seller shall maintain an insurance policy with terms, conditions and coverage that is customary for all flight testing
+conducted by Seller in its ordinary course of business, to cover the indemnity herein contained in favour of Buyer Indemnitees. Notwithstanding any transfer of title to the Green Aircraft to Buyer, Seller shall retain all liability for risk of loss
+or damage to the Aircraft and all liability arising from, out of or relating to the possession and use of the Aircraft prior to the Delivery Time.
+
+5.6
+Upon not less than forty-eight (48) hours’ notice, at any time during and after the ninety (90) day period prior to the scheduled date of issuance of the Green Aircraft certificate of airworthiness, Seller shall afford Buyer and its
+representatives (provided they all abide by Seller’s policy on plant safety, confidentiality and access to information and subject to execution by any third-party representatives of Seller’s non-disclosure agreement) access to the Aircraft
+at Seller’s manufacturing facility or Seller’s completion centre (during normal business hours Monday to Friday) for the purpose of visually inspecting the manufacturing or completion of the Aircraft, provided that such inspection does not
+interfere with the progress of the work and subject to Buyer’s representatives respecting those periods when the Aircraft is off limits to anyone other than designated certification authorities or Seller’s preflight personnel. At all times
+Buyer and its representatives shall be escorted by Seller’s assigned Customer Account Manager (“CAM”) or the CAM’s designee.
+
+ARTICLE 6. PAYMENT AND TAXES
+
+6.1 Seller shall remain the exclusive owner of the Aircraft free and clear of all Liens until the transfer of
+title to the Aircraft to Buyer in accordance with Article 5.3.
+
+6.2 Buyer shall make all payments due pursuant to the terms and subject to the conditions
+of this Agreement by wire transfer in US dollars and shall pay interest on any late payments at the rate equal to the one-year LIBOR rate as of the payment due date, as published in the “Money Rates” section of The Wall Street Journal
+commencing three (3) business days after the date the late payment was due.
+
+6.3 Subject to Article 6.4, Buyer shall be responsible for the payment of
+any sales, use, personal property, excise, goods and services, value added, consumption, luxury, withholding or other similar taxes, duties or assessments (a “Tax”) and any related penalties and interest that may be levied, assessed, or
+imposed on Buyer or Seller or otherwise by any governmental authority or agency as a result of the purchase, sale or delivery of the Aircraft pursuant to this Agreement; provided, that Buyer shall have no obligation or responsibility for any Tax
+assessed, levied or imposed on the sale or delivery of materials or equipment to the Seller for incorporation into the Aircraft or for any personal property taxes assessed against the Aircraft or any part thereof prior to Buyer’s acceptance of
+the Aircraft at the Delivery Time. Seller shall notify Buyer of any Tax that any governmental authority or agency is seeking to collect from Seller and Buyer may assume the defense thereof at its sole expense. If Buyer does not defend, Seller may
+pay the asserted Tax and Buyer shall thereupon be obligated to reimburse Seller for said Tax.
+
+6.4 Buyer represents and warrants to Seller that, as of the
+Delivery Time, Buyer will be a non-resident of Canada acquiring the Aircraft for immediate export from Canada. Seller represents to Buyer that, according to current tax legislation in force as of the date hereof, no Canadian Taxes or export duties
+are payable by Buyer
+
+AIRCRAFT PURCHASE AGREEMENT
+
+with respect to the sale of the Aircraft so long as Buyer is a non-resident of Canada and immediately exports the Aircraft from Canada following Delivery
+Time. In the event Seller’s representation in the preceding sentence is not true, correct and complete as of the date hereof, Seller shall indemnify, defend and hold harmless Buyer in respect of any such Canadian Taxes. In the event the current
+tax legislation in force in Canada as of the date hereof changes such that, as a result, Canadian Taxes would become payable by Buyer with respect to the sale of the Aircraft at the Delivery Time, the parties agree to cooperate in revising the legal
+terms of this Agreement to minimize or eliminate the impact of any Canadian Taxes, all in accordance with the law.
+
+ARTICLE 7. LOSS OR DESTRUCTION
+
+7.1 In the event, for any reason, including an Excusable Delay, the Aircraft is lost, destroyed or damaged beyond economic repair before the transfer
+of title to Buyer, Seller shall as soon as reasonably practicable thereafter notify Buyer in writing of such occurrence (“Seller’s Loss Notice”), which written notice shall further inform Buyer as to the delivery schedule,
+specifications, and purchase price of a Substitute Aircraft (as defined below), if any. Upon receipt of Seller’s Loss Notice, Buyer shall have the right, as its sole right and remedy, to either (a) accept delivery of the next available
+Global Express XRS aircraft (a “Substitute Aircraft”) at a delivery period to be determined by Seller, acting reasonably, and at a purchase price determined as provided hereinafter; or (b) terminate this Agreement as provided
+hereinafter by written notice to Seller. In the event Buyer elects to terminate this Agreement, Seller shall, subject to Article 12.3, within five (5) business days after Seller receives Buyer’s notice of termination, return to Buyer all
+amounts previously paid to Seller under this Agreement plus interest accrued from the date of receipt by Seller of each payment up to and including the date of refund to Buyer (together with interest) at the rate equal to the one-year LIBOR rate in
+effect on the date each payment was received by Seller, as published in the “Money Rates” section of The Wall Street Journal. Interest payments shall be calculated on a daily basis based on a 360-day year from the date each payment was
+received by Seller up to and including the date Seller returns Buyer’s payments plus interest (the “Interest Rate Calculation”). For avoidance of doubt, assuming one-year LIBOR equals three percent (3%) and the delay is ten
+(10) days, the interest rate shall be calculated as follows: 3% multiplied by 10/360. In the event Buyer elects to accept delivery of the next available Substitute Aircraft, the purchase price for the Substitute Aircraft shall be the same as
+the Purchase Price for the Aircraft; provided, that, Seller may, acting in good faith, adjust the Purchase Price (either through an increase or a decrease) as reasonably necessary to reflect (i) a credit to Buyer based on the cost of equipment
+or features that were to be included on the Aircraft but will not be included on the Substitute Aircraft; and (ii) the cost to Buyer of equipment or features to be included on the Substitute Aircraft that were not to be included on the
+Aircraft; and provided further, that all such costs shall be determined (i) by the price listed in Seller’s then current Published Options Catalogue, to the extent such equipment or features are contained therein; or (ii) on
+Seller’s quotation to be provided to Buyer as part of the Seller’s Loss Notice, to the extent that such equipment or features are not contained in Seller’s then current Published Options Catalogue. Buyer shall notify Seller of its
+election between (a) or (b) above within fifteen (15) days after Buyer receives Sellers’ Loss Notice. In the event Buyer does not provide such notification within such fifteen-day period, then Buyer shall be deemed to have
+elected the remedy set forth in (b) above.
+
+7.2 In the event the Aircraft suffers damage during the manufacturing process, such damage shall be
+rectified to not less than “AS NEW STANDARD.” For the purposes of this Agreement, the term “AS NEW STANDARD” shall mean that any damaged part, component or structure shall be repaired, reworked or replaced only with
+“new” serialized parts, components or structures, as such term is defined in Article 1. Seller shall not deviate from the “AS NEW STANDARD” without the consent of Buyer, which consent may be withheld for any reason.
+
+7.3 In the event Seller is required to prepare a FAA Form 337 (or its Canadian equivalent) in connection with any work necessary to correct damages to the Aircraft (a
+“Material Damage”), Seller shall give Buyer written
+
+AIRCRAFT PURCHASE AGREEMENT
+
+notice setting forth a description of such Material Damage as soon as reasonably practicable. Upon receipt of such notice, Buyer shall have the right, as its
+sole right and remedy for such Material Damage, to either (a) terminate this Agreement by written notice to Seller, in which event Seller shall, subject to Article 12.3, within five (5) business days after Seller receives Buyer’s
+notice of termination, return to Buyer all amounts previously paid to Seller under this Agreement plus interest accrued from the date of receipt by Seller of each payment up to and including the date of refund to Buyer (together with interest) at
+the rate equal to the one-year LIBOR rate in effect on the date each payment was received by Seller, as published in the “Money Rates” section of The Wall Street Journal and calculated pursuant to the Interest Rate Calculation defined in
+Article 7.1; or (b) allow the Aircraft to be repaired by Seller, at Seller’s sole cost and expense, to a condition complying in all respects with Article 7.2 and Article 5.4. Buyer shall notify Seller of its election between (a) or
+(b) within ten (10) days of receipt of Seller’s notice. Should Buyer fail to provide such notification within such ten (10)-day period, then Buyer shall be deemed having elected the remedy set forth in (b) above. In the case of
+(b) above, Seller shall compensate Buyer (by reduction of the balance of the Purchase Price due pursuant to Article 2.1) for the diminished value of the Aircraft, if any. If Buyer and Seller cannot agree on the diminished value of the Aircraft
+within twenty (20) days following receipt of Seller’s notice, then each party shall appoint an independent appraiser. The diminished value of the Aircraft shall be established by using the average of the diminished value determined by such
+two appraisals; provided, that, if these appraisals are not within five percent (5%) of the highest, a third appraisal shall be done (the appraiser being appointed by the two preceding appraisers) and the average of the two closest appraisers
+shall be used. Each party shall bear the cost of its appointed appraiser and the cost of the third appraiser shall be shared equally between the parties.
+
+ARTICLE 8. EXCUSABLE DELAY
+
+8.1 Seller shall not be liable for any delays or failures in performance of its obligations under this Agreement
+due to the occurrence of a Force Majeure (as defined below) (“Excusable Delay”). For the purposes of this Agreement, a Force Majeure shall mean acts of God; fire; earthquake; flood; hurricane; war or insurrections; terrorism; any
+legislation, act, order, directive, or regulation of any government or governmental body affecting Seller or the Aircraft; labour strikes, lock-outs or work slowdown from Seller’s unionized employees; delay or failure of carriers,
+subcontractors or suppliers; or any other cause beyond Seller’s reasonable control or without Seller’s negligence that would significantly delay or prohibits performance hereunder.
+
+8.2 In the event of any Excusable Delay, (a) Seller shall promptly notify Buyer in writing describing with reasonable detail the Force Majeure event that is the
+cause of the Excusable Delay and the expected impact on Seller’s contractual performance and (b) the time required for the performance of any obligation in this Agreement shall be extended for a period equal to the period during which any
+such cause and the effects thereof persist; provided, that, notwithstanding the foregoing, Seller shall use its reasonable commercial efforts to promptly eliminate the effect of such Excusable Delay.
+
+8.3 In the event Seller fails to present the Aircraft to Buyer for inspection and flight testing within one hundred (100) days after the expiry of the Delivery
+Period due to an Excusable Delay, Buyer shall have the right at any time thereafter to terminate this Agreement by written notice to Seller. Seller shall have the right to terminate this Agreement by written notice to Buyer in the event the Aircraft
+is not presented to Buyer for inspection and flight testing within three hundred (300) days after the expiry of the Delivery Period due to an Excusable Delay. Within five (5) business days after the receipt by the party of the other
+party’s termination notice, Seller shall, subject to Article 12.3, promptly refund to Buyer all sums Seller has previously received from Buyer pursuant to this Agreement, with interest accrued from the date Seller received each amount from
+Buyer up to and including the date repaid to Buyer (together with interest) at the rate equal to the one-year LIBOR rate in effect on the date each payment was received by Seller, as published in the “Money Rates” section of The Wall
+Street
+
+AIRCRAFT PURCHASE AGREEMENT
+
+Journal and calculated pursuant to the Interest Rate Calculation defined in Article 7.1, and such reimbursement shall constitute Seller’s sole
+obligation and liability and Buyer’s sole right and remedy for such Excusable Delay and such termination.
+
+8.4 In the event the Aircraft is not ready
+for Buyer’s inspection and flight testing within thirty (30) days after the end of the Delivery Period set forth in Article 2.2 for reasons of “Non-Excusable Delay,” which shall be defined as (i) any delay other than an
+Excusable Delay; or (ii) a delay caused by Buyer, Seller shall pay, as a credit against the balance of the Purchase Price due pursuant to Article 2.1, to Buyer, as liquidated damages, but not as penalty, an amount equal to $6,000 USD per day of
+Non-Excusable Delay starting from the 31st day of Non-Excusable Delay after the end of the Delivery Period until the earlier of (a) the Inspection Availability Date (as defined in Article 5.1(c)), provided that, when presented to Buyer for
+inspection, the Aircraft is in material and substantial compliance with the Specification, including the Completion Work, and in the event the Aircraft is not in material and substantial compliance when presented to Buyer for inspection, the
+liquidated damages shall continue to accrue until the Aircraft is in material and substantial compliance with the Specification, including the Completion Work; or (b) the elapse of 150 days of Non-Excusable Delay (the “LD Period”).
+The obligation of Seller to pay the liquidated damages set forth in the prior sentence is subject to Buyer accepting the Aircraft in accordance with Article 5.3(c) and the maximum amount of liquidated damages payable to Buyer during the LD Period is
+$900,000 USD. Buyer agrees that it will not terminate this Agreement pursuant to Article 9 during the LD Period. In the event the Aircraft has not been presented to Buyer for inspection and acceptance on or before the expiry of the LD Period, then
+Buyer shall have the right, upon expiry of the LD Period, to terminate this Agreement and in the event Buyer elects to terminate this Agreement no liquidated damages arising under this Article 8.4 shall be credited or owed to Buyer but Seller shall,
+subject to Article 12.3, within five (5) business days after Seller receives Buyer’s notice of termination, return to Buyer all amounts previously paid to Seller under this Agreement plus interest accrued from the date of receipt by Seller
+of each payment up to and including the date of refund to Buyer (together with interest) at the rate equal to the one-year LIBOR rate in effect on the date each payment was received by Seller, as published in the “Money Rates” section of
+The Wall Street Journal and calculated pursuant to the Interest Rate Calculation defined in Article 7.1. This Article 8.4 constitutes Buyer’s sole right, remedy and recourse and Seller’s sole obligation and liability to Buyer for a
+Non-Excusable Delay.
+
+ARTICLE 9. TERMINATION
+
+9.1
+Either party may terminate this Agreement before the Delivery Time by written notice of termination to the other party upon the occurrence of any of the following events: (i) the other party makes an assignment for the benefit of creditors, or
+admits in writing its inability to pay its debts; (ii) a receiver or trustee is appointed for the other party or for substantially all of such party’s assets and, if appointed without such party’s consent, such appointment is not
+discharged or stayed within 30 days; (iii) proceedings under any law relating to bankruptcy, insolvency or the reorganization or relief of debtors are instituted by or against the other party and, if contested by such party, are not dismissed
+or stayed within 30 days; or (iv) any writ of attachment or execution or any similar process is issued or levied against the other party or any significant part of its property and is not released, stayed, bonded or vacated within 30 days after
+its issue or levy.
+
+9.2 Buyer may terminate this Agreement before Delivery Time pursuant to the terms and subject to the conditions set forth in Article
+7.1, Article 7.3, Article 8.3 and Article 8.4. In all other cases unrelated to the above-mentioned Articles, Buyer may also terminate this Agreement before the Delivery Time in the event Seller is in default or breach of any material term or
+condition of this Agreement and does not cure such default or breach within forty-five (45) days after receipt of written notice from Buyer specifying such default or breach. For the avoidance of doubt, Seller acknowledges and agrees that the
+cure period set forth in this Article
+
+AIRCRAFT PURCHASE AGREEMENT
+
+9.2 does not apply to a delay in presentation of the Aircraft for inspection described in Article 8.4 or any periods of time applicable to Seller set forth
+in Articles 7.1, 7.3 or 8.3.
+
+9.3 Subject to Article 12.3, upon termination of this Agreement by Buyer pursuant to and in accordance with Article 9.1 or
+9.2, Seller shall refund to Buyer, within five (5) business days after Seller’s receipt of a notice of termination from Buyer, all sums Seller has previously received from Buyer pursuant to this Agreement, with interest accrued from the
+date Seller received each such amount from Buyer until the date repaid to Buyer at the rate equal to the one-year LIBOR rate in effect on the date each payment was received by Seller, as published in the “Money Rates” section of The Wall
+Street Journal, plus one percent (1%), and calculated pursuant to the Interest Rate Calculation defined in Article 7.1. The return of Buyer’s payments plus interest shall constitute Buyer’s sole right, remedy and recourse for a termination
+under this Agreement and shall be deemed to be Buyer’s liquidated damages for loss of a bargain and not as a penalty.
+
+9.4 Seller may terminate this
+Agreement before Delivery Time if Buyer: (a) does not accept delivery of the Aircraft in accordance with Article 5 or is in default or breach of any material term or condition of this Agreement (except for payment obligations that are covered
+by Article 9.5) and does not cure such default or breach within 20 days after receipt of written notice from Seller specifying such default or breach, or (b) is named on any list published by a governmental body that would prohibit Seller from
+engaging in transactions with Buyer or the transaction is otherwise prohibited by law, or if Seller determines as a result of due diligence that it may not sell the Aircraft to Buyer without substantial risk of violating the law. In the event of
+termination under subclause (b) above, Seller’s termination obligations shall be subject to all applicable governmental legal requirements.
+
+9.5
+Upon (i) termination of this Agreement by Seller pursuant to and in accordance with this Article 9 or (ii) Buyer’s failure to make any of the payments provided for in Article 2 on or before the stipulated date or within
+three (3) business days of a notice from Seller specifying such failure, all rights that Buyer may have or may have had in or to this Agreement or the Aircraft shall be extinguished; and Seller shall be entitled, as its exclusive remedy, to
+retain an amount equivalent to (a) eight percent (8%) of the Purchase Price if the termination occurs prior to the Specification Date; or (b) ten percent (10%) of the Purchase Price if the termination occurs thereafter, as
+liquidated damages for default, and the parties shall thereafter be released from all further obligations to each other subject to Buyer’s prompt receipt of all other amounts received by Seller on account of the Purchase Price; provided, that,
+in the event Seller seeks to terminate this Agreement pursuant to subclause (b) of Article 9.4 above, then (x) Seller shall not be entitled to liquidated damages or any other remedy; (y) Seller shall promptly reimburse Buyer all
+amounts received by Seller on account of the Purchase Price; and (z) this Agreement shall terminate only upon Buyer’s receipt of such amounts. Buyer agrees that the liquidated damages provided for in this Article 9.5 do not constitute a
+penalty and are a reasonable and agreed amount of the anticipated or actual harm or damages to be suffered by Seller as a result of or in connection with Buyer’s default.
+
+ARTICLE 10. MISCELLANEOUS
+
+10.1(a) Assignments by Buyer to Select Persons. Upon written notice to Seller, this
+Agreement shall be assignable by Buyer in whole or in part to any subsidiary or other affiliate of Buyer or to any person or entity that is providing financing to Buyer in connection with Buyer’s acquisition of the Aircraft; provided, that, in
+all such cases, Buyer shall remain jointly and severally liable with the assignee for the fulfillment of all the obligations under this Agreement; and provided further that the assignee undertakes to comply with the conditions stipulated in Article
+12 below.
+
+(b) Assignments by Buyer to Third Party. Separate and in addition to Buyer’s rights to assign the Agreement set forth
+in paragraph (a) of this Article 10.1, Buyer shall have the rights set forth below.
+
+(i) Exclusivity Period. At any time after
+the date hereof, Buyer may provide notice in writing to Seller (“Buyer’s Notice”) indicating that Buyer is interested in assigning this Agreement. Upon Seller’s receipt of such notice and for the period of seventy-five
+(75) business days immediately following the date of such receipt (the “Exclusivity Period”), Seller shall be the exclusive agent for the purpose of finding an assignee, which must be an Eligible Assignee, for the Agreement. During
+the Exclusivity Period, (A) no broker or other intermediary shall be involved in the transaction; (B) no advertising or listing of the opportunity to obtain an assignment of this Agreement shall be made in the open market by anyone other
+than Seller; and (C) the opportunity to obtain an assignment of this Agreement shall not be marketed to a broker or other intermediary.
+
+(ii) Seller-Marketed Assignment Agreement. In the event Seller finds an Eligible Assignee prior to the expiration of the Exclusivity Period, Seller shall provide prompt written notice to Buyer of the terms and conditions of the
+proposed assignment (including whether such assignment would give rise to Buyer’s obligation to reimburse any territorial commission pursuant to Article 10.1(b)(iv) below), and Buyer shall have the right, in its sole discretion, to accept or
+reject such proposed assignment. In the event Buyer agrees to the assignment, Buyer and such Eligible Assignee shall execute and deliver an assignment agreement satisfying the Assignment Conditions, and together therewith Seller shall execute an
+acknowledgement and consent of same, such assignment agreement and acknowledgement and consent to be in a form reasonably satisfactory to all parties. Such assignment agreement shall be deemed a “Seller-Marketed Assignment Agreement” if
+(A) it is executed prior to the expiration of the Exclusivity Period or (B) all of the following conditions are met: (1) Seller notifies Buyer in writing of the potential assignment agreement prior to the expiration of
+
+the Exclusivity Period; (2) Seller provides Buyer a copy of a letter of intent regarding such potential assignment duly executed by
+
+the potential assignee prior to the expiration of the Exclusivity Period; (3) Seller demonstrates that Seller and the potential assignee were in active negotiations
+to conclude the Assignment Agreement on and before the date the Exclusivity Period expires; and (4) the Assignment Agreement is duly executed by Seller and the potential assignee within thirty (30) calendar days after the expiration of the
+Exclusivity Period.
+
+AIRCRAFT PURCHASE AGREEMENT
+
+(iii) Buyer-Marketed Assignment Agreement. In the event a binding assignment agreement
+satisfying the Assignment Conditions is not executed between an Eligible Assignee and Buyer prior to expiration of the Exclusivity Period, Buyer shall have the right thereafter to assign this Agreement to any Eligible Assignee of its choosing. Buyer
+and such Eligible Assignee shall execute and deliver an assignment agreement satisfying the Assignment Conditions, and together therewith Seller shall execute an acknowledgement and consent of same, such assignment agreement and acknowledgement and
+consent to be in a form reasonably satisfactory to all parties. Any such assignment agreement, provided that it does not qualify as a Seller-Marketed Assignment Agreement, shall be deemed a “Buyer-Marketed Assignment Agreement.” An
+“Assignment Agreement” shall mean a Buyer-Marketed Assignment Agreement or a Seller-Marketed Assignment Agreement, as the case may be, and an “Assignee” shall mean the assignee pursuant to such Assignment Agreement.
+
+(iv) Territorial Commissions. Buyer shall be obligated to reimburse Seller for any territorial commissions that become due and payable by Seller
+to a sales agent pursuant to a binding contractual obligation as a result of executing an Assignment Agreement; provided that the foregoing reimbursement obligation is qualified by and conditioned upon the following:
+
+(A) notwithstanding anything to the contrary, Buyer’s obligations in this Article 10.1(b)(iv) shall not apply to any assignment to an
+assignee that is (1) an affiliate or in any way related to Bombardier; or (2) organized under the laws of, or domiciled in, any state of the United States or the District of Columbia;
+
+(B) as a condition precedent to such reimbursement obligation, Seller shall have complied with the following procedure: (1) at the
+time Seller provides written notice to Buyer pursuant to the first sentence of Article 10.1(b)(ii) or promptly after receiving written notification from Buyer identifying the Eligible Assignee that Buyer has found in accordance with Article
+10.1(b)(iii), as the case may be, a corporate officer of Seller shall, upon Buyer’s written request, have certified to Buyer in writing the amount of the commission applicable in the event the assignment is completed and the date such
+commission is due and payable; and (2) in the event Buyer elects to proceed with such assignment, then, at or before the execution of an Assignment Agreement and upon Buyer’s written request, Seller shall have provided Buyer a written
+confirmation signed by Seller’s independent auditor confirming (x) Seller’s obligation to pay such territorial commission and the amount of such commission and (y) the date on which such commission is due and payable;
+
+(C) Buyer shall be responsible only for paying the lesser of the commission amount represented as being payable by
+(1) Seller’s corporate officer or (2) Seller’s independent auditor; and
+
+(D) any commission amount to be
+reimbursed by Buyer hereunder shall be paid to Seller on the later of (1) the date on which Seller is obligated to pay the commission to the sales agent; or (2) at the time the Adjusted Gain Amount becomes payable to Buyer in accordance
+with Article 10.1(b)(v)(G), with Seller entitled to set-off the amount of such commission payable by Buyer against
+
+AIRCRAFT PURCHASE AGREEMENT
+
+the Adjusted Gain Amount payable to Buyer; provided that in any event, such commission shall be reimbursed by Buyer no later than the Delivery Time.
+
+(v) Order of Payments. In the event an Assignment Agreement is duly executed, each payment (each, a “Payment”) actually
+made by the Assignee pursuant to such agreement shall initially be retained by the Seller and applied and distributed in the following manner:
+
+(A) first, to refund to Buyer all amounts previously paid by Buyer to Seller pursuant to this Agreement, until such amounts have been refunded in full;
+
+(B) second, if any balance is left, to pay Buyer’s Capital Costs, until such amounts have been paid in full;
+
+(C) third, to pay Buyer its portion of the Adjusted Gain Amount, if any, which shall be equal to (1) 50% of any Adjusted Gain Amount
+in the event a Seller-Marketed Assignment Agreement is duly executed or (2) 75% of any Adjusted Gain Amount in the event a Buyer-Marketed Assignment Agreement is duly executed; and
+
+(D) fourth, to pay Seller its portion of the Adjusted Gain Amount, if any, which shall be equal to (1) 50% of any Adjusted Gain
+Amount in the event a Seller-Marketed Assignment Agreement is duly executed or (2) 25% of any Adjusted Gain Amount in the event a Buyer-Marketed Assignment Agreement is duly executed.
+
+Notwithstanding anything herein to the contrary, the following conditions shall apply:
+
+(E) any amount that is payable to Buyer pursuant to the foregoing Article 10.1(b)(v)(A) shall be paid to Buyer immediately upon receipt of
+such amounts by Seller from Assignee;
+
+(F) any amount that is payable to Buyer pursuant to the foregoing Article
+10.1(b)(v)(B) shall be paid to Buyer (1) immediately upon receipt of such amounts by Seller from Assignee if such amount is not refundable to Assignee under the terms of the Assignment Agreement or (2) at Delivery Time if such amount is
+refundable to Assignee under the terms of the Assignment Agreement; and
+
+(G) any amount that is payable to Buyer pursuant to
+the foregoing Article 10.1(b)(v)(C) shall be paid to Buyer (1) upon the latest to occur of the following in the event such Adjusted Gain Amount is not refundable to Assignee under the terms of the Assignment Agreement: (x) the certificate
+of airworthiness for the Green Aircraft has been issued; or (y) upon receipt of such amounts by Seller from Assignee, or (2) at Delivery Time, if such Adjusted Gain Amount is refundable to Assignee under the terms of the Assignment
+Agreement. In addition, Seller shall pay to Buyer its Additional Capital Costs, if any, at the time any payments are made to Buyer pursuant to Article 10.1(b)(v)(C); it being
+
+AIRCRAFT PURCHASE AGREEMENT
+
+understood that such reimbursement shall not be made from any Payments or affect the calculation of
+the Adjusted Gain Amount or Gain Amount.
+
+(vi) Hypothetical Examples. Hypothetical examples illustrating the intended operation of
+this Article 10.1(b) are set forth
+
+in Schedule E attached hereto and incorporated herein by reference.
+
+(vii) Definitions. For purposes of this Article 10.1, the following definitions shall apply:
+
+(A) “Eligible Assignee” shall be a person or entity who is (1) not an aerospace manufacturing entity that competes with
+Seller, (2) not a person or entity that is likely to give rise to an event described in Article 9.4(b), and (3) a person or entity that, as of the date of the Assignment Agreement, has the ability to obtain financing on the purchase of the
+Aircraft from a reputable financial institution.
+
+(B) “Assignment Conditions,” with respect to a proposed
+assignment agreement, shall mean an Assignment Agreement satisfying the following conditions: (1) the prospective assignee agrees to assume all of Buyer’s obligations and liabilities under this Agreement as they exist; and (2) the
+assignment does not increase Seller’s obligations or liabilities under this Agreement.
+
+(C) “Gain Amount”
+shall be an amount equal to the U.S. dollar equivalent amount, if any, by which the total purchase price payable by the Assignee (including any penalties or interest that may accrue and be payable by Assignee pursuant to this Agreement or an
+Assignment Agreement) for the Aircraft (including any and all amounts payable to obtain the assignment of this Agreement) set forth in the Assignment Agreement (and any related agreements) exceeds the Purchase Price set forth in Article 2.1 of this
+Agreement, after subtracting any Capital Costs payable pursuant to Article
+
+10.1(b)(v)(B).
+
+(D) “Adjusted Gain Amount” shall be that portion of a Payment deemed to be a part of the Gain Amount, calculated by multiplying
+(1) the Gain Amount and (2) the Percentage.
+
+(E) “Percentage” shall be a percentage resulting from the
+following calculation: (1) the amount of the Payment in question divided by (2) the total amount of Payments to be made by the Assignee pursuant to the Assignment Agreement, after subtracting any amounts to be paid pursuant to Article
+10.1(b)(v)(A) and (B), multiplied by (3) 100.
+
+(F) “Buyer’s Capital Costs” shall mean the interest
+amount calculated by applying a rate of interest equal to 10% per annum to all sums previously paid by Buyer to Seller pursuant to this Agreement from the date of receipt by Seller of each payment from Buyer up to and including the date of
+repayment of such sums
+
+AIRCRAFT PURCHASE AGREEMENT
+
+to Buyer by either Seller or Assignee pursuant to the Assignment Agreement, together with interest equal to 10% per annum on such Buyer’s Capital
+Costs from the date of repayment of such sums to Buyer by either Seller or Assignee pursuant to the Assignment Agreement up to and including the date on which Buyer’s Capital Costs is paid to Buyer. The interest amounts shall be calculated on a
+daily basis based on a 360-day year. For the avoidance of doubt, assuming 450 days elapse from the date Seller received a payment from Buyer until the date the payment is refunded to Buyer, Buyer’s Capital Costs would be calculated by
+multiplying the amount of the payment by a fraction, the numerator of which would be 450 and the denominator of which would be 360 and the product of which would be multiplied by 10%.
+
+(G) “Additional Capital Costs” shall mean the interest amount calculated by applying a rate of interest equal to 10% per
+annum to Buyer’s portion of the Adjusted Gain Amount attributable to any Payment by Assignee to Seller from the date of such receipt by Seller up to and including the date of payment to Buyer of such portion of the Adjusted Gain Amount
+(together with the related Additional Capital Costs) pursuant to Article 10.1(b)(v)(G). The interest amount shall be calculated on a daily basis based on a 360-day year. For the avoidance of doubt, assuming 450 days elapse from the date Seller
+received a payment from Assignee until the date Buyer’s portion of the Adjusted Gain Amount attributed to such Payment is paid to Buyer, Buyer’s Additional Capital Costs would be calculated by multiplying the amount of the payment by a
+fraction, the numerator of which would be 450 and the denominator of which would be 360 and the product of which would be multiplied by 10%.
+
+(c) Assignments by Seller. Buyer hereby acknowledges that Seller shall have the right, without Buyer’s consent, to create a security interest or hypothec with respect to this Agreement or to assign or transfer this Agreement or
+any of its rights under this Agreement to any financial institution or to a wholly owned subsidiary or affiliate of Seller; provided, that Seller’s assignment to a financial institution or creation of a security interest or hypothec shall be
+solely for the purpose of securing financing, Seller shall remain jointly and severally liable for the fulfillment of all of the obligations under this Agreement; and provided further that any such assignment or creation of a security interest or
+hypothec shall not increase Buyer’s obligations or liabilities under this Agreement.
+
+(d) Assignments After Delivery Time.
+Notwithstanding anything herein to the contrary, the Seller and Buyer acknowledge and agree that, upon and following the Delivery Time, the above provisions of this Article shall cease to apply and Buyer shall have the right to assign, sell,
+transfer or otherwise dispose of the Aircraft without any restrictions.
+
+10.2 Any notice to be given pursuant to this Agreement shall be sent by express
+delivery service, electronic mail or facsimile transmission to the party to which said notice is to be given at its physical address, electronic mail address, or facsimile number as shown on the signature page hereof unless such address is changed
+by notice given to the other party in accordance herewith. A notice shall be deemed given when received. Notwithstanding the foregoing, any notice of a breach from one party or any notice of termination by one party shall be, if sent by electronic
+mail or facsimile transmission, followed by delivery via express delivery service.
+
+10.3 Seller hereby represents, warrants and guarantees to Buyer that
+(i) it is a corporation duly organized and validly existing under the laws of Canada and has the power and authority to enter into this Agreement and to perform the transactions contemplated hereby, (ii) the execution, delivery and
+performance of this Agreement has been duly authorized by all necessary actions of Seller, (iii) the person signing this Agreement for Seller has been duly authorized to execute this Agreement for and on behalf of Seller, and (iv) assuming
+due execution and delivery hereof by Buyer, this Agreement constitutes a legal, valid and binding obligation of Seller enforceable against it in accordance with its terms.
+
+10.4 Buyer hereby represents, warrants and guarantees to Seller that (i) it is a corporation duly organized and validly existing under the laws of Delaware and has the power and authority to enter into this
+Agreement and to perform the transactions contemplated hereby, (ii) the execution, delivery and performance of this Agreement has been duly authorized by all necessary actions of Buyer, (iii) the person signing this Agreement for Buyer has
+been duly authorized to execute this Agreement for and on behalf of Buyer, and (iv) assuming the execution and delivery hereof by Seller, this Agreement constitutes a legal, valid and binding obligation of Buyer enforceable against it in
+accordance with its terms.
+
+10.5 This Agreement shall inure to the benefit of and be binding upon each of Seller and Buyer and their respective successors
+and permitted assigns.
+
+10.6 This Agreement and the matters referred to herein constitute the entire agreement between Seller and Buyer with respect to or
+in connection with the subject matter hereof and supercede and cancel all prior representations, alleged warranties, statements, negotiations, drafts, undertakings, letters, acceptances, agreements, understandings, contracts, communications, whether
+oral or written (including, without limitation, that certain Letter of Intent dated October 20, 2006, as amended). This Agreement may only be amended or changed by a written instrument signed by both parties. In the event of any inconsistencies
+between this Agreement, any addendum, the Specification, the Schedules or other annexes stated to be part of this Agreement, the order of precedence shall be: any addendum, this Agreement, the Specification and other Schedules or annexes.
+
+10.7 If any of the provisions of this Agreement are for any reason declared by judgement of a court of competent jurisdiction to be unenforceable or
+ineffective, those provisions shall be deemed severable from the other provisions of this Agreement and the remainder of this Agreement shall remain in full force and effect.
+
+10.8 Each party hereto shall, at its own expense (except as otherwise provided herein), reasonably cooperate and take such other actions and execute and deliver such documents as may be reasonably necessary to
+effectuate the purpose of this Agreement, including, without limitation, documents necessary to obtain financing in connection with Buyer’s acquisition of the Aircraft.
+
+10.9 This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original, and all of which together shall constitute one and the same document. This Agreement may be executed
+by facsimile signatures.
+
+ARTICLE 11. CONFIDENTIALITY
+
+11.1 This Agreement is confidential between the parties and shall not, without the prior written consent of the other party, be disclosed by either party in whole or in part to anyone except to assignees or transferees per the provisions of
+Article 10.1 or as may be necessary for either party to carry out its obligations under this Agreement. Notwithstanding the foregoing, each party may disclose this Agreement or any term hereof (a) to a court of competent jurisdiction or
+other local, state, provincial, federal or national governmental authority in connection with legal proceedings to enforce the Agreement or as otherwise required by applicable law or (b) on a “need-to-know” basis, and subject to the
+obligation to maintain confidential, to its officers, employees, legal counsel, accountants, banks and other financing sources and their advisors.
+
+ARTICLE 12. CAPE TOWN REGISTRATION
+
+12.1 Subject to Article 2.3, Buyer will not register, consent to, or allow any third party to register
+any international interest or prospective international interest under the “Convention on International Interests in Mobile Equipment” (“Cape Town Convention”) with respect to the airframe or the engines on the Aircraft until
+such time as title to the Aircraft has been transferred from Seller to Buyer.
+
+12.2 Seller represents that it is an entity properly registered under the
+Cape Town Convention registry. Upon written request from Buyer, Seller will, at Delivery Time, provide its consent to the registration of an international interest evidencing the transfer of title to the Aircraft to Buyer, provided all amounts due
+to Seller under the Agreement have been paid in full. Buyer shall be responsible for all registration and search costs.
+
+12.3 In the event of termination
+of this Agreement for any reason whatsoever, any reimbursement to be made to Buyer shall be conditional upon Buyer discharging or causing the discharge of any registration created by or through Buyer or by persons claiming by or through Buyer. Upon
+request, Buyer shall provide Seller with
+
+AIRCRAFT PURCHASE AGREEMENT
+
+sufficient evidence to satisfy Seller that any such registrations have been discharged. Notwithstanding the foregoing, if Seller commences court proceedings
+to obtain the discharge of any such registrations created in contravention of this Article 12, Seller shall be entitled to recover against Buyer any and all reasonable costs, fees and expenses (including reasonable attorney’s fees) incurred by
+Seller to obtain such discharge and Buyer shall also be liable for any and all damages suffered by Seller as a result of Buyer’s breach of its obligations under this Article 12. Seller shall be entitled to set-off such costs, fees, expenses and
+damages against any reimbursement to be made to Buyer under this Agreement.
+
+ARTICLE 13. CREDIT MEMORANDUM
+
+13.1 At Delivery Time, Seller shall provide to Buyer a credit memorandum in the amount of US$150,000 which may be used to purchase any products, services, training or
+spare parts offered by Seller or its affiliates to buyers of Seller’s aircraft, within forty-eight (48) months following Delivery Time. Such credit memorandum has no cash value, is provided for the sole benefit of Buyer and is not
+assignable or transferable, except as provided for in Article 10.1.
+
+ARTICLE 14. ALERT SERVICE BULLETINS
+
+14.1 At Delivery Time, all airworthiness directives applicable to the Aircraft (excluding the engines) and issued by Transport Canada or the FAA before Delivery Time and
+all Alert Service Bulletins applicable to the Aircraft issued by Seller before Delivery Time shall be fully complied with. In the event Seller cannot satisfy such requirement before Delivery Time without adversely impacting the Delivery Period, then
+the parties agree that such requirement shall be satisfied at a place and time mutually acceptable to both parties following Delivery Time, being understood that Seller shall not be responsible for the cost of transportation of the Aircraft or
+Aircraft downtime.
+
+ARTICLE 15. ACCELERATED DELIVERIES
+
+15.1 In the event Seller, for any reason, is able to offer to Buyer a Bombardier Global Express XRS aircraft with a scheduled presentation date for inspection before the Delivery Period set forth in Article 2.2 consistent with Seller’s
+contractual obligations to other customers in effect on the date of this Agreement and Seller does not require such aircraft, acting in good faith, for management of its production schedule and completion skyline with existing customers (it being
+understood that no customer having executed a purchase agreement with Seller after the Buyer has executed this Agreement will be allowed to move ahead of the Buyer once the Buyer has signed the specification for the Completion Work), or for use in
+the corporate fleet of Bombardier Inc. or its subsidiaries or affiliates (an “Earlier Aircraft”), Seller shall offer in writing to Buyer (the “Move-Up Option Notice”) the option to purchase such Earlier Aircraft in lieu of the
+Aircraft (the “Move-Up Option”). Seller’s obligation set forth in the preceding sentence extends not only to Global Express XRS aircraft currently in production as of the date of this Agreement, but also to places in Seller’s
+production line that become available after the date of this Agreement and that are used by Seller to manufacture a Global Express XRS aircraft consistent with Seller’s obligations to other customers in effect on the date of this Agreement.
+
+15.2 The Move-Up Option Notice shall set forth the delivery period during which the Earlier Aircraft will be presented for inspection, the specification
+date for the Earlier Aircraft to the extent the specification date is not finalized, and all relevant details regarding the specification completion status of the Earlier Aircraft, whether finalized or in-process. To exercise a Move-Up Option, Buyer
+must, within three (3) business days of receipt of the applicable Move-Up Option Notice (the “Option Period”), notify Seller in writing of its exercise of such option, subject to the parties’ agreement on the conditions set forth
+in Article 15.4 below and payment of the
+
+AIRCRAFT PURCHASE AGREEMENT
+
+Move-Up Fee set forth in Article 15.3 below. If Buyer does not provide such written notice of exercise to Seller within the Option Period, or if Buyer
+declines to exercise the Move-Up Option, then the Move-Up Option solely with respect to that particular Earlier Aircraft shall become null and void and this Agreement shall remain in full force and effect.
+
+15.3 If Buyer exercises a Move-Up Option, then Buyer shall, within three (3) business days after agreement on the conditions set forth in Article 15.4 below, pay to
+Seller an amount (the “Move-Up Fee”) equal to US $6,000 per day for each day between (a) the last day set forth in the delivery period for the Earlier Aircraft; and (b) the first day of the Delivery Period set forth in Article
+2.2; provided, that in no event shall the Move-Up Fee exceed US $1,800,000. If Buyer exercises a Move-Up Option, then all sums paid by Buyer to Seller prior to such exercise shall be credited by Seller toward Buyer’s purchase of the Earlier
+Aircraft. Upon the parties’ execution of the amendment to this Agreement described in Article 15.4 and Buyer’s payment of the Move-Up Fee, Buyer’s obligation to purchase and take delivery of the Aircraft shall automatically
+extinguish. Prior to these conditions being met, this Agreement shall remain in full force and effect between the parties.
+
+15.4 Following exercise of the
+Move-Up Option, the parties shall execute an amendment to this Agreement modifying the Specification Date, the payment schedule specified in Article 2.1, the Delivery Period specified in Article 2.2 and any term requiring amendment as a result of
+the exercise of the Move-Up Option. When the completion specification for the Earlier Aircraft has been finalized prior to the exercise of the Move-Up Option and such specification is different from the Completion Work for the Aircraft, Buyer and
+Seller shall further amend this Agreement to incorporate the Earlier Aircraft specification together with any adjustments in the Purchase Price as a result thereof, taking into account, if applicable, any cost related to the Completion Work for the
+Aircraft that Seller may be unable to recover or allocate to the Earlier Aircraft. Unless otherwise mutually agreed in writing by the parties, the other terms of this Agreement shall continue in full force and effect. If the parties do not execute
+an amendment to this Agreement within five (5) days of the exercise of the Move-Up Option, then the Move-Up Option for that particular Earlier Aircraft shall become null and void and this Agreement, unamended, shall remain in full force and
+effect.
+
+BOMBARDIER INC.
+
+ MICROSTRATEGY INCORPORATED
+
+ Côte-Vertu Road West
+
+Address 1861 International Drive
+
+ Dorval, Québec H4S 1Y9 Canada
+
+ McLean, Virginia, 22102
+
+ Telephone: (514) 855-5000
+
+ Telephone: (703) 848-8600
+
+ Facsimile: (514) 855-7806
+
+ Facsimile: (703) 873-1167
+
+BY: /s/ FRANK ERCOLANESE
+
+BY: /s/ ARTHUR S. LOCKE, III
+
+ TITLE: Vice President of Contracts
+
+ TITLE: VP & CFO
+
+ DATE: January 31, 2007
+
+ DATE: January 31, 2007
+
+ADDENDUM TO AIRCRAFT PURCHASE AGREEMENT
+
+by and between
+
+BOMBARDIER INC. and MICROSTRATEGY INCORPORATED
+
+Dated JANUARY 31, 2007
+
+SCHEDULE “A” BASELINE
+AIRCRAFT SPECIFICATION & CUSTOMER SUPPORT SERVICES MANUAL IS HEREBY AMENDED AS FOLLOWS:
+
+1. In Article 1, of Schedule “A”,
+delete the third and fourth paragraph and replace with the following:
+
+“The Aircraft may be subject to changes during the course of the design,
+manufacture and certification process as the result of any legislation, act, order, directive or regulation, or any interpretation thereof, of or by any government or governmental body. If such changes take place and apply to all aircraft in general
+or to all aircraft of the same category as the Aircraft and are effective after the date of the Agreement but before Delivery Time, Buyer and Seller shall share Seller’s costs (including recurring and non-recurring provided that, for greater
+certainty, the non-recurring costs to be shared in accordance with this Section will be Buyer’s prorated portion of the total non-recurring costs incurred by Seller) for such changes on a 50%/50% basis up to a maximum amount of USD $2,000,000
+(USD $1,000,000 for each party). If Seller’s total costs for such changes exceed USD $2,000,000 and none of the parties want to assume the costs in excess of USD $2,000,000, then either party may have the right to terminate this Agreement by
+providing the other party with written notification of such termination and Seller’s sole obligation and liability shall be to return to Buyer, within ten (10) business days of such termination, all amounts received pursuant to Article 2.1
+plus interest accrued from the date of receipt by Seller of each payment to the date of refund to Buyer at the rate equivalent to the one year LIBOR rate, as of the reimbursement date, as published in “Money Rates” section of The Wall
+Street Journal. Such reimbursements shall constitute Buyer’s sole right, remedy and recourse and Seller’s sole obligation and liability to Buyer. If the incorporation of such changes causes a delay to the delivery of the Aircraft, then
+that delay shall be deemed an Excusable Delay under the Agreement.”
+
+2. In Article 4, of Schedule “A”, at the end of the last
+paragraph delete “91” and replace with the following”
+
+“135 for operations as described in the “Certification” section of
+Schedule “A-1”.
+
+3. In Article 14, of Schedule “A”:
+
+Flight Operations Support
+
+(a) In sub-section ii): delete “14” and replace with “20”.
+
+(b) In the last paragraph: delete “14” and replace with “20”.
+
+Training
+
+(a)
+At the end of the first sentence delete “courses” and replace with “course”
+
+(b) Delete “A Type-Rating Course for four
+(4) qualified pilots;”
+
+(c) Delete “Operational training for four (4) qualified pilots on the use of the Head-up Flight Display System
+and the Bombardier Enhanced Vision System;”
+
+(d) Delete “A Ground Maintenance training program for two (2) mechanics; and”
+
+MedAire Program
+
+Delete “one year” and replace with
+“two years”
+
+4. In Article 15, of Schedule “A”,
+
+(a) In Article 15.8, second line, replace “which” by “that”.
+
+(b) In Article 15.11 delete the paragraph
+and replace with the following:
+
+“Buyer shall maintain reasonably complete records of operations and maintenance of the Aircraft consistent with the
+applicable laws of the country of registration and shall make such records available to Seller as Seller may reasonably require for the purpose of this Warranty. If Buyer fails to maintain those records in all material respects, Seller shall be
+relived of its Warranty obligation.
+
+5. In Article 16, of Schedule “A”,
+
+(a) In the first paragraph, line three, add “sale or offer for sale” after “use”.
+
+(b) In subsection iii), add “at Seller’s sole cost and expense” after “Seller”.
+
+(c) In subsection
+iv), after “does not” add “take any action a reasonable entity would otherwise refrain from taking, or omit to take any action a reasonable entity would otherwise take, that would”.
+
+(d) In the second paragraph, second (2nd) line delete the word “liability”.
+
+(e) In the third paragraph, second (2nd) line delete the words “solely and
+directly”.
+
+(f) In the fourth paragraph, second (2nd) and third (3rd) line delete the words “its reasonable”.
+
+(g) In the fourth paragraph sub-section ii), add “; provided, that such modification or replacement shall not diminish the value or restrict the operation of the
+Aircraft” after “non-infringing”.
+
+SCHEDULE
+“A”
+
+BASELINE AIRCRAFT SPECIFICATION
+
+&
+
+CUSTOMER SUPPORT SERVICES
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+SCHEDULE
+“A”
+
+1. INTRODUCTION
+
+This document describes the Aircraft, including its power plant, systems and equipment.
+
+Also included are descriptions of Seller’s Customer Support services that are provided to the Buyer as part of the sale of the Aircraft, including warranty, technical publications, crew training and the maintenance management
+system.
+
+The Aircraft may be subject to change during the course of the design, manufacture and certification process or as
+the result of any legislation, act, order, directive or regulation, or any interpretation thereof, of or by any government or governmental body.
+
+If such change takes place and applies to all aircraft in general or to all aircraft of the same category as the Aircraft and are effective after the date of the Agreement but before Delivery Time, Buyer shall pay
+Seller’s reasonable cost for such change. If the incorporation of such changes delays the delivery of the Aircraft, that delay shall be an Excusable Delay under the Agreement.
+
+This document is published for the purpose of providing general information on the standard baseline Aircraft configuration. No option,
+foreign certification requirement or Aircraft customization is included or accounted for.
+
+2. GENERAL DESCRIPTION
+
+Accommodation
+
+Crew (minimum) 2
+
+Passengers (typical/maximum) 8/19
+
+Engines
+
+Number 2
+
+Make/model BR710A2-20
+
+Thrust 14,750 lb. 65.6 kN
+
+Maintenance Program Task oriented
+
+Flat rated to ISA +20°C
+
+Auxiliary Power Unit
+
+Make/model Honeywell RE220[GX]
+
+Maximum operational altitude 45,000 ft 13,716 m
+
+Pressurization
+
+Maximum differential 10.32 psi .72 kg/cm2
+
+Emergency relief 10.62 psi .74 kg/cm2
+
+Maximum altitude with sea 30,125 ft 9,182 m
+
+level cabin pressure
+
+Equivalent cabin altitude at 4,500 ft 1,371 m
+
+45,000 ft altitude
+
+Exterior Dimensions
+
+Length 99.4 ft 30.3 m
+
+Height 25.5 ft 7.7 m
+
+Wingspan 94.0 ft 28.6 m
+
+Basic wing reference area 1,022 ft2 94.9 m2
+
+Sweep (@ 25% chord line) 35 degrees
+
+Wing aspect ratio 8.04
+
+Fuselage maximum diameter 8.8 ft 2.7 m
+
+Wheel track 13.33 ft 4.06 m
+
+Wheelbase 42.83 ft 13.05 m
+
+Min. pavement width, 180° turn 68 ft 20.7 m
+
+Hydraulic Systems
+
+Number of independent systems 3
+
+Number of independent pumps 7
+
+System pressure 3,000 psi 20.68 MPa
+
+Fluid Phosphate ester
+
+Type IV low density
+
+Electrical Power Systems
+
+Number of AC generators 6
+
+Location and capacity L/H engine: 2 @ 40 kVA
+
+R/H engine: 2 @ 40 kVA
+
+APU: 40/45 kVA / RAT: 9 kVA
+
+Transformer rectifier units (4) 150 amp units
+
+Fuel Capacity
+
+Wing, fuselage and tail tanks 6,663 US Gal. 25,222 l
+
++0% -1%
+
+Design limit load factor –1.0g to +2.5 g
+
+Noise (EPNdB) (1) GX XRS (Part 36, Stage 3)
+
+Fly over 83.4 (89)
+
+Approach 89.8 (98)
+
+Lateral 88.4 (94)
+
+Interior Dimensions
+
+Customizable cabin length 48.35 ft 14.7 m
+
+Cabin width centerline 8.17 ft 2.49 m
+
+Cabin width floor line 6.92 ft 2.11 m
+
+Maximum height 6.25 ft 1.91 m
+
+Floor area 335 sq. ft 31.1 m2
+
+Cabin volume excluding cockpit 2,140 cu ft
+60.6 m3
+
+Passenger door: height 6.17 ft 1.88 m
+
+width 3.0 ft 0.91 m
+
+height to sill 5.3 ft 1.63 m
+
+Baggage door: height 2.75 ft 0.84 m
+
+width 3.58 ft 1.09 m
+
+height to sill 6.58 ft 2.01 m
+
+Aft storage volume 195 cu ft 5.52 m3
+
+(1)
+
+Complies with Chapter 4 per International Civil Aviation Organization Annex 16 Volume 1, Amendment 7.
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 1
+
+SCHEDULE
+“A”
+
+Weights
+
+A. Maximum ramp weight 98,250 lb. 44,565 kg
+
+B. Maximum gross takeoff weight 98,000 lb. 44,452 kg
+
+C. Operations at a reduced MGTOW(1) 75,000 lb. 34,019 kg
+
+D. Maximum landing weight 78,600 lb. 35,652 kg
+
+E. Maximum zero fuel weight 56,000 lb. 25,401 kg
+
+F. Basic Operating Weight
+(2) 51,210 lb. 23,228 kg
+
+G. Maximum fuel weight 44,975 lb. 20,400 kg
+
+Maximum payload (E-F) 4,800 lb. 2,177 kg
+
+Payload with maximum fuel (A-F-G) 2,075 lb. 941 kg
+
+Fuel with maximum
+payload (A-E) 42,250 lb. 19,164 kg
+
+NBAA IFR fuel reserve (8 pax) 3,100 lb. 1,406 kg
+
+(1) Based on the installation of Service Bulletin 700-11-018 Operations at Airports with Maximum Weight Restrictions. (2) Based on a
+Manufacturer’s Weight Empty of 49,460 lbs (22,434 kg) ±1%, when completed in accordance with the specifications contained in this Schedule A, and operating items of 1,750 lbs (794 kg).
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 2
+
+SCHEDULE
+“A”
+
+3. PERFORMANCE
+
+Take-off (SL, ISA, Maximum Take-Off Weight)
+
+Take-off distance(1) 6,190 ft
+1,887 m
+
+Rotation speed – VR 128 kts
+
+Cruise Performance
+
+Specific Air Range (SAR) at 163 nm per 1,000 lbs (665 km
+/
+
+Mach 0.85(2)(3) 1,000 kg) of fuel burned ± 3%
+
+Landing (SL, Maximum Landing Weight)
+
+Landing distance(1) 2,670 ft 814 m
+
+Approach speed – VRef 128 kts
+
+Cruise
+
+High
+speed(4) M 0.89 513 kts ± 3.0%
+
+Normal speed M 0.85 488 kts
+
+Long range speed M 0.82 469 kts
+
+Maximum operating altitude 51,000 ft 15,545 m
+
+Initial cruise altitude after 41,000 ft 12,497 m
+
+MTOW departure
+
+Conditions
+
+All performance is based on a new Aircraft certified in accordance with
+Section 4.0, and operated in International Standard Atmosphere (ISA) conditions.
+
+(1) Takeoff and landing performances
+are based on a hard, dry and level runway, zero wind and the most favorable use of brakes, flaps, spoilers and landing gear. Takeoff distances are without allowance for cabin pressurization, air conditioning and ice protection. Thrust reversers are
+not used.
+
+(2) SAR at a weight of 70,000 lbs (31,752 kg) and at an altitude of 45,000 ft (13,716 m). Allowances are made for
+normal engine bleed air requirements for cabin pressurization and air conditioning (APU off). The center of gravity location is assumed to be at 33% Mean Aerodynamic Chord (MAC). The performance is based on the use of fuel with an average lower
+heating value of 18,550 BTU/lb (43,147 MJ / kg) and a density of 6.75 lbs / US gallon (0.808 kg / liter).
+
+(3) A nominal SAR
+of 163 nm per 1,000 lbs (665 km / 1,000 kg) of fuel burned as described in Section 3 provides a fuel consumption consistent with a range of 6,150 nm (11,397 km) at Mach 0.85 under the following assumptions: take-off weight not limited by
+airport conditions; NBAA mission profile format with IFR fuel reserves; the conditions listed in (2) above; long range climb and descent profiles; no allowance made for maneuver, wind or ice protection; nominal weights per Section 2; a
+payload of 1,600 lbs (726 kg)—assumed to be equivalent to 8 passengers.
+
+(4) Maximum Cruise Speed at a weight of 83,315
+lb (37,791 kg), an altitude of 35,000 ft (10,668 m), and in zero wind conditions.
+
+4. CERTIFICATION
+
+The Aircraft shall be certified to the requirements as defined in the following Type Certificate Data Sheets (TCDS):
+
+Transport Canada (TC) TCDS A-177,
+
+United States of America Federal Aviation Administration (FAA) TCDS T00003NY,
+
+European Aviation
+Safety Agency (EASA), TCDS IM.A.009,
+
+Joint Aviation Authority (JAA), TCDS JAA/25/99-020. The Aircraft is certified for
+operations in day and night, under VFR and IFR conditions, is RVSM/DRVSM compliant and is approved for operations to Category II minima.
+
+The Aircraft is certified for operations at a maximum airport pressure altitude of 13,700 feet (4,176 m) for takeoff and landing. The pressurization system is certificated for operations to a maximum pressure altitude of 51,000 ft
+(15,545 m).
+
+The Aircraft and its installed equipment (excluding cabin systems) are certified to operate at sea level
+ambient temperatures from -30C (-22ºF) to +50C (+122ºF).
+
+Cabin functions controlled through the Cabin Electronic
+System will operate in cabin ambient temperatures greater than -15C (+5F). Minimum cabin lighting is available throughout the aircraft’s temperature envelope.
+
+Unless otherwise agreed to between Seller and Buyer, Seller will provide Buyer with a Transport Canada or FAA Standard Airworthiness Certificate, with all completion installations approved under a TC
+Limited Supplemental Type Certificate or an FAA Supplemental Type Certificate, compliant with Private category operations per TC CAR 604 or FAA FAR Part 91.
+
+5. EQUIPMENT & FURNISHINGS
+
+Flight Compartment
+
+The flight compartment includes the following equipment and furnishings:
+
+All instruments and control panels,
+
+A pilot and a co-pilot side 8.4” inches (21.3 cm) multifunction touch screen display, which each serve as an independent Electronic Flight Bag (see Section 12 for details) and as the Cabin Electronic System flight
+crew interface.
+
+Similar 16g seats for the pilot and copilot. Each seat has an inertia reel control, two (2) inertia
+reels and five (5) point safety shoulder harnesses, and a quick release buckle.
+
+The flight crew seats can be adjusted
+in height, forward and aft. They can also be adjusted for lumbar support.
+
+A cockpit flight observer seat approved for
+takeoff and landing is installed. The cockpit flight observer seat
+
+Date: February 2006, Revision 5 Effectivity: s/n
+A10-216-9282 and subs
+
+Page 3
+
+SCHEDULE
+“A”
+
+incorporates recline, height and tracking adjustment capabilities. A safety belt and shoulder harnesses with
+a twist release are provided. The flight observer seat is stowed in the left hand Entrance Enclosure.
+
+The flight observer
+seat audio panel is located on the center pedestal, with the audio jack and press to talk buttons located on the right hand side cockpit bulkhead. EROS MF-10 full-face oxygen masks and Puritan Bennett “Sweep On” 2000 oxygen masks are
+installed for the pilot and the copilot.
+
+Two (2) rechargeable flashlights Sun filter-type roller screens Writing pad
+holders Illuminated approach chart holders
+
+A semi-recessed manuals storage box (in floor)
+
+Pilot and copilot footrests along with heated floor mats located under the pilot and copilot feet. The pilot and copilot can select and
+control the footwarmers from the Electrical Management System Control Display Unit (EMS CDU).
+
+Cockpit amenity holders and
+miscellaneous storage compartments in the cockpit side consoles for the stowage of clip boards, charts, etc.
+
+Cabin
+Compartment
+
+The cabin of the Global Express XRS aircraft is comprised of an entrance area, a passenger compartment, an aft
+lavatory and a pressurized aft baggage compartment.
+
+Entrance Area
+
+The entrance area includes:
+
+A forward lavatory
+
+An entrance enclosure with a coat rod, a 2nd re-fuel and de-fuel panel, and various
+equipment and storage compartments.
+
+A crew area:
+
+One (1) single narrow executive seat with recliner style footrest, electric lumbar, seat pan leveler, berthable/recline and swivel
+capability and drop down armrests.
+
+An overhead bin containing all In-Flight Entertainment (see Cabin Electronic System)
+equipment along with miscellaneous storage.
+
+The crew area is sized to meet the guidelines established by the FAA within AC
+121-31 pertaining to FAR Part 135 crew rest area requirements for flights of up to 12 hours in duration.
+
+Date: February
+2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 4
+
+SCHEDULE
+“A”
+
+A LH wet Galley with the following equipment: Galley touch screen, microwave oven, espresso / cappuccino type
+manual coffee maker on pull out tray, stainless steel sink with electric solenoid drain, ice and soda can drawers with associated air chiller, crystal, china and flatware storage, electrical outlet, water heater, and exhaust fan.
+
+A RH Galley Annex with the following equipment: High-temperature oven and exhaust fan, china and miscellaneous storage.
+
+An entry area heater and associated fan.
+
+Passenger compartment
+
+The RHS and LHS Forward Cabin includes four
+(4) single wide seats with recliner style footrests, electric lumbar, seat pan levelers (LHS and RHS aft seats), berthable/recline, and swivel capability.
+
+The RHS Mid Cabin seat is a single narrow seat electric lumbarand swivel capability. The LHS Mid Cabin Conference Group includes two (2) sets of double seats that provide full forward and aft
+tracking, with the ability to swivel each inboard seat.
+
+The LHS Aft Cabin includes two (2) single narrow seats with
+recliner style footrests, electric lumbar, seat pan leveler (LHS aft seat), berthable/recline, and swivel capability.
+
+Aft
+area
+
+The aft area includes a lavatory, a vanity and an aft wardrobe. It also includes a baggage compartment complete with a
+fold-up hang-up bar, a 60 inches (152 cm) removable hang-up bar, two (2) fold down shelves and miscellaneous storage, including areas fore and aft of the AC Power Center.
+
+Miscellaneous Equipment
+
+Common keyed locks (16 external door panels)
+
+Gear pin storage (7 inches, 17.8 cm in diameter) on forward
+face of airstair Aft equipment bay access ladder External baggage door lock override Catwalk battery access Aft equipment bay storage box with a maximum weight capacity of 60 lbs (27.2kg).
+
+Towbar assembly and towbar storage provisions.
+
+Interior Aesthetic Trim and Finish Allowances
+
+Up to two species (types) of
+hi-gloss veneer on cabinetry shipset (galley, vanity, enclosures, furniture, magazine racks, tables, cabin ledges, handrails, bulkheads and doors).
+
+Simple hardwood molding complementing veneer where applicable. A choice of up to ten (10) Seller selected routered moldings (bullnose) is available where applicable.
+
+Flat beveled (no etching) Lexan glassware closeout in upper galley area (no curves or radius).
+
+Plated (24K polished gold, satin antique brass or equivalent) appointments in the passenger compartment only.
+
+Up to two inlays in tables, bulkheads, galley, vanities and longitudinal cabin area (dado or sidewall). Plated metal, cross grain veneer,
+or marquetry to compliment veneer in cabinetry components, plated metal in dado or sidewall overlay.
+
+100% wool, 3/8”
+pile (approximately 95 oz face-weight) machine quality custom carpet in the cabin compartment (up to three colors, cut, loop, or multi-pattern design). 100% wool, 5/16” pile (approximately 52 oz face-weight) machine quality custom carpet on
+seat bases, dado trim and cockpit floor (up to three colors, cut, loop, or multi-pattern design).
+
+Common stitched fabric,
+leather or combination fabric/leather passenger seating dress covering, selected from a choice of ten (10) Seller provided design styles. Common stitched fabric or leather divan dress covering, selected from a choice of four (4) Seller
+provided design styles.
+
+Up to two types of common stitched fabric, leather, or fabric/leather combination on lower dado (no
+box pleating or decorative stitching).
+
+Fabric finished periphery (headliner, PSU, valance, and sidewall overlays).
+
+Fabric interior curtains where applicable, complete with fabric/leather entrance area acoustic curtain.
+
+Durable grospoint fabric lining in utilitarian area (wardrobes).
+
+Solid surface (Corian, Surell, Avonite, etc.), Aeroquest, or Polystone galley and lavatory countertops complete with stainless steel sink
+galley sink and plated or integrally molded vanity sink as applicable (no granite tile).
+
+One (1) galley tapset,
+selected from a choice of two (2) Seller provided designs.
+
+One (1) tapset and one (1) towel bar per
+lavatory, selected from a choice of eight (8) Seller provided designs.
+
+SAM latch plated designs, selected from a
+choice of four (4) Seller provided designs.
+
+Combination of paint and plastic laminate drawer linings in the galley and
+lavatory.
+
+Fabric lined divan armrest drawers.
+
+Standard factory gray cockpit with headliner and cockpit carpet to match interior aesthetics.
+
+Standard factory baggage finishes.
+
+Exterior Paint
+
+The paint application process is carried out as per Bombardier Aerospace procedures, in line with the recognized manufacturer and/or
+industry practices and certification requirements. The aircraft detailed paint is done in accordance with the customer-approved drawing.
+
+The following provisions and/or requirements are provided:
+
+The aircraft exterior paint is one
+(1) color, non-metallic base paint with two (2) straight stripes shown on the fuselage, nacelles and winglets.
+
+The paint consists of an epoxy primer and a polyurethane high solid coating for the base color and
+
+Date:
+February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 5
+
+SCHEDULE
+“A”
+
+conventional coating for the lines, registration and logo. Registration markings are painted in up to two
+(2) colors.
+
+The landing gear is retained as received from the factory (painted white).
+
+The main entrance door, the baggage door, edges and frames are painted.
+
+The airstair at the main entrance is painted the same color as the bottom of the fuselage.
+
+The inside of all service door panels, the inside of all modified fairing and compartments are painted in the same color as the aircraft
+fuselage.
+
+The original bright work on the aircraft exterior is highly polished. This includes:
+
+The leading edges of the vertical stabilizer, wings and winglets, engines (cowl and pylon) and horizontal stabilizer
+
+Radome, avionics and service doors, including their hinges.
+
+Cabin window surrounds
+
+Baggage door handle
+
+APU access cowling latches and surrounding exhaust area.
+
+An erosion protective plastic is installed over the radome, after paint, and also on the winglets leading edges and lenses and the horizontal tips.
+
+Exterior markings done by the silk-screen method.
+
+6. CABIN SYSTEMS
+
+Cabin Electronic System
+
+The Cabin Electronic System (CES) provides office and entertainment functions while integrating the control, display, and maintenance of
+all interior cabin systems. Key features include:
+
+Cabin Communication / Office equipment
+
+Satellite communication comprised of two (2) Inmarsat Aero H+ channels plus one (1) cockpit data channel, one (1) Iridium
+based communication channel, and two (2) channels of High Speed Data (HSD) based on the Inmarsat Swift 64 service, with each channel providing a transfer rate of up to 64 kilobits per second, and which can combine to provide a maximum of 128
+kilobits per second. The Inmarsat Satcom is certified to Level D for Safety Services.
+
+Two (2) wireless voice access
+points (aft seat of the RHS Forward Cabin, aft seat of the LHS Aft Cabin), one wired access point in the crew area, and one wired voice access point in the cockpit.
+
+Wired Local Area Network (LAN) with RJ-45 outlets at each single seat, and two outlets each per conference grouping and divan.
+
+Wireless Local Area Network
+
+Passenger address system
+
+Cabin / Lavatory call system
+
+Printer and plain paper facsimile machine
+
+VGA input port at the RHS Mid Cabin workstation.
+
+Cabin Entertainment
+
+Touch screen activated Wireless Passenger Control Units, including two (2) VIP configured units in the cabin.
+
+Two (2) 21.3 inches (54.1 cm) LCD bulkhead mounted monitors in the passenger cabin.
+
+One 10.4 inches (26.4 cm) touch screen monitor on the Galley.
+
+One 10.4 inches (26.4 cm) plug-in touch screen monitor in the crew area.
+
+High quality cabin speaker / subwoofer arrangement.
+
+Passenger headphone distribution
+
+Ability to play audio CD / MP3 or audio
+and video DVD from three (3) dual CD / DVD players.
+
+In-flight Information System (moving maps with display of own ship
+position, etc.) Power distribution
+
+The power distribution system provides both AC and DC power from the cabin feeds. The
+system is composed primarily of Power Distribution Equipment (PDE) units that provide electronic circuit protection controlled and monitored through the galley and cockpit touch screens.
+
+The cabin power distribution system, which includes the processing cabinets, various control display devices and the Ethernet network,
+provides a modular approach to distributing power through the aircraft cabin, minimizing wiring and weight.
+
+Transformer
+Rectifier Units as appropriate to supply DC power to the cabin.
+
+One (1) power converter to provide 115V / 60Hz
+electrical power to electrical outlets. Ground fault protected outlets will be located at each single club grouping (one (1) per grouping), one (1) in the crew area, one (1) at the workstation, two (2) at the conference grouping,
+one (1) in each divan end cabinet, one (1) in the galley, and one (1) in each lavatory.
+
+Cabin systems
+maintenance and diagnostics
+
+The CES provides a central maintenance function for applicable cabin systems (CES, water, waste
+and lighting systems), similar to the maintenance computer function typically associated with aircraft avionics systems.
+
+This function will provide a variety of maintenance reports such as a high level basic health status (i.e. normal, inoperable or unavailable) for all integrated subsystems, detailed fault data report, fault data history, and results
+of initiated self test.
+
+Maintenance diagnostic data or reports are provided to the user in plain English, and can be viewed
+on the Galley or Cockpit touch screen, downloaded to a portable processing device such as a laptop computer, or routed to the network cabin printer to generate a hard copy.
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 6
+
+SCHEDULE
+“A”
+
+Cabin Lighting System
+
+The lighting system components operate independently of each other. Different DC, AC, battery buses and emergency lights battery packs supply power to the system. When cabin power is not available,
+essential cabin lighting is provided. Key features include:
+
+Light Emitting Diode (LED) based lighting technology is used
+throughout the cabin.
+
+Indirect upwash and downwash lighting uses a combination of White, Amber, White and Red LED.
+
+Control for local reading lights, and table lights where applicable, is provided for each individual seat location.
+
+Ordinance signs are installed in the lavatories and the cabin as appropriate to meet certification requirements
+
+Accent, mirror, and cabinet lights are installed where required.
+
+Dome lights, installed in the baggage headliner, are controlled from the aft wardrobe or from the external AC ground power panel. Each of
+these switches turns on the baggage lights for twenty (20) minutes, after which time they will automatically turn off.
+
+Emergency lights are powered without any connection to the CES. Emergency lights include:
+
+Dome lights,
+located in the entrance area headliner and in the forward and aft lavatory headliner.
+
+Area lighting in the cabin
+compartment PSU.
+
+Exit signs are part of the emergency lighting and are located as appropriate to meet certification
+requirements.
+
+Floor path markings, located on the inboard faces of seat bases, divan end cabinets and the galley toe-kick
+are installed as appropriate to meet certification requirements.
+
+Potable Water System
+
+The Potable Water System (PWS) is a dual water pump recirculating system. The PWS provides filtered cold and hot water to the galley and
+the lavatories. Key features include:
+
+A single (1) water tank with a capacity of approximately 28.6 USG (108.3 liters)
+of usable water.
+
+Single point exterior servicing port with manual backup fill capability at the water tank.
+
+Water filtration is accomplished by using a high quality ultraviolet and coal water filter.
+
+The PWS is designed with heaters to avoid freezing in static lines.
+
+Drainage of the gray water lines and the fresh water lines (when purging) is provided through the heated drain masts.
+
+Waste System
+
+The vacuum waste system is a single waste tank that services a two-toilet system with one (1) toilet in the forward lavatory and one (1) in the aft lavatory. Key features include:
+
+Differential pressure, between the inside and outside of the aircraft cabin, is employed to transport waste from the toilets to the waste
+tank when the aircraft is in flight at altitudes above 16,000 feet (4,877 m).
+
+A vacuum generator is used to generate
+differential pressure for waste transport when the aircraft is below 16,000 feet (4,877 m) or parked on the ramp.
+
+A single
+waste tank with a usable capacity of approximately 16 USG (60.6 liters) is installed in the right aft wing/body faring. The tank assembly contains a heater blanket to prevent freezing.
+
+A single external service panel is provided on the right aft wing/body faring for servicing the tank. The external outlet is sized to
+enable utilization of a standard airline service cart.
+
+7. STRUCTURAL DESIGN
+
+The Aircraft is a swept-wing monoplane with a pressurized cabin and is capable of accommodating a pilot, a co-pilot, a third crewmember
+and up to 19 additional occupants. The Aircraft structure, in general, is fabricated from aluminum alloy but also includes alloy steels, stainless steel, titanium and composites.
+
+The Aircraft structure and systems are designed and installed to facilitate inspection, maintenance and permit ready removal of
+appropriate items. Parts and assemblies subject to ready removal from the Aircraft are interchangeable and/or replaceable from one BD-700-1A10 aircraft to another where Seller considers this practical.
+
+8. FUSELAGE GROUP
+
+The fuselage consists of nose, center and aft sections joined together. It incorporates attachments for the tail group, engine support structure, pylons and nose landing gear. Except for the nose and aft sections, the fuselage
+cross-section is a 106-inch diameter circle.
+
+The fuselage is of semi-monocoque construction, utilizing chemically milled
+alloy skins with aluminum alloy frames and stringers. Areas adjacent to or affected by high heat sources are constructed of fire-resistant or fireproof materials as appropriate.
+
+A radome of composite material and designed for use with a high resolution X band radar is installed on the fuselage nose. The fuselage is
+designed for internal pressurization with the pressure-sealed area extending from the bulkhead forward of the flight station in the nose to the bulkhead aft of the cabin, the latter forming the aft face of the baggage compartment.
+
+9. WING GROUP
+
+The wing is a swept unit mounted at the side of the fuselage and incorporates winglets, ailerons, ground spoilers, multi-function spoilers, inboard, mid and outboard single slotted Fowler flaps, integral fuel tanks, slat support and
+structures for the main landing gear. Access holes and covers are provided in the wing skin panels to permit access to the wing interior.
+
+The wing is a two-piece unit consisting of spars covered top and bottom with stiffened skin panels of aluminum alloy. Shear web type ribs carry the air loads, act as contour support and fuel tank baffles. The tanks are compartmented
+and
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 7
+
+SCHEDULE
+“A”
+
+mechanically sealed using sealing compounds. The tanks have an overcoat of polyurethane.
+
+Part-span slats mounted on the forward spar together with a fixed leading edge part form the leading edge, excluding the winglets. Thermal
+anti-icing is provided inside the slats and fixed leading edge.
+
+The wing includes the following control surfaces:
+
+Inboard, mid and outboard fowler flaps, incorporated into the trailing edge.
+
+Slats mounted on forward spar from the wing leading edge. Thermal anti-icing is provided inside the slats.
+
+Ailerons, constructed of carbon fiber reinforced plastic skins and spar, with full depth honeycomb core, and metallic hinge fittings.
+
+Six spoilers mounted on hinges attached to the rear and auxiliary spar in the upper surface of each wing. The two inboard
+spoilers’ function as ground spoilers, while the remaining four are multi-function. The spoilers are constructed of carbon fiber reinforced plastic and honeycomb.
+
+10.
+
+EMPENNAGE GROUP
+
+The empennage is of a “T” configuration, comprising an incidence adjustable horizontal stabilizer with elevators, mounted at the top of a vertical stabilizer and rudder. The horizontal
+stabilizer is a one-piece sweptback unit mounted at the top of the vertical stabilizer. It incorporates pivot and actuation mounting fittings to allow incidence adjustments, hinges for elevators and provision for sealing at its interface with the
+vertical stabilizer.
+
+The fully cantilevered sweptback-type vertical stabilizer is an all-metal construction unit and
+incorporates the rudder. The leading edge incorporates the HF antenna.
+
+11.
+
+POWER PLANT
+
+Two Rolls-Royce Deutschland BR710A2-20 turbofan engines power the Aircraft. The engines produce 14,750 lb. of thrust up to 35°C (ISA+20°C) at sea level. The engine is assembled from seven
+sub-assemblies: fan rotor, intermediate fan casing, HP compressor, combustor/HP turbine, LP turbine, exhaust case and accessory gearbox. It has a single stage low-pressure fan driven by a two stage shrouded low-pressure turbine. A two-stage
+high-pressure turbine drives a ten-stage high-pressure compressor. The first four stages of the compressor are equipped with variable-pitch stators controlled by the engine’s Full Authority Digital Engine Control (FADEC). The combustor is an
+annular conventional flow type designed for low emissions and smoke control. A forced mixer exhaust is integrated with a two-door full flow type thrust reverser. The hydraulically operated thrust reverser system, with weight on wheels or wheel
+spin-up available, will deploy when the thrust reverser levers on the throttle quadrant are operated. For maintenance, the thrust reverser can be locked open.
+
+The engine has been designed for “on condition” type maintenance which requires periodic inspection of specific major components. Only those parts that show distress are replaced or
+overhauled. The periodic maintenance checks are established utilizing the MSG-3 process. The complete power plant assembly is detachable from the pylon as a unit.
+
+Auxiliary Power Unit (APU)
+
+A Honeywell RE220[GX] gas turbine APU is
+installed in the Aircraft tail cone to provide bleed air and electrical power on the ground and in flight. Control of APU speed and temperature is automatic. A single switch located in the cockpit initiates APU starting.
+
+The APU supplies bleed air for cabin cooling and heating, as well as engine starting. The APU also drives a 40/45-kVA in-flight/on-ground
+generator, which provides electrical power on the ground and as back-up to the main engine driven generators in-flight.
+
+12.
+
+INSTRUMENTATION & AVIONICS
+
+General Description
+
+The Aircraft is equipped with the Honeywell Primus 2000 XP avionics suite, complete with six displays. These displays are laid out in a six-across configuration. Two displays in front of each pilot provide Primary Flight Display
+(PFD) and Multi-Functional Display (MFD) information. The PFD presents flight director, airspeed, altitude, attitude, heading, as well as Horizontal Situation Indication (HSI). The MFD provides weather radar information as well as traffic warnings
+from the Traffic and Collision Avoidance System (TCAS). The MFD may be manually reverted to either a PFD or EICAS.
+
+The
+Engine Indication and Crew Alerting System (EICAS) system consists of a primary and secondary displays (both installed on the center instrument panel), data acquisition units and a control panel. The functions provided by the EICAS are as follows:
+
+Engine parameters display and crew alerting messages
+
+Aural warnings
+
+Aircraft synoptic pages for Flight Controls, Electrical Systems, Hydraulics System, Fuel System, Anti-Ice System, Environmental Control System
+
+Aircraft systems indications for Gears, primary and some secondary access doors, APU, Brake Temperature, Cabin Pressurization.
+
+EICAS displays can be displayed on either or both of the Multi-Function Displays (MFD) by manually switching in the event of a failure.
+Master caution and warning indications are located on the glare shield at both crew positions.
+
+Auto Flight
+
+The Aircraft is equipped with an auto flight system, which provides Flight Director, Autopilot, Yaw Damper and Auto Throttle functions.
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 8
+
+SCHEDULE
+“A”
+
+The flight director modes are selected on the flight guidance panel or via the go-around switches on the
+throttles. The flight director commands and mode selection is displayed on the PFD. The flight director modes include:
+
+Lateral Vertical Multi-Axis
+
+- Heading Select —Altitude Hold —Approach
+
+- Navigation —Altitude Select —Go Around
+
+- Approach —Vertical Speed Select —Takeoff
+
+- Back Course
+—Flight Level Change
+
+—VNAV
+
+The dual autopilot system outputs pitch and roll steering commands to the autopilot servos. The autopilot Engaged status is displayed on the PFD.
+
+The dual yaw damper system provides yaw damping and turn coordination functions.
+
+The auto throttle computations are performed within two integrated avionics computers. Each computer is capable of independently driving
+both throttle servos to move the throttles and provides inputs to the engine full authority digital engine control (FADEC). Auto throttle modes are integrated with autopilot modes. The auto throttle performs the engine synchronization function.
+
+Communications
+
+The Aircraft communication system is comprised of:
+
+VHF Communication—Three VHF communication
+systems with 8.33 kHz channel spacing are installed, compliant with FM Immunity requirements. Transceiver tuning is achieved through either of two RMU’s or FMS.
+
+HF Communication—A dual digital HF communication system is installed. Tuning is achieved through either of the two RMU’s or the two FMS CDU’s.
+
+SELCAL—A single SELCAL system is installed, which provides an aural annunciation and an EICAS message when a preset code is received
+by either the VHF or HF radios. The system is capable of monitoring three VHF and two HF radios.
+
+ACARS—One
+(1) datalink compliant with the Aircraft Communication Addressing and Recording System (ACARS) protocols is installed. This system is used to display airborne information on the flight management system (FMS) control display unit (CDU), using
+either SATCOM, or the 3rd very high frequency (VHF) radio.
+
+Interphone—A dual digital bus interphone system with hand
+held microphones and individual controls for pilot and co-pilot is installed in the Aircraft. Radio transmission press-to-talk buttons are located on the control wheels. An intercom/hot microphone switch is incorporated in each audio control panel.
+
+Indicating/Recording Systems
+
+All instrument presentations are graduated in United States units of measure for land planes (fuel quantity in lb., fuel flow in lb./hr., altitude in ft.), except temperature indicators (in degrees
+Celsius) and airspeed indicators (in knots or
+
+Mach number as applicable). All placards read in the same units as the
+instruments affected.
+
+The arrangement of the controls and instruments allows the pilots to fly the Aircraft from the LH or
+RH seat. A center console is installed between the pilot and co-pilot, on which the engine and system controls and trim controls are mounted.
+
+Clocks—Two clocks are installed, one on the pilot’s side panel, the other on the co-pilot’s side panel. Upon power-up, the clocks are in slave mode until valid GPS time is received. The clocks then revert to
+master mode to provide the avionics with accurate time.
+
+Cockpit Voice Recorder (CVR)—A CVR system is installed to
+record area voice communication, as well as pilot and co-pilot communication. The unit records continuously and retains the last one hundred and twenty minutes of voice data.
+
+Flight Data Recorder (FDR)—A digital FDR system is installed to provide a record of Aircraft parameters required by the FAA and
+includes an underwater location device. The solid-state memory provides storage for up to 25 hours of recording before overwriting.
+
+Emergency Locator Transmitter (ELT)- An ELT, capable of broadcasting on the 121.5 MHz, 243 MHz and 406MHz frequencies, is installed. The ELT will provide search and rescue (SAR) authorities with an encoded digital message (via
+satellite) for 24 hours and an AM frequency locator beacon for approximately 72 hours in the event that the self contained G-switch is activated. The ELT is interfaced to the navigation system of the aircraft to allow broadcasting of the last known
+position of the aircraft prior to activation.
+
+Navigation
+
+The navigation system includes the following components:
+
+Electronic Flight Instrument System (EFIS) – An EFIS is provided with the Aircraft utilizing the PFD, the MFD and a display control panel for each pilot. The processing and symbol generation is
+part of the integrated avionics computer.
+
+Electronic Flight Bag (EFB) – A Class 3 Dual EFB is provided through the two
+(2) touch screen side displays. The EFB provides electronic chart navigation with ownship position representation on ground as well as electronic manual viewing and graphical weather. The information displayed can be printed to the cabin
+printer.
+
+Head Up Flight Display System (HUD) – An optical electronic system providing simultaneous display of TCAS
+symbology and other flight critical EFIS information in the pilot’s direct line of sight. The HUD is certified for operations to Category II minima. The HUD reports status information to CAIMS.
+
+Enhanced Vision System (EVS) – Increases overall depth perception of pilots in difficult operating conditions, often at unfamiliar
+airports. The InfraRed (IR) image is available head up on the HUD, and head down on the #2 FMS CDU. The EVS system consists of an IR Camera, an aerodynamic fairing with sapphire
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 9
+
+SCHEDULE
+“A”
+
+viewing glass and a deicing heat controller. The EVS system reports status information to CAIMS.
+
+Integrated Electronic Standby Instrument – A three (3) in one (1) standby instrument is installed on the center
+instrument panel, and provides attitude, airspeed and altimeter indication.
+
+Air Data System (ADS) – The ADS consists
+of three digital air data computers (ADC’s). Three total air temperature probes are installed to provide temperature inputs to the ADC’s. The ADC’s use pitot, static and temperature inputs to compute altitude, vertical speed,
+airspeed, and Mach number data.
+
+Weather Radar – A digital color radar system with dual radar controller is installed.
+Radar data is displayed on the MFD’s. The system also has turbulence detection capability.
+
+Radio Altimeter – Two
+radio altimeters are installed with data displayed on both PFD’s.
+
+Inertial Reference System (IRS) – Three
+inertial reference units are installed each providing attitude and heading, rate, acceleration and position data for use by EFIS, AFCS and other systems. IRS position data is utilized by the FMS’s for navigation. Integrated mode select units
+coupled to each inertial reference unit allow selection of IRS modes (NAV or ATT). IRS initialization is via either FMS or the Lasertrak unit, which can also act as a back-up navigator. One inertial navigation display unit (INDU) is installed to
+provide basic navigation capabilities as back-up to the FMS.
+
+VHF Navigation – Two VOR/ILS/MKR VHF navigation systems
+are installed in the Aircraft. Both systems are tuned by the RMU’s.
+
+Automatic Direction Finder (ADF) – Two
+digital ADF systems are installed in the Aircraft. The ADF receivers are tuned by the RMU’s.
+
+Distance Measuring
+Equipment (DME) – Two 6-channel DME systems are installed. Channel 1 and 2 are manually tuned, while the remaining channels are tuned by the FMS.
+
+Air Traffic Control (ATC) Transponder – Two Mode-S transponders, controlled and selected via the
+
+RMU’s, are installed in the Aircraft. The transponders meet the Eurocontrol Elementary Surveillance requirements in accordance with Temporary Guidance Leaflet 13 Rev 1. The transponders also meet
+the requirements stated in EASA ETSO 2C112B on Mode S Enhanced Surveillance (EHS).
+
+Traffic Collision Avoidance system
+(TCAS) – A TCAS compliant with Change 7 (RTCA DO-185A) is installed comprising of a TCAS processor, one top mounted directional antenna and one bottom mounted omni-directional antenna. The system is controlled by the RMU’s.
+
+Enhanced Ground Proximity Warning System (EGPWS) – An Enhanced GPWS system with wind shear detection is installed. Warnings are
+displayed on the PFD with enhanced terrain avoidance displayed on the MFD.
+
+Global Positioning System (GPS) – Two
+12-Channel GPS receivers are installed and supply the Universal
+
+Time Coordinates (UTC) used by the other avionics systems.
+The GPS is the primary source of navigation data used by the FMS.
+
+Flight Management System (FMS) – The Aircraft is
+equipped with two FMS’s comprised of two color CDU’s flight management computers and a fixed data loader, installed on the pilot’s side console, which can interface with the FMS. The FMS in this Aircraft is capable and meets the
+requirements of:
+
+North Atlantic Tracks (NAT) Minimum Navigational Performance Standards (MNPS) in accordance with AC120-33
+or AC 91-49.
+
+Basic Area Navigation (BRNAV) / Required Navigation Performance (RNP) 5, in accordance with AC 90-96 and JAA
+Temporary Guidance Leaflet (TGL) No. 2, rev. 1, AMJ 20X2. In addition, the FMS installation has received airworthiness approval in accordance with AC 20-130A.
+
+RNP-10, in accordance with FAA Order 8100.12A.
+
+GPS supplemental navigation
+data for Enroute, approach and terminal navigation. GPS-only approaches are approved.
+
+PRNAV that meets the airworthiness
+certification requirements of JAA TGL No. 10 The FMS includes the following features:
+
+Flight plans
+
+Lateral and vertical navigation
+
+Dual operation
+
+Map data outputs for EFIS
+
+Worldwide database, including airways, SIDS and STARS
+
+Holding pattern specification for any waypoint and a present position hold at any time
+
+Back-up radio tuning
+
+Progress data display
+
+Auto throttle interface
+
+Fuel leak detection
+
+Take off and Landing Data (TOLD)
+
+13.
+
+AIRCRAFT SYSTEMS
+
+Environmental Control System
+
+The dual environmental control system (ECS)
+provides the following:
+
+A supply of sufficient fresh conditioned air to the cabin, baggage compartment and cockpit;
+
+Cabin pressurization;
+
+Ventilation and cooling air for the avionics equipment;
+
+Auxiliary pressurization;
+
+Independent temperature control of cockpit, forward cabin and aft cabin.
+
+Each ECS consists of an air cycle machine and powered by the bleed management system. .
+
+Conditioned air supply to the cabin is provided by two separate temperature selectors; one temperature selection
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 10
+
+SCHEDULE
+“A”
+
+within the cockpit and the others within each cabin zone. Cabin air temperature is sensed in two locations
+and the signals input to the ECS temperature controller. Conditioned air to the cabin is distributed from ducts on each side of the cabin. Conditioned air for the cockpit is supplied to the roof, side console panels and to the forward cockpit panel.
+Individual adjustable overhead air vents (gaspers) are installed at each pilot and passenger’s seating position. The cabin pressure system consists of two independent controllers. The controllers automatically command the cabin altitude through
+their auto schedule, by regulating the electrically actuated outflow valves. Landing altitude is set via the FMS; however, a cockpit panel mounted selector provides an alternate means of choosing landing altitude if the FMS is not used. An
+independent protection is provided to automatically close the outflow valves, should cabin altitude exceed 14,500 ± 500 ft.
+
+In automatic mode, the system controls and maintains a relative cabin pressure altitude not to exceed 4,500 ft. at altitudes up to 45,000 ft., and 5,680 ft. at 51,000 ft., providing appropriate cabin pressure control performance
+during steady and transient conditions. Cabin differential pressure, cabin pressure altitude and cabin pressure altitude rate of change are indicated on EICAS. A warning is displayed if the cabin pressure altitude exceeds 9,000 ft (for non-high
+altitude airfield operation).
+
+Electrical System
+
+Primary electrical power is provided by four (4) 40-kVA alternating current (AC) generators and is distributed and controlled from
+the AC power center (ACPC). Two generators are coupled to each engine’s auxiliary gearbox. Electrical power can also be provided by a 40/45-kVA in-flight/on-ground generator coupled to the APU. Direct current (DC) electrical power is provided
+by four 150A transformer rectifier units (TRU) powered from the AC power sources and distributed and controlled from the DC power center (DCPC). In case of emergency, electrical power is provided by a 9-kVA ram air turbine (RAT) generator and by two
+nickel-cadmium batteries (one (1) 25 Amp-hr and one (1) 42 Amp-hr).
+
+On the ground, electrical power can be
+provided via the AC or the DC external power receptacles by using AC or DC ground power units.Power distribution to user equipment is handled by the electrical management system (EMS), providing automatic system reconfiguration, optimizing
+availability of electrical power to user equipment and minimizing pilot workload. EMS control and display units (EMS CDU) are located in the cockpit for pilots to monitor and control the distribution of electrical power.
+
+The AC power distribution system is divided in four independent and isolated distribution systems/buses, which are normally fed by
+different power sources and are virtually interrupt free.
+
+DC power distribution is also divided in four independent and
+isolated busses, and distributed through Secondary Power Distribution Assemblies (SPDA). Four (4) SPDAs provide electronic circuit protection, controlled via the EMS
+
+CDUs, and are strategically located to minimize wiring and weight.
+
+Fire
+Protection
+
+A fire detection and warning system with fault discrimination is installed, with fire detectors located in each
+engine nacelle and in the APU compartment. Three red fire warning lights are installed in the cockpit fire handles, one each for each engine nacelle and one for the APU compartment. An element within each wheel well warns of an overheat condition.
+Indication and test switches are provided in the cockpit.
+
+A two-shot Halon fire extinguishing system, common for each
+engine for the APU, is installed in the fuselage aft section. The fire extinguisher bottle is fitted with a switch providing an annunciation in the cockpit when pressure drops below a predetermined pressure setting.
+
+One Halon type, portable fire extinguisher is also installed in the flight crew compartment.
+
+Smoke detection is monitored by the flight crew via the EICAS. Detection coverage includes baggage compartment, aft wardrobe, aft
+lavatory, fwd lavatory, and three dectors in the avionics compartment.
+
+Flight Controls
+
+Flight controls consist of two separate elevators, two ailerons, a single rudder, a trimmable horizontal stabilizer, eight multi-function
+spoilers and four ground spoilers. Six segments of Fowler flaps and eight segments of leading edge slats are also installed.
+
+The primary flight controls are conventional, mechanically controlled and hydraulically operated. Cockpit surface position indications are displayed on EICAS. Primary lateral control is accomplished by hydraulically powered ailerons
+and assisted by multi-function spoilers. The aileron control is a dual system with anti-jam protection. Pitch control is provided by a dual mechanical control system activating two separate hydraulically operated elevators. Yaw control is provided
+by means of three power control units hydraulically powering the rudder.
+
+The flap/slat system is controlled through an
+integrated flap/slat selector that is located in the cockpit, with positions displayed on EICAS. For takeoff, the configuration of the flap/slat system consists of Flaps at 0, 6 or 16 degrees, with the Slats in the extended position. For landing,
+the configuration of the flap/slat system consists of Flaps at 30 degrees, with the Slats in the extended position.
+
+Eight
+multi-function, electrically controlled spoilers are installed, with simplex hydraulically powered PCU’s, one per surface. These spoilers provide roll control to assist the ailerons, in particular for crosswind landing cases. The spoilers can
+also be symmetrically controlled by the pilot, to be used as speed brakes, via the flight spoiler control lever. On the ground, these spoilers act as lift dumpers, and are automatically deployed similarly to the ground spoilers. Spoiler position is
+displayed on EICAS. To provide ground lift dumping, four ground retract/extend spoilers (inboard/outboard) with simplex actuators are installed. They are controlled in pairs by a hydraulic manifold and are
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 11
+
+SCHEDULE
+“A”
+
+automatically commanded to deploy by their dual controllers, along with the multi-function spoilers, upon
+Aircraft touchdown or rejected take-off. Status and positioning is displayed on EICAS.
+
+Lateral and directional trim is
+accomplished by controls on the center console that operate electric trim actuators. Longitudinal trim is accomplished by switches on the pilots’ control wheels, which command changes in the horizontal stabilizer angle through flight control
+units. Mach trim is also provided by the flight control units. Trim indication is provided on EICAS.
+
+Fuel System
+
+Fuel is contained in a wet wing box structure sealed to form three main separate wing tanks. Two additional fuel tanks are
+located to the aft side of the rear pressure bulkhead, the other are in the foreword body fairing.
+
+Each engine is supplied
+with fuel from its respective feed tank, which contains two AC primary, and one DC backup electric boost pumps. Controlling an isolation valve provides Crossfeed between engines. Fire shut-off valves are installed on each engine and APU feed line.
+The scavenge and transfer systems maintain the feed tanks full during nose up attitudes and provide automatic transfer of fuel from the central tank to the wing tanks.
+
+A vent system to control the pressure in the fuel tanks is provided, terminating in two underwing mounted ram air scoops. Also provided are two fuselage fuel vent surge boxes to prevent fuel spillage.
+Cockpit fuel system control is provided on the overhead panel and fuel quantity and warnings are displayed on EICAS.
+
+A
+single point pressure refuel/defuel manifold containing shut-off valves is provided.
+
+An automatically operated fuel
+re-circulation system is provided to ensure continued operation of the fuel system even during flights of long duration at extreme temperatures.
+
+Hydraulic System
+
+Three fully independent and isolated hydraulic systems provide power to the
+flight controls and other systems in the Aircraft. All three systems operate at a nominal pressure of 3,000 psi, and use phosphate ester Type IV low density hydraulic fluid.
+
+System #1 powers flight controls and left hand thrust reversers. System #2 powers flight controls, right hand thrust reversers, brakes,
+and main landing gear normal and emergency extension. System #3 supplies pressure to flight controls, landing gear, nose steering and brakes. In case of emergency, a ram air turbine (RAT) system incorporates a hydraulic pump, which provides
+essential power to the systems through System #3.
+
+Visual and aural indication regarding the system status, including system
+pressure, quantity and temperature, pumps and shut-off valve status, is given in the cockpit via EICAS.
+
+Ice and Rain
+Protection System
+
+The wing and engine inlet anti-ice protection consists of an evaporative thermal bleed air system. It
+utilizes engine bleed air supplied from the intermediate or high stage engine bleed port according to the flight conditions. Piccolo tubes are provided to distribute the hot air inside the slat leading edge. The anti-ice system control and
+components status is displayed on EICAS.
+
+The Aircraft windshields and cockpit side windows are electrically anti-iced. The
+pitot heads, static ports, angle of attack sensors and temperature probe are also electrically anti-iced.
+
+Landing Gear
+System
+
+The Aircraft undercarriage is composed of one steerable nose landing gear (NLG) and two trailing-link type main
+landing gear units (MLG). Each nose and main gear assembly has twin wheels and tires. The main wheels are fitted with hydraulically powered and electrically actuated carbon brakes. Anti-skid protection and automatic braking is also provided.
+
+The landing gear is of the tricycle type. The two MLG assemblies, one located on the inboard portion of each wing, retract
+inboard each into the MLG bay located in the central fuselage. The NLG assembly is located beneath the cockpit and retracts forward into the nose section of the fuselage. Normal extension and retraction is electrically controlled and hydraulically
+operated by the cockpit landing gear control handle located in the center console.
+
+Landing gear position and status is
+visually displayed on EICAS (Engine Indication and Crew Alerting System) and aurally annunciated in the cockpit. The anti-skid, brake control, nose wheel steering indications and status are also displayed on EICAS and interface with the central
+maintenance system for failure detection.
+
+The Aircraft has four braked main wheels (two per main gear), and two free
+rolling nose wheels. The main wheels and nose wheels are fitted with tubeless tires incorporating fusible plugs for over temperature protection and metallic diaphragm plugs for over pressure protection.
+
+Brake temperature is monitored with a system consisting of four sensors each mounted in a brake housing and a brake temperature-monitoring
+unit. Independent brake temperature is indicated in the cockpit on the EICAS.
+
+The brake/anti-skid control system interfaces
+with a dual integrated digital electronic controller with autobrake capability. The control unit provides brake control with independent wheel anti-skid protection, locked wheel crossover protection, touchdown protection, gear retract braking and
+Built-In-Test-Equipment (BITE).
+
+The steering system is comprised of an electronically controlled and hydraulically powered
+actuation of the nose landing gear steering actuators for taxi, take-off and landing operations. When the steering is not active due to pilot selection or failure conditions, the system continues to provide effective shimmy damping to ensure dynamic
+stability of the nose wheel.
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 12
+
+SCHEDULE
+“A”
+
+Steering commands are input to the Electronic Control Unit (ECU) through the pilot’s hand wheel (full
+authority) and/or rudder pedals (limited authority).
+
+Indication for landing gear retracted, in travel, not safe or
+down-and-locked as well as gear doors open is provided to the crew via the EICAS system. “Gear not down” aural warning is provided.
+
+Lighting System – Exterior Lights
+
+The landing and taxi lighting are independently operated.
+Flight crews can activate the landing lights in either steady or pulse mode.
+
+The strobe lighting system consists of wing
+strobe lights, tail strobe light, and fuselage strobe / anti-collision lights. Each light has its own power supply.
+
+The
+navigation lighting system has a primary and a secondary lighting system for the wing-tips and tail. A malfunction of the primary system will cause the secondary system to operate automatically.
+
+Wingtip taxi lights, which illuminate the taxiway with forward and downward focus, are installed in the existing wing tip light area, next
+to the strobe light.
+
+Two (2) wing inspection lights are installed in the left and the right forward fuselage.
+
+A tail logo lighting system is installed, illuminating the vertical stabilizer when activated.
+
+Pylon lights are installed on the underside of the engine pylons. Switches control the lights from the AC ground power panel and the aft
+lavatory wardrobe header. Each switch turns on both pylon lights. If the aircraft is on battery power, the lights will be turned off automatically after twenty (20) minutes.
+
+Maintenance lighting is installed in the avionics bay, landing gear wheel wells, aft equipment bay and the external service panels. If the
+aircraft is on battery power, the lights will be turned off automatically after twenty (20) minutes.
+
+The emergency
+lighting has external emergency exit lights that come on automatically when DC essential power is no longer available. The external lighting is made up of passenger-door emergency light and over-wing emergency-exit lights.
+
+Oxygen System
+
+A gaseous oxygen system for flight crew protection and operation requirements is installed in the Aircraft. Quick-donning pressure demand type masks with mask-mounted regulators are provided for each pilot. An oxygen system quantity
+indication and low quantity caution message is provided on EICAS.
+
+Four oxygen supply cylinders, each with a capacity of 50
+ft3 (1.42m3) are installed to serve the flight crew and passengers.
+
+Maintenance System
+
+A Central Aircraft Information and Maintenance System (CAIMS) is installed in the Aircraft and uses a Portable Maintenance Access Terminal
+(PMAT) to access and monitor Aircraft system status.
+
+Each Aircraft system performs continuous self-test and reports its
+current status to CAIMS, in addition to internally storing fault data along with time of occurrence and flight information.
+
+The PMAT displays fault information in plain English along with flight deck effects. The fault information is linked to the aircraft maintenance manual (AMM) that is contained on a CD ROM incorporated in the PMAT, providing immediate
+access to maintenance and trouble shooting information. The PMAT is also used to interrogate systems to download flight fault information and to initiate built in test functions. The capability to print CAIMS active faults in-flight provides the
+flight crew with the ability of contacting ground crew with advanced maintenance actions.
+
+14.
+
+CUSTOMER SUPPORT SERVICES
+
+Inspection and Acceptance Procedures
+
+Seller will advise Buyer when the
+Aircraft will be available for Buyer’s inspection and acceptance in accordance with the Agreement. Buyer will be entitled to have as many representatives as it deems required to participate in the inspection and acceptance of the Aircraft;
+however, only 2 representatives of Buyer may participate in flight tests due to safety, insurance and regulatory requirements.
+
+Flight Operations Support
+
+Upon request by Buyer, Seller will provide, at no additional cost, the services
+of its pilots for the following activities: i) One pilot to assist Buyer during acceptance of the Completion Work from the interior completion center. ii) One pilot, for a period not exceeding 14 days from Delivery Time, to familiarize Buyer’s
+flight crews with day-to-day Aircraft operations. Should Buyer requires the services of a Bombardier pilot during said period, then Buyer shall execute a Bombardier Standard Pilot Services Agreement prior to Delivery Time.
+
+In addition, Seller will provide, at no additional cost, the services on one dedicated, on-site, field service representative (FSR) to
+assist with the start-up of flight operations of the Aircraft for an initial period of 14 days. Buyer will be responsible to reimburse the reasonable travel and living expenses of Seller’s pilots and FSR.
+
+Training
+
+As
+part of the Purchase Price, Seller shall make available, at its designated facilities, the following courses:
+
+A Type-Rating
+Course for four (4) qualified pilots;
+
+Operational training for four (4) qualified pilots on the use of the
+Head-up Flight Display System and the Bombardier Enhanced Vision System;
+
+A Ground Maintenance training program for two
+(2) mechanics; and
+
+Training for two (2) flight attendants on Emergency Training Procedures (FACTS®). Upon
+execution of this Agreement, Buyer, at no additional cost, may participate in the Leading Edge Program. Leading
+
+Date:
+February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 13
+
+SCHEDULE
+“A”
+
+Edge is delivered by prominent educators, pilots and researchers and supported by a comprehensive
+safety-system resource package. The key components include:
+
+Unusual attitude/upset training for four (4) pilots at the
+National Test Pilot School’s facilities in Mojave, California;
+
+One copy of AV Alert materials to be supplied to Buyer.
+Av Alter is a world-class training program on fatigue and countermeasures to combat fatigue and its effects; and
+
+One copy
+of the Safety Management System (SMS) Resource Kit to be supplied to Buyer. The SMS Resource Kit provides the foundation for implementing an effective safety management system within a corporate flight department.
+
+Buyer acknowledges that the training and supporting materials provided as part of the Leading Edge Program shall be provided directly by
+third parties to Buyer. The training and supporting materials shall be the sole responsibility of the respective third party provider and shall be subject to the terms and conditions set by each third party provider. The rights of Buyer with respect
+to the programs offered as part of Leading Edge shall be a matter between Buyer and the respective third party provider. Buyer understands that Seller makes no representations or warranties, whether expressed or implied, regarding the programs
+offered as part of Leading Edge.
+
+Buyer agrees to hold Seller harmless from and against all claims, losses, damage or
+judgments arising out of or related to the services provided as part of Leading Edge.
+
+Buyer and Seller agree to work
+together with the third parties providing the services under the Leading Edge Program to schedule training times for Buyer’s pilots and to arrange for Buyer’s receipt of the supporting materials provided as part of the Leading Edge
+Program.
+
+Buyer shall be responsible for all travel and living expenses of Buyer’s personnel. Seller recommends that
+all training be completed before placing the Aircraft into service, but, in any event, all training must be completed no later than 1 year from Delivery Time or Buyer’s rights to training at no additional cost shall expire.
+
+Technical Data and Services
+
+The Aircraft will be delivered with the following documentation and the technical publications that are included in the Purchase Price of the Aircraft:
+
+Manual Description Quantity
+
+Service Bulletins 1*
+
+Airplane Flight Manual 2
+
+Quick Reference Handbook 2
+
+Flight Crew Operating Manual 2
+
+Flight Planning and Cruise Control Manual 2
+
+Ground Handling & Service Information 1
+
+Maintenance Manual 2*
+
+Wiring Diagram Manual 2*
+
+Wiring List Manual 2*
+
+System Schematic Manual 2*
+
+Illustrated Parts Catalog 2*
+
+Time Limits/Maintenance Checks 2*
+
+Structural Repair Manual 2*
+
+Weight & Balance Manual 2*
+
+Non-Destructive Test Manual 2*
+
+Illustrated Tool & Equipment Manual 2*
+
+Component Maintenance Manual 1*
+
+Maintenance Planning Document 2*
+
+Fault Isolation Manual 2*
+
+Fault Reporting Manual (part of Fault Isolation Manual)
+
+Rolls-Royce Service Bulletins 1**
+
+Rolls-Royce Time Limits Manual 1**
+
+Rolls-Royce Power Plant Build-Up 1**
+
+The items identified with an asterisk (*) are delivered in CD-ROM format. All others are delivered in hard copy. The items identified with double asterisks (**) are provided by Rolls Royce in
+CD-ROM format.
+
+In addition, commencing at Delivery Time, Seller shall make available, from time to time, to Buyer at its
+last address provided by Buyer in writing to Seller, service bulletins and general information applicable to the Aircraft, as well as any amendment to the documentation and technical publications referred to above applicable to Buyer’s
+Aircraft, for a period of 10 years after delivery of the last BD-700-1A10 aircraft manufactured by Seller. Seller shall provide this service at no additional cost to Buyer for a period of 5 years from Delivery Time.
+
+Computer Maintenance Management Services (CMMS)
+
+In order to facilitate the performance of maintenance of the Aircraft at required intervals, Seller shall cause to be provided to Buyer the Computer Maintenance Management Services (CMMS) from the then
+current Seller recommended supplier of such services, free of charge for one (1) year. CMMS enables operators of aircraft to monitor the routine maintenance and replacement of serialized components, to schedule services, and to record
+accomplishment of scheduled and unscheduled maintenance, Services Bulletins, and Airworthiness Directives.
+
+Buyer
+acknowledges that CMMS will be provided by an independent third party. Buyer further acknowledges that Seller shall not be a party to the CMMS agreement between Buyer and the CMMS provider and that Seller makes no representation on warranty under
+such agreement, whether express or implied.
+
+Bombardier Smart Parts Plus Program
+
+Buyer will have the option of enrolling the Aircraft in Bombardier’s Smart Parts Plus program applicable to the Aircraft. These
+programs provide aircraft parts and components replacement coverage at a fixed dollar rate per flight hour.
+
+MedAire Program
+
+Free of charge for one year and, upon subscription, renewable annually thereafter with MedAire. Inc. MedAire provides the
+following services:
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 14
+
+SCHEDULE
+“A”
+
+Medlink Worldwide: 24-hour pilot to physician hotline for immediate medical consultation while in flight or
+on the ground.
+
+Training (2)-day course on management of in-flight illness and injury training designed to help flight crews
+for three (3) people.
+
+Aircraft First Aid Kit: Comprehensive first aid kit designed specifically for handling in-flight
+medical incidents.
+
+15.
+
+WARRANTY
+
+15.1 Subject to the terms set forth in this Article 15, Seller warrants to Buyer that at Delivery Time and for the Warranty periods set forth below, the Aircraft shall be free from: i) defects in
+material, ii) defects in manufacture and iii) defects in design, having regard to the state-of-the-art as of the time of design of the Aircraft (“Warranty”). In case of any such defect during the Warranty periods set forth below,
+Seller’s sole obligation and liability under this Warranty shall be a) expressly limited to correction by repair, replacement or rework of such defect by Seller at Seller’s facilities, or at such other facility as may be designated by
+Seller, it being understood that Seller shall be responsible for the costs of the parts, material and labor related to such repair, replacement or rework and b) subject to Buyer giving notice to Seller of a claim under this Warranty (the
+“Claim”) as soon as practicable but in no event later than expiration of the Warranty periods set forth below.
+
+Cost of transportation or shipping of any item(s), excluding the aircraft, covered under the Warranty for the purpose of a repair, replacement or rework pursuant to the Warranty shall be at seller’s expense. Buyer will have to
+return defective components within 15 days of removal as per Spare Parts specific guidelines.
+
+15.2 The Warranty for the
+Aircraft shall be for 5,000 flight hours or 60 months from Delivery Time, whichever first occurs.
+
+15.3 Notwithstanding
+Article 15.2, the Warranty for the Completion Work shall be for 2,000 flight hours or 24 months from Delivery Time, whichever first occurs except for the Warranty for the metallic exterior paint, which shall be limited to 90 days from Delivery Time.
+Notwithstanding the above, the Warranty for the EVS shall be for 60 months or 2,000 FH on the sensor and 60 months or 3,000 hours on the sapphire glass.
+
+15.4 Notwithstanding Articles 15.2 and 15.3, the Warranty for airframe primary metal structures defined in Sections 53 (Fuselage), 55 (Stabilizers) and 57 (Wings) of the Aircraft Structural Repair
+Manual in effect as of the date of this Agreement shall be for 20,000 flight hours or for 240 months from Delivery Time, whichever first occurs; provided, however, that such extended Warranty period does not apply to doors, fairings, covers, for
+which specific items the Warranty period shall be as stated in Article 15.2 15.5 Any Seller issued Service Bulletin incorporated by Seller prior to Delivery Time shall be covered by the applicable Warranty set forth in Articles 15.2, 15.3 and/or
+15.4 except for any material furnished by Buyer.
+
+15.6 Buyer shall be entitled to Warranty coverage provided the Claim is
+not the result of one of the followings: i) The Aircraft has been operated or maintained in material violation of the provisions of Seller’s Approved Flight Manual, Maintenance Manual or Service Bulletins, as each may be amended from time to
+time by Seller; ii) An installation, repair, alteration or modification to or of the Aircraft made by Buyer or a third party is the cause or a contributing cause of the defect; iii) The Aircraft has been subjected to misuse, abuse or accident or has
+been improperly stored or protected against the elements when not in use.
+
+15.7 Notwithstanding any other provisions herein,
+the warranty shall not apply to the engines installed on the Aircraft. The warranty for the engines shall be provided directly by the engine manufacturer to Buyer, shall be the sole responsibility of the engine manufacturer, and the rights of Buyer
+with respect to the engines shall be a matter as between the engine manufacturer and Buyer. Buyer agrees that Seller shall have no obligation or liability for any Warranty on the engines including, without limitation, any lack of performance,
+reliability or maintainability of the Aircraft as a result of the engines.
+
+15.8 The Warranty shall not apply to any
+accessory, equipment or part incorporated in the Aircraft, which is not furnished pursuant to this Agreement. In addition, the Warranty excludes scheduled maintenance inspections and overtime. The Warranty shall not apply to normal wear such as
+brake wear and tire wear, accrued life usage, consumables such as fuel, oil, liquid deicing systems and filters, or any servicing or replenishment of such consumables.
+
+15.9 Any repair, replacement or rework under the Warranty shall be covered to the extent of the unexpired portion of the Warranty periods set forth in this Article 15 remaining at the time of such
+repair, replacement or rework. 15.10 All costs resulting from the removal of non-defective items, other than by Seller or Seller’s representatives, shall be paid by Buyer.
+
+15.11 Buyer shall maintain reasonably complete records of operations and maintenance of the Aircraft and shall make such records available
+to Seller as Seller may reasonably require. If Buyer fails to maintain those records Seller shall be relieved of its Warranty obligations.
+
+15.12 The Warranty is for the benefit of Buyer, its successors and all persons to whom title to the Aircraft may be transferred during the Warranty periods set forth herein, provided that any successor or owner shall remain subject
+to the applicable provisions of this Agreement to the same extent as Buyer.
+
+16.
+
+PATENT AND TRADEMARK
+
+PROTECTION
+
+Subject to the provisions set out below, Seller agrees to
+indemnify and defend Buyer and save Buyer harmless against any claim brought against Buyer that Buyer’s use of the Aircraft constitutes an infringement of any a) U.S. or
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 15
+
+SCHEDULE
+“A”
+
+Canadian patent or trademark, or b) foreign patent or trademark having a United States or Canadian
+counterpart and issued by any country which has ratified and is at the time of any such actual or alleged infringement a contracting party to the Convention on International Civil Aviation and the International Convention for the Protection of
+Industrial Property provided that: i) Buyer notifies Seller in writing of the claim within 10 days after Buyer’s receipt of the claim; ii) Upon Seller’s written request, Buyer immediately gives to Seller control over the defense and/or
+settlement of the claim; iii) Buyer fully cooperates with Seller in such defense and/or settlement; and iv) Buyer does not prejudice Seller’s conduct of such defense and or settlement.
+
+In no event shall Seller have any obligation with respect to any liability, loss, damage or expense in respect of, arising out of or
+resulting from any lack or loss of use of the Aircraft.
+
+The foregoing shall only create an indemnity obligation upon Seller
+for claims which are solely and directly based upon the use, sale or offer for sale of the Aircraft. No indemnifying obligation shall arise or exist with respect to claims that are based upon the engines, avionics equipment, or any accessory,
+equipment or part thereof, or any other accessory, equipment or part which was not manufactured by Seller or which was not manufactured exclusively pursuant to Seller’s detailed design, or which was included in the Aircraft either by Buyer, on
+behalf of Buyer or at Buyer’s request, or which was supplied by Buyer or procured or manufactured by Seller in accordance with Buyer’s specifications, nor shall any obligation arise or exist if the alleged infringement is based upon the
+use of the Aircraft in a manner prohibited by relevant directives or regulations issued by appropriate government agencies or instrumentalities.
+
+Subject to the foregoing provisions of this Patent and Trademark Protection, Seller shall pay court costs and its reasonable attorney’s fees for defending such claim, as well as the amount of any settlement deemed
+advisable by Seller or any damages that may be awarded against Buyer in respect of such claim. At its own expense, Seller may at any time, at its option: i) Procure for Buyer the right to continue to use the Aircraft; or ii) Modify the Aircraft,
+including modifying or replacing any part thereof to render the Aircraft non-infringing. In the event the use of the Aircraft by Buyer has been enjoined, Buyer shall have the right to require Seller to take action in accordance with the foregoing,
+provided that it shall be Seller’s sole option as to which alternative action it takes. Except as expressly provided above, Seller does not provide any other representation, warranty or protection concerning patents or trademarks with respect
+to the Aircraft.
+
+17.
+
+CONSULTANTS
+
+Should Buyer retain the services of a consultant or other third party representative (the “Consultant”) in connection with this Agreement then, before any contact be initiated between
+Consultant and Seller, Buyer shall (i) provide Seller with a written notice confirming the appointment of such Consultant and describing the responsibilities of such Consultant and the different matters (ex: technical and/or financial matters)
+with respect to which Consultant has been granted authority to act on behalf of Buyer and bind Buyer and (ii) cause Consultant to sign Seller’s standard non-disclosure agreement. Seller is entitled to conclusively rely on the content of
+such notice in its dealings with Consultant.
+
+Date: February 2006, Revision 5 Effectivity: s/n A10-216-9282 and subs
+
+Page 16
+
+BOMBARDIER
+
+SCHEDULE A-1
+
+Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006
+
+Revision: B
+
+Interior Configuration:
+
+Entry Area:
+
+Forward lavatory: EVAC vacuum sanitation system, vanity and storage cabinets.
+
+LH Entrance Enclosure with coat rod, Flight Observer Seat and quick donning oxygen mask for the Flight Observer Seat occupant, various
+equipment and storage compartments.
+
+Large (LHS) forward galley and a galley annex (RHS), aft of the Crew Area.
+
+Crew area containing one (1) single narrow executive seat with integrated headrest, recliner style footrest, seat pan leveler,
+electric inflatable lumbar, berthable/recline, inboard drop-down armrest and swivel capability (RHS) and a removable bunk bed.
+
+Watertight floor treatment under the galley area.
+
+Forward Cabin:
+
+A single frangible manual sliding RHS pocket door to close off cabin from entry area.
+
+Four (4) single wide executive seats with integrated headrests, recliner style footrests, electric inflatable lumbar,
+berthable/recline, and swivel capability. Seat pan levelers will be installed for the LHS #2 and RHS #2 seat.
+
+Two
+(2) bi-fold pull-out side ledge tables.
+
+One (1) 24.00” LCD monitor on the forward LHS bulkhead.
+
+One (1) plug-in receptacle provision for a plug-in LCD monitor at each single seat location (total 4).
+
+Mid Cabin:
+
+RH side: One (1) three (3)-place 16G divan which features: berthing and storage. One (1) forward end cabinet. This divan could only be occupied by two (2) passengers only for taxi, take-off and landing. The forward
+divan armrest cabinet will incorporate two (2) drink holders, CES interface, one (1) plug-in provision for a plug-in LCD monitor and three (3) dual DVD players.
+
+LH side: One (1) manually-operated hi-low conference table with plug in extension
+
+LH side: Two (2) sets of double seats with integrated headrests, that feature recline, track & swivel (swivel on inboard
+chairs only), inboard, mid and outboard drop-down armrests, and electric inflatable lumbar.
+
+One (1) removable acoustic
+curtain to fit between the forward and mid cabin section, with a permanent curtain track in the headliner.
+
+A mid-cabin
+bulkhead with a frangible LHS sliding pocket door (removable curtain option to close off mid cabin from aft cabin area for FAR Part 135 operation). The right-hand mid-cabin upper bulkhead is removable (operation requirement when aft cabin divan
+forward seated position is occupied for taxi, take-off and landing).
+
+One (1) plug-in receptacle provision for a
+plug-in LCD monitor at each outboard double seat location (total 2).
+
+Based on Completion Specification Number :
+BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 1
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Aft Cabin:
+
+RH side: three (3)-place berthable 16G divan. Two (2) end cabinets, each featuring: drink
+holders, , one (1) plug-in provision each for a plug-in LCD monitor and storage. The right-hand mid cabin upper bulkhead must be removed to allow divan forward seated position occupation during taxi, takeoff and landing.
+
+LH side: one (1) side ledge bi-fold pull-out table and two (2) single wide executive seats with integrated headrests, recliner
+style footrests, seat pan leveler for the forward facing seat, electric inflatable lumbar, berthable/recline, inboard drop-down armrests and swivel capability.
+
+One (1) 24.00” LCD monitor on the aft LHS bulkhead.
+
+One
+(1) plug-in receptacle provision for a plug-in LCD monitor at each single seat location (total 2).
+
+Aft Lavatory Zone:
+
+Aft cabin bulkheads and hinged door. EVAC vacuum sanitation system. Vanity cabinet with miscellaneous storage.
+
+Wardrobe and storage cabinet featuring adjustable and fixed shelving.
+
+Baggage Compartment Area:
+
+Approximately 155 cu. ft.
+
+Two (2) fold-down shelves, one (1) fixed and one (1) fold-down
+coat rod. Two (2) hang-up bars (one swings down to stow).
+
+Storage around ACPC, including removable coat rods with
+adjustable shelves and restraint net. The humidifier unit. An additional 10 gallons water tank.
+
+Equipment and Systems:
+
+Oxygen System:
+
+Factory-installed EROS MF-10 full-face masks are retained for the pilot and co-pilot. Puritan Bennett “Sweep On” 2000 half masks on pilot and co-pilot’s bulkheads. LH Entrance Enclosure MC-20 quick donning
+oxygen mask with goggles as loose equipment. Two (2) therapeutic oxygen outlets in passenger cabin. Oxygen drop boxes as required in main cabin as well as galley, lavatories and at Flight Observer Seat.
+
+One (1) walk-around portable oxygen bottle with mask.
+
+Environmental Control System (ECS):
+
+Passenger control of two cabin
+temperature zones (+/- 2 deg. C) around master control setting. Entry area heater. Privacy Latch Activated exhaust fan in each Lavatory.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 2
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Potable Water System:
+
+Re-circulating water system with dual pumps (for redundancy) and UV filter system.
+Heated hose assemblies and component where appropriate for freeze protection.
+
+Pressurized lines and components are
+installed within shrouds to protect critical aircraft systems. Single exterior servicing port and manual internal fill capability. Total of 38.6 US Gallon of water. The humidifier system service bulletin.
+
+Waste System:
+
+Single waste tank (16 usable gallons) that services two-vacuum toilet system (forward and aft lavatories).
+
+The vacuum waste system utilizes the pressure differential when the a/c is above 16,000 feet. A vacuum generator is used to generate pressure differential when the aircraft is below 16,000 feet or on the ground.
+
+Avionics / Electrical Systems:
+
+Factory installed avionic equipment is listed in “Schedule A”.
+
+Service Bulletins:
+
+700-23-004—Miltope Flight Compartment Printer.
+
+700-34-030—Honeywell LSZ-860 Lightning Sensor System (LSS).
+
+700-34-004—Flight Management System—Addition of a third FMS (Honeywell). The 3rd FMS replaces the Lasertrak Navigation Display
+Unit (NDU) installation. 700-11-018—75,000lbs Reduced Maximum Take off Weight (MTOW). 700-23-005/700-23-015 – Airborne Data Link System (ADLS). 700-22-003—Autopilot Emergency Descent Mode. 700-31-020—Crew Force Measurement System
+and Update to the FDR.
+
+Other Avionics/Electrical Systems:
+
+Satellite Communication System (SATCOM).
+
+Satellite Communication System and High Speed Link (SAT-6100).
+
+Three
+(3) channels Aero H+ (2 voice channels and 1 data channel). Data channel supports ACARS/ maintenance functions.
+
+One
+(1) single-channel Iridium based airborne telephone system.
+
+PBX (Aerocom 3000B) integrates cabin voice communication
+allowing common access from handsets.
+
+Four (4) passenger cabin handsets (cockpit, crew area, RHS #2, and LHS #6).
+
+Dual channel high speed data system. Two (2) HST-2100 provides data transfer up to 128 kbps total (64 Kbps of data
+transfer rate per channel).
+
+Cabin power bus disconnect.
+
+Illuminated approach chart holders for pilot and co-pilot. Flight Observer Seat Audio Panel located on the cockpit pedestal.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 3
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+One (1) power converter (3500 VA/115V/60Hz).
+
+Cockpit analog telephone jack and loose equipment
+telephone handset (back-up phone). EICAS small service door “OPEN” annunciation (production and/or completion). Power Distribution of aircraft AC and DC power.
+
+115 VAC GFI electrical outlets located as follows:
+
+Two (2) single
+outlets in the cockpit for computer use.
+
+Two (2) dual outlets rated for hairdryer use, one (1) in each lavatory.
+
+One (1) dual outlet (tambour door activated) will be installed in the galley.
+
+Five (5) single outlets rated for personal computer use, one (1) in the crew area ledge, four (4) in the cabin dado panel
+next to the forward facing seat at each seat grouping.
+
+One (1) single outlet in each divan end cabinet.
+
+One (1) dual outlet in the LH entrance enclosure.
+
+One (1) single outlet in the aft divan end cabinet.
+
+One (1) dual
+outlet in the baggage compartment.
+
+Cabin Electronic System (CES) – Rockwell Collins
+
+Global Office
+
+10/100 Base T Ethernet Local Area Network (LAN) with connections for lap tops and other portable devices.
+
+RJ-45 LAN interface located at the following locations: two (2) in the cockpit, one (1) in the crew area, one (1) at each single seat grouping, one (1) at the workstation and one (1) at the double seats, and
+one (1) at each divan end cabinet.
+
+Wireless Local Area Network (LAN). Cabin Utilities / Control and Display
+
+One (1) 10.4” (in.) galley touch screen control monitor.
+
+Two (2) 8.4” (in.) cockpit Touch Screen Equipment.
+
+Wireless Passenger control units (PCU), entertainment switch panel and local switch panels. Power Distribution of aircraft AC and DC power.
+
+Entertainment
+
+Three (3) multi-region CD/DVD players combined unit.
+
+Two (2) bulkhead-mounted 24.00-inch LCD
+video monitors in passenger cabin.
+
+High quality cabin speaker/subwoofer arrangement.
+
+Eleven (11) receptacles for plug-in monitors installed in the passenger area and one (1) in the Crew rest area.
+
+Five (5) plug-in 10.4” touch screen LCD monitors provided as loose equipment
+
+Passenger headphone distribution system.
+
+Airshow ASXi interactive In-Flight information system (moving map).
+
+One
+(1) multimedia port at the LHS #2 seat in the forward cabin area.
+
+Securaplane 500 security system with the integrated
+cameras and an additional glareshield camera.
+
+Cabin Services
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 4
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Cabin/Lavatory Call System.
+
+Passenger Address System.
+
+Passenger briefing system.
+
+ICG ICS-100 Iridium Telephone system.
+
+Maintenance and Diagnostics
+
+Central maintenance function for applicable integrated cabin systems.
+
+Diagnostic reports viewable on the galley touch screen monitor or other connected devices. A security access protocol prevents
+unauthorized access.
+
+Lighting:
+
+Light Emitting Diode (LED) interior lighting. Wing tip taxi lights.
+
+Wheel
+well maintenance lights.
+
+Pulse landing light system.
+
+Illuminated ordinance signs.
+
+Exterior ground service panel lights (pylon lights).
+
+External Service Panel Lighting.
+
+Service Lights timer override.
+
+Logo Lights.
+
+Three zones upwash and downwash WAWR lighting, in the cabin (fwd, mid and aft).
+
+Miscellaneous Equipment and Installations:
+
+Aircraft miscellaneous installations
+
+Addition of Refuel/De-fuel Control
+Panel in the Entrance Enclosure.
+
+Common keyed locks (external door panels).
+
+Airstair forward and aft handrail extensions.
+
+External baggage door lock override.
+
+Catwalk battery access.
+
+Aft equipment bay storage box with a maximum weight capacity of 60 lbs.
+
+Towbar assembly and towbar storage provisions (towbar is loose equipment).
+
+Multi purpose aft equipment bay access ladder.
+
+Two (2) 7-inch gear pin storage boxes in the Airstair.
+
+Semi-recessed
+Jeppesen manual storage box at cockpit entrance.
+
+99,500lbs service bulletin.
+
+One (1) APU hour meter.
+
+Jacking equipment provisions.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16,
+2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 5
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Cockpit miscellaneous equipment
+
+Two (2) engraved Maglite rechargeable flashlights.
+
+Two (2) roller screens.
+
+Two (2) writing pad holders.
+
+Two (2) Storage pouches on each side console.
+
+Cockpit footrest (retained from factory).
+
+One (1) side console storage bin (former Lasertrak location).
+
+Protective smoke goggle in pouch.
+
+Galley Equipment:
+
+One (1) 0.7 cu. ft. microwave oven (TIA).
+
+One (1) AEROLUX NESPRESSO manual fill coffee maker.
+
+One (1) TIA
+(1545-3) high temperature oven behind a nesting door with digital oven controller.
+
+One (1) air chiller unit used to
+cool the selected galley areas. One divided ice drawer with overboard drain. Note: The china, crystal and flatware are customer supplied.
+
+Passenger cabin miscellaneous equipment: Entry area heater. Accordion-type electric window shades.
+
+Loose
+Equipment (in addition to standard items):
+
+Five (5) plug-in 10.4” touch screen LCD monitors in leather pouches.
+Single and Double Seats armrest covers. Eight (8) through pillows. LasertrakTM unit (replaced by 3rd FMS). Standby analog handset. One (1) Sunshield kit. Jacking equipment. One (1) Crew Area bunk bed. One (1) extra sleeping
+mattress for the bunk bed.
+
+Selected Spares (in addition to standard items): One (1) spare carpet (FS 250 to FS 799).
+
+Emergency Equipment:
+
+Smoke detector in each lavatory, in aft wardrobe and in baggage (factory-installed). Life rafts (1 each under each divan), life vests, PBEs, fire extinguishers, and first aid kit as required.
+
+Engraved Maglite flashlight (in addition to (2) cockpit flashlights). EVAS.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 6
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+?Personal Emergency Life Support Self-Contained Unit (SCU) containing 18.0 liters of Aviation Grade oxygen.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 7
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Exterior Paint:
+
+The Aircraft detailed paint is done in accordance with the Customer-approved drawing. The
+following provisions are provided: A. The aircraft exterior paint will be one (1) single color, non-metallic base paint with two (2) straight stripes shown on fuselage nacelles and winglets.
+
+B. The paint will consist of an Epoxy primer and a Polyurethane topcoat. C. Registration marking shall be painted with up to two
+(2) colors. D. All exterior markings will be done by the silk-screen method.
+
+E. The aerodynamic sealant on all leading
+edges (except on engines leading edges as per O.E.M) will be removed before paint. The sealant will be reinstalled after the paint process and painted where it does not come into contact with the leading edge.
+
+F. Composite materials coated with an anti-static paint shall be retained as received from the factory. G. The main entrance door, the
+baggage door, edges and frames will be painted.
+
+H. The airstair at the main entrance will be painted as the same color of
+the bottom of the fuselage. I. The inside of all service door panels, the inside of all modified fairing and compartments shall be painted in the same color as the aircraft fuselage.
+
+J. The landing gear shall be retained as received from the factory (white). K. Paint the inside of the main landing gear doors (white).
+
+L. Paint the inside of the nose landing gear doors (white). M. Paint the inside of the engine cowlings.
+
+N. The latches on any access panel i.e., the avionics compartment, radome, engine, hydraulic pump access covers shall be polished.
+
+O. The original bright work on the aircraft exterior will be highly polished. This includes the vertical stabilizer, wings,
+winglets, engines (cowl and pylon) and horizontal stabilizer leading edges. P. The cabin window surrounds will be polished one (1) inch.
+
+Q. The section around and aft of the APU exhaust will be polished to prevent discoloration of the paint from the hot exhaust.
+
+R. Polish the pylon leading edges.
+
+S. Polish the APU access door cowling
+latches. T. Baggage door handle polished.
+
+U. A 3M plastic erosion protective plastic will be installed over the radome
+after paint, winglet leading edges and lenses and the horizontal tips.
+
+Based on Completion Specification Number :
+BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 8
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+Aesthetic Trim Allowance (Material content only, in US funds):
+
+Up to two species (types) of hi-gloss veneer
+on cabinetry shipset (galley, vanity, enclosures, furniture, magazine racks, tables, cabin ledges, handrails, bulkheads and doors).
+
+Combination fabric -veneer or mirror- veneer as optional selections on bulkheads and doors.
+
+Simple hardwood
+molding complementing veneer where applicable. Choice of up to ten routered moldings (bullnose) where applicable.
+
+Flat
+beveled (no etching) Lexan glassware closeout in upper galley area (no curves or radius).
+
+Plated (24K polished gold, satin
+antique brass or equivalent) appointments in the main passenger area only. ?Up to two inlays in tables, bulkheads, galley, vanity and longitudinal cabin area (dado or sidewall), (plated metal, cross grain veneer, or marquetry to compliment veneer in
+cabinetry components), (plated metal in dado or sidewall overlay).
+
+100% wool, 3/8” pile (approximately 95 oz
+face-weight) machine quality custom carpet in main cabin area (up to three colors, cut, loop, or multi-pattern design).
+
+100% wool, 5/16” pile (approximately 52 oz face-weight) machine quality custom carpet on seat bases, dado trim and cockpit floor (up to three colors, cut, loop, or multi-pattern design).
+
+Common stitched fabric, leather or combination fabric/leather passenger seating dress covering in a choice of ten standard design styles.
+
+Common stitched fabric or leather divan dress covering in a choice of four standard design styles.
+
+Up to two types of common stitched fabric, leather, or fabric/leather combination on lower dado (no box pleating or decorative stitching).
+
+Fabric finished periphery (headliner, PSU, valance, and sidewall overlays).
+
+Fabric interior curtains where applicable complete with fabric/leather acoustic entry curtain. ?Durable grospoint fabric lining in
+utilitarian area (wardrobes).
+
+Solid surface (Corian, Surell, Avonite, etc.), Aeroquest, or Polystone galley and lavatory
+countertops complete with stainless steel sink galley sink and plated or integrally molded vanity sink as applicable (no granite tile).
+
+Choice of two (2) galley tapsets.
+
+Choice of eight (8) elegant lavatory tapset and towel bar
+design options.
+
+Choice of four (4) SAM latch design styles (plated).
+
+Combination of paint and plastic laminate drawer linings in the galley and lavatory.
+
+Fabric lined divan armrest drawers.
+
+Painted sidewall window rings.
+
+Standard factory grey cockpit with headliner and cockpit carpet to
+match interior aesthetics.
+
+Standard factory baggage finishes.
+
+Aesthetic Material Price Guidelines to allow: (US Dollar Values)
+
+Veneers $ 70.00/sq. foot
+
+Plastic laminates (drawer linings, etc.) $ 4.00/sq. foot
+
+Hardwood (moldings, etc.) $ 4.00/board foot
+
+Plating $ 5.00/sq. inch
+
+Carpet (3/8” pile, 95 oz. face-weight) $ 800.00/sq. yard
+
+Carpet
+(5/16” pile, 52 oz face-weight) $ 300.00/sq. yard
+
+Leathers $ 15.00/sq. foot
+
+Fabric (divan and seat) $ 130.00/lin. yard
+
+Fabric (periphery ultra suedes and vinyls) $ 115.00/lin. yard
+
+Fabric
+(curtains) $ 130.00/lin. yard
+
+Fabric (linings) $ 65.00/lin. yard
+
+Fabric grospoint (wardrobe linings) $ 65.00/lin. yard
+
+Countertop (solid surface, Corian, Surell, Avonite, Polystone or equivalent) $ 550.00/sq. foot
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 9
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+?Certification:
+
+Quality Assurance and Control
+
+A TC approved Quality Assurance and Quality Control system will be maintained by the Completion Center and applied to the work performed
+on the aircraft. Quality Control (QC) department personnel including Transport Canada (TC) authorized inspectors will be responsible for:
+
+All inspection activities on the aircraft from the initial receiving inspection to final Customer inspection and delivery. In this capacity, QC will verify that all measures to preserve the aircraft, fabricate and install the
+interior to an approved design, workmanship and safety standards are maintained during the completion program.
+
+Assurances
+that the systems, processes and procedures utilized by all personnel working on aircraft are in accordance with the TC regulations.
+
+Certification
+
+This Specification meets the airworthiness requirements of FAR Part 25 and the equipment
+requirements necessary for FAR Part 135 operations.
+
+This Specification will require modification during initial completion
+definition if the airplane is to be exported to a country other than the United States and/or if certification for commercial operations is required (JAR-OPS 1 for example).
+
+The Completion Center will be responsible for obtaining approval for the interior completion modifications and any required negotiations
+with the regulatory authorities.
+
+The following configurations will be approved:
+
+Sixteen (16) passenger configuration (including the Crew Area occupied by a passenger) features two (2) frangible cabin sliding
+doors.
+
+Note: The mid cabin RHS removable upper bulkhead must be removed if the forward seating position of the aft cabin
+16G divan is to be occupied for taxi, take-off and landing. If the removable mid cabin bulkhead is installed, then the passenger capacity of the aircraft is reduced to thirteen (15). In addition, the aft seating position of the mid cabin 16G divan
+is cannot be occupied for taxi, take-off and landing.
+
+This specification includes the interior modification enabling the
+aft cabin to be used as a flight crew sleeping quarter as required under FAA rules for FAR Part 135 operations for flights over 12 hours of duration; as well as a means to disable the two frangible cabin doors and a mid to aft cabin privacy curtain.
+The devices used to disable the two (2) cabin doors and the privacy curtain will be provided as loose equipment.
+
+Note:
+Service Bulletin 700-31-020 Crew Force Measuring System (FDR upgrade), which is required for FAR Part 135 operation, has been included.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 10
+
+BOMBARDIER
+
+SCHEDULE A-1 Executive Summary
+
+Global Express XRS ~ for MicroStrategy November 21st, 2006 Revision: B
+
+This specification includes life rafts that meet the airworthiness requirements for certification of the aircraft for ditching.
+
+The Completion Center will provide a Canadian Certificate of Airworthiness (C of A) for Export to the United States.
+
+Based on Completion Specification Number : BCC-XRSLE-000 Issued : Mar 16, 2006 Floorplan No. : GP00LE-0001, Rev. A
+
+Page 11
+
+Schedule “B” to
+
+Aircraft Purchase Agreement
+
+BOMBARDIER INC.
+
+RECEIPT CONFIRMING COMPLETION OF GREEN AIRCRAFT INSPECTION
+
+________________________________HEREBY ACKNOWLEDGES TO HAVE PERFORMED AND COMPLETED THE GREEN AIRCRAFT INSPECTION AS FURTHER DESCRIBED IN ARTICLE 5 OF THE AIRCRAFT PURCHASE AGREEMENT BETWEEN _________ AND BOMBARDIER
+INC., AT ________________ _________________________________, ON THE _____ DAY OF ______________, WITH RESPECT TO ONE (1) ____________________________MODEL AIRCRAFT BEARING SERIAL NUMBER ________, INCLUDING WITH THE AIRCRAFT THE ______________
+ENGINES BEARING MANUFACTURER’S SERIAL NUMBERS ________ AND __________.
+
+ NAME
+
+ TITLE
+
+Schedule “B-1” to
+
+Aircraft Purchase Agreement
+
+BOMBARDIER INC.
+
+RECEIPT CONFIRMING COMPLETION OF PRE-PAINT INSPECTION
+
+________________________________HEREBY ACKNOWLEDGES TO HAVE PERFORMED AND COMPLETED THE PRE-PAINT INSPECTION AS FURTHER DESCRIBED IN ARTICLE 5 OF THE AIRCRAFT PURCHASE AGREEMENT BETWEEN _________ AND BOMBARDIER INC.,
+AT ________________ _________________________________, ON THE _____ DAY OF ______________, WITH RESPECT TO ONE (1) ____________________________MODEL AIRCRAFT BEARING SERIAL NUMBER ________, INCLUDING WITH THE AIRCRAFT THE ______________ ENGINES
+BEARING MANUFACTURER’S SERIAL NUMBERS ________ AND __________.
+
+ NAME
+
+ TITLE
+
+Schedule “B-2” to
+
+Aircraft Purchase Agreement
+
+BOMBARDIER INC.
+
+RECEIPT OF AIRCRAFT
+
+MICROSTRATEGY INCORPORATED
+HEREBY ACKNOWLEDGES TO HAVE RECEIVED FROM BOMBARDIER INC., AT ___________, ON THE ____ DAY OF ________, ONE (1) GLOBAL EXPRESS MODEL XRS LIMITED EDITION AIRCRAFT BEARING SERIAL NUMBER ________, INCLUDING WITH THE AIRCRAFT THE ______________
+ENGINES BEARING MANUFACTURER’S SERIAL NUMBERS ________ AND __________, COMPLETED IN ACCORDANCE WITH SCHEDULES “A” AND “A-1” TO THE AIRCRAFT PURCHASE AGREEMENT BETWEEN BOMBARDIER INC. AND MICROSTRATEGY INCORPORATED DATED AS
+OF DECEMBER ___, 2006.
+
+ NAME
+
+ TITLE
+
+SCHEDULE “C” TO
+
+AIRCRAFT PURCHASE AGREEMENT
+
+WARRANTY BILL OF SALE
+
+KNOW ALL PERSONS BY THESE PRESENTS, that BOMBARDIER INC. (SELLER), a Canadian corporation with offices in _______________, is the owner of full legal and beneficial
+title to that certain Global Express model XRS Limited Edition manufactured by SELLER bearing ________________________ REGISTRATION IDENTIFICATION _____ and MANUFACTURER’S SERIAL NUMBER _____, together with the two BR710A2-20 engines installed
+thereon, bearing MANUFACTURER’S SERIAL NUMBER ________ and ________, respectively, together with all appliances, parts, instruments, appurtenances, accessories, furnishings, and other equipment and property installed on or attached to said
+aircraft and engines on the date hereof (collectively, the “Aircraft”).
+
+THAT for and in consideration of the sum of $1.00 and other valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, SELLER this ____ day of __________ 2009 does hereby grant, convey, transfer, bargain and sell, deliver and set over, at _______________, pursuant and subject to the terms
+and conditions of that certain Aircraft Purchase Agreement dated December ___, 2006, between SELLER and MICROSTRATEGY INCORPORATED (BUYER), as the same may have been assigned, all of SELLER’S right, title and interest in and to the above
+described Aircraft unto BUYER, and unto its successors and assigns forever.
+
+THAT Seller hereby warrants to BUYER, its successors and assigns, that there
+is hereby conveyed to BUYER on the date hereof, good and marketable title to the aforesaid Aircraft, free and clear of all liens, encumbrances and rights of others, except for those created by or through Buyer or persons claiming by or through Buyer
+and that it will warrant and defend such title forever against all claims and demands whatsoever.
+
+THIS Bill of Sale is delivered by SELLER to BUYER in
+_______________, and governed by the laws of New York.
+
+IN WITNESS WHEREOF, SELLER has caused this instrument to be executed by its duly authorized officer
+this ____ day of _____________, 2009.
+
+ BOMBARDIER INC.
+
+ BY:____________________________
+
+ NAME:_________________________
+
+ TITLE:________________________
+
+Schedule “D” to
+
+Aircraft Purchase Agreement
+
+Rockwell Collins Cabin Management System
+
+The following list identifies concerns that are currently being addressed on the cabin management system, which Seller undertakes to have completed
+prior to Delivery Time, through installation of the software versions referred herein:
+
+Description
+
+Software Version Release
+
+Purpose
+
+ Display Quality
+
+ V4.7
+
+ This software version release will adjust brightness and contrast settings in Encoder Chips
+
+ Audio Quality
+
+ V4.7
+
+ This software release will enable the Stereo Audio outputs
+
+ GUI Speed
+
+ V4.7 and V4.8
+
+ V4.7 Initial release followed by V4.8 will convert Master and Galley screens to .NET
+
+Schedule E to
+
+Aircraft Purchase Agreement
+
+HYPOTHETICAL EXAMPLES ILLUSTRATING THE
+
+INTENDED OPERATION OF ARTICLE 10.1
+
+Capitalized terms used but not defined in this Exhibit E shall have the meanings given such terms in the Aircraft Purchase Agreement. Note that percentage calculations reflected below have been rounded for convenience purposes only.
+
+ 1.
+ Return of Previously Paid Amounts – As set forth in Article 10.1, in the event an Assignment Agreement is duly executed, all amounts previously paid by Buyer shall be
+returned to Buyer, dollar-for-dollar, when and as the Assignee makes payments, until fully repaid to Buyer. For example, if Buyer previously paid $7,000,000 and the assignee pays $10,000,000 upon the execution of the assignment agreement, Seller
+shall refund $7,000,000 to Buyer.
+
+ 2.
+ Buyer’s Capital Costs – As set forth in Article 10.1, in the event an Assignment Agreement is duly executed, Buyer’s Capital Costs are to be paid out before
+determination of the Gain Amount. The timing of the payment of Buyer’s Capital Costs will depend upon whether the payment from Assignee out of which Buyer’s Capital Costs are to be paid to Buyer is refundable to the Assignee. If
+refundable, Buyer’s Capital Costs will be paid at the Delivery Time. If non-refundable, Buyer’s Capital Costs will be paid, using the example set forth in paragraph 1 above, as follows: on the date the Assignee pays the $10,000,000, in
+addition to the $7,000,000 refundable to Buyer, Seller shall pay to Buyer Buyer’s Capital Costs, which would be calculated by multiplying $7,000,000 by a fraction, the numerator of which would be the number of days elapsed from the date Seller
+received the $7,000,000 from Buyer to the date it is repaid, and the denominator would be 360, with the product multiplied by 10%. Assuming the number of days elapsed was 450, Buyer’s Capital Costs would be $875,000 ($7,000,000 times 450/360
+times .10) If the $7,000,000 had been paid in two installments, a separate interest calculation would have to be made for each payment with the two interest payments added together to determine Buyer’s Capital Costs.
+
+ 3.
+ Adjusted Gain Amount – As set forth in Article 10.1, Buyer will receive its share of the Gain Amount (the Adjusted Gain Amount) only after the Assignee has paid Seller
+the amounts needed to permit Seller to make the payments indicated in paragraphs 1 and 2 above. Assuming the Gain Amount is refundable to the Assignee if the Agreement is terminated, the Adjusted Gain Amount would be paid at the Delivery Time. On
+the other hand, if the Gain Amount is non-refundable, the Adjusted Gain Amount would be determined as follows: assume (a) the original purchase price paid by Buyer is $46,000,000 and Buyer has already paid Seller
+
+ $7,000,000 toward the original purchase price at the time of assignment; (b) the new total purchase price is $50,000,000 and the Assignee pays $10,000,000 at the time of the
+assignment; (c) the remaining $40,000,000 is to be paid in two installments of $10,000,000 and $30,000,000; and (d) the $10,000,000 initial payment is received by Seller from the Assignee 360 days after Seller had received Buyer’s
+$7,000,000 payment. In that case, Buyer’s Capital Cost would be $700,000, and the Gain Amount would be $3,300,000 (the $4,000,000 difference in contract price minus Buyer’s Capital Costs). All of the following examples assume the Gain
+Amount is non-refundable. The funds would be distributed as follows:
+
+ -
+ Date Assignment Agreement Is Executed; Payment One by Assignee (Assumed to be Prior to the Issuance of the Green CofA): Seller would refund to Buyer, on the date the
+Assignment Agreement is duly executed, $7,000,000 plus the $700,000 in Buyer’s Capital Costs. The Adjusted Gain Amount would be determined by multiplying $3,300,000 by the Percentage 5.44% (i.e., $2,300,000 (which is $10,000,000 minus
+$7,700,000) divided by $42,300,000 (which is $50,000,000 minus $7,700,000) times 100) or a total of $179,520. Buyer would receive its portion (50% or 75% as the case may be) of such Adjusted Gain Amount at the time of the issuance of the Certificate
+of Airworthiness for the Green Aircraft (the “Green CofA”), plus interest at the rate of 10% per annum payable daily based on a 360 day year from the date Seller received the $10,000,000 from the Assignee until the date the Adjusted
+Gain Amount is paid to Buyer.
+
+ -
+ Payment Two By Assignee (Also Prior to the Issuance of the Green CofA): Assume the second payment to be made by the Assignee is $10,000,000 (“Payment Two”). The
+Adjusted Gain Amount would be determined by multiplying $3,300,000 by the Percentage 23.64% (i.e., $10,000,000 divided by $42,300,000 times 100) or a total of $780,120. Buyer would receive its portion (50% or 75% as the case may be) of such Adjusted
+Gain Amount when the Green CofA is issued. At such time, Buyer would also be paid interest at the rate of 10% per annum payable daily based on a 360 day year, calculated from the date Seller received Payment Two from the Assignee until the date
+the Adjusted Gain Amount is paid to Buyer. (Note that if we assume Payment Two is received after the issuance of the Green CofA, Buyer would receive its portion of the Adjusted Gain Amount at the time Seller receives Payment Two from the Assignee.)
+
+ -
+
+Payment Three (post-Green CofA): Assume the third and final payment to be made by the Assignee is $30,000,000 (“Payment Three”). The Adjusted Gain
+Amount would be determined by
+
+multiplying $3,300,000 by the Percentage 70.92% (i.e., $30,000,000 divided by $42,300,000 times 100) or a total of $2,340,360. Buyer would receive its
+portion (50% or 75% as the case may be) of such Gain Amount at this time.

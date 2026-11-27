@@ -1,0 +1,3660 @@
+Purchase Agreement No 3194
+
+Exhibit 4.4
+
+CONFIDENTIAL TREATMENT
+
+PURCHASE AGREEMENT NUMBER 3194
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Relating to Boeing Model 777-FREIGHTER Aircraft
+
+ P.A. No. 3194
+
+ BOEING PROPRIETARY
+
+ Page 1 of 139
+
+TABLE OF CONTENTS
+
+ SA
+NUMBER
+
+ARTICLES
+
+1. Quantity, Model and Description
+
+2. Delivery Schedule
+
+3. Price
+
+4. Payment
+
+5. Miscellaneous
+
+TABLE
+
+1. Aircraft Information Table
+
+EXHIBIT
+
+A. Aircraft Configuration
+
+B. Aircraft Delivery Requirements and Responsibilities
+
+SUPPLEMENTAL EXHIBITS
+
+AE1. Escalation Adjustment/Airframe and Optional Features
+
+BFE1. BFE Variables
+
+CS 1. Customer Support Variables
+
+EEl. Engine Escalation/Engine Warranty and Patent Indemnity
+
+SLP1. Service Life Policy Components
+
+LETTER AGREEMENTS
+
+3194-01
+
+ 777 Spare Parts Initial Provisioning
+
+3194-02
+
+ Open Configuration Matters
+
+3194-03
+
+ [***]
+
+6-1162-ILK-0270
+
+ [***]
+
+6-1162-ILK-0271
+
+ [***]
+
+6-1162-ILK-0272
+
+ Promotional Support (First of Minor Model)
+
+6-1162-ILK-0273
+
+ EULA Special Matters
+
+6-1162-ILK-0274
+
+ Performance Guarantees
+
+6-1162-ILK-0275
+
+ [***]
+
+6-1162-ILK-0276
+
+ [***]
+
+6-1162-ILK-0277
+
+ [***]
+
+ P.A. No. 3194
+
+ i
+
+ BOEING PROPRIETARY
+
+ Page 2 of 139
+
+Purchase Agreement No. 3194
+
+between
+
+The Boeing Company
+
+and
+
+LAN Airlines S.A.
+
+This Purchase Agreement No. 3194 dated as of
+ day of of 2007 between The Boeing Company (Boeing) and LAN Airlines
+S.A. (Customer) relating to the purchase and sale of Model 777-FREIGHTER aircraft together with all tables, exhibits, supplemental exhibits, letter agreements and other attachments thereto, if any, (Purchase
+Agreement) incorporates the terms and conditions of the Aircraft General Terms Agreement dated as of the 9th of May of
+1997 between the parties, identified as AGTA-LAN (AGTA).
+
+Article 1. Quantity, Model and Description.
+
+The aircraft to be delivered to Customer will be designated as Model 777-FREIGHTER aircraft (the Aircraft). Boeing will manufacture
+and sell to Customer Aircraft conforming to the configuration described in Exhibit A in the quantities listed in Table 1 to the Purchase Agreement.
+
+Article 2. Delivery Schedule.
+
+The scheduled months of delivery of the Aircraft are listed in the attached Table 1. Exhibit
+B describes certain responsibilities for both Customer and Boeing in order to accomplish the delivery of the Aircraft.
+
+Article 3. Price.
+
+3.1 Aircraft Basic Price. The Aircraft Basic Price is listed in Table 1 in subject to escalation dollars.
+
+3.2 Advance Payment Base Prices. The Advance Payment Base Prices listed in Table 1 were calculated utilizing the latest escalation factors
+available to Boeing on the date of this Purchase Agreement projected to the month of scheduled delivery.
+
+ P.A. No. 3194
+
+ 1
+
+ BOEING PROPRIETARY
+
+ Page 3 of 139
+
+Article 4. Payment.
+
+4.1 Boeing acknowledges receipt of a deposit in the amount shown in Table 1 for each Aircraft (Deposit).
+
+4.2. The standard advance payment schedule for the Model 777-FREIGHTER aircraft requires Customer to make certain advance payments, expressed in a percentage of the Advance Payment Base Price of each Aircraft
+beginning with a payment of 1%, less the Deposit, on the effective date of the Purchase Agreement for the Aircraft. Additional advance payments for each Aircraft are due as specified in and on the first business day of the months listed in the
+attached Table 1.
+
+4.3 For any Aircraft whose scheduled month of delivery is less than 24 months from the date of this Purchase Agreement,
+the total amount of advance payments due for payment upon signing of this Purchase Agreement will include all advance payments which are past due in accordance with the standard advance payment schedule set forth in paragraph 4.2 above.
+
+4.4 Customer will pay the balance of the Aircraft Price of each Aircraft at delivery.
+
+Article 5. Additional Terms.
+
+5.1 Aircraft Information Table. Table 1 consolidates information
+contained in Articles 1, 2, 3 and 4 with respect to (i) quantity of Aircraft, (ii) applicable Detail Specification, (iii) month and year of scheduled deliveries, (iv) Aircraft Basic Price, (v) applicable escalation factors
+and (vi) Advance Payment Base Prices and advance payments and their schedules.
+
+5.2 Escalation Adjustment/Airframe and Optional
+Features. Supplemental Exhibit AE1 contains the applicable airframe and optional features escalation formula.
+
+5.3 Buyer Furnished
+Equipment Variables. Supplemental Exhibit BFE1 contains vendor selection dates, on dock dates and other variables applicable to the Aircraft.
+
+5.4 Customer Support Variables. [***]
+
+ P.A. No. 3194
+
+ 2
+
+ BOEING PROPRIETARY
+
+ Page 4 of 139
+
+[***]
+
+5.5 Engine Escalation Variables. Supplemental Exhibit EE1 describes the applicable engine escalation formula and contains the engine warranty and the engine patent indemnity for the Aircraft.
+
+5.6 Service Life Policy Component Variables. Supplemental Exhibit SLP 1 lists the airframe and landing gear components covered by the Service Life
+Policy for the Aircraft (Covered Components).
+
+5.7 Public Announcement. Boeing reserves the right to make a
+public announcement regarding Customer’s purchase of the Aircraft upon approval of Boeing’s press release by Customer’s public relations department or other authorized representative.
+
+5.8 Negotiated Agreement; Entire Agreement. This Purchase Agreement, including the provisions of Article 8.2 of the AGTA relating to insurance,
+and Article 11 of Part 2 of Exhibit C of the AGTA relating to DISCLAIMER AND RELEASE and EXCLUSION OF CONSEQUENTIAL AND OTHER DAMAGES, has been the subject of discussion and negotiation and is understood by the parties; the Aircraft
+Price and other agreements of the parties stated in this Purchase Agreement were arrived at in consideration of such provisions. This Purchase Agreement, including the AGTA, contains the entire agreement between the parties and supersedes all
+previous proposals, understandings, commitments or representations whatsoever, oral or written, and may be changed only in writing signed by authorized representatives of the parties. [***]
+
+ P.A. No. 3194
+
+ 3
+
+ BOEING PROPRIETARY
+
+ Page 5 of 139
+
+DATED AS OF the
+ day of July of 2007
+
+ LAN AIRLINES S.A.
+
+ THE BOEING COMPANY
+
+By:
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ [***]
+
+Its:
+
+Senior VP Corporate Investments
+
+ Its:
+
+ Attorney in Fact
+
+By:
+
+ Mr. Andrés del Valle Eitel
+
+Its:
+
+Corporate Finance Director
+
+ P.A. No. 3194
+
+ 4
+
+ BOEING PROPRIETARY
+
+ Page 6 of 139
+
+Table 1 to
+
+Purchase Agreement No. 3194
+
+Aircraft Delivery, Description, Price and Advance Payments
+
+Airframe Model/MTOW: 777-Freighter
+
+ [***]
+
+Detail Specification:
+
+ [***]
+
+Engine Model/Thrust: [***]
+
+ [***]
+
+Airframe Price Base Year/Escalation Formula:
+
+ [***]
+
+ [***]
+
+Airframe Price:
+
+ [***]
+
+Engine Price Base Year/Escalation Formula:
+
+ N/A
+
+ N/A
+
+Optional Features:
+
+ [***]
+
+Sub-Total of Airframe and Features:
+
+ [***]
+
+Airframe Escalation Data:
+
+Engine Price (Per Aircraft):
+
+ [***]
+
+Base Year Index (ECI):
+
+ [***]
+
+Aircraft Basic Price (Excluding BFE/SPE):
+
+ [***]
+
+Base Year Index (CPI):
+
+ [***]
+
+Buyer Furnished Equipment (BFE) Estimate:
+
+ [***]
+
+Seller Purchased Equipment (SPE) Estimate:
+
+ [***]
+
+Refundable Deposit/Aircraft at Proposal Accept:
+
+ $230,000
+
+Delivery
+
+Date
+
+ Number of
+Aircraft
+
+ Escalation
+Factor
+(Airframe)
+
+ Aircraft Block
+
+ Manufacturer
+Serial Number
+
+Escalation Estimate
+
+Adv Payment Base
+Price Per A/P
+
+ Advance Payment Per Aircraft (Amts.
+Due/Mos. Prior to Delivery):
+
+ At Signing
+1%
+
+ 24 Mos.
+4%
+
+ 21/18/15/12/9/6 Mos.
+5%
+
+ Total
+35%
+
+Sep-2011
+
+ 1
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+Sep-2012
+
+ 1
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+Total:
+
+ 2
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+ [***]
+
+Note:
+
+ [***]
+
+ P.A. No. 3194, (Boeing APR reference: 45616)
+
+ Page 1
+
+ BOEING PROPRIETARY
+
+ Page 7 of 139
+
+AIRCRAFT CONFIGURATION
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Exhibit A to Purchase Agreement Number 3194
+
+ P.A. No. 3194
+
+ A
+
+ BOEING PROPRIETARY
+
+ Page 8 of 139
+
+ Exhibit A to
+
+Purchase Agreement No. 3194
+
+Page 1
+
+AIRCRAFT CONFIGURATION
+
+Dated
+
+relating to
+
+BOEING MODEL 777-FREIGHTER
+AIRCRAFT
+
+The Customer Aircraft Description is based on Boeing Configuration
+Specification D019W007-NEW dated as of the 24th of July of 2006. This Configuration Specification defines the basic features and characteristics of
+the aircraft, but excludes specific Options to be selected by the customer at a later time and which is more fully discussed in Letter Agreement 3194-02, Open Configuration Matters. Selectable Options are listed in Boeing 777 Freighter Standard
+Selections Publication D924W110-1 Dated February 2007.
+
+The Aircraft Basic Price reflects and includes all features and characteristics
+contained in the Configuration Specification, except such Aircraft Basic Price does not include the price effects of any Buyer Furnished Equipment or Seller Purchased Equipment.
+
+ P.A. No. 3194
+
+ A
+
+ BOEING PROPRIETARY
+
+ Page 9 of 139
+
+AIRCRAFT DELIVERY REQUIREMENTS AND RESPONSIBILITIES
+
+between
+
+THE BOEING COMPANY and
+
+LAN AIRLINES S.A.
+
+Exhibit B to Purchase
+Agreement Number 3194
+
+ P.A. No. 3194
+
+ B
+
+ BOEING PROPRIETARY
+
+ Page 10 of 139
+
+ Exhibit B to
+
+Purchase Agreement No. 3194
+
+Page 1
+
+AIRCRAFT DELIVERY
+REQUIREMENTS AND RESPONSIBILITIES
+
+relating to
+
+BOEING MODEL 777-FREIGHTER AIRCRAFT
+
+Both Boeing and Customer have certain documentation and approval responsibilities at
+various times during the construction cycle of Customer’s Aircraft that are critical to making the delivery of each Aircraft a positive experience for both parties. This Exhibit B documents those responsibilities and indicates recommended
+completion deadlines for the actions to be accomplished.
+
+1. GOVERNMENT DOCUMENTATION REQUIREMENTS.
+
+Certain actions are required to be taken by Customer in advance of the scheduled delivery month of each Aircraft with respect to obtaining certain government issued
+documentation.
+
+1.1 Airworthiness and Registration Documents.
+
+[***]
+
+Customer is responsible for
+furnishing any Temporary or Permanent Registration Certificates required by any governmental authority having jurisdiction to be displayed aboard the Aircraft after delivery.
+
+1.2 Certificate of Sanitary Construction.
+
+1.2.1 U.S. Registered Aircraft. Boeing will obtain from the United States Public Health Service, a United States Certificate of
+Sanitary Construction to be displayed aboard each Aircraft after delivery to Customer.
+
+ P.A. No. 3194
+
+ B-1
+
+ BOEING PROPRIETARY
+
+ Page 11 of 139
+
+ Exhibit B to
+
+Purchase Agreement No. 3194
+
+Page 2
+
+1.2.2
+Non-U.S. Registered Aircraft. If Customer requires a United States Certificate of Sanitary Construction at the time of delivery of the Aircraft, Customer will give written notice thereof to Boeing at least 3 months prior to delivery.
+Boeing will then use its reasonable best efforts to obtain the Certificate from the United States Public Health Service and present it to Customer at the time of Aircraft delivery.
+
+1.3 Customs Documentation.
+
+1.3.1 Import Documentation. If the Aircraft is intended to be exported from the United States, Customer must notify Boeing not later than 3 months prior to delivery of each Aircraft of any documentation
+required by the customs authorities or by any other agency of the country of import.
+
+1.3.2 General Declaration -
+U.S. If the Aircraft is intended to be exported from the United States, Boeing will prepare Customs Form 7507, General Declaration, for execution by U.S. Customs immediately prior to the ferry flight of the Aircraft. For this purpose, Customer
+will furnish to Boeing not later than 20 days prior to delivery all information required by U.S. Customs or U.S. Immigration and Naturalization Service, including without limitation (i) a complete crew and passenger list identifying the
+names, birth dates, passport numbers and passport expiration dates of all crew and passengers and (ii) a complete ferry flight itinerary, including point of exit from the United States for the Aircraft.
+
+If Customer intends, during the ferry flight of an Aircraft, to land at a U.S. airport after clearing Customs at delivery, Customer must notify Boeing not
+later than 20 days prior to delivery of such intention. If Boeing receives such notification, Boeing will provide to Customer the documents constituting a Customs permit to proceed, allowing such Aircraft to depart after any such landing.
+Sufficient copies of completed Form 7507, along with passenger manifest, will be furnished to Customer to cover U.S. stops scheduled for the ferry flight. [***]
+
+1.3.3 Export Declaration - U.S. If the Aircraft is intended to be exported from the United States, Boeing will prepare Form 7525V
+and, immediately prior to the ferry flight, will submit such Form to U.S. Customs in Seattle in order to obtain clearance for the departure of the Aircraft, including any cargo, from the United States. U.S. Customs will deliver the Export
+Declaration to the U.S. Department of Commerce after export.
+
+2. INSURANCE CERTIFICATES.
+
+Unless provided earlier, Customer will provide to Boeing not later than 30 days prior to delivery of the first Aircraft, a copy of the requisite annual insurance
+certificate in accordance with the requirements of Article 8 of the AGTA.
+
+ P.A. No. 3194
+
+ B-2
+
+ BOEING PROPRIETARY
+
+ Page 12 of 139
+
+ Exhibit B to
+
+Purchase Agreement No. 3194
+
+Page 3
+
+3.
+NOTICE OF FLYAWAY CONFIGURATION.
+
+Not later than 20 days prior to delivery of the Aircraft, Customer will provide to Boeing a configuration
+letter stating the requested “flyaway configuration” of the Aircraft for its ferry flight. This configuration letter should include:
+
+(i) the name of the company which is to furnish fuel for the ferry flight and any scheduled post-delivery flight training, the method of payment for such fuel, and fuel load for the ferry flight;
+
+(ii) the cargo to be loaded and where it is to be stowed on board the Aircraft [***], the address where cargo is to be shipped after
+flyaway and notification of any hazardous materials requiring special handling;
+
+(iii) any BFE equipment to be removed prior
+to flyaway and returned to Boeing BFE stores for installation on Customer’s subsequent Aircraft;
+
+(iv) a complete list
+of names and citizenship of each crew member and non-revenue passenger who will be aboard the ferry flight; and
+
+(v) a
+complete ferry flight itinerary.
+
+4. DELIVERY ACTIONS BY BOEING.
+
+4.1 Schedule of Inspections. All FAA, Boeing, Customer and, if required, U.S. Customs Bureau inspections will be scheduled by
+Boeing for completion prior to delivery or departure of the Aircraft. [***]
+
+4.2 Schedule of Demonstration Flights.
+All FAA and Customer demonstration flights will be scheduled by Boeing for completion prior to delivery of the Aircraft. [***]
+
+4.3 Schedule for Customer’s Flight Crew. Boeing will inform Customer of the date, [***], that a flight crew is required for acceptance routines associated with delivery of the Aircraft.
+
+4.4 Fuel Provided by Boeing. Boeing will provide to Customer, without charge, the amount of fuel shown in U.S. gallons in the table
+below for the model of Aircraft being delivered and full capacity of engine oil at the time of delivery or prior to the ferry flight of the Aircraft.
+
+Aircraft Model
+
+ Fuel Provided
+
+777-FREIGHTER
+
+ 3,000
+
+ P.A. No. 3194
+
+ B-3
+
+ BOEING PROPRIETARY
+
+ Page 13 of 139
+
+ Exhibit B to
+
+Purchase Agreement No. 3194
+
+Page 4
+
+4.5
+Flight Crew and Passenger Consumables. Boeing will provide reasonable quantities of food, coat hangers, towels, toilet tissue, drinking cups and soap for the first segment of the ferry flight for the Aircraft.
+
+4.6 Delivery Papers, Documents and Data. Boeing will have available at the time of delivery of the Aircraft certain delivery
+papers, documents and data for execution and delivery. If title for the Aircraft will be transferred to Customer through a Boeing sales subsidiary and if the Aircraft will be registered with the FAA, Boeing will pre-position in Oklahoma City,
+Oklahoma, for filing with the FAA at the time of delivery of the Aircraft an executed original Form 8050-2, Aircraft Bill of Sale, indicating transfer of title to the Aircraft from Boeing’s sales subsidiary to Customer.
+
+4.7 Delegation of Authority. If specifically requested in advance by Customer, Boeing will present a certified copy of a Resolution
+of Boeing’s Board of Directors, designating and authorizing certain persons to act on its behalf in connection with delivery of the Aircraft.
+
+5. DELIVERY ACTIONS BY CUSTOMER.
+
+5.1 Aircraft Radio Station License. At delivery Customer will
+provide its Aircraft Radio Station License to be placed on board the Aircraft following delivery.
+
+5.2 Aircraft Flight
+Log. At delivery Customer will provide the Aircraft Flight Log for the Aircraft.
+
+5.3 Delegation of Authority.
+Customer will present to Boeing at delivery of the Aircraft an original or certified copy of Customer’s Delegation of Authority designating and authorizing certain persons to act on its behalf in connection with delivery of the specified
+Aircraft.
+
+ P.A. No. 3194
+
+ B-4
+
+ BOEING PROPRIETARY
+
+ Page 14 of 139
+
+ESCALATION ADJUSTMENT
+
+AIRFRAME AND OPTIONAL FEATURES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Supplemental Exhibit AEI to
+Purchase Agreement Number 3194
+
+(For Boeing Models 777-200LR, 777-F and 777-300ER: the Airframe Price
+
+Includes the Engine Price at its basic thrust level.)
+
+ P.A. No. 3194
+
+ AE1
+
+ BOEING PROPRIETARY
+
+ Page 15 of 139
+
+1. Formula.
+
+Airframe and Optional Features price adjustments (Airframe Price Adjustment) are used to allow prices to be stated in current year dollars at the signing of this Purchase Agreement and to adjust the amount to be paid by
+Customer at delivery for the effects of economic fluctuation. The Airframe Price Adjustment will be determined at the time of Aircraft delivery in accordance with the following formula:
+
+Pa = (P) (L + M) - P
+
+Where:
+
+Pa =
+
+ Airframe Price Adjustment.
+
+P =
+
+ Airframe Price (For Models 777-200LR, 777-FREIGHTER, and 777-300ER the Airframe Price includes the Engine Price at its basic thrust level.) plus the price of the Optional Features (as set
+forth in Table 1 of this Purchase Agreement).
+
+L =
+
+ .65 x [(ECI x (ECI-R
+
+ ECIb) ECI-Rb)]
+
+ Where:
+
+ ECIb is the base year airframe escalation index ([***] as set forth in Table 1 of this
+Purchase Agreement);
+
+ ECI is the three-month arithmetic average value of [***] for October, November, and December [***], using ECI –MFG (BLS Series ID ECU124021);
+
+ ECI-Rb is the three-month arithmetic average value of 100.0 for October, November, and
+December [***], using the ECI – NAICS Manufacturing (BLS Series ID CIU2013000000000I); and
+
+ ECI-R is a value determined using the U.S. Department of Labor, Bureau of Labor Statistics, Employment Cost Index for NAICS Manufacturing – Total Compensation (BLS Series ID
+CIU20130000000001), calculated by establishing a three-month arithmetic average value (expressed as a decimal and rounded to the nearest tenth)
+
+ P.A. No. 3194
+
+ AE1-1
+
+ BOEING PROPRIETARY
+
+ Page 16 of 139
+
+ using the values for the 11th, 12th, and 13th months prior to the month of scheduled delivery of the applicable
+Aircraft. As the Employment Cost Index values are only released on a quarterly basis, the value released for the first quarter will be used for the months of January, February, and March; the value released for the second quarter will be used for
+the months of April, May, and June; the value released for the third quarter will be used for the months of July, August, and September; the value released for the fourth quarter will be used for the months of October, November, and
+December.
+
+M =
+
+ .35 x (CPI
+
+ CPIb)
+
+ Where:
+
+ CPIb is the base year airframe escalation index ([***] as set forth in Table 1 of this
+Purchase Agreement); and
+
+ CPI is a value determined using the U.S. Department of Labor, Bureau of Labor Statistics, Consumer Price Index –All Urban Consumers (BLS Series ID CUUR0000SA0), calculated as a 3-month
+arithmetic average of the released monthly values (expressed as a decimal and rounded to the nearest tenth) using the values for the 11th,
+12th, and 13th months prior to the month of
+scheduled delivery of the applicable Aircraft.
+
+As an example, for an Aircraft scheduled to be delivered in the month of July, the months of June,
+July, and August of the preceding year will be utilized in determining the value of ECI-R and CPI.
+
+ Note:
+ i. In determining the values of L and M, all calculations and resulting values will be expressed as a decimal rounded to the nearest ten-thousandth.
+
+ii. .65 is the numeric ratio attributed to labor in the Airframe Price Adjustment formula.
+
+iii. .35 is the numeric ratio attributed to materials in the Airframe Price Adjustment formula.
+
+ P.A. No. 3194
+
+ AE1-2
+
+ BOEING PROPRIETARY
+
+ Page 17 of 139
+
+iv. The denominators (base year indices) are the
+actual average values reported by the U.S. Department of Labor, Bureau of Labor Statistics. The actual average values are calculated as a 3-month arithmetic average of the released monthly values (expressed as a decimal and rounded to the nearest
+tenth) using the values for the 11th, 12th, and
+13th months prior to the airframe base year. The applicable base year and corresponding denominator is provided by Boeing in Table 1 of this
+Purchase Agreement.
+
+v. The final value of Pa will be rounded to the nearest dollar.
+
+vi. The Airframe Price Adjustment
+will not be made if it will result in a decrease in the Aircraft Basic Price.
+
+2. Values to be Utilized in the Event of
+Unavailability.
+
+2.1 If the Bureau of Labor Statistics substantially revises the methodology used for the determination
+of the values to be used to determine the ECI-R and CPI values (in contrast to benchmark adjustments or other corrections of previously released values), or for any reason has not released values needed to determine the applicable Airframe Price
+Adjustment, the parties will, prior to the delivery of any such Aircraft, select a substitute from other Bureau of Labor Statistics data or similar data reported by non-governmental organizations. Such substitute will result in the same adjustment,
+insofar as possible, as would have been calculated utilizing the original values adjusted for fluctuation during the applicable time period. However, if within 24 months after delivery of the Aircraft, the Bureau of Labor Statistics should resume
+releasing values for the months needed to determine the Airframe Price Adjustment, such values will be used to determine any increase or decrease in the Airframe Price Adjustment for the Aircraft from that determined at the time of delivery of the
+Aircraft.
+
+2.2 Notwithstanding Article 2.1 above, if prior to the scheduled delivery month of an Aircraft the Bureau of
+Labor Statistics changes the base year for determination of the ECI-R and CPI values as defined above, such re-based values will be incorporated in the Airframe Price Adjustment calculation.
+
+2.3 In the event escalation provisions are made non-enforceable or otherwise rendered void by any agency of the United States Government,
+the parties agree, to the extent they may lawfully do so, to equitably adjust the Aircraft Price of any affected Aircraft to reflect an allowance for increases or decreases consistent with the applicable provisions of paragraph 1 of this
+Supplemental Exhibit AE1 in labor compensation and material costs occurring since August of the year prior to the price base year shown in the Purchase Agreement.
+
+2.4 If within 12 months of Aircraft delivery, the published index values are revised due to an acknowledged error by the Bureau of Labor
+Statistics, the Airframe Price Adjustment will be re-calculated using the revised index values (this does not include those values noted as preliminary by the Bureau of Labor Statistics). A credit
+
+ P.A. No. 3194
+
+ AE1-3
+
+ BOEING PROPRIETARY
+
+ Page 18 of 139
+
+memorandum or supplemental invoice will be issued for the Airframe Price Adjustment difference. Interest charges will not apply for the period of original
+invoice to issuance of credit memorandum or supplemental invoice.
+
+ Note:
+ i. The values released by the Bureau of Labor Statistics and available to Boeing 30 days prior to the first day of the scheduled delivery month of an Aircraft will be used to
+determine the ECI-R and CPI values for the applicable months (including those noted as preliminary by the Bureau of Labor Statistics) to calculate the Airframe Price Adjustment for the Aircraft invoice at the time of delivery. The values will be
+considered final and no Airframe Price Adjustments will be made after Aircraft delivery for any subsequent changes in published Index values, subject always to paragraph 2.4 above.
+
+ii. The maximum number of digits to the right of the decimal after rounding utilized in any part of the Airframe Price Adjustment equation will be 4,
+where rounding of the fourth digit will be increased to the next highest digit when the 5th digit is equal to 5 or greater.
+
+ P.A. No. 3194
+
+ AE1-4
+
+ BOEING PROPRIETARY
+
+ Page 19 of 139
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Supplemental Exhibit BFE1 to Purchase Agreement Number 3194
+
+ P.A. No. 3194
+
+ BFE1
+
+ BOEING PROPRIETARY
+
+ Page 20 of 139
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+relating to
+
+BOEING MODEL AIRCRAFT
+
+This Supplemental Exhibit BFE1 contains vendor selection dates, on-dock dates and other variables applicable to the Aircraft.
+
+ 1.
+ Supplier Selection. Customer will:
+
+1.1 Select and
+notify Boeing of the suppliers and part numbers of the following BFE items by the following dates:
+
+[***]
+
+ 2.
+ On-dock Dates
+
+Boeing will provide to Customer a BFE Requirements
+On-Dock/Inventory Document (BFE Document) or an electronically transmitted BFE Report which may be periodically revised, setting forth the items, quantities, on-dock dates and shipping instructions relating to the in-sequence
+installation of BFE. [***]
+
+ 3.
+ Additional Delivery Requirements
+
+Customer will insure that
+Customer’s BFE suppliers provide sufficient information to enable Boeing, when acting as Importer of Record for Customer’s BFE, to comply with all applicable provisions of the U.S. Customs Service.
+
+ P.A. No. 3194
+
+ BFE1-1
+
+ BOEING PROPRIETARY
+
+ Page 21 of 139
+
+Attachment 1 to Supplemental Exhibit BFE1 to Purchase Agreement Number 3194.
+
+Item
+
+ Preliminary On-Dock Dates as noted
+
+ [
+ ***]
+
+ [
+ ***]
+
+[***]
+
+ [
+ ***]
+
+ [
+ ***]
+
+ P.A. No. 3194
+
+ BFE1-1
+
+ BOEING PROPRIETARY
+
+ Page 22 of 139
+
+CUSTOMER SUPPORT VARIABLES
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Supplemental Exhibit CS1 to Purchase Agreement Number 3194
+
+ P.A. No. 3194
+
+ CS1-1
+
+ BOEING PROPRIETARY
+
+ Page 23 of 139
+
+CUSTOMER SUPPORT DOCUMENT
+
+relating to
+
+BOEING MODEL 777-FREIGHTER AIRCRAFT
+
+[***]
+
+ 1.
+ Maintenance Training.
+
+ 1.1
+ Maintenance Training Minor Model Differences Course, if required, covering operational, structural or systems differences between Customer’s newly-purchased Aircraft and an
+aircraft of the same model currently operated by Customer; 1 class of 15 students;
+
+ 1.2
+ Training materials, if applicable, will be provided to each student. In addition, one set of training materials as used in Boeing’s training program, including visual aids,
+text and graphics will be provided for use in Customer’s own training program.
+
+ 2.
+ Flight Training.
+
+Boeing will provide, if required,
+one classroom course to acquaint up to 15 students with operational, systems and performance differences between Customer’s newly-purchased Aircraft and an aircraft of the same model currently operated by Customer.
+
+Any training materials used in Flight Training, if required, will be provided for use in Customer’s own training program.
+
+ 3.
+ Planning Assistance.
+
+ 3.1
+ Maintenance and Ground Operations.
+
+Upon request,
+Boeing will provide planning assistance regarding Minor Model Differences requirements for facilities, tools and equipment.
+
+ 3.2
+ Spares.
+
+Boeing will revise, as applicable, the
+customized Recommended Spares Parts List (RSPL) and Illustrated Parts Catalog (IPC).
+
+ 4.
+ Technical Data and Documents.
+
+Boeing will revise,
+as applicable, technical data and documents provided with previously delivered aircraft.
+
+ P.A. No. 3194
+
+ CS1-1
+
+ BOEING PROPRIETARY
+
+ Page 24 of 139
+
+ENGINE ESCALATION,
+
+ENGINE WARRANTY AND [***]
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Supplemental Exhibit EE 1 to Purchase Agreement Number 3194
+
+ P.A. No. 3194
+
+ EE1
+
+ BOEING PROPRIETARY
+
+ Page 25 of 139
+
+ENGINE ESCALATION,
+
+ENGINE WARRANTY AND [***]
+
+relating to
+
+BOEING MODEL 777-FREIGHTER AIRCRAFT
+
+1. ENGINE ESCALATION. No separate engine escalation
+methodology is defined for the 777-FREIGHTER Aircraft. Pursuant to the AGTA, the engine prices for these Aircraft are included in and will be escalated in the same manner as the Airframe.
+
+2. ENGINE WARRANTY AND PRODUCT SUPPORT PLAN. Boeing has obtained from General Electric Company (GE) GE’s guarantee that GE will extend directly to Customer
+GE’s warranty, special guarantees and product support services (hereinafter collectively referred to as the “Warranty”); subject, however, to Customer’s acceptance of the conditions set forth in the Warranty.
+
+In consideration for Boeing’s having obtained GE’s guarantee to provide the Warranty directly to the Customer, Customer hereby releases and discharges Boeing
+from any and all claims, obligations and liabilities whatsoever arising out of the purchase or use of such Engines and Customer hereby waives, releases and renounces all its rights in all such claims, obligations and liabilities. THE WARRANTY GE
+EXTENDS DIRECTLY TO CUSTOMER IS EXCLUSIVE, AND IS IN LIEU OF ALL OTHER WARRANTIES WHETHER WRITTEN, ORAL OR IMPLIED. THERE ARE NO IMPLIED WARRANTIES OF FITNESS OR MERCHANTABILITY.
+
+ P.A. No. 3194
+
+ EE1
+
+ BOEING PROPRIETARY
+
+ Page 26 of 139
+
+SERVICE LIFE POLICY COMPONENTS
+
+between
+
+THE BOEING COMPANY
+
+and
+
+LAN AIRLINES S.A.
+
+Supplemental Exhibit SLP 1 to Purchase Agreement Number 3194
+
+ P.A. No. 3194
+
+ SLP1
+
+ BOEING PROPRIETARY
+
+ Page 27 of 139
+
+[***] SERVICE LIFE COMPONENTS
+
+relating to
+
+BOEING MODEL 777 AIRCRAFT
+
+This is the listing of [***] Components for the Aircraft which relate to Part 3, Boeing Service Life Policy of Exhibit C, Product Assurance Document to the
+AGTA and is a part of Purchase Agreement No. 3194.
+
+ 1.
+ Wing.
+
+ (a)
+ Upper and lower wing skins and stiffeners between the forward and rear wing spars.
+
+ (b)
+ Wing spar webs, chords and stiffeners.
+
+ (c)
+ Inspar wing ribs.
+
+ (d)
+ Inspar splice plates and fittings.
+
+ (e)
+ Main landing gear support structure.
+
+ (f)
+ Wing center section lower beams, spanwise beams and floor beams, but not the seat tracks attached to the beams.
+
+ (g)
+ Wing-to-body structural attachments.
+
+ (h)
+ Engine strut support fittings attached directly to wing primary structure.
+
+ (i)
+ Support structure in the wing for spoilers and spoiler actuators; for aileron hinges and reaction links; and for leading edge devices and trailing edge flaps.
+
+ (j)
+ Leading edge device and trailing edge flap support system.
+
+ (k)
+ Aileron leading edge device and trailing edge flap internal, fixed attachment and actuator support structure.
+
+ 2.
+ Body.
+
+ (a)
+ External surface skins and doublers, longitudinal stiffeners, longerons and circumferential rings and frames between the forward pressure bulkhead and the vertical stabilizer rear
+spar bulkhead, and structural support and enclosure for the APU but excluding all system components and related installation and connecting devices, insulation, lining, and decorative panels and related installation and connecting devices.
+
+ (b)
+ Window and windshield structure but excluding the windows and windshields.
+
+ P.A. No. 3194
+
+ SLP1-1
+
+ BOEING PROPRIETARY
+
+ Page 28 of 139
+
+ 2.
+ Body, continued
+
+ (c)
+ Fixed attachment structure of the passenger doors, cargo doors and emergency exits, excluding door mechanisms and movable hinge components. Sills and frames around the body openings
+for the passenger doors, cargo doors and emergency exits, excluding scuff plates and pressure seals.
+
+ (d)
+ Nose wheel well structure, including the wheel well walls, pressure deck, forward and aft bulkheads, and the gear support structure.
+
+ (e)
+ Main gear wheel well structure including pressure deck, bulkheads and landing gear beam support structure.
+
+ (f)
+ Floor beams and support posts in the control cab and passenger cabin area, but excluding seat tracks.
+
+ (g)
+ Forward and aft pressure bulkheads.
+
+ (h)
+ Keel structure between the wing front spar bulkhead and the main gear wheel well aft bulkhead, including splices.
+
+ (i)
+ Wing front and rear spar support bulkheads, and vertical and horizontal stabilizer front and rear spar support bulkheads including terminal fittings but excluding all system
+components and related installation and connecting devices, insulation, lining, and decorative panels and related installation and connecting devices.
+
+ (j)
+ Support structure in the body for the stabilizer pivot and stabilizer screw.
+
+ 3.
+ Vertical Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Front and rear spars including stiffeners.
+
+ (c)
+ Attachment fittings between vertical stabilizer and body.
+
+ (d)
+ Inspar ribs.
+
+ (e)
+ Support structure in the vertical stabilizer for rudder hinges, reaction links and actuators.
+
+ (f)
+ Rudder internal, fixed attachment and actuator support structure.
+
+ (g)
+ [***]
+
+ 4.
+ Horizontal Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Front and rear spars including splices and stiffeners.
+
+ (c)
+ Inspar ribs.
+
+ P.A. No. 3194
+
+ SLP1-2
+
+ BOEING PROPRIETARY
+
+ Page 29 of 139
+
+ 4.
+ Horizontal Stabilizer., continued
+
+ (d)
+ Stabilizer [***], splice fittings and pivot and screw support structure.
+
+ (e)
+ Support structure in the horizontal stabilizer for the elevator hinges, reaction links and actuators.
+
+ (f)
+ Elevator internal, fixed attachment and actuator support structure.
+
+ (g)
+ Elevator hinges and supporting ribs, excluding bearings.
+
+ 5.
+ Engine Strut.
+
+ (a)
+ Strut external surface skin and doublers and stiffeners.
+
+ (b)
+ Internal strut chords, frames and bulkheads.
+
+ (c)
+ Strut to wing fittings and diagonal brace.
+
+ (d)
+ Engine mount support fittings attached directly to strut structure.
+
+ (e)
+ For Aircraft equipped with General Electric or Pratt & Whitney engines only, the engine mounted support fittings.
+
+ 6.
+ Main Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder.
+
+ (c)
+ Upper and lower side strut, including spindles and universals.
+
+ (d)
+ Upper and lower drag strut, including spindles and universals.
+
+ (e)
+ Orifice support tube.
+
+ (f)
+ Downlock links including spindles and universals.
+
+ (g)
+ Torsion links.
+
+ (h)
+ Bogie beam.
+
+ (i)
+ Axles.
+
+ (j)
+ Steering crank arm.
+
+ (k)
+ Steering rod.
+
+ 7.
+ Nose Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder, including axles.
+
+ P.A. No. 3194
+
+ SLP1-3
+
+ BOEING PROPRIETARY
+
+ Page 30 of 139
+
+ (c)
+ Orifice support tube.
+
+ 7.
+ Nose Landing Gear, continued
+
+ (d)
+ Upper and lower drag strut, including lock links.
+
+ (e)
+ Steering plates and steering collar.
+
+ (f)
+ Torsion links.
+
+ (g)
+ Actuator support beam and hanger.
+
+NOTE:
+
+ The Service Life Policy does not cover any bearings, bolts, bushings, clamps, brackets, actuating mechanisms or latching mechanisms used in or on the [***] Components.
+
+ P.A. No. 3194
+
+ SLP1-4
+
+ BOEING PROPRIETARY
+
+ Page 31 of 139
+
+3194-01
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+Subject:
+
+ Spare Parts Initial Provisioning
+
+Reference:
+
+a) Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company
+(Boeing) and LAN Airlines S.A. (Customer) relating to Model 777-FREIGHTER aircraft (the Aircraft)
+
+b) Customer Services General Terms Agreement No. 16-1 (CSGTA) between Boeing and
+Customer
+
+This letter agreement (Letter Agreement) is entered into on the date below and amends and
+supplements the CSGTA. All capitalized terms used but not defined in this Letter Agreement have the same meaning as in the CSGTA, except for “Aircraft” which will have the meaning as defined in the Purchase Agreement.
+
+In order to define the process by which Boeing and Customer will (i) identify those Spare Parts and Standards critical to Customer’s successful introduction of
+the Aircraft into service and its continued operation, (ii) place Orders under the provisions of the CSGTA as supplemented by the provisions of this Letter Agreement for those Spare Parts and Standards, and (iii) manage the return of
+certain of those Spare Parts which Customer does not use, the parties agree as follows.
+
+ 1.
+ Definitions.
+
+“Provisioning Data” means the
+documentation provided by Boeing to Customer, including but not limited to the Recommended Spare Parts List (RSPL), identifying all Boeing initial provisioning requirements for the Aircraft.
+
+“Provisioning Items” means the Spare Parts and Standards identified by Boeing as initial provisioning requirements in support of the Aircraft, excluding
+special tools, ground support equipment (GSE), engines and engine parts.
+
+“Provisioning Products Guide” means the
+Boeing Manual D6-81834 entitled “Spares Provisioning Products Guide”.
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 32 of 139
+
+ 3194-01
+
+ Page 2
+
+ 2.
+ Phased Provisioning.
+
+2.1 Provisioning Products
+Guide. Prior to the initial provisioning meeting Boeing will furnish to Customer a copy of the Provisioning Products Guide.
+
+2.2
+Initial Provisioning Meeting. On or about twelve (12) months prior to delivery of the first Aircraft the parties will conduct an initial provisioning meeting where the procedures, schedules, and requirements for training will be
+established to accomplish phased provisioning of Spare Parts and Standards for the Aircraft in accordance with the Provisioning Products Guide. If the lead time from execution of the Purchase Agreement until delivery of the first Aircraft is less
+than twelve (12) months, the initial provisioning meeting will be established as soon as reasonably possible after execution of the Purchase Agreement.
+
+2.3 Provisioning Data. During the initial provisioning meeting Customer will provide to Boeing the operational parameter information described in Chapter 6 of the Provisioning Products Guide. After review and
+acceptance by Boeing of such Customer information, Boeing will prepare the Provisioning Data. Such Provisioning Data will be furnished to Customer on or about ninety (90) days after Boeing finalizes the engineering drawings for the Aircraft.
+The Provisioning Data will be as complete as possible and will cover Provisioning Items selected by Boeing for review by Customer for initial provisioning of Spare Parts and Standards for the Aircraft. Boeing will furnish to Customer revisions to
+the Provisioning Data until approximately ninety (90) days following delivery of the last Aircraft or until the delivery configuration of each of the Aircraft is reflected in the Provisioning Data, whichever is later.
+
+2.4 Buyer Furnished Equipment (BFE) Provisioning Data. Unless otherwise advised by Boeing, Customer will provide or insure its BFE
+suppliers provide to Boeing the BFE data in scope and format acceptable to Boeing, in accordance with the schedule established during the initial provisioning meeting.
+
+ 3.
+ Purchase from Boeing of Spare Parts and Standards as Initial Provisioning for the Aircraft.
+
+3.1 Schedule. In accordance with schedules established during the initial provisioning meeting, Customer may place Orders for Provisioning Items
+and any GSE, special tools, QEC kits, or engine spare parts which Customer determines it will initially require for maintenance, overhaul and servicing of the Aircraft and/or engines.
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 33 of 139
+
+ 3194-01
+
+ Page 3
+
+3.2 Prices of
+Initial Provisioning Spare Parts.
+
+3.2.1 Boeing Spare Parts. The Provisioning Data will set forth the prices for
+those Provisioning Items other than items listed in Article 3.3, below, that are Boeing Spare Parts, and such prices will be firm and remain in effect for ninety (90) days from the date the price is first quoted to Customer in the Provisioning
+Data.
+
+3.2.2 Supplier Spare Parts. Boeing will provide estimated prices in the Provisioning Data for Provisioning
+Items other than items listed in Article 3.3, below, that are Supplier Spare Parts. The price to Customer for any Supplier Spare Parts that are Provisioning Items or for any items ordered for initial provisioning of GSE, special tools manufactured
+by suppliers, or engine spare parts will be one hundred twelve percent (112%) of the supplier’s list price for such items.
+
+3.3 QEC Kits, Standards Kits, Raw Material Kits, Bulk Materials Kits and Service Bulletin Kits. In accordance with schedules established during the initial provisioning meeting, Boeing will furnish to Customer a listing of all
+components which could be included in the quick engine change (QEC) kits, Standards kits, raw material kits, bulk materials kits and service bulletin kits which may be purchased by Customer from Boeing. Customer will select, and
+provide to Boeing its desired content for the kits. Boeing will furnish to Customer as soon as practicable thereafter a statement setting forth a firm price for such kits. Customer will place Orders with Boeing for the kits in accordance with
+schedules established during the initial provisioning meeting.
+
+ 4.
+ Delivery.
+
+For Spare Parts and Standards ordered by Customer in
+accordance with Article 3 of this Letter Agreement, Boeing will, insofar as reasonably possible, deliver to Customer such Spare Parts and Standards on dates reasonably calculated to conform to Customer’s anticipated needs in view of the
+scheduled deliveries of the Aircraft. Customer and Boeing will agree upon the date to begin delivery of the provisioning Spare Parts and Standards ordered in accordance with this Letter Agreement. Where appropriate, Boeing will arrange for shipment
+of such Spare Parts and Standards which are manufactured by suppliers directly to Customer from the applicable supplier’s facility. The routing and method of shipment for initial deliveries and all subsequent deliveries of such Spare Parts and
+Standards will be as established at the initial provisioning meeting and thereafter by mutual agreement.
+
+ 5.
+ Substitution for Obsolete Spare Parts.
+
+5.1
+Obligation to Substitute Pre-Delivery. In the event that, [***] delivery of the first Aircraft, any Spare Part purchased by Customer from Boeing in accordance with this Letter Agreement as initial provisioning for
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 34 of 139
+
+ 3194-01
+
+ Page 4
+
+the Aircraft is rendered obsolete or unusable due to the redesign of the Aircraft or of any accessory, equipment or part thereof (other than a redesign at
+Customer’s request) Boeing will deliver to Customer at no charge new and usable Spare Parts in substitution for such obsolete or unusable Spare Parts and, upon such delivery, Customer will return the obsolete or unusable Spare Parts to Boeing.
+
+5.2 Delivery of Obsolete Spare Parts and Substitutes. Obsolete or unusable Spare Parts returned by Customer pursuant to this
+Article 5 will be delivered to Boeing [***] at its Seattle Distribution Center or such other destination as Boeing may reasonably designate. Spare Parts substituted for such returned obsolete or unusable Spare Parts will be delivered to Customer in
+accordance with the CSGTA. Boeing will pay the freight charges for the shipment from Customer to Boeing of any such obsolete or unusable Spare Part and for the shipment from Boeing to Customer of any such substitute Spare Part.
+
+ 6.
+ Repurchase of Provisioning Items.
+
+6.1
+Obligation to Repurchase. During a period commencing one (1) year after delivery of the first Aircraft, and ending five (5) years after such delivery, Boeing will, upon receipt of Customer’s written request and subject to the
+exceptions in Article 6.2, repurchase unused and undamaged Provisioning Items which (i) were recommended by Boeing in the Provisioning Data as initial provisioning for the Aircraft, (ii) were purchased by Customer from Boeing, and
+(iii) are surplus to Customer’s needs.
+
+6.2 Exceptions. Boeing will not be obligated under Article 6.1 to repurchase any
+of the following: (i) quantities of Provisioning Items in excess of those quantities recommended by Boeing in the Provisioning Data for the Aircraft, (ii) QEC kits, bulk material kits, raw material kits, service bulletin kits, Standards
+kits and components thereof (except those components listed separately in the Provisioning Data), (iii) Provisioning Items for which an Order was received by Boeing more than five (5) months after delivery of the last Aircraft,
+(iv) Provisioning Items which have become obsolete or have been replaced by other Provisioning Items as a result of Customer’s modification of the Aircraft, and (v) Provisioning Items which become excess as a result of a change in
+Customer’s operating parameters, as provided to Boeing pursuant to the initial provisioning meeting and which were the basis of Boeing’s initial provisioning recommendations for the Aircraft.
+
+6.3 Notification and Format. Customer will notify Boeing, in writing when Customer desires to return Provisioning Items under the provisions of
+this Article 6. Customer’s notification will include a detailed summary, in part number sequence, of the Provisioning Items Customer desires to return. Such summary will be in the form of listings, tapes, diskettes or other media as may be
+mutually agreed between Boeing and Customer and will include part number, nomenclature, purchase order number, purchase order date and quantity to be
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 35 of 139
+
+ 3194-01
+
+ Page 5
+
+returned. Within five (5) business days after receipt of Customer’s notification, Boeing will advise Customer in writing when Boeing’s review
+of such summary will be completed.
+
+6.4 Review and Acceptance by Boeing. Upon completion of Boeing’s review of any detailed
+summary submitted by Customer pursuant to Article 6.3, Boeing will issue to Customer a Material Return Authorization (MRA) for those Provisioning Items Boeing agrees are eligible for repurchase in accordance with this Article 6. Boeing
+will advise Customer of the reason that any Provisioning Item included in Customer’s detailed summary is not eligible for return. Boeing’s MRA will state the date by which Provisioning Items listed in the MRA must be redelivered to Boeing,
+and Customer will arrange for shipment of such Provisioning Items accordingly.
+
+6.5 Price and Payment. The price of each
+Provisioning Item repurchased by Boeing pursuant to this Article 6 will be an amount equal to 100% of the original invoice price thereof except that the repurchase price of Provisioning Items purchased pursuant to Article 3.2.2 will not include
+Boeing’s 12% handling charge. Boeing will pay the repurchase price by issuing a credit memorandum in favor of Customer which may be applied against amounts due Boeing for the purchase of Spare Parts or Standards.
+
+6.6 Delivery of Repurchased Provisioning Items. Provisioning Items repurchased by Boeing pursuant to this Article 6 will be delivered to Boeing
+F.O.B. at its Seattle Distribution Center or such other destination as Boeing may reasonably designate.
+
+ 7.
+ Title and Risk of Loss.
+
+Title and risk of loss of any Spare Parts
+or Standards delivered to Customer by Boeing in accordance with this Letter Agreement will pass from Boeing to Customer in accordance with the applicable provisions of the CSGTA. Title to and risk of loss of any Spare Parts or Standards returned to
+Boeing by Customer in accordance with this Letter Agreement will pass to Boeing upon delivery of such Spare Parts or Standards to Boeing in accordance with the provisions of Article 5.2 or Article 6.6, herein, as appropriate.
+
+ 8.
+ Termination for Excusable Delay.
+
+In the event of termination of
+the Purchase Agreement pursuant to Article 7 of the AGTA with respect to any Aircraft, such termination will, if Customer so requests by written notice received by Boeing within fifteen (15) days after such termination, also discharge and
+terminate all obligations and liabilities of the parties as to any Spare Parts or Standards which Customer had ordered pursuant to the provisions of this Letter Agreement as initial provisioning for such Aircraft and which are undelivered on the
+date Boeing receives such written notice.
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 36 of 139
+
+ 3194-01
+
+ Page 6
+
+ 9.
+ Order of Precedence.
+
+In the event of any inconsistency between the
+terms of this Letter Agreement and the terms of any other provisions of the CSGTA, the terms of this Letter Agreement will control.
+
+ Very truly yours,
+
+ THE BOEING COMPANY
+
+ By:
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+ACCEPTED AND AGREED TO this day of
+July of 2007
+
+ LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+Spare_Parts_Initial_Provisioning
+
+ Page 37 of 139
+
+3194-02
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+Subject:
+
+ Open Configuration Matters
+
+Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (the Aircraft)
+
+This Letter Agreement amends the Purchase Agreement. All terms used but not defined in this Letter Agreement have
+the same meaning as in the Purchase Agreement.
+
+ 1.
+ Aircraft Configuration.
+
+1.1 Initial
+Configuration. The initial configuration of Customer’s Model 777-FREIGHTER Aircraft has been defined by Boeing Model [***] as described in Article 1 and Exhibit A of the Purchase Agreement (the Aircraft Configuration).
+
+1.2 Final Configuration Schedule. Given the long period of time between the Purchase Agreement signing and delivery of the first
+Aircraft, Customer may have the desire to incorporate certain configuration changes (Options) into the Aircraft Configuration.
+
+1.2.1 No later than [***] prior to the first Aircraft’s scheduled delivery month, Boeing and Customer will discuss potential Options.
+
+1.2.2 Within 90 days after the subparagraph 1.2.1 meeting, Boeing will provide Customer with Option proposals for those configuration
+changes that can be incorporated in Aircraft production.
+
+1.2.3 Customer will then have 30 days to accept or reject these
+Options.
+
+[***]
+
+ P.A. No. 3194
+
+Open_Configuration_Matters
+
+ BOEING PROPRIETARY
+
+ Page 38 of 139
+
+ LAN Airlines S.A.
+
+ 3194-02 Page 2
+
+ 2.
+ Effect on Purchase Agreement.
+
+2.1 Basic
+Specification. Changes applicable to the basic Model 777-FREIGHTER aircraft which are developed by Boeing between the date of signing of the Purchase Agreement and completion of the final configuration review described in paragraph 1.2 above
+will be incorporated into the Aircraft Configuration by written amendment.
+
+2.2 Exhibit A. The effects of all Options which are
+mutually agreed upon between Boeing and Customer for incorporation into the Aircraft Configuration will be incorporated into Exhibit A of the Purchase Agreement by written amendment.
+
+2.3 Performance Guarantees. Within 90 days after Customer’s acceptance of any Options, Boeing will provide to Customer revisions to the
+Performance Guarantees to reflect the effects, if any, of the incorporation of such Options on Aircraft performance. Such revisions will be incorporated by written amendment.
+
+2.4 Price Adjustments. The Aircraft Basic Price and Advance Payment Base Price of each Aircraft included the amount [***] as an estimate of the
+value of the Options and any related Seller Purchased Equipment which may be accepted and included in the final Aircraft Configuration. The Aircraft Basic Price and the Advance Payment Base Price of each Aircraft will be increased or decreased as
+required to reflect the difference between such estimate and the actual prices of the Options accepted by Customer.
+
+ 3.
+ Other Letter Agreements.
+
+Boeing and Customer acknowledge that as
+the definition of the Aircraft progresses, there may be a need to execute letter agreements addressing one or more of the following subjects:
+
+3.1 [***]
+
+3.2 [***]
+
+ 4.
+ Purchase Agreement Amendment.
+
+Within 30 days after reaching
+agreement as to the final Aircraft Configuration, Boeing will provide Customer an amendment to the Purchase Agreement reflecting the effects of the configuration changes agreed to by the parties.
+
+ P.A. No. 3194
+
+Open_Configuration_Matters
+
+ BOEING PROPRIETARY
+
+ Page 39 of 139
+
+ LAN Airlines S.A.
+
+ 3194-02 Page 2
+
+ 5.
+ Confidential Treatment
+
+Customer understands that certain
+commercial and financial information contained in this Letter Agreement is considered by Boeing as confidential. Customer agrees that it will treat this Letter Agreement and the information contained herein as confidential and will not, without the
+prior written consent of Boeing, disclose this Letter Agreement or any information contained herein to any other person or entity.
+
+If the foregoing
+correctly sets forth your understanding of our agreement with respect to the matters treated above, please indicate your acceptance and approval below.
+
+Very truly yours,
+
+ THE BOEING COMPANY
+
+ By:
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+ACCEPTED AND AGREED TO this day of
+July of 2007.
+
+ LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+Open_Configuration_Matters
+
+ BOEING PROPRIETARY
+
+ Page 40 of 139
+
+Attachment 1 to Open
+Configuration Matters
+
+Letter Agreement 3194-02
+
+Purchase Agreement No. 3194
+
+[***]
+
+ P.A. No. 3194
+
+ Open_Configuration_Matters
+
+ BOEING PROPRIETARY
+
+ Page 41 of 139
+
+3194-03
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+Subject: [***]
+
+Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (the Aircraft)
+
+This Letter Agreement amends and supplements the Purchase Agreement. All terms used but not defined in this Letter
+Agreement have the same meaning as in the Purchase Agreement.
+
+Definition of Terms:
+
+[***]
+
+ 1.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 42 of 139
+
+ LAN Airlines S.A.
+
+ 3194-03 Page 2
+
+ 2.
+ [***]
+
+2.1 [***]
+
+2.2 [***]
+
+ 4.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 43 of 139
+
+ LAN Airlines S.A.
+
+ 3194-03 Page 2
+
+ 5.
+ [***]
+
+ 6.
+ [***]
+
+ 7.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 44 of 139
+
+ LAN Airlines S.A.
+
+ 3194-03 Page 2
+
+Very truly yours,
+
+THE BOEING COMPANY
+
+ By:
+
+ [***]
+
+ Its:
+ Attorney-In-Fact
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007.
+
+LAN AIRLINES S.A.
+
+ By:
+
+Mr. Carlos Prado C.
+
+ Its:
+
+Senior VP Corporate Investments
+
+ By:
+
+Mr. Andrés del Valle Eitel
+
+ Its:
+
+Corporate Finance Director
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 45 of 139
+
+ 6-1162-ILK-0270
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+Subject:
+
+ [***]
+
+Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer) relating to Boeing Model
+777-FREIGHTER aircraft (Aircraft)
+
+This letter agreement (Letter Agreement) amends and supplements the Purchase Agreement. All terms
+used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+ 1.
+ [***]
+
+ 2.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 46 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0270 Page 2
+
+ 3.
+ [***]
+
+ 4.
+ [***]
+
+ 5.
+ [***]
+
+ 6.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 47 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0270 Page 3
+
+ 7.
+ [***]
+
+ 8.
+ [***]
+
+ 9.
+ [***]
+
+ 10.
+ [***]
+
+ 11.
+ [***]
+
+ 12.
+ Confidential Treatment.
+
+Customer understands that
+certain commercial and financial information contained in this Letter Agreement is considered by Boeing as confidential. Customer agrees that it will treat this Letter Agreement and the information contained herein as confidential and will not,
+without the prior written consent of Boeing, disclose this Letter Agreement or any information contained herein to any other person or entity.
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 48 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0270 Page 4
+
+Very truly yours,
+
+THE BOEING COMPANY
+
+ By:
+
+ [***]
+
+ Its:
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your
+understanding of our agreement with respect to the matters treated above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+LAN AIRLINES S.A.
+
+ By:
+
+Mr. Carlos Prado C.
+
+ Its:
+
+Senior VP Corporate Investments
+
+ By:
+
+Mr. Andrés del Valle Eitel
+
+ Its:
+
+Corporate Finance Director
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 49 of 139
+
+ 6-1162-ILK-0271
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+Subject:
+
+ [***]
+
+Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (the Aircraft)
+
+This Letter Agreement amends and supplements the Purchase Agreement. All terms used but not defined in this Letter
+Agreement have the same meaning as in the Purchase Agreement.
+
+[***]
+
+ 1.0
+ [***]
+
+1.1 [***]
+
+1.2 [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 50 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0271 Page 2
+
+[***]
+
+1.3 [***]
+
+1.4 [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 51 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0271 Page 3
+
+[***]
+
+1.5 [***]
+
+1.6 [***]
+
+1.7 [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 52 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0271 Page 4
+
+[***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 53 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0271 Page 5
+
+[***]
+
+ 2.0
+ [***]
+
+2.1. [***]
+
+2.2 [***]
+
+ 3.0
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 54 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0271 Page 6
+
+Very truly yours,
+
+THE BOEING COMPANY
+
+ By
+
+ [***]
+
+ Its:
+
+Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters treated
+above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+LAN AIRLINES S.A.
+
+ By:
+
+Mr. Carlos Prado C.
+
+ Its:
+
+Senior VP Corporate Investments
+
+ By:
+
+Mr. Andrés del Valle Eitel
+
+ Its:
+
+Corporate Finance Director
+
+ P.A. No. 3194
+
+ [***]
+
+ BOEING PROPRIETARY
+
+ Page 55 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 56 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 57 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 58 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 59 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 60 of 139
+
+Attachment A to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ Page 61 of 139
+
+Attachment B to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 62 of 139
+
+Attachment B to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 63 of 139
+
+Attachment C to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 64 of 139
+
+Attachment C to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 65 of 139
+
+Attachment C to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 66 of 139
+
+Attachment D to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 67 of 139
+
+Attachment D to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 68 of 139
+
+Attachment E to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 69 of 139
+
+Attachment E to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 70 of 139
+
+Attachment E to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 71 of 139
+
+Attachment F to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 72 of 139
+
+Attachment F to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 73 of 139
+
+Attachment F to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 74 of 139
+
+Attachment G to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 75 of 139
+
+Attachment G to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 76 of 139
+
+Attachment G to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 77 of 139
+
+Attachment H to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 78 of 139
+
+Attachment H to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 79 of 139
+
+Attachment H to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 80 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 81 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 82 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 83 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 84 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 85 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 86 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 87 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 88 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 89 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 90 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 91 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 92 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 93 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 94 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 95 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 96 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 97 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 98 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 99 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 100 of 139
+
+Attachment I to Letter Agreement 6-1162-ILK-0271
+
+[***]
+
+ BOEING PROPRIETARY
+
+ Page 101 of 139
+
+The Boeing Company
+
+P.O. Box 3707
+
+Seattle, WA 98124-2207
+
+6-1162-ILK-0272
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+ Subject:
+
+ Promotional Support Agreement
+
+ Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (Aircraft).
+
+This letter agreement (Letter Agreement) amends and supplements the Purchase Agreement. All
+terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+Recitals.
+
+[***]
+
+ 1.
+ Definitions.
+
+1.1 [***]
+
+1.2 [***]
+
+ P.A. No. 3194
+
+ Promotional_Support_Agreement
+
+ BOEING PROPRIETARY
+
+ Page 102 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0272 Page 2
+
+1.3 [***]
+
+1.4 [***]
+
+1.5 [***]
+
+ 2.
+ [***]
+
+ 3.
+ [***]
+
+3.1 [***]
+
+3.2 [***]
+
+ 4.
+ [***]
+
+ P.A. No. 3194
+
+ Promotional_Support_Agreement
+
+ BOEING PROPRIETARY
+
+ Page 103 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0272 Page 3
+
+ 5.
+ [***]
+
+ 6.
+ Confidentiality.
+
+The commercial and financial information
+contained in this Letter Agreement is considered by Boeing as confidential. Customer agrees that it will treat this Letter Agreement and the information contained herein as confidential and will not, without the prior written consent of Boeing,
+disclose this Letter Agreement or any of the information contained herein.
+
+ P.A. No. 3194
+
+ Promotional_Support_Agreement
+
+ BOEING PROPRIETARY
+
+ Page 104 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0272 Page 4
+
+Very truly yours,
+
+THE BOEING COMPANY
+
+ By
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters treated
+above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ Promotional_Support_Agreement
+
+ BOEING PROPRIETARY
+
+ Page 105 of 139
+
+The Boeing Company
+
+P.O. Box 3707
+
+Seattle, WA 98124-2207
+
+6-1162-ILK-0273
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+ Subject:
+
+ Special Matters relating to COTS Software and End User License Agreements
+
+ Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (Aircraft).
+
+This letter agreement (Letter Agreement) amends and supplements the Purchase Agreement. All
+terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+Recitals
+
+A. Certain third party, commercial off-the-shelf software products are available to perform various functions required in the Aircraft (COTS Software).
+
+B. The industry practice with respect to COTS Software is to permit manufacturers to install the software in products for sale to customers. The manufacturer is required
+to pass to the customer an End User License Agreement (EULA), which covers the right to use the COTS Software. The EULA’s also require each user of the product to further license the software and pass the EULA to any user
+to whom he transfers the product.
+
+C. Because of the described industry practice with respect to COTS Software, Boeing does not acquire title to COTS
+Software and cannot pass title to COTS Software at the time of delivery of the Aircraft.
+
+D. Therefore, the parties desire to amend certain provisions of
+the Purchase Agreement to properly reflect the respective rights and obligations of the parties with respect to the COTS Software included in the Aircraft.
+
+Agreement
+
+1. At delivery of the Aircraft, Boeing will furnish to Customer copies of all EULA’s applicable to the Aircraft, and
+Customer agrees to comply with all provisions of the applicable EULA’s.
+
+ P.A. No. 3194
+
+ EULA_Special_Matters
+
+ Page 106 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0273 Page 2
+
+2. Notwithstanding the provisions of
+Article 6.3 of the AGTA, at delivery of each Aircraft, Boeing will provide Customer a bill of sale conveying good title, free of encumbrances except as provided in applicable EULA’s.
+
+3. In connection with any sale or other transfer of the Aircraft, Customer agrees to comply with all provisions of the applicable EULA’s, including without
+limitation the re-licensing of the software to Customer’s transferee and the flow down within such license of the further requirement that Customer’s transferee comply with and flow to other transferees the obligations of the EULA.
+
+ P.A. No. 3194
+
+ EULA_Special_Matters
+
+ Page 107 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0273 Page 3
+
+ Very truly yours,
+
+ THE BOEING COMPANY
+
+ BY
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters treated
+above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ EULA_Special_Matters
+
+ Page 108 of 139
+
+The Boeing Company
+
+P.O. Box 3707
+
+Seattle, WA 98124-2207
+
+6-1162-ILK-0274
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+ Subject:
+
+ Aircraft Performance Guarantees
+
+ Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (the Aircraft).
+
+This letter agreement (Letter Agreement) amends and supplements the Purchase Agreement. All
+terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+Boeing agrees to provide Customer with the
+performance guarantees in the Attachment. These guarantees are exclusive and expire upon delivery of the Aircraft to Customer.
+
+Customer agrees not to
+disclose this Letter Agreement, attachments, or any other information related to this Letter Agreement without prior written consent by Boeing.
+
+ Very truly yours,
+
+ THE BOEING COMPANY
+
+ By
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+ P.A. No. 3194
+
+ Performance_Guarantees
+
+ BOEING PROPRIETARY
+
+ Page 109 of 139
+
+ LAN Airlines S.A.
+
+ 6-1162-ILK-0274 Page 2
+
+If the foregoing correctly sets forth
+your understanding of our agreement with respect to the matters treated above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+ LAN AIRLINES S.A.
+
+ By:
+
+Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ Performance_Guarantees
+
+ BOEING PROPRIETARY
+
+ Page 110 of 139
+
+ Attachment to Letter Agreement
+
+ No. 6-1162-ILK-0274
+
+ GE90-110B1L Engines
+
+ Page 1
+
+MODEL 777 FREIGHTER
+PERFORMANCE GUARANTEES
+
+FOR LAN AIRLINES S.A.
+
+ SECTION
+
+ CONTENTS
+
+ [***]
+
+ P.A. No. 3194
+
+ AERO-B-BBA4-M07-0238
+
+ Page 111 of 139
+
+ Attachment to Letter Agreement
+
+ No. 6-1162-ILK-0274
+
+GE90-110B1L Engines
+
+Page 2
+
+[***]
+
+ P.A. No. 3194
+
+ AERO-B-BBA4-M07-0238
+
+ Page 112 of 139
+
+ Attachment to Letter Agreement
+
+ No. 6-1162-ILK-0274
+
+ GE90-110B1L Engines
+
+ Page 3
+
+[***]
+
+ P.A. No. 3194
+
+ AERO-B-BBA4-M07-0238
+
+ Page 113 of 139
+
+ Attachment to Letter Agreement
+
+ No. 6-1162-ILK-0274
+
+ GE90-110B 1 L Engines
+
+ Page 4
+
+[***]
+
+ P.A. No. 3194
+
+ AERO-B-BBA4-M07-0238
+
+ SS07-0161
+
+ Page 114 of 139
+
+ Attachment to Letter Agreement
+
+ No. 6-1162-ILK-0274
+
+ GE90-110B1L Engines
+
+ Page 5
+
+[***]
+
+ P.A. No. 3194
+
+ AERO-B-BBA4-M07-0238
+
+ Page 115 of 139
+
+ Boeing Commercial Airplanes
+
+ P.O. Box 3707
+
+ Seattle, WA 98124-2207
+
+6-1162-ILK-0275
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711 Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+ Subject:
+
+ [***]
+
+ References:
+
+1) Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company
+(Boeing) and LAN Airlines S.A. (Customer) relating to Model 777-FREIGHTER aircraft (Aircraft)
+
+2) Aircraft General Terms Agreement dated as of the 9th of May of 1997 between the parties, identified
+as AGTA-LAN (AGTA)
+
+This letter agreement (Letter Agreement) amends and supplements the Purchase Agreement. All
+terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+Definition of Terms:
+
+[***]
+
+ 1.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 116 of 139
+
+ Lan Airlines S.A.
+
+ [***] Letter Agreement: 6-1162-ILK-0275
+
+ Page 2
+
+[***]
+
+ 2.
+ [***]
+
+ 3.
+ [***]
+
+ 4.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 117 of 139
+
+ Lan Airlines S.A.
+
+ [***] Letter Agreement: 6-1162-ILK-0275
+
+ Page 3
+
+ 5.
+ [***]
+
+ 6.
+ Confidential Treatment
+
+Customer and Boeing
+understand that the information contained in this Letter Agreement is considered confidential. Each of Customer and Boeing agree to treat this Letter Agreement as confidential and will not, without the prior written consent of the other party,
+disclose this Letter Agreement or any information contained herein to any third parties, other than as required by applicable law, by the Export Import Bank of the United States or by Fitch Ratings.
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 118 of 139
+
+ Lan Airlines S.A.
+
+ [***] Letter Agreement: 6-1162-ILK-0275
+
+ Page 4
+
+ Very truly yours,
+
+ THE BOEING COMPANY
+
+ By
+
+ [***]
+
+ Its
+
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters treated
+above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+ LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 119 of 139
+
+ Boeing Commercial Airplanes
+
+ P.O. Box 3707
+
+ Seattle, WA 98124-2207
+
+6-1162-ILK-0276
+
+LAN Airlines S.A.
+
+Avenida Presidente Riesco 5711
+
+Piso 19
+
+Las Condes
+
+Santiago, Chile
+
+ Subject:
+
+ [***]
+
+ Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer)
+relating to Model 777-FREIGHTER aircraft (Aircraft)
+
+This letter agreement (Letter Agreement), when accepted by Customer, will amend the Purchase
+Agreement. All terms used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+ 1.
+ [***]
+
+ 1.1.
+ [***]
+
+ 1.1.1.
+ [***]
+
+ 1.1.2.
+ [***]
+
+ 1.1.2.1.
+ [***]
+
+ 1.1.2.2.
+ [***]
+
+ 1.1.3.
+ [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 120 of 139
+
+Lan Airlines S.A.
+
+[***]
+
+Letter Agreement: 6-1162-ILK-0276
+
+Page 2
+
+1.1.3.1. [***]
+
+1.1.3.2. [***]
+
+1.1.4. [***]
+
+1.2. [***]
+
+1.3. [***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 121 of 139
+
+Lan Airlines S.A.
+
+[***]
+
+Letter Agreement: 6-1162-ILK-0276
+
+Page 3
+
+1.4 [***]
+
+1.4.1 [***]
+
+1.4.1.1 [***]
+
+1.4.1.2 [***]
+
+1.5 [***]
+
+ 2.
+ Confidentiality.
+
+Customer and Boeing understand
+that the information contained in this Letter Agreement is considered confidential. Each of Customer and Boeing agree to treat this Letter Agreement as confidential and will not, without the prior written consent of the other party, disclose this
+Letter Agreement or any information contained herein to any third parties, other than as required by applicable law, by the Export-Import Bank of the United States or by Fitch Ratings.
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 122 of 139
+
+Lan Airlines S.A.
+
+[***]
+
+Letter Agreement: 6-1162-ILK-0276
+
+Page 4
+
+ Very truly yours,
+
+ THE BOEING COMPANY
+
+ By:
+
+ [***]
+
+ Its:
+
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters
+treated above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+ LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 123 of 139
+
+Lan Airlines S.A.
+
+[***]
+
+Letter Agreement: 6-1162-ILK-0276
+
+Page 5
+
+[***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 124 of 139
+
+Lan Airlines S.A.
+
+[***]
+
+Letter Agreement: 6-1162-ILK-0276
+
+Page 6
+
+[***]
+
+ P.A. No. 3194
+
+ [***]
+
+ Page 125 of 139
+
+Boeing Commercial Airplanes
+
+P.O. Box 3707
+
+Seattle, WA 98124-2207
+
+6-1162-ILK-0277
+
+LAN Airlines S.A.
+
+Av. Presidente Riesco 5711
+
+Piso 19, Las Condes
+
+SANTIAGO
+
+CHILE
+
+Subject:
+
+ [***]
+
+Reference:
+
+ Purchase Agreement No. 3194 (the Purchase Agreement) between The Boeing Company (Boeing) and LAN Airlines S.A. (Customer) relating to Model 777-FREIGHTER Aircraft (Aircraft).
+
+This Letter Agreement (Letter Agreement) amends and supplements the Purchase Agreement. All terms
+used but not defined in this Letter Agreement have the same meaning as in the Purchase Agreement.
+
+[***]
+
+ 1.
+ [***]
+
+ P.A. No. 3194
+
+ SS07-0346
+
+ [***]
+
+ Page 126 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 2
+
+ 2.
+ [***]
+
+2.1 [***]
+
+2.2 [***]
+
+ 3.
+ [***]
+
+3.1 [***]
+
+3.2 [***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 127 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 3
+
+ [***]
+
+3.3 [***]
+
+ 4.
+ [***]
+
+ 5.
+ [***]
+
+ 6.
+ [***]
+
+6.1 [***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 128 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 4
+
+[***]
+
+ 6.2
+ [***]
+
+ 6.3
+ [***]
+
+ 6.4
+ [***]
+
+ 6.5
+ [***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 129 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 5
+
+[***]
+
+ 7.
+ [***]
+
+7.1 [***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 130 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 6
+
+[***]
+
+7.2 [***]
+
+7.3. [***]
+
+7.4 [***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 131 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 7
+
+ 8.
+ [***]
+
+ 9.
+ [***]
+
+ 10.
+ [***]
+
+ 11.
+ Confidential Treatment.
+
+Customer understands that
+certain commercial and financial information contained in this Letter Agreement is considered by Boeing as confidential. Customer agrees that it will treat this Letter Agreement and the information contained herein as confidential and will not,
+without the prior written consent of Boeing, disclose this Letter Agreement or any information contained herein to any other person or entity.
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 132 of 139
+
+LAN Airlines S.A.
+
+6-1162-ILK-0277
+
+Page 8
+
+Very truly yours,
+
+ THE BOEING COMPANY
+
+ By
+
+ [***]
+
+ Its
+
+ Attorney-In-Fact
+
+If the foregoing correctly sets forth your understanding of our agreement with respect to the matters treated
+above, please indicate your acceptance and approval.
+
+ACCEPTED AND AGREED TO this
+ day of July of 2007
+
+ LAN AIRLINES S.A.
+
+ By:
+
+ Mr. Carlos Prado C.
+
+ Its:
+
+ Senior VP Corporate Investments
+
+ By:
+
+ Mr. Andrés del Valle Eitel
+
+ Its:
+
+ Corporate Finance Director
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 133 of 139
+
+Attachment A to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 1
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 134 of 139
+
+Attachment A to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 2
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 135 of 139
+
+Attachment B to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 1
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 136 of 139
+
+Attachment B to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 1
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 137 of 139
+
+Attachment C to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 1
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 138 of 139
+
+Attachment C to
+
+Letter Agreement
+6-1162-ILK-0277
+
+Page 1
+
+[***]
+
+ P.A. No. 3194
+
+ 777 Freighter
+
+ [***]
+
+ Page 139 of 139

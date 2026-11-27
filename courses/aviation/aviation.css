@@ -1,0 +1,13 @@
+.lab-form{border-top:3px solid var(--ink);padding:18px;background:var(--surface)}
+.lab-form label,.lab-form fieldset{display:block;margin:0 0 16px}
+.lab-form label>span{display:block;font-weight:600;margin-bottom:6px}
+.lab-form select,.lab-form input,.lab-form textarea,.wide{max-width:100%;width:100%}
+.lab-form fieldset{border:1px solid var(--line);padding:12px}.lab-form legend{font-weight:600}
+.lab-form textarea{min-height:110px}.lab-form select{white-space:normal}
+.lab-result{border-left:3px solid var(--acc);padding:4px 16px;margin:16px 0;background:var(--surface-2)}
+.lab-result q{display:block;font:italic 16px/1.5 var(--read)}
+.controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:14px 0}
+.controls select{max-width:100%}.controls input{min-width:0}
+.risk-inputs{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:0 14px}
+.calc-result{border-top:3px solid var(--acc);padding:14px 0;font:600 18px/1.6 var(--ui)}
+@media(max-width:900px){.split{display:block}.doc{height:42vh}.sticky{margin-top:16px}}

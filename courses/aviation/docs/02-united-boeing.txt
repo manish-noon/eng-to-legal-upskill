@@ -1,0 +1,1940 @@
+Purchase Agreement Number 3427
+
+Exhibit 10.1
+
+PURCHASE AGREEMENT NUMBER 3427
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Relating to Boeing Model 787-8 Aircraft
+
+P.A. No. 3427
+
+ BOEING / UNITED PROPRIETARY
+
+TABLE OF CONTENTS
+
+ SA
+NUMBER
+
+ARTICLES
+
+1.
+
+Quantity, Model and Description
+
+2.
+
+Delivery Schedule
+
+3.
+
+Price
+
+ .
+
+4.
+
+Payment
+
+5.
+
+Additional Terms
+
+TABLE
+
+1.
+
+Aircraft Information Table
+
+EXHIBIT
+
+A.
+
+Aircraft Configuration
+
+B.
+
+Aircraft Delivery Requirements and Responsibilities
+
+SUPPLEMENTAL EXHIBITS
+
+AE1.
+
+Escalation Adjustment/Airframe and Optional Features
+
+BFE1
+
+Buyer Furnished Equipment Variables
+
+CS1.
+
+Customer Support Document
+
+EE1.
+
+Engine Escalation/Engine Warranty and Patent Indemnity
+
+SLP1.
+
+Service Life Policy Components
+
+2
+
+Purchase Agreement No. 3427
+
+between
+
+The
+Boeing Company
+
+and
+
+United Air Lines, Inc.
+
+This
+Purchase Agreement No. 3427 between The Boeing Company, a Delaware corporation, (hereinafter referred to as “Boeing”) and United Air Lines, Inc., a Delaware corporation, (hereinafter referred to as “Customer”) (collectively,
+the “Parties”), relating to the purchase and sale of Model 787-8 aircraft together with all tables, exhibits, supplemental exhibits, letter agreements and other attachments thereto, if any, (Purchase Agreement) incorporates and amends
+the terms and conditions of the Aircraft General Terms Agreement dated as of February 19, 2010 between the parties, identified as AGTA-UAL (AGTA).
+
+Article 1. Quantity, Model, Description and Inspection. The aircraft to be delivered to Customer will be designated as Model 787-8 aircraft
+(Aircraft). Boeing will manufacture and sell to Customer Aircraft conforming to the configuration described in Exhibit A in the quantities listed in Table 1 to the Purchase Agreement. Ten (10) months prior to delivery of Customer’s
+first Aircraft, Boeing will provide Customer a Boeing document defining a customer inspection process appropriate to the 787 manufacturing process (787 Inspection Process) which will apply in lieu of inspection processes traditionally applicable to
+other models of aircraft and will supersede the provisions of Article 5.2 of the AGTA.
+
+Article 2. Delivery Schedule. The
+scheduled months of delivery of the Aircraft are listed in the attached Table 1. Exhibit B describes certain responsibilities for both Customer and Boeing in order to accomplish the delivery of the Aircraft.
+
+Article 3. Price.
+
+3.1
+Aircraft Basic Price. The Aircraft Basic Price is listed in Table 1 and is subject to escalation in accordance with the terms of this Purchase Agreement.
+
+3.2 Advance Payment Base Prices. The Advance Payment Base Prices listed in Table 1 were [CONFIDENTIAL MATERIAL OMITTED AND
+FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+3
+
+Article 4. Payment.
+
+4.1 Boeing acknowledges receipt of a deposit in the amount shown in Table 1 for each Aircraft (Deposit).
+
+4.2 The standard advance payment schedule for the Model 787-8 aircraft requires Customer to make certain advance payments,
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] on the effective date of the Purchase Agreement for the Aircraft. Additional advance payments for each Aircraft are due as
+specified in and on the first business day of the months listed in the attached Table 1.
+
+4.3 For any Aircraft whose
+scheduled month of delivery is less than twenty-four (24) months from the date of this Purchase Agreement, the total amount of advance payments due for payment upon signing of this Purchase Agreement will include all advance payments which are
+past due in accordance with the standard advance payment schedule set forth in paragraph 4.2 above.
+
+4.4 Customer will
+pay the balance of the Aircraft Price of each Aircraft at delivery.
+
+Article 5. Additional Terms.
+
+5.1 Aircraft Information Table. Table 1 consolidates information contained in Articles 1, 2, 3 and 4
+with respect to (i) quantity of Aircraft, (ii) applicable Detail Specification, (iii) month and year of scheduled deliveries, (iv) Aircraft Basic Price, (v) escalation factors and (vi) Advance Payment Base Prices and
+advance payments and their schedules.
+
+5.2 Escalation Adjustment/Airframe and Optional Features. Supplemental
+Exhibit AE1 contains the applicable airframe and optional features escalation formula.
+
+5.2 Buyer Furnished Equipment
+Variables. Supplemental Exhibit BFE1 contains vendor selection dates and other variables applicable to the Aircraft.
+
+5.3 Customer Support Variables. Information, training, services and other things furnished by Boeing in support of introduction of
+the Aircraft into Customer’s fleet are described in Supplemental Exhibit CS1. Supplemental Exhibit CS1 supersedes in its entirety Exhibit B to the AGTA, and, for clarity, all references to Exhibit B to the AGTA shall be
+deemed to refer to Supplemental Exhibit CS1 to the Purchase Agreement. The level of support to be provided under Supplemental Exhibit CS1 (Entitlements) assumes that at the time of delivery of Customer’s first Aircraft under the
+
+4
+
+Purchase Agreement, Customer has not taken possession of a 787-8 aircraft whether such 787-8 aircraft was purchased, leased or otherwise obtained by Customer from Boeing or another party. If
+prior to the delivery of Customer’s first Aircraft, Customer has taken possession of a 787-8 aircraft, Boeing will revise the Entitlements to reflect the level of support normally provided by Boeing to operators already operating such aircraft.
+Under no circumstances under the Purchase Agreement or any other agreement will Boeing provide the Entitlements more than once to support Customer’s operation of 787-8 aircraft.
+
+5.4 Engine Escalation Variables. Supplemental Exhibit EE1 contains the applicable engine escalation formula, the engine
+warranty and the engine patent indemnity for the Aircraft.
+
+5.5 Service Life Policy Component Variables. Supplemental
+Exhibit SLP1 lists the SLP Components covered by the Service Life Policy for the Aircraft. In addition, Part 3 of Exhibit C to the AGTA, entitled, “Service Life Policy.” is superseded in its entirety by Part 3 of
+Exhibit C to the AGTA, “Service Life Policy,” attached as Exhibit C to to this Purchase Agreement.
+
+5.6
+Public Announcement. Boeing reserves the right to make a public announcement regarding Customer’s purchase of the Aircraft upon approval of Boeing’s press release by Customer’s public relations department or other authorized
+representative.
+
+[The remainder of this page intentionally left blank]
+
+5
+
+5.7 Negotiated Agreement; Entire Agreement. This Purchase Agreement, including the
+provisions of Article 8.2 of the AGTA relating to insurance, and Article 11 of Part 2 of Exhibit C of the AGTA relating to DISCLAIMER AND RELEASE and EXCLUSION OF CONSEQUENTIAL AND OTHER DAMAGES, has been the
+subject of discussion and negotiation and is understood by the parties; the Aircraft Price and other agreements of the parties stated in this Purchase Agreement were arrived at in consideration of such provisions. This Purchase Agreement, including
+the AGTA, contains the entire agreement between the parties and supersedes all previous proposals, understandings, commitments or representations whatsoever, oral or written, and may be changed only in writing signed by authorized representatives of
+the parties.
+
+DATED AS OF February 19, 2010
+
+ UNITED AIR LINES, INC.
+
+ THE BOEING COMPANY
+
+ BY
+
+/s/ Kathryn A. Mikells
+
+ BY
+
+/s/ Nobuko Wiles
+
+ ITS
+
+ Executive Vice President and Chief Financial Officer
+
+ ITS
+
+ Attorney-in-fact
+
+6
+
+Table 1 - [***]
+
+P. A. 3427
+
+Aircraft Delivery, Description, Price and Advance Payments
+
+Airframe Model/MTOW:
+
+ 787-8
+
+ 502500 pounds
+
+ Detail Specification:
+
+ [***]
+
+Engine Model/Thrust:
+
+ [***]
+
+ [***] pounds
+
+ Airframe Price Base Year/Escalation Formula:
+
+ Jul-08
+
+ [***]
+
+Airframe Price:
+
+ [***]
+
+ Engine Price Base Year/Escalation Formula:
+
+ Jul-08
+
+ [***]
+
+Optional Features:
+
+ [***]
+
+Sub-Total of Airframe and Features:
+
+ [***]
+
+ Airframe Escalation Data:
+
+Engine Price (Per Aircraft):
+
+ [***]
+
+ Base Year Index (ECI):
+
+ [***]
+
+Aircraft Basic Price (Excluding BFE/SPE):
+
+ [***]
+
+ Base Year Index (CPI):
+
+ [***]
+
+Buyer Furnished Equipment (BFE) Estimate:
+
+ [***]
+
+ Engine Escalation Data:
+
+Seller Purchased Equipment (SPE) Estimate:
+
+ [***]
+
+ Base Year Index (ECI):
+
+ [***]
+
+Estimated IFE Price at Delivery:
+
+ [***]
+
+ Base Year Index (CPI):
+
+ [***]
+
+[***] Deposit/Aircraft at Proposal Accept:
+
+ [***]
+
+[***] represents [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT]
+
+ [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+ Boeing / United Proprietary
+
+ Page 1
+
+Table 1 - [***]
+
+P. A. 3427
+
+Aircraft Delivery, Description, Price and Advance Payments
+
+Airframe Model/MTOW:
+
+ 787-8
+
+ 502500 pounds
+
+ Detail Specification:
+
+ [
+ ***]
+
+Engine Model/Thrust:
+
+ [***]
+
+ [***] pounds
+
+ Airframe Price Base Year/Escalation Formula:
+
+ Jul-08
+
+ [***]
+
+Airframe Price:
+
+ [***]
+
+ Engine Price Base Year/Escalation Formula:
+
+ Jul-08
+
+ [***]
+
+Optional Features:
+
+ [***]
+
+Sub-Total of Airframe and Features:
+
+ [***]
+
+ Airframe Escalation Data:
+
+Engine Price (Per Aircraft):
+
+ [***]
+
+ Base Year Index (ECI):
+
+ [
+ ***]
+
+Aircraft Basic Price (Excluding BFE/SPE):
+
+ [***]
+
+ Base Year Index (CPI):
+
+ [
+ ***]
+
+Buyer Furnished Equipment (BFE) Estimate:
+
+ [***]
+
+ Engine Escalation Data:
+
+Seller Purchased Equipment (SPE) Estimate:
+
+ [***]
+
+ Base Year Index (ECI):
+
+ [
+ ***]
+
+Estimated IFE Price at Delivery:
+
+ [***]
+
+ Base Year Index (CPI):
+
+ [
+ ***]
+
+[***] Deposit/Aircraft at Proposal Accept:
+
+ [***]
+
+[***] represents [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT]
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+ Boeing / United Proprietary
+
+ Page 1
+
+AIRCRAFT CONFIGURATION
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Exhibit A to Purchase Agreement Number 3427
+
+AIRCRAFT CONFIGURATION
+
+Dated February 19, 2010
+
+relating to
+
+BOEING MODEL 787 AIRCRAFT
+
+The
+Detail Specification is Boeing document number [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]-TBD, dated as of TBD. Such Detail Specification will be comprised of (i) Boeing
+787 Airplane Configuration Specification, 787-4102 Rev B, dated July 9, 2007 as it pertains to model 787- 8 aircraft, (ii) changes to such Detail Specification pursuant to Article 4 of the AGTA and (iii) optional features therein selected by
+Customer (Options) including the effects on Manufacturer’s Empty Weight (MEW) and Operating Empty Weight (OEW). Such Options are set forth in Boeing Customer Specified Option Selection Log and Option Data Pages, configuration file number
+_[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] (to be supplied by Boeing Customer Integration group), as of TBD date approximately [CONFIDENTIAL MATERIAL
+OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] month prior to delivery of the first Aircraft). As soon as practicable, Boeing will furnish to Customer copies of the Detail Specification, which
+will reflect such selected Options. The Aircraft Basic Price reflects and includes all effects of such Options. A copy of the Detail Specification will be attached to the Exhibit A. Customer may request changes to Detail Specification any time and
+Boeing may offer such changes subject to Boeing’s pricing and offerability process. [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] The Aircraft Basic Price does not
+include the price effects of any Buyer Furnished Equipment or equipment purchase on behalf of Customer by Boeing at Customer’s request (the “Seller Purchased Equipment”).
+
+Exhibit A to
+
+Purchase Agreement No. 3427
+
+787-8
+
+BASELINE INTERIOR CONFIGURATION
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH
+
+THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+BOEING/UNITED PROPRIETARY
+
+Exhibit A to
+
+Purchase Agreement No. 3427
+
+787-9
+
+BASELINE INTERIOR CONFIGURATION
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A
+
+REQUEST FOR CONFIDENTIAL TREATMENT]
+
+BOEING/UNITED PROPRIETARY
+
+AIRCRAFT DELIVERY REQUIREMENTS AND RESPONSIBILITIES
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Exhibit B to Purchase Agreement Number 3427
+
+B
+
+Exhibit B to
+
+Purchase Agreement No. 3427
+
+Page 1
+
+AIRCRAFT DELIVERY REQUIREMENTS AND RESPONSIBILITIES
+
+relating to
+
+BOEING MODEL 787-8 AIRCRAFT
+
+Both Boeing and Customer have certain documentation and approval responsibilities at various times during the construction cycle of Customer’s
+Aircraft that are critical to making the delivery of each Aircraft a positive experience for both parties. This Exhibit B documents those responsibilities and indicates recommended completion deadlines for the actions to be accomplished.
+
+1. GOVERNMENT DOCUMENTATION REQUIREMENTS.
+
+Certain actions are required to be taken by Customer in advance of the scheduled delivery month of each Aircraft with respect to obtaining certain
+government issued documentation.
+
+1.1 Airworthiness and Registration Documents.
+
+Not later than 6 months prior to delivery of each Aircraft, Customer will notify Boeing of the registration number to be painted
+on the side of the Aircraft. In addition, and not later than 3 months prior to delivery of each Aircraft, Customer will, by letter to the regulatory authority having jurisdiction, authorize the temporary use of such registration numbers by
+Boeing during the pre-delivery testing of the Aircraft.
+
+Customer is responsible for furnishing any Temporary or Permanent Registration
+Certificates required by any governmental authority having jurisdiction to be displayed aboard the Aircraft after delivery.
+
+1.2 Certificate of Sanitary Construction.
+
+1.2.1 U.S. Registered Aircraft. Boeing will obtain from the United States Public Health Service, a United States Certificate of
+Sanitary Construction to be displayed aboard each Aircraft after delivery to Customer.
+
+1.2.2 Non-U.S. Registered
+Aircraft. If Customer requires a United States Certificate of Sanitary Construction at the time of delivery of the Aircraft, Customer will give written notice thereof to Boeing at least 3 months prior to delivery. Boeing will then use its
+reasonable best efforts to obtain the Certificate from the United States Public Health Service and present it to Customer at the time of Aircraft delivery.
+
+B-1
+
+Exhibit B to
+
+Purchase Agreement No. 3427
+
+Page 2
+
+1.3 Customs Documentation.
+
+1.3.1 Import Documentation. If the Aircraft is intended to be exported from the United States, Customer must notify Boeing not
+later than 3 months prior to delivery of each Aircraft of any documentation required by the customs authorities or by any other agency of the country of import.
+
+1.3.2 General Declaration - U.S. If the Aircraft is intended to be exported from the United States, Boeing will prepare Customs
+Form 7507, General Declaration, for execution by U.S. Customs immediately prior to the ferry flight of the Aircraft. For this purpose, Customer will furnish to Boeing not later than 20 days prior to delivery all information required by
+U.S. Customs and Border Protection, including without limitation (i) a complete crew and passenger list identifying the names, birth dates, passport numbers and passport expiration dates of all crew and passengers and (ii) a complete ferry
+flight itinerary, including point of exit from the United States for the Aircraft.
+
+If Customer intends, during the ferry flight of an
+Aircraft, to land at a U.S. airport after clearing Customs at delivery, Customer must notify Boeing not later than 20 days prior to delivery of such intention. If Boeing receives such notification, Boeing will provide to Customer the
+documents constituting a Customs permit to proceed, allowing such Aircraft to depart after any such landing. Sufficient copies of completed Form 7507, along with passenger manifest, will be furnished to Customer to cover U.S. stops scheduled
+for the ferry flight.
+
+1.3.3 Export Declaration - U.S. If the Aircraft is intended to be exported from the United
+States following delivery, and (i) Customer is a non-U.S. customer, Boeing will file an export declaration electronically with U.S. Customs and Border Protection (CBP), or (ii) Customer is a U.S. customer, it is the responsibility of the
+U.S. customer, as the exporter of record, to file the export declaration with CBP.
+
+2. INSURANCE CERTIFICATES.
+
+Unless provided earlier, Customer will provide to Boeing not later than 30 days prior to delivery of the first
+Aircraft, a copy of the requisite annual insurance certificate in accordance with the requirements of Article 8 of the AGTA.
+
+B-2
+
+Exhibit B to
+
+Purchase Agreement No. 3427
+
+Page 3
+
+3. NOTICE OF FLYAWAY CONFIGURATION.
+
+Not later than 20 days prior to delivery of the Aircraft, Customer will provide to Boeing a configuration letter stating the
+requested "flyaway configuration" of the Aircraft for its ferry flight. This configuration letter should include:
+
+(i) the name of the company which is to furnish fuel for the ferry flight and any scheduled post-delivery flight training,
+the method of payment for such fuel, and fuel load for the ferry flight;
+
+(ii) the cargo to be loaded and where
+it is to be stowed on board the Aircraft, the address where cargo is to be shipped after flyaway and notification of any hazardous materials requiring special handling;
+
+(iii) any BFE equipment to be removed prior to flyaway and returned to Boeing BFE stores for installation on Customer's
+subsequent Aircraft;
+
+(iv) a complete list of names and citizenship of each crew member and non-revenue
+passenger who will be aboard the ferry flight; and
+
+(v) a complete ferry flight itinerary.
+
+4. DELIVERY ACTIONS BY BOEING.
+
+4.1 Schedule of Inspections. All FAA, Boeing, Customer and, if required, U.S. Customs Bureau inspections will be scheduled by
+Boeing for completion prior to delivery or departure of the Aircraft. Customer will be informed of such schedules.
+
+4.2
+Schedule of Demonstration Flights. All FAA and Customer demonstration flights will be scheduled by Boeing for completion prior to delivery of the Aircraft.
+
+4.3 Schedule for Customer's Flight Crew. Boeing will inform Customer of the date that a flight crew is required for acceptance
+routines associated with delivery of the Aircraft.
+
+B-3
+
+Exhibit B to
+
+Purchase Agreement No. 3427
+
+Page 4
+
+4.4 Fuel Provided by Boeing. Boeing will provide to Customer, without charge, the
+amount of fuel shown in U.S. gallons in the table below for the model of Aircraft being delivered and full capacity of engine oil at the time of delivery or prior to the ferry flight of the Aircraft.
+
+Aircraft Model
+
+Fuel Provided
+
+737
+
+ 1,000
+
+747
+
+ 4,000
+
+757
+
+ 1,600
+
+767
+
+ 2,000
+
+777
+
+ 3,000
+
+787
+
+ 2,000
+
+4.5 Flight Crew
+and Passenger Consumables. Boeing will provide reasonable quantities of food, coat hangers, towels, toilet tissue, drinking cups and soap for the first segment of the ferry flight for the Aircraft.
+
+4.6 Delivery Papers, Documents and Data. Boeing will have available at the time of delivery of the Aircraft certain delivery
+papers, documents and data for execution and delivery. If title for the Aircraft will be transferred to Customer through a Boeing sales subsidiary and if the Aircraft will be registered with the FAA, Boeing will pre-position in Oklahoma City,
+Oklahoma, for filing with the FAA at the time of delivery of the Aircraft an executed original Form 8050-2, Aircraft Bill of Sale, indicating transfer of title to the Aircraft from Boeing's sales subsidiary to Customer.
+
+4.7 Delegation of Authority. If specifically requested in advance by Customer, Boeing will present a certified copy of a
+Resolution of Boeing's Board of Directors, designating and authorizing certain persons to act on its behalf in connection with delivery of the Aircraft.
+
+5. DELIVERY ACTIONS BY CUSTOMER.
+
+5.1 Aircraft Radio Station License. At delivery Customer will provide its aircraft radio station license to be placed on board the
+Aircraft following delivery.
+
+5.2. Aircraft Flight Log. At delivery Customer will provide the aircraft flight log for
+the Aircraft.
+
+5.3 Delegation of Authority. Customer will present to Boeing at delivery of the Aircraft an original or
+certified copy of Customer's Delegation of Authority designating and authorizing certain persons to act on its behalf in connection with delivery of the specified Aircraft.
+
+B-4
+
+Exhibit B to
+
+Purchase Agreement No. 3427
+
+Page 5
+
+5.4 TSA Waiver Approval. Should the Aircraft be exported, a TSA waiver approval
+is required for the ferry flight, unless Customer has a TSA approved program. Customer is responsible for submittal of TSA waiver to the TSA and following up with the TSA for the approval. A copy of the TSA waiver approval is to be provided by
+Customer to Boeing upon arrival of Customer’s acceptance team at the Boeing delivery center.
+
+B-5
+
+ESCALATION ADJUSTMENT
+
+AIRFRAME AND OPTIONAL FEATURES
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Supplemental Exhibit AE1 to Purchase Agreement Number 3427
+
+P.A. No. 3427
+
+ AE1
+
+ BOEING / UNITED PROPRIETARY
+
+United Air Lines, Inc
+
+1. Formula.
+
+Airframe and Optional Features [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+at the signing of this Purchase Agreement and to [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] will be determined at [CONFIDENTIAL MATERIAL OMITTED AND FILED
+SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] in accordance with the following formula:
+
+[CONFIDENTIAL
+MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2. Values to be Utilized in the
+Event of Unavailability.
+
+2.1 If the Bureau of Labor Statistics substantially revises the methodology used for the
+determination of the values to be used to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] or for any reason has not released values [CONFIDENTIAL MATERIAL OMITTED
+AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] from other Bureau of Labor Statistics data or similar data reported by non-governmental organizations. Such substitute will result in the same adjustment,
+insofar as possible, as would have been calculated utilizing the original values adjusted for fluctuation during the applicable time period. However, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT], the Bureau of Labor Statistics should resume releasing values for the months needed to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.2 Notwithstanding Article 2.1 above, if prior to the scheduled delivery month of an Aircraft the Bureau of Labor
+Statistics changes the [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.3 In the event escalation provisions are made non-enforceable or otherwise rendered void by any agency of the United States Government,
+the parties agree, to the extent they may lawfully do so, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.4 If within [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT],
+the published index values are revised due to an acknowledged error by the Bureau of Labor Statistics, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+P.A. No. 3427
+
+ AE1
+
+ BOEING / UNITED PROPRIETARY
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+787-8
+
+Supplemental Exhibit BFE1 to Purchase Agreement Number 3427
+
+BFE1
+
+BUYER FURNISHED EQUIPMENT VARIABLES
+
+relating to
+
+BOEING MODEL 787 AIRCRAFT
+
+This
+Supplemental Exhibit BFE1 contains vendor selection dates, on-dock dates and other requirements applicable to the Aircraft. Such Dates shall be updated pursuant any revisions to the delivery schedule set forth in Table 1 to the Purchase Agreement.
+
+1. Supplier Selection.
+
+Customer will select and notify Boeing of the suppliers of the following items by the following dates:
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2. Certification Document.
+
+Customer will deliver to Boeing a copy of the FAA Technical Standard Order (TSO) 127a authorization letter or equivalent evidence of
+certification for Buyer Furnished Equipment [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] no later than [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC
+PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+3. Import
+
+Customer will insure that Customer’s BFE suppliers provide sufficient information to enable Boeing, when acting as Importer of Record for
+Customer’s BFE, to comply with all applicable provisions of the U.S. Customs Service.
+
+BFE1-1
+
+4. Delivery Dates and Other Information
+
+On or before 3Q20 [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL
+TREATMENT], Boeing will provide to Customer a BFE Requirements On-Dock/Inventory Document (BFE Document) or an electronically transmitted BFE Report which may be periodically revised, setting forth the items, quantities, on-dock dates, shipping
+instructions relating to the in-sequence installation of BFE. For planning purposes, preliminary BFE on-dock dates are set forth below:
+
+ Item
+
+ Preliminary On-Dock Dates
+
+ [Month of Delivery:]
+
+[CONFIDENTIAL MATERIAL
+OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+BFE1-2
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+between
+
+THE BOEING COMPANY
+
+And
+
+UNITED AIR LINES, INC.
+
+Supplemental Exhibit CS1 to Purchase Agreement Number 3427
+
+This document contains:
+
+Part 1:
+
+Boeing Maintenance and Flight Training Programs;
+
+Operations Engineering Support
+
+Part 2:
+
+ Field and Engineering Support Services
+
+Part 3:
+
+ Technical Information and Materials
+
+Part 4:
+
+ Alleviation or Cessation of Performance
+
+Part 5:
+
+Protection of Proprietary Information and
+
+Proprietary Materials
+
+CS1
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+PART 1: BOEING MAINTENANCE AND FLIGHT TRAINING
+
+ PROGRAMS; OPERATIONS ENGINEERING SUPPORT
+
+1. Boeing Training Programs.
+
+Boeing will provide maintenance training, cabin attendant training, and flight training programs to support the introduction of the
+Aircraft into service as provided in this Supplemental Exhibit CS1.
+
+1.1 Customer is awarded [CONFIDENTIAL MATERIAL
+OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] (Training Points) for its purchase of twenty-five (25) firm Aircraft. [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT
+TO A REQUEST FOR CONFIDENTIAL TREATMENT] At any time before twenty-four (24) months after delivery of Customer’s last Aircraft (Training Program Period) Customer may exchange Training Points for any of the training courses described on
+Attachment A at the point values described on Attachment A or for other training Boeing may identify at specified point values. At the end of the Training Program Period any unused Training Points will expire.
+
+1.2 In addition to the training provided in Article 1.1, Boeing will provide to Customer the following training and services:
+
+1.2.1 Flight dispatcher model specific instruction; two (2) classes of six (6) students;
+
+1.2.2 Performance engineer model specific instruction in Boeing’s regularly scheduled courses; schedules are published yearly.
+
+1.2.3 Additional Flight Operations Services:
+
+a. Boeing flight crew personnel to assist in ferrying the first Aircraft to Customer’s main base;
+
+b. Instructor pilots for ninety (90) Man Days (as defined in Article 5.4, below) for revenue service training assistance;
+
+c. An instructor pilot to visit Customer six (6) months after revenue service training to review Customer’s flight
+crew operations for a two (2) week period.
+
+CS1
+
+If any part of the training described in this Article 1.2 is not completed by Customer
+within twenty-four (24) months after the delivery of the last Aircraft, Boeing will have no obligation to provide such training./
+
+2.
+Training Schedule and Curricula.
+
+2.1 Customer and Boeing will together conduct planning conferences approximately
+twelve (12) months before the scheduled delivery month of the first Aircraft of a model to define and schedule the maintenance, flight training and cabin attendant training programs. At the conclusion of each planning conference the parties
+will document Customer’s course selection, training schedule, and, if applicable, Training Point application and remaining Training Point balance.
+
+2.2 Customer may also request training by written notice to Boeing identifying desired courses, dates and locations. Within fifteen
+(15) days of Boeing’s receipt of such request Boeing will provide written response to Customer confirming whether the requested courses are available at the times and locations requested by Customer.
+
+3. Location of Training.
+
+3.1 Boeing will conduct all training at any of its or its wholly-owned subsidiaries’ training facilities equipped for the model of
+Aircraft. Customer shall decide on the location or mix of locations for training, subject to space being available in the desired courses at the selected training facility on the dates desired.
+
+3.2 If requested by Customer, Boeing will conduct the classroom portions of the maintenance and flight training (except for the
+Performance Engineer training courses) at a mutually acceptable alternate training site, subject to the following conditions:
+
+3.2.1 Customer will provide acceptable classroom space, simulators (as necessary for flight training) and training equipment required to
+present the courses;
+
+3.2.2 Customer will pay Boeing’s portal to portal actual expenses for lodging, ground
+transportation, laundry, baggage handling, communication costs and per diem meal charge for each Boeing instructor for each day, or fraction thereof, that the instructor is away from his home location, including travel time;
+
+3.2.3 Customer will reimburse Boeing for the actual costs of round-trip transportation for Boeing's instructors and the shipping costs of
+training Materials which must be shipped to the alternate training site;
+
+CS1
+
+3.2.4 Customer will be responsible for all taxes, fees, duties, licenses, permits and
+similar expenses incurred by Boeing and its employees as a result of Boeing’s providing training at the alternate site or incurred as a result of Boeing providing revenue service training; and
+
+3.2.5 Those portions of training that require the use of training devices not available at the alternate site will be conducted at
+Boeing’s facility or at some other alternate site. Customer will be responsible for additional expenses, if any, which result from the use of such alternate site.
+
+4. Training Materials.
+
+Training Materials will be provided for each student. Training Materials may be used only for either (i) the individual
+student’s reference during Boeing provided training and for review thereafter or (ii) Customer’s provision of training to individuals directly employed by the Customer.
+
+5. Additional Terms and Conditions.
+
+5.1 All training will reflect an airplane configuration defined by (i) Boeing’s standard configuration specification for 787
+aircraft, (ii) Boeing’s standard configuration specification for the minor model of 787 aircraft selected by Customer, and (iii) any Optional Features selected by Customer from Boeing’s standard catalog of Optional Features. Upon
+Customer’s request, Boeing may provide training customized to reflect other elements of Customer’s Aircraft configuration subject to a mutually acceptable price, schedule, scope of work and other applicable terms and conditions.
+
+5.2 All training will be provided in the English language. If translation is required, Customer will provide interpreters.
+
+5.3 Customer will be responsible for all expenses of Customer’s personnel except that in the Puget Sound region of
+Washington State Boeing will transport Customer’s personnel between their local lodgings and Boeing’s training facility.
+
+5.4 Boeing flight instructor personnel will not be required to work more than five (5) days per week, or more than eight
+(8) hours in any one twenty-four (24) hour period (Man Day), of which not more than five (5) hours per eight (8) hour workday will be spent in actual flying. These foregoing restrictions will not apply to ferry assistance or
+revenue service training services, which will be governed by FAA rules and regulations.
+
+5.5 Normal Line Maintenance is
+defined as line maintenance that Boeing might reasonably be expected to furnish for flight crew training at Boeing’s facility, and will include ground support and Aircraft storage in the open, but will not include provision of spare parts.
+Boeing will provide Normal Line Maintenance services for any
+
+CS1
+
+Aircraft while the Aircraft is used for flight crew training at Boeing’s facility in accordance with the Boeing Maintenance Plan (Boeing document D6-82076) and the Repair Station Operation
+and Inspection Manual (Boeing document D6-25470). Customer will provide such services if flight crew training is conducted elsewhere. Regardless of the location of such training, Customer will be responsible for providing all maintenance items
+(other than those included in Normal Line Maintenance) required during the training, including, but not limited to, fuel, oil, landing fees and spare parts.
+
+5.6 If the training is based at Boeing’s facility and the Aircraft is damaged during such training, Boeing will make all necessary
+repairs to the Aircraft as promptly as possible. Customer will pay Boeing’s reasonable charge, including the price of parts and materials, for making the repairs. If Boeing’s estimated labor charge for the repair exceeds Twenty-Five
+Thousand U.S. Dollars ($25,000), Boeing and Customer will enter into an agreement for additional services before beginning the repair work.
+
+5.7 If the flight training is based at Boeing’s facility, several airports in the surrounding area may be used, at Boeing’s
+option. Unless otherwise agreed in the flight training planning conference, it will be Customer’s responsibility to make arrangements for the use of such airports.
+
+5.8 If Boeing agrees to make arrangements on behalf of Customer for the use of airports for flight training, Boeing will pay on
+Customer’s behalf any landing fees charged by any airport used in conjunction with the flight training. At least thirty (30) days before flight training, Customer will provide Boeing an open purchase order against which Boeing will invoice
+Customer for any landing fees Boeing paid on Customer’s behalf. The invoice will be submitted to Customer approximately sixty (60) days after flight training is completed, when all landing fee charges have been received and verified.
+Customer will pay the invoiced amount to Boeing within thirty (30) days of the date of the invoice.
+
+5.9 If requested by
+Boeing, in order to provide the flight training or ferry flight assistance, Customer will make available to Boeing an Aircraft after delivery to familiarize Boeing instructor or ferry flight crew personnel with such Aircraft. If flight of the
+Aircraft is required for any Boeing instructor or ferry flight crew member to maintain an FAA license for flight proficiency or landing currency, Boeing will be responsible for the costs of fuel, oil, landing fees and spare parts attributable to
+that portion of the flight.
+
+CS1
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+PART 2: FIELD AND ENGINEERING SUPPORT SERVICES
+
+1. Field Service Representation.
+
+Boeing will furnish field service representation to advise Customer with respect to the maintenance and operation of the Aircraft (Field
+Service Representatives).
+
+1.1 Field Service representation will be available at or near Customer’s main maintenance or
+engineering facility beginning before the scheduled delivery month of the first Aircraft and ending twelve (12) months after delivery of the last Aircraft covered by a specific purchase agreement.
+
+1.2 When a Field Service Representative is positioned at Customer’s facility, Customer will provide, at no charge to Boeing,
+suitable furnished office space and office equipment, including internet capability for electronic access of data, at the location where Boeing is providing Field Service Representatives. As required, Customer will assist each Field Service
+Representative with visas, work permits, customs, mail handling, identification passes and formal introduction to local airport authorities.
+
+1.3 Boeing’s Field Service Representatives are assigned to various airports and other locations around the world. Whenever
+Customer’s Aircraft are operating through any such airport, the services of Boeing’s Field Service Representatives are available to Customer.
+
+2. Engineering Support Services.
+
+2.1 Boeing will, if requested by Customer, provide technical advisory assistance from the Seattle area or at a base designated by Customer
+as appropriate for any Aircraft or Boeing Product (as defined in Part 1 of Exhibit C of the AGTA). Technical advisory assistance, provided, will include:
+
+2.1.1 Analysis of the information provided by Customer to determine the probable nature and cause of operational problems and suggestion
+of possible solutions.
+
+2.1.2 Analysis of the information provided by Customer to determine the nature and cause of
+unsatisfactory schedule reliability and the suggestion of possible solutions.
+
+ P.A. No. 3427
+
+ CS1
+
+ 2-1
+
+ BOEING / UNITED PROPRIETARY
+
+2.1.3 Analysis of the information provided by Customer to determine the nature and cause of
+unsatisfactory maintenance costs and the suggestion of possible solutions.
+
+2.1.4 Analysis and commentary on Customer’s
+engineering releases relating to structural repairs not covered by Boeing’s Structural Repair Manual including those repairs requiring advanced composite structure design.
+
+2.1.5 Analysis and commentary on Customer’s engineering proposals for changes in, or replacement of, systems, parts, accessories or
+equipment manufactured to Boeing’s detailed design. Boeing will not analyze or comment on any major structural change unless Customer’s request for such analysis and comment includes complete detailed drawings, substantiating information
+(including any information required by applicable government agencies), all stress or other appropriate analyses, and a specific statement from Customer of the substance of the review and the response requested.
+
+2.1.6 One (1) evaluation of Customer’s technical facilities, tools and equipment for servicing and maintaining 787 aircraft,
+recommendation of changes where necessary and assistance in the formulation of an initial maintenance plan for the introduction of the first Aircraft into service.
+
+2.1.7 Assistance with the analysis and preparation of performance data to be used in establishing operating practices and policies for
+Customer’s operation of Aircraft.
+
+2.1.8 Assistance with interpretation of the minimum equipment list, the definition of
+the configuration deviation list and the analysis of individual Aircraft performance.
+
+2.1.9 Assistance with solving
+operational problems associated with delivery and route-proving flights.
+
+2.1.10 Information regarding significant service
+items relating to Aircraft performance or flight operations.
+
+2.1.11 Operations engineering support during the ferry flight of
+an Aircraft.
+
+2.1.12 Assistance in developing an Extended Twin Operations (ETOPs) plan for regulatory approval.
+
+ P.A. No. 3427
+
+ CS1
+
+ 2-2
+
+ BOEING / UNITED PROPRIETARY
+
+2.2 Boeing will, if requested by Customer, perform work on an Aircraft after delivery but
+prior to the initial departure flight or upon the return of the Aircraft to Boeing’s facility prior to completion of that flight. The following conditions will apply to Boeing’s performance:
+
+2.2.1 Boeing may rely upon the commitment authority of the Customer’s personnel requesting the work.
+
+2.2.2 As title and risk of loss has passed to Customer, the insurance provisions of Article 8.2 of the AGTA apply.
+
+2.2.3 The provisions of the Boeing warranty in Part 2 of Exhibit C of the AGTA apply.
+
+2.2.4 Customer will pay Boeing for requested work not covered by the Boeing warranty, if any.
+
+2.2.5 The DISCLAIMER AND RELEASE and EXCLUSION OF CONSEQUENTIAL AND OTHER DAMAGES provisions in Article 11 of Part 2 of
+Exhibit C of the AGTA apply.
+
+2.3 Boeing may, at Customer’s request, provide services other than those described in
+Articles 2.1 and 2.2 of this Supplemental Exhibit CS1 for an Aircraft after delivery, which may include, but not be limited to, retrofit kit changes (kits and/or information), training, flight services, maintenance and repair of Aircraft
+(Additional Services). Such Additional Services will be subject to a mutually acceptable price, schedule, scope of work and other applicable terms and conditions. The DISCLAIMER AND RELEASE and the EXCLUSION OF CONSEQUENTIAL AND OTHER DAMAGES
+provisions in Article 11 of Part 2 of Exhibit C of the AGTA and the insurance provisions in Article 8.2 of the AGTA will apply to any such work. Title to and risk of loss of any such Aircraft will always remain with Customer.
+
+ P.A. No. 3427
+
+ CS1
+
+ 2-3
+
+ BOEING / UNITED PROPRIETARY
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+PART 3: TECHNICAL INFORMATION AND MATERIALS
+
+1. General.
+
+Materials
+are defined as any and all items that are created by Boeing or a third party, which are provided directly or indirectly from Boeing and serve primarily to contain, convey or embody information. Materials may include either tangible embodiments (for
+example, documents or drawings), or intangible embodiments (for example, software and other electronic forms) of information but excludes Aircraft Software. Aircraft Software is defined as software that is installed on and used in the operation of
+the Aircraft.
+
+Customer Information is defined as that data provided by Customer to Boeing which falls into one of the
+following categories: (i) aircraft operational information (including, but not limited to, flight hours, departures, schedule reliability, engine hours, number of aircraft, aircraft registries, landings, and daily utilization and schedule
+interruptions for Boeing model aircraft); (ii) summary and detailed shop findings data; (iii) aircraft readiness log data; (iv) non-conformance reports; (v) line maintenance data; (vi) airplane message data,
+(vii) scheduled maintenance data; and (viii) service bulletin incorporation.
+
+Upon execution by Customer of
+Boeing’s standard form Customer Services General Terms Agreement and Supplemental Agreement for Electronic Access Boeing will provide to Customer through electronic access certain Materials to support the maintenance and operation of the
+Aircraft. Such Materials will, if applicable, be prepared generally in accordance with Air Transport Association of America (ATA) iSpec 2200, entitled “Information Standards for Aviation Maintenance.” Materials not covered by Spec 2200
+will be provided in a structure suitable for the Material’s intended use. Materials will be in English and in the units of measure used by Boeing to manufacture an Aircraft.
+
+2. Materials Planning Conferences.
+
+Customer and Boeing will conduct planning conferences approximately twelve (12) months before the scheduled delivery month of the
+first Aircraft in order to mutually determine (i) the Materials to be furnished to Customer in support of the Aircraft, (ii) the Customer Information to be furnished by Customer to Boeing, (iii) the update cycles of the Materials to
+be furnished to Customer, (iv) the update cycles of the Customer Information to be furnished to Boeing, (v) any Customer preparations necessary for Customer’s transmittal of Customer Information to Boeing, and (vi) any Customer
+preparations necessary for Customer’s electronic access to the Materials.
+
+CS1
+
+3. Technical Data and Maintenance Information.
+
+Boeing will provide technical data and maintenance information equivalent to that traditionally provided in the following manuals and
+documents. The format for this data and information is not yet determined in all cases. Whenever possible Boeing will provide such data and information through electronic access.
+
+ a)
+
+ Flight Operations Information.
+
+ Airplane Flight Manual
+
+ Operations Manual and Checklist
+
+ Weight and Balance Manual
+
+ Dispatch Deviation Procedures Guide and Master Minimum Equipment List
+
+ Flight Crew Training Manual
+
+ Fault Reporting Manual
+
+ Performance Engineer's Manual
+
+ Jet Transport Performance Methods
+
+ FMC Supplemental Data Document
+
+ Operational Performance Software
+
+ ETOPS Guide Vol. III
+
+ Flight Planning and Performance Manual
+
+ b)
+
+ Maintenance Information.
+
+ Maintenance Manual
+
+ Wiring Diagram Manual
+
+ Systems Schematics Manual
+
+ Structural Repair Manual
+
+ Component Maintenance Manual
+
+ Standard Overhaul Practices Manual
+
+ Standard Wiring Practices Manual
+
+ Non-Destructive Test Manual
+
+ Service Bulletins and Index
+
+ Corrosion Prevention Manual
+
+ Fault Isolation Manual
+
+ Power Plant Buildup Manual (except [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT])
+
+ All Operators Letters
+
+ Service Letters
+
+ Structural Item Interim Advisory
+
+ Combined Index
+
+CS1
+
+ Maintenance Tips
+
+ Configuration Data Base Generator User Guide
+
+ Production Management Data Base
+
+ Baggage/Cargo Loading Manual
+
+ c)
+
+ Maintenance Planning.
+
+ Maintenance Review Board Report
+
+ Maintenance Planning Data Document
+
+ Maintenance Task Cards and Index
+
+ Maintenance Inspection Intervals Report
+
+ ETOPS Guide Vol. II
+
+ Configuration Maintenance and Procedures for Extended Range Operations
+
+ d)
+
+ Spares Information.
+
+ Illustrated Parts Catalog
+
+ Standards Books
+
+ e)
+
+ Airplane & Airport Information.
+
+ Facilities and Equipment Planning Document
+
+ Special Tool & Ground Handling Equipment Drawings & Index
+
+ Supplementary Tooling Documentation
+
+ Illustrated Tool and Equipment List/Manual
+
+ Aircraft Recovery Document
+
+ Airplane Characteristics for Airport Planning Document
+
+ Airplane Rescue and Fire Fighting Document
+
+ Engine Ground Handling Document
+
+ ETOPS Guide Vol. I
+
+ f)
+
+ Shop Maintenance.
+
+ Service Bulletins
+
+ Component Maintenance Manuals and Index
+
+ Publications Index
+
+ Product Support Supplier Directory
+
+ Supplier Product Support and Assurance Agreements
+
+ g)
+
+ Fleet Statistical Data and Reporting.
+
+ Fleet Message and Fault Data views, charts, and reports
+
+4. Advance Representative Materials.
+
+Boeing will select all advance representative Materials from available sources and whenever possible will provide them through electronic
+access. Such advance Materials will be for advance planning purposes only.
+
+CS1
+
+5. Customized Materials.
+
+All customized Materials will reflect the configuration of each Aircraft as delivered.
+
+6. Revisions.
+
+6.1 The
+schedule for updating certain Materials will be identified in the planning conference. Such updates will reflect changes to Materials developed by Boeing.
+
+6.2 If Boeing receives written notice that Customer intends to incorporate, or has incorporated, any Boeing service bulletin in an
+Aircraft, Boeing will update Materials reflecting the effects of such incorporation into such Aircraft.
+
+7. Supplier Technical Data.
+
+7.1 For supplier-manufactured programmed airborne avionics components and equipment classified as Seller Furnished Equipment
+(SFE) which contain computer software designed and developed in accordance with Radio Technical Commission for Aeronautics Document No. RTCA/DO-178B dated December 1, 1992 (with an errata issued on March 26, 1999), or later as available,
+Boeing will request that each supplier of the components and equipment make software documentation available to Customer.
+
+7.2
+The provisions of this Article will not be applicable to items of BFE.
+
+7.3 Boeing will furnish to Customer a document
+identifying the terms and conditions of the product support agreements between Boeing and its suppliers requiring the suppliers to fulfill Customer’s requirements for information and services in support of the Aircraft.
+
+8. Buyer Furnished Equipment Data.
+
+Boeing will incorporate BFE maintenance information into the customized Materials providing Customer makes the information available to
+Boeing at least six (6) months prior to the scheduled delivery month of each Aircraft. Boeing will incorporate such BFE maintenance information into the Materials prior to delivery of each Aircraft reflecting the configuration of that Aircraft
+as delivered. Upon Customer’s request, Boeing may provide update service after delivery to such information subject to the terms of Part 2, Article 2.3 relating to Additional Services. Customer agrees to furnish all BFE maintenance
+information in Boeing’s standard digital format.
+
+CS1
+
+9. Customer’s Shipping Address.
+
+From time to time Boeing may furnish certain Materials or updates to Materials by means other than electronic access. Customer will
+specify a single address and Customer shall promptly notify Boeing of any change to that address. Boeing will pay the reasonable shipping costs of the Materials. Customer is responsible for any customs clearance charges, duties, and taxes.
+
+CS1
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+PART 4: ALLEVIATION OR CESSATION OF PERFORMANCE
+
+Boeing will not be required to provide any services, training or other things at a facility designated by Customer if any of the
+following conditions exist:
+
+1. a labor stoppage or dispute in progress involving Customer;
+
+2. wars or warlike operations, riots or insurrections in the country where the facility is located;
+
+3. any condition at the facility which, in the opinion of Boeing, is detrimental to the general health, welfare or safety of its
+personnel or their families;
+
+4. the United States Government refuses permission to Boeing personnel or their families to
+enter into the country where the facility is located, or recommends that Boeing personnel or their families leave the country; or
+
+After the location of Boeing personnel at the facility, Boeing further reserves the right, upon the occurrence of any of such events, to
+immediately and without prior notice to Customer relocate its personnel and their families.
+
+Boeing will not be required to
+provide any Materials at a facility designated by Customer if the United States Government refuses permission to Boeing to deliver Materials to the country where the facility is located.
+
+CS1
+
+787 CUSTOMER SUPPORT DOCUMENT
+
+PART 5: PROTECTION OF PROPRIETARY INFORMATION
+
+AND PROPRIETARY MATERIALS
+
+1.
+General.
+
+All Materials provided by Boeing to Customer and not covered by a Boeing CSGTA or other agreement between
+Boeing and Customer defining Customer’s right to use and disclose the Materials and included information will be covered by and subject to the terms of the AGTA as amended by the terms of the Purchase Agreement. Title to all Materials
+containing, conveying or embodying confidential, proprietary or trade secret information (Proprietary Information) belonging to Boeing or a third party (Proprietary Materials), will at all times remain with Boeing or such third party. Customer will
+treat all Proprietary Materials and all Proprietary Information in confidence and use and disclose the same only as specifically authorized in the AGTA as amended by the terms of the Purchase Agreement.
+
+2. License Grant.
+
+2.1
+Boeing grants to Customer a worldwide, non-exclusive, non-transferable license to use and disclose Proprietary Materials in accordance with the terms and conditions of the AGTA as amended by the terms of the Purchase Agreement. Customer is
+authorized to make copies of Materials (except for Materials bearing the copyright legend of a third party), and all copies of Proprietary Materials will belong to Boeing and be treated as Proprietary Materials under the AGTA as amended by the terms
+of the Purchase Agreement. Customer will preserve all proprietary legends, and all copyright notices on all Materials and insure the inclusion of those legends and notices on all copies.
+
+2.2 Customer grants to Boeing a perpetual, world-wide, non-exclusive license to use and disclose Customer Information or derivative works
+thereof in Boeing data and information products and services provided indicia identifying Customer Information as originating from Customer is removed from such Customer Information.
+
+3. Use of Proprietary Materials and Proprietary Information.
+
+Customer is authorized to use Proprietary Materials and Proprietary Information for the purpose of: (a) operation, maintenance,
+repair, or modification of Customer’s Aircraft for which the Proprietary Materials and Proprietary Information have been specified by Boeing and (b) development and manufacture of training devices and maintenance tools for use by Customer.
+
+CS1
+
+4. Providing of Proprietary Materials to Contractors.
+
+Customer is authorized to provide Proprietary Materials to Customer’s contractors for the sole purpose of maintenance, repair, or
+modification of Customer’s Aircraft for which the Proprietary Materials have been specified by Boeing. In addition, Customer may provide Proprietary Materials to Customer’s contractors for the sole purpose of developing and manufacturing
+training devices and maintenance tools for Customer’s use. Before providing Proprietary Materials to its contractor, Customer will first obtain a written agreement from the contractor by which the contractor agrees (a) to use the
+Proprietary Materials only on behalf of Customer, (b) to be bound by all of the restrictions and limitations of this Part 5, and (c) that Boeing is a third party beneficiary under the written agreement. Customer agrees to provide
+copies of all such written agreements to Boeing upon request and be liable to Boeing for any breach of those agreements by a contractor. A sample agreement acceptable to Boeing is attached as Appendix VII to the AGTA.
+
+5. Providing of Proprietary Materials and Proprietary Information to Regulatory Agencies.
+
+5.1 When and to the extent required by a government regulatory agency having jurisdiction over Customer or an Aircraft, Customer is
+authorized to provide Proprietary Materials and to disclose Proprietary Information to the agency for use in connection with Customer’s operation, maintenance, repair, or modification of such Aircraft. Customer agrees to take all reasonable
+steps to prevent the agency from making any distribution, disclosure, or additional use of the Proprietary Materials and Proprietary Information provided or disclosed. Customer further agrees to notify Boeing immediately upon learning of any
+(a) distribution, disclosure, or additional use by the agency, (b) request to the agency for distribution, disclosure, or additional use, or (c) intention on the part of the agency to distribute, disclose, or make additional use of
+Proprietary Materials or Proprietary Information.
+
+5.2 In the event of an Aircraft or Aircraft systems-related incident, the
+Customer may suspend, or block access to Customer Information pertaining to its Aircraft or fleet. Such suspension may be for an indefinite period of time.
+
+CS1
+
+Attachment A to Supplemental Exhibit CS1 to Purchase Agreement Number 3427
+
+787 TRAINING POINTS MENU
+
+787 Training Courses
+
+ Per Class
+Student
+Maximum
+
+ Total
+Points
+Per
+ClassUAL
+
+Flight
+
+787 Pilot Transition Course
+
+ 2
+
+ [***]
+
+787 Pilot Transition Course during Non-social Sessions UAL
+
+ 2
+
+ [***]
+
+787 Pilot Shortened Transition Course (STAR)
+
+ 2
+
+ [***]
+
+787 Pilot Shortened Transition Course (STAR) during Non-social Sessions UAL
+
+ 2
+
+ [***]
+
+787 Pilot Recurrent Course
+
+ 2
+
+ [***]
+
+787 Pilot Recurrent Course during Non-social Sessions UAL
+
+ 2
+
+ [***]
+
+Additional 787 Four Hour Simulator Session with Alteon Instructor
+
+ 2
+
+ [***]
+
+Additional 787 Ground School Training Day
+
+ 2
+
+ [***]
+
+Cabin Crew
+
+787 Transition + Exits/Doors Courses
+
+ 12
+
+ [***]
+
+Maintenance
+
+787 General Familiarization Maintenance Course
+
+ 24
+
+ [***]
+
+787 Airframe/Powerplant/Electrical/ Avionics Systems Line & Base Maintenance Course
+
+ 15
+
+ [***]
+
+787 Airframe/Powerplant Systems Line & Base Maintenance Course
+
+ 15
+
+ [***]
+
+787 Electrical Systems Line & Base Maintenance Course
+
+ 15
+
+ [***]
+
+787 Avionics Systems Line & Base Maintenance Course
+
+ 15
+
+ [***]
+
+787 JAR 147 Approved B1 Airframe/Powerplant/Electrical Line & Base Maintenance with Avionics Ramp and Transit Maintenance
+Course
+
+ 15
+
+ [***]
+
+787 JAR 147 Approved B2 Electrical/Avionics Line & Base Maintenance Course
+
+ 15
+
+ [***]
+
+[***] represents [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+Attachment A to Supplemental Exhibit CS1 to Purchase Agreement Number 3427
+
+787 TRAINING POINTS MENU
+
+787 Engine Run-Up & Taxi Course
+
+ 3
+
+ [***]
+
+Maintenance (Continued)
+
+787 Corrosion Prevention & Control Course
+
+ 10
+
+ [***]
+
+787 Aircraft Rigging Course
+
+ 6
+
+ [***]
+
+787 Composite Repair for Technicians Course
+
+ 8
+
+ [***]
+
+787 Composite Repair for Engineers
+
+ 8
+
+ [***]
+
+787 Composite Repair for Inspectors
+
+ 8
+
+ [***]
+
+787 Troubleshooting
+
+ 6
+
+ [***]
+
+Generic Training Courses
+
+Composite/Metal Bond Part I - Introduction to Advanced Composite Materials and Metal Bond Repair
+
+ 12
+
+ [***]
+
+Composite/Metal Bond Part II - Basic Composite Repair for Technicians
+
+ 12
+
+ [***]
+
+Composite/Metal Bond Part III - Advanced Composite Component Repair
+
+ 12
+
+ [***]
+
+Composite/Metal Bond Part IV—Advanced Composite Repair for Technicians
+
+ 12
+
+ [***]
+
+Composite/Metal Bond Part V—Metal Bond Repair for Technicians
+
+ 12
+
+ [***]
+
+Repair of Advanced Composite Structures for Engineers
+
+ 20
+
+ [***]
+
+Composite Repair Design with Practical Application
+
+ 12
+
+ [***]
+
+UAL Points per
+Class are based upon training conducted according to the standard Boeing training course. Extended or modified courses will require point adjustment to reflect altered work statement or duration.
+
+UAL Non-social Sessions are those in which any part of the session falls between midnight and 06:00 A.M. local time. To qualify for this
+discount all simulator sessions for a given course must be scheduled as Non-social Sessions.
+
+[***] represents [CONFIDENTIAL MATERIAL
+OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+Attachment A to Supplemental Exhibit CS1 to Purchase Agreement Number 3427
+
+787 TRAINING POINTS MENU
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT]
+
+ENGINE ESCALATION AND
+
+ENGINE WARRANTY
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Supplemental Exhibit EE1 – [CONFIDENTIAL MATERIAL OMITTED AND FILED
+
+SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL
+
+TREATMENT] to Purchase Agreement Number 3427
+
+[***] represents [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+PA_Supp_EX_EE1_[***]_ECI-MFG_CPI_2008_
+
+United Air Lines, Inc.
+
+[***] Series Engines
+
+1. ENGINE ESCALATION.
+
+The Aircraft Basic Price of each Aircraft set forth in Table 1 of the Purchase Agreement includes [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY
+WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] in accordance with the following formula:
+
+[CONFIDENTIAL MATERIAL
+OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2. Values to be Utilized in the Event of
+Unavailability.
+
+2.1 If the Bureau of Labor Statistics substantially revises the methodology used for the determination of
+the values to be used to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] or for any reason has not released values [CONFIDENTIAL MATERIAL OMITTED AND FILED
+SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] from other Bureau of Labor Statistics data or similar data reported by non-governmental organizations. Such substitute will result in the same adjustment, insofar as
+possible, as would have been calculated utilizing the original values adjusted for fluctuation during the applicable time period. However, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL
+TREATMENT], the Bureau of Labor Statistics should resume releasing values for the months needed to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.2 Notwithstanding Article 2.1 above, if prior to the scheduled delivery month of an Aircraft the Bureau of Labor Statistics
+changes the [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.3 In the event escalation provisions are made non-enforceable or otherwise rendered void by any agency of the United States Government,
+the parties agree, to the extent they may lawfully do so, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.4 If within [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT],
+the published index values are revised due to an acknowledged error by the Bureau of Labor Statistics, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+3. Engine Warranty.
+
+[CONFIDENTIAL
+MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+P.A. No. 3427
+
+PA_Supp_EX_EE1_[***]_ECI-MFG_CPI_2008_
+
+BOEING / UNITED PROPRIETARY
+
+ENGINE ESCALATION AND
+
+ENGINE WARRANTY
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Supplemental Exhibit EE1-[***] to Purchase Agreement Number 3427
+
+[***] represents [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+P.A. No. 3427
+
+PA_Supp_EX_EE1_[***]_ECI-MRG_CPI_2008
+
+BOEING / UNITED PROPRIETARY
+
+United Air Lines, Inc.
+
+[***] Engines
+
+1. ENGINE ESCALATION.
+
+The Aircraft Basic Price of each Aircraft set forth in Table 1 of the Purchase Agreement includes [CONFIDENTIAL MATERIAL OMITTED AND FILED
+SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] in accordance with the following formula:
+
+[CONFIDENTIAL
+MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2. Values to be Utilized in the
+Event of Unavailability.
+
+2.1 If the Bureau of Labor Statistics substantially revises the methodology used for the determination of the
+values to be used to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] or for any reason has not released [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH
+THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] from other Bureau of Labor Statistics data or similar data reported by non-governmental organizations. Such substitute will result in the same adjustment, insofar as possible, as would
+have been calculated utilizing the original values adjusted for fluctuation during the applicable time period. However, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT] the
+Bureau of Labor Statistics should resume releasing values for the months needed to determine [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.2 Notwithstanding Article 2.1 above, if prior to the scheduled delivery month of an Aircraft the Bureau of Labor Statistics
+changes the [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT]
+
+2.3 In the event escalation provisions are made non-enforceable or otherwise rendered void by any agency of the United States Government,
+the parties agree, to the extent they may lawfully do so, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+2.4 If within [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT],
+the published index values are revised due to an acknowledged error by the Bureau of Labor Statistics, [CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+ P.A. No. 3427
+
+ EE1-[***] - 2
+
+PA_Supp_EX_EE1_[***]_ECI-MRG_CPI_2008
+
+BOEING / UNITED PROPRIETARY
+
+United Air Lines, Inc.
+
+[***] Engines
+
+3. Engine Warranty.
+
+[CONFIDENTIAL MATERIAL OMITTED AND FILED SEPARATELY WITH THE SEC PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT].
+
+ P.A. No. 3427
+
+ EE1-[***] - 3
+
+PA_Supp_EX_EE1_[***]_ECI-MRG_CPI_2008
+
+BOEING / UNITED PROPRIETARY
+
+SERVICE LIFE POLICY COMPONENTS
+
+between
+
+THE
+BOEING COMPANY
+
+and
+
+UNITED AIR LINES, INC.
+
+Supplemental Exhibit SLP1 to Purchase Agreement Number 3427
+
+BOEING / UNITED PROPRIETARY
+
+SERVICE LIFE POLICY COMPONENTS
+
+relating to
+
+BOEING MODEL 787 AIRCRAFT
+
+This
+is the listing of SLP Components for the Aircraft which relate to Part 3, Boeing Service Life Policy of Exhibit C, Product Assurance Document to the AGTA and is a part of Purchase Agreement No. 3427.
+
+ 1.
+ Wing.
+
+ (a)
+ Upper and lower wing skins and stiffeners between the forward and rear wing spars.
+
+ (b)
+ Wing spar webs, chords and stiffeners.
+
+ (c)
+ Inspar wing ribs.
+
+ (d)
+ Inspar splice plates and fittings.
+
+ (e)
+ Main landing gear support structure.
+
+ (f)
+ End ribs removable outboard wingbox, including spars and skins.
+
+ (g)
+ Wing center section lower beams, spanwise beams and floor beams, but not the seat tracks attached to floor beams.
+
+ (h)
+ Wing-to-body structural attachments.
+
+ (i)
+ Engine pylon support fittings attached directly to wing primary structure.
+
+ (j)
+ Support structure in the wing for spoilers and spoiler actuators; for aileron hinges and reaction links; and for leading edge devices and trailing edge flaps/flapperon.
+
+ (k)
+ Leading edge device and trailing edge flap support system.
+
+ (l)
+ Aileron leading edge device and trailing edge flap internal, fixed attachment and actuator support structure.
+
+ (m)
+ Winglets (787-3).
+
+BOEING / UNITED PROPRIETARY
+
+ 2.
+ Body.
+
+ (a)
+ External surface skins and doublers, longitudinal stiffeners, longerons and circumferential rings and frames between the forward pressure bulkhead and the vertical
+stabilizer rear spar bulkhead and structural support and enclosure for the APU but excluding all system components and related installation and connecting devices, insulation, lining, and decorative panels and related installation and connecting
+devices.
+
+ (b)
+ Window and windshield structure but excluding the windows and windshields.
+
+ (c)
+ Fixed attachment structure of the passenger doors, cargo doors and emergency exits, excluding door mechanisms and movable hinge components. Sills and frames around the
+body openings for the passenger doors, cargo doors and emergency exits, excluding scuff plates and pressure seals.
+
+ (d)
+ Nose wheel well structure, including the wheel well walls, pressure deck, forward and aft bulkheads, and the gear support structure.
+
+ (e)
+ Main gear wheel well pressure deck, bulkheads and landing gear beam structure.
+
+ (f)
+ Floor beams and support posts in the control cab and passenger cabin area, but excluding seat tracks.
+
+ (g)
+ Forward and aft pressure bulkheads.
+
+ (h)
+ Keel structure between the wing front spar bulkhead and the main gear wheel well aft bulkhead, including splices.
+
+ (i)
+ Wing front and rear spar support bulkheads, and vertical and horizontal stabilizer front and rear spar support bulkheads including terminal fittings but excluding all
+system components and related installation and connecting devices, insulation, lining, and decorative panels and related installation and connecting devices.
+
+ (j)
+ Support structure in the body for the stabilizer pivot and stabilizer screw.
+
+BOEING / UNITED PROPRIETARY
+
+ 3.
+ Vertical Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Front, rear and auxiliary spars including stiffeners.
+
+ (c)
+ Attachment fittings between vertical stabilizer and body.
+
+ (d)
+ Inspar ribs.
+
+ (e)
+ Rudder hinges and supporting ribs, excluding bearings.
+
+ (f)
+ Support structure in the vertical stabilizer for rudder hinges, reaction links and actuators.
+
+ (g)
+ Rudder internal, fixed attachment and actuator support structure.
+
+ 4.
+ Horizontal Stabilizer.
+
+ (a)
+ External skins between front and rear spars.
+
+ (b)
+ Horizontal stabilizer main torque box spars.
+
+ (c)
+ Stabilizer splice fittings, rib, pivot and screw support structure.
+
+ (d)
+ Support structure in the horizontal stabilizer for the elevator hinges, reaction links and actuators.
+
+ (e)
+ Elevator internal, fixed attachment and actuator support structure.
+
+ (f)
+ Elevator hinges and supporting ribs, excluding bearings.
+
+ 5.
+ Engine Pylon.
+
+ (a)
+ Pylon skins, webs, doublers and stiffeners.
+
+ (b)
+ Internal pylon chords, frames and bulkheads.
+
+ (c)
+ Pylon to wing fittings, diagonal brace and links.
+
+ (d)
+ Engine mount support attached directly to pylon structure.
+
+ (e)
+ Fuse pins.
+
+BOEING / UNITED PROPRIETARY
+
+ 6.
+ Main Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder.
+
+ (c)
+ Upper and lower side brace, including spindles
+
+ (d)
+ Upper and lower drag brace, including spindles and shackle.
+
+ (e)
+ Downlock links including spindles.
+
+ (f)
+ Torsion links.
+
+ (g)
+ Truck beam.
+
+ (h)
+ Axles.
+
+ 7.
+ Nose Landing Gear.
+
+ (a)
+ Outer cylinder.
+
+ (b)
+ Inner cylinder, including axle.
+
+ (c)
+ Upper and lower drag brace.
+
+ (d)
+ Downlock links.
+
+ (e)
+ Steering support plates, tube and collar.
+
+ (f)
+ Torsion links.
+
+NOTE:
+
+ The Service Life Policy does not cover any bearings, bolts, bushings, clamps, brackets, actuating mechanisms or latching mechanisms used in or on the SLP
+Components.
+
+BOEING / UNITED PROPRIETARY

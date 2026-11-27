@@ -1,0 +1,33 @@
+body{display:block}.reference{max-width:1000px;margin:auto;padding:24px 32px 80px}
+.refnav{display:flex;align-items:center;gap:16px;flex-wrap:wrap;padding:0 0 16px;border-bottom:1px solid var(--line);margin-bottom:26px;font-size:14px}
+.refnav a:first-child{margin-right:auto}.reference h1{line-height:1.08;margin:8px 0 16px}.reference .prose{max-width:76ch}
+.ref-index{columns:2;padding-left:20px}.ref-index li{break-inside:avoid;padding:4px 0}
+.chapter{border-top:3px solid var(--ink);margin:44px 0 0;padding:20px 0}.chapter h2{margin:4px 0 10px}.chapter h3{margin:14px 0 5px}
+.chapter .diagram{max-width:650px}.chapter .diagram svg,.sheet .diagram svg{width:100%;display:block;height:auto}
+.library-row{padding:16px;border-top:1px solid var(--line);display:grid;grid-template-columns:36px 1fr auto;gap:12px;background:var(--surface);align-items:center}
+.library-row small{display:block;color:var(--mut)}.library-row b{font-size:16px}
+.sheet{max-width:1240px}.sheet h1{font-size:40px}.sheet .deck{font:19px var(--read);margin-bottom:22px}
+.sgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.sgrid section{border-top:4px solid var(--ink)}
+.sgrid h2{font-size:21px;margin:10px 0}.sgrid h3{margin:13px 0 3px;font-size:15px}.sgrid p{margin:4px 0;font:16px/1.42 var(--read)}
+.sgrid .diagram{margin:14px 0 6px;padding:7px;background:var(--surface)}.sgrid figcaption{font-size:11px}
+.sgrid .formula{font:600 14px/1.5 var(--mono);padding:8px;border-left:3px solid var(--acc);background:var(--acc-soft);margin:9px 0}
+@media(max-width:760px){.reference{padding:18px}.sgrid{grid-template-columns:1fr}.ref-index{columns:1}.library-row{grid-template-columns:26px 1fr}.library-row>a:last-child{grid-column:2}}
+@media print{
+  .refnav,.screen-only{display:none!important}.reference{max-width:100%;padding:0}.chapter{break-before:page;margin:0;padding:12px 0 0}
+  .reference .prose{max-width:none}.chapter p,.chapter td,.chapter th{font-size:11pt;line-height:1.38}.chapter .diagram{max-width:155mm;break-inside:avoid}
+  .chapter h2{font-size:20pt}.chapter .diagram figcaption{font-size:9pt}.glossary{break-before:page}.terms dt,.terms dd{break-inside:avoid}
+  .sheet h1{font-size:26pt}.sheet .deck{font-size:12pt;margin-bottom:11px}.sgrid{grid-template-columns:repeat(3,minmax(0,1fr));gap:6mm}
+  .sgrid h2{font-size:15pt}.sgrid h3{font-size:10.5pt}.sgrid p{font-size:10pt;line-height:1.32}.sgrid .formula{font-size:9pt}.sgrid figcaption{font-size:8pt}.sgrid .diagram{padding:3px;margin-top:8px}
+}
+@media print{
+  #m12 .diagram{max-width:125mm;margin:6px 0;padding:4px}
+  #m12 .diagram figcaption{margin:3px 0;padding-top:3px;font-size:8.5pt}
+  .glossary dl.terms{display:block;columns:2;column-gap:8mm}
+  .glossary dl.terms>div{break-inside:avoid;padding:2mm 0;border-bottom:1px solid var(--line)}
+  .glossary dl.terms dt,.glossary dl.terms dd{display:block;margin:0;padding:0;font-size:10pt;line-height:1.35;border:0}
+}
+@media screen{
+  .glossary .terms>div{display:contents}
+}
+.reference details{border-top:1px solid var(--line);padding:12px 0}.reference summary{cursor:pointer;font-weight:600}
+.reference .library-row details{font-weight:400;font-size:14px;padding:5px 0 0;border:0}

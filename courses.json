@@ -1,3 +1,24 @@
 [
- {"id":"ma","title":"Calling the Deal","subtitle":"Private M&A, from zero","description":"From knowing nothing about lawyers or deals to predicting where negotiated terms land from precedent and leverage, and advising whether to pursue. 16 modules, 7 labs on 22 real signed agreements, a 5-hour podcast, handbook and cheatsheet.","path":"courses/ma/","podcast":"courses/ma/podcast.html","status":"live","modules":16,"hours":"20 + 5h audio"}
+  {
+    "id": "ma",
+    "title": "Calling the Deal",
+    "subtitle": "Private M&A, from zero",
+    "description": "From knowing nothing about lawyers or deals to predicting where negotiated terms land from precedent and leverage, and advising whether to pursue. 16 modules, 7 labs on 22 real signed agreements, a 5-hour podcast, handbook and cheatsheet.",
+    "path": "courses/ma/",
+    "podcast": "courses/ma/podcast.html",
+    "status": "live",
+    "modules": 16,
+    "hours": "20 + 5h audio"
+  },
+  {
+    "id": "aviation",
+    "title": "Clearing the aircraft deal",
+    "subtitle": "Aircraft sales and leasing",
+    "description": "Read an aircraft purchase or lease, predict the disputed terms, and price what stays with the buyer or airline. Practise on public SEC exhibits before making the sign, negotiate or walk call.",
+    "path": "courses/aviation/",
+    "podcast": null,
+    "status": "Local preview",
+    "modules": 13,
+    "hours": "12–16h estimated"
+  }
 ]

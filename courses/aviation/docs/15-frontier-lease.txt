@@ -1,0 +1,1003 @@
+Frontier Airlines, Inc 10q
+
+ EXECUTION VERSION
+
+ TO THE EXTENT THAT THIS AIRCRAFT LEASE AGREEMENT CONSTITUTES CHATTEL PAPER (AS DEFINED IN THE
+ UNIFORM COMMERCIAL CODE AS IN EFFECT IN ANY APPLICABLE JURISDICTION), NO SECURITY INTEREST IN THIS
+ AIRCRAFT LEASE AGREEMENT MAY BE CREATED THROUGH TRANSFER OR POSSESSION OF ANY COUNTERPART OTHER THAN
+ THE ORIGINAL COUNTERPART, WHICH SHALL BE IDENTIFIED AS THE COUNTERPART DESIGNATED AS THE ORIGINAL ON
+ THE SIGNATURE PAGE OF THIS AGREEMENT BY AFS INVESTMENTS XVI LLC
+
+ AIRCRAFT LEASE AGREEMENT
+
+ Dated as of May 1, 2002
+ between
+
+ AFS INVESTMENTS XVI LLC
+ as Lessor
+
+ and
+
+ FRONTIER AIRLINES, INC.
+ as Lessee
+
+ in respect of
+
+ One Airbus A319 Aircraft
+
+ as further identified herein
+ ---------------------------------
+ incorporating the provisions of a
+
+ COMMON TERMS AGREEMENT
+ ---------------------------------
+
+ AIRCRAFT LEASE AGREEMENT
+
+THIS AIRCRAFT LEASE AGREEMENT is made as of May 1, 2002 and is
+
+BETWEEN:
+
+(1) AFS Investments XVI LLC, a limited liability company formed under the laws of Delaware and an
+ indirect wholly-owned subsidiary of General Electric Capital Corporation, a Delaware corporation
+ ("GECC"), having its principal place of business at c/o GE Capital Aviation Services, Inc., 201 High
+ Ridge Road, Stamford, Connecticut 06927 ("Lessor"); and
+
+(2) FRONTIER AIRLINES, INC., a corporation incorporated under the laws of Colorado with its principal
+ place of business and chief executive office at Frontier Center One, 7001 Tower Road, Denver,
+ Colorado 80249-7312 ("Lessee").
+
+WHEREAS:
+
+(A) Lessee wishes to lease the Aircraft (as defined below) from Lessor, and Lessor wishes to lease the
+ Aircraft to Lessee, on the terms and subject to the conditions provided herein;
+
+(B) GECC and Lessee have entered into the Common Terms Agreement (as defined below) in respect of
+ aircraft that may be leased from time to time by Lessee or one of its Affiliates from Lessor or one
+ of its Affiliates; and
+
+(C) Lessor and Lessee wish to incorporate by reference such Common Terms Agreement, as well as Schedules
+ A and B attached hereto, into this Aircraft Lease Agreement for the Aircraft;
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties hereto hereby agree as follows:
+
+1. INTERPRETATION
+1.1 Definitions: In this Aircraft Lease Agreement, the following capitalized words and expressions have
+ the respective meanings set forth below:
+
+ Agreed Lessee Modifications means any modifications or changes to the GECC A319 Baseline
+ Specification as requested by Lessee and agreed by Lessor for incorporation on the Aircraft prior to
+ Delivery. Lessor agreement to such modifications shall not be unreasonably withheld. All requests
+ for any Agreed Lessee Modification shall be made no later than ten (10) months prior to the Delivery
+ of the Aircraft.
+
+ Aircraft means the Airframe, Engines, Parts and Aircraft Documents and Records relating to the
+ Aircraft described on Schedule A hereto.
+
+ Airframe Maintenance Adjustment shall have the meaning as set forth in Schedule B, Part VI hereof.
+
+ Airframe 4C Check means the 4C check including 5 year structural inspections all in accordance with
+ Lessee's Maintenance Program which, at a minimum, shall comply with the Manufacturer's Maintenance
+ Planning Document and Manufacturer's Maintenance Review Board Report.
+
+ Airframe 8C Check means the 8C check including 10 year structural inspections all in accordance with
+ Lessee's Maintenance Program which, at a minimum, shall comply with the Manufacturer's Maintenance
+ Planning Document and Manufacturer's Maintenance Review Board Report.
+
+ Airframe Structural Check means a heavy maintenance visit which shall include but not be limited to
+ accomplishment of either or both of an Airframe 4C Check and an Airframe 8C Check.
+
+ Airframe 4C Supplemental Rent and Airframe 4C Supplemental Rent Rate shall have the respective
+ meanings set forth in Clause (a) of Schedule B, Part V hereof.
+
+ Airframe 8C Supplemental Rent and Airframe 8C Supplemental Rent Rate shall have the respective
+ meanings set forth in Clause (a) of Schedule B, Part V hereof.
+
+ Alternate Scheduled Delivery Month means one Aircraft in each of April, 2002, November, 2002,
+ December, 2002, June, 2003, May, 2003, September, 2003, April, 2004, and May 2004 as alternative
+ delivery months to a Scheduled Delivery Month; subject, however to the continued availability of any
+ Aircraft in any month other than an originally Scheduled Delivery Month.
+
+ APU Supplemental Rent and APU Supplemental Rent Rate shall have the respective meanings set forth in
+ Clause (d) of Schedule B, Part V hereof.
+
+ Common Terms Agreement means the "Aircraft Lease Common Terms Agreement" dated as of April 20, 2000
+ executed by GECC and Lessee (as in effect on the date hereof without, unless Lessor and Lessee
+ otherwise expressly agree, giving any effect to any subsequent amendment, supplement, waiver or
+ other modification thereto), and which forms part of this Aircraft Lease Agreement.
+
+ Delivery Condition Requirements means the requirements specified in Part III of Schedule A.
+
+ Delivery Location means Hamburg, Germany or such other location as Lessor and Lessee mutually agree.
+
+ Deposit means all amounts payable pursuant to Section 3.1 hereof.
+
+ Discount Rate means ten percent (10%).
+
+ Engine LLP Supplemental Rent and Engine LLP Supplemental Rent Rate shall have the respective
+ meanings set forth in Clause (b) of Schedule B, Part V hereof.
+
+ Engine Refurbishment Maintenance Adjustment shall have the meaning as set forth in Schedule B, Part
+ VI hereof.
+
+ Engine Refurbishment Supplemental Rent and Engine Refurbishment Supplemental Rent Rate shall have
+ the respective meanings set forth in Clause (c) of Schedule B, Part V hereof.
+
+ Final Delivery Date means the date that is six (6) months after the last day of the Scheduled
+ Delivery Month for the Aircraft.
+
+ Financing Documents means any documentation reflecting a mortgage or other debt financing for the
+ Aircraft as the same may be restated, refinanced, replaced or refunded, from time to time as
+ notified by Lessor to Lessee.
+
+ Financing Parties means the holders of any indebtedness relating to the Aircraft.
+
+ Financing Parties' Representative means any lender under the Financing Documents, if any, and its
+ successors or assigns.
+
+ Guarantor means any guarantor, if any, of the Lessee's obligations hereunder.
+
+ Indemnitee means each of Lessor, Owner, GECC, Aviation Financial Services Inc., AFS Investments XVI
+ Inc., GECAS, the Financing Parties' Representative and the Financing Parties, and their successors
+ and assigns, and each of their shareholders, members, contractors, directors, officers,
+ representatives, agents and employees.
+
+ Landing Gear Supplemental Rent and Landing Gear Supplemental Rent Rate shall have the respective
+ meanings set forth in Clause (e) of Schedule B, Part V hereof.
+
+ Maintenance Adjustment means collectively the Airframe Maintenance Adjustment, the Engine
+ Refurbishment Maintenance Adjustment, the Engine LLP Maintenance Adjustment, the APU Maintenance
+ Adjustment and the Landing Gear Maintenance Adjustment payable by Lessee pursuant to Section 5.4 of
+ the Common Terms Agreement, Section 3 of this Agreement and Schedule B, Part VI of this Agreement.
+
+ Manufacturer means the manufacturer of each of the Airframe or an Engine, as the case may be, as set
+ forth on Schedule A hereto.
+
+ Owner means Lessor or such other entity as notified by Lessor to Lessee in writing in accordance
+ with the terms of the Lease, including Section 14 of the Common Terms Agreement.
+
+ Redelivery Location means Denver, Colorado, or such other location on Lessee's route system within
+ the Continental United States as Lessor shall advise Lessee in writing at least 30 days prior to the
+ Expiry Date; provided that, if an Event of Default has occurred and is continuing, such notice may
+ be delivered on the Expiry Date.
+
+ Rent means all amounts payable pursuant to Section 3.2 hereof for the Aircraft.
+
+ Rent Commencement Date means the date on which Lessor tenders the Aircraft for Delivery to Lessee in
+ accordance with Clause 4.3(a) of the Common Terms Agreement.
+
+ Scheduled Delivery Date means the date notified by Lessor to Lessee in accordance with Clause 4.1(a)
+ of the Common Terms Agreement for the delivery of the Aircraft in the Scheduled Delivery Month.
+
+ Scheduled Delivery Month means June, 2002.
+
+ Scheduled Expiry Date means the date immediately preceding the date corresponding to the Delivery
+ Date in the month that is the one hundred forty-fourth (144th) month after the Delivery Date for the
+ Aircraft, which date shall be specifically set forth in the Lease Supplement for the Aircraft.
+
+ State of Registry means United States.
+
+ Supplemental Rent means, as applicable, all amounts payable under the Lease in respect of each of
+ Airframe Supplemental Rent, Engine Supplemental Rent, APU Supplemental Rent and Landing Gear
+ Supplemental Rent.
+
+ Supplemental Rental Cap shall have the meaning set forth in Schedule B, Part V hereof.
+
+ Tax Indemnitee means each of Owner, Lessor, Financing Parties' Representative, and each member of
+ the consolidated group of which Lessor or Owner is a member for United States Federal Income Tax
+ purposes, and their successors and assigns. For purposes of the foregoing sentence, where the Owner
+ or Lessor is a pass-through entity for Federal income tax purposes, Tax Indemnitee shall include the
+ consolidated group in which the taxable income or loss of the Owner or Lessor is reported for
+ Federal income tax purposes.
+
+1.2 Interpretation: Unless otherwise defined herein, words and expressions defined in the Common Terms
+ Agreement have the same respective meanings for the purposes of this Aircraft Lease Agreement. The
+ construction provisions of Section 1.2 of the Common Terms Agreement shall apply to this Aircraft
+ Lease Agreement.
+
+2. LEASING
+2.1 Agreement to Lease: Subject to the terms and conditions of the Lease, Lessor will lease the
+ Aircraft to Lessee and Lessee will take delivery of and lease the Aircraft from Lessor in accordance
+ with the Lease for the duration of the Term for the Aircraft.
+
+2.2 Term: Subject to Sections 4.1 through 4.4 of the Common Terms Agreement, Delivery of the Aircraft
+ will occur at the Delivery Location, whereupon Lessee shall accept the Aircraft hereunder by
+ executing and delivering a Lease Supplement substantially in the form of Lease Supplement No. 1 as
+ provided in Section 4.3 of the Common Terms Agreement. The Term for the Aircraft will commence on
+ the Delivery Date, which Delivery Date is scheduled to occur on the Scheduled Delivery Date, and
+ will expire on the Scheduled Expiry Date unless terminated earlier in accordance with the provisions
+ of the Lease.
+
+3. PAYMENTS
+3.1 Deposit and Letter of Credit: Lessee shall pay to Lessor the Deposit in cash or by Letter of Credit
+ (to which Deposit Sections 5.12 and 5.13, as applicable, of the Common Terms Agreement shall apply)
+ in the amount and at the times provided in Schedule B hereto.
+
+3.2 Rent: Lessee shall pay Rent for the Aircraft to Lessor on each Rent Date during the Term in the
+ amount determined in accordance with Schedule B hereto and as provided in Sections 5.2 and 5.3 of
+ the Common Terms Agreement. The first instalment of Rent shall be due and payable on the Rent
+ Commencement Date for the Aircraft as defined herein. Provided no Event of Default has occurred and
+ is continuing, (i) during the first five Rental Periods, Lessor shall grant Lessee a credit in an
+ amount equal to the Initial Aircraft Rental Credit. The Initial Aircraft Rental Credit shall be
+ applied against the Rent for the Aircraft then due and payable for the applicable Rental Periods as
+ set forth above following the Aircraft Delivery Date or in such other manner as Lessor and Lessee
+ may agree.
+
+3.3 Supplemental Rent and Maintenance Adjustment: Lessee shall pay (a) Supplemental Rent for the
+ Aircraft to Lessor on each applicable date during the Term in accordance with Section 5.4 of the
+ Common Terms Agreement and in the amounts provided in Schedule B hereto; and (b) the Maintenance
+ Adjustments for the Aircraft to Lessor on the Return Occasion in the amounts provided in Schedule B
+ hereto and as provided in Section 5.4 of the Common Terms Agreement. Lessor shall retain all
+ Supplemental Rent and Maintenance Adjustments, subject to Section 3.4 below. Lessee's obligation to
+ pay Supplemental Rent for the Aircraft shall be suspended when the Supplemental Rental Cap has been
+ reached. The Supplemental Rental Cap for the Aircraft shall be maintained during the Term and
+ increased from time to time by an amount equal to any Lessor Maintenance Contribution made by Lessor
+ with respect to the Aircraft, whereupon Lessee shall recommence payment of Supplemental Rent until
+ the Supplemental Rental Cap for the Aircraft shall again have been reached.
+
+3.4 Lessor's Maintenance Contribution: Lessor shall make Maintenance Contribution payments as and to the
+ extent provided in Section 7.2 of the Common Terms Agreement.
+
+3.5 Lessor's Bank Account: For the purposes of Section 5.5 of the Common Terms Agreement, Lessor's bank
+ account and wire transfer particulars, to which all payments to Lessor shall be made, are at the
+ date hereof, Bankers Trust Company, ABA number 021 001 033 for the account of GE Capital Aviation
+ Services, Inc., as Manager, Account No. 50 234 585, Ref. MSN 1759.
+
+4. CONDITION OF THE AIRCRAFT AT DELIVERY
+4.1 On the Delivery Date, as a condition to Lessee's obligation to accept delivery thereof, the Aircraft
+ shall be in the condition provided in Part III of Schedule A hereto.
+
+5. CONDITION OF THE AIRCRAFT AT REDELIVERY
+5.1 On the Return Occasion for the Aircraft, Lessee shall redeliver the Aircraft to Lessor at the
+ Redelivery Location and at such redelivery the Aircraft shall be in the condition provided in Part
+ IV of Schedule A hereto and in the Common Terms Agreement, including Schedule 6 of the Common Terms
+ Agreement.
+
+6. ADDRESSES FOR NOTICES
+ The addresses and facsimile and telephone numbers of Lessor and Lessee are as follows:
+
+ Lessor: AFS Investments XVI LLC
+ c/o GE Capital Aviation Services, Inc.
+ 201 High Ridge Road
+ Stamford, CT 06927
+
+ Attention: Contracts Leader
+ Facsimile: (203) 357-3201
+ Telephone: (203) 357-4482
+
+ Lessee: Frontier Airlines, Inc.
+ Address: Frontier Center One
+ 7001 Tower Road
+ Denver, Colorado 80249-7312
+
+ Attention: General Counsel
+ Facsimile: (720) 374-4375
+ Telephone: (720) 374-4512
+
+7. THE SCHEDULES AND COMMON TERMS AGREEMENT
+ All the provisions of Schedule A, Schedule B and the Common Terms Agreement are incorporated by
+ reference herein and are part of this Aircraft Lease Agreement as if they were set out in full
+ herein. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, BY ITS SIGNAUTE BELOW, THE LESSEE
+ ACKNOWLEDGES AND AGREES THAT THE LEASE OF THE AIRCRAFT HEREUNDER IS ON AN "AS IS, WHERE IS"
+ BASIS AND THAT THE DISCLAIMERS, EXCUPLATIONS AND LIMITATIONS OF LIABILITY, INDEMNITIES, THE
+ CHOICE OF NEW YORK, AND THE WAIVER OF ANY RIGHT TO A TRIAL BY JURY PROVIDED FOR IN THE COMMON
+ TERMS AGREEMENT ARE INCORPORATED HEREIN BY SUCH REFERNCE AND ARE PART OF THIS AGREEMENT AS IF
+ THE SAME WERE SET OUT IN FULL HEREIN.
+
+8. RIGHTS AND REMEDIES. The exercise by Lessor of its rights and remedies pursuant to Section 13.2 of
+ the Common Terms Agreement is subject to Part VII of Schedule B of the Lease.
+
+9. No amendment except in writing
+ No provision of this Lease, including any provision of Schedule A, Schedule B or the Common Terms
+ Agreement, may be amended, rescinded, changed, waived, discharged, terminated or otherwise modified
+ in any way whatsoever, except by a writing signed by the party to be charged. Lessor and Lessee
+ acknowledge their agreement to the provisions of this Section 9 by their initials below:
+
+ Lessor: ____________________ Lessee: ____________________
+
+IN WITNESS WHEREOF, the parties hereto have executed this Aircraft Lease Agreement, each by their duly
+authorized representative(s), as of the date shown at the beginning of this Aircraft Lease Agreement.
+
+LESSOR: LESSEE:
+
+AFS INVESTMENTS XVI LLC FRONTIER AIRLINES, INC.
+
+By: AFS INVESTMENTS XVI INC.
+ its sole member
+
+By: __________________________ By: __________________________
+
+Name: __________________________ Name: __________________________
+
+Title: __________________________ Title: __________________________
+
+ SCHEDULE A
+
+ PART I-Airframe and engines description
+
+AIRFRAME
+
+ Manufacturer: Airbus
+
+ Model: A319-100
+
+ Serial Number: 1759
+
+ MTOW 154,300 pounds
+
+ENGINES (each of which has 750 or more rated takeoff horsepower or the equivalent of such horsepower)
+
+ Engine Type: CFM56-5B5/P
+
+ Serial Nos: To be advised at Delivery and included in the Lease Supplement.
+
+The serial numbers stated under "Aircraft" and "Engines" above are those advised to Lessor by the
+Manufacturer. If the Manufacturer advises of any change to any serial number, the new number will be deemed
+inserted under "Serial Number" under "Aircraft" and "Engines" above, as the case may be, above.
+
+ SCHEDULE A
+
+ PART II-AIRCRAFT DOCUMENTS
+
+MANUALS AVAILABLE (headlines)
+
+1 - ENGINEERING DOCUMENTS
+
+2 - MAINTENANCE & ASSOCIATED MANUALS
+
+3 - MISCELLANEOUS PUBLICATIONS
+
+4 - OPERATIONAL MANUALS AND DATA
+
+5 - OVERHAUL DATA
+
+6 - STRUCTURAL MANUALS
+
+ MANUALS AVAILABLE (detailed) Abbr Form Type Qty. Delivery
+
+1. ENGINEERING DOCUMENTS
+
+ Process and Material Specification PMS F E 1 0***
+
+ Standards Manual SM F E 1 -90
+
+2. MAINTENANCE & ASSOCIATED MANUALS
+
+ APU Build-up Manual ABM P2 E 2 -90
+
+ Aircraft Maintenance Manual AMM F C 10 0 to +90
+
+ MF C 1 0 to +90
+
+ Aircraft Time Limits/Maintenance Checks TLMC P2 C 3 90
+
+ Aircraft Schematics Manual ASM F C 10 0 to +90
+
+ MF C 1 0 to +90
+
+ Aircraft Wiring Manual AWM F C 5 0 to +90
+
+ MF C 1 0 to +90
+
+ Aircraft Wiring Lists AWL F C 5 0 to +90
+
+ MF C 1 0 to +90
+
+ Consumable Material List CML P2 E 1 -90
+
+ Duct Repair Manual DRM P2 E 1 90***
+
+ Fuel Pipe Repair Manual FPRM P2 E 1 90***
+
+ Illustrated Parts Catalog (Airframe) IPC F C 10 0 to +90
+
+ MF C 1 0 to +90
+
+ Illustrated Parts Catalog (Power Plant)**PIPC F C 10 0 to +90
+
+ MF C 1 0 to +90
+
+ Illustrated Tools and Equipment Manual TEM P2 E 3 -180
+
+ Maintenance Facility Planning MFP P2 E 2 -360
+
+ Maintenance Planning Document MPD P2 P 1 -180
+
+ E 3 -90
+
+ Power Plant Build-up Manual** PBM P2 C 2 -90
+
+ Support Equipment Summary SES P1 E 2 -180
+
+ Tool and Equipment Drawings TED AC E 1 -180
+
+ Tool and Equipment Index TEI P2 E 2 360
+
+ Tool and Equipment Bulletins TEB P1 E 3 0
+
+ Trouble Shooting Manual TSM F C 10 0 to +90
+
+ MF C 1 0 to +90
+
+3. MISCELLANEOUS PUBLICATIONS
+
+ Airplanes Characteristics for Airport Planning AC P2 E 2 -360***
+
+ Aircraft Recovery Manual ARM P2 E 2 0***
+
+ Cargo Loading System Manual CLS P2 E 2 -90
+
+ Crash Crew Chart CCC P1 E 5 -180
+
+ List of Radioactive and Hazardous Elements LRE P2 E 1 90***
+
+ List of Applicable Publications LAP P1 C 1 -180
+
+ Livestock Transportation Manual LTM P2 E 1 90***
+
+ Service Bulletin SB P2 C 2 0
+
+ F E 1 -90
+
+ Technical Publications Combined Index TPCI D E 1 -90
+
+ Service Information Letters SIL P1 E 1 0
+
+ Transportability Manual TM P1 E 1 -90***
+
+ Vendor Information Manual VIM D E 1 360
+
+ Vendor Information Manual GSE VIM/GSE P2 E 2 360
+
+The quantities listed below are in addition to the set of one copy of each operational manual to be delivered
+with the Aircraft (except PEP/PPM).
+
+4. OPERATIONAL MANUALS AND DATA
+
+ Quick Reference Handbook QRH P2 C 3 -90
+
+ Flight Crew Operating Manual FCOM P2 C 3 0
+
+ Flight Manual FM P2 C 1 -90
+
+ C 3 0
+
+ Master Minimum Equipment List MMEL P2 C 3 0
+
+ Performance Engineering Program PEP MT C 1 -90
+
+ D C 1 -90
+
+ Performance Program Manual PPM P2 C 3 90
+
+ Weight and Balance Manual WBM P2 C 3 0
+
+5. OVERHAUL DATA
+
+ Component Documentation Status CDS D C 1 180***
+
+ Component Evolution List CEL P2 E 1 ***
+
+ Cable Fabrication Manual CFM P2 E 1 90***
+
+ Component Maintenance Manual Airframe
+
+ Manufacturer CMMM F E 2 -180 to +180*
+
+6. STRUCTURAL MANUALS
+
+ Nondestructive Testing Manual NTM P2 E 2 -90***
+
+ Structural Repair Manual SRM F E 2 -90***
+
+** Supplied by the Propulsion Systems manufacturer.
+
+*** Optional. Delivered as follow-on for CDS.
+
+MANUAL FORMAT AND TYPE IDENTIFICATION
+
+FORM AC APERTURE CARD. Refers to 35mm film contained in punched aperture cards.
+
+ D FLOPPY DISK 3"1/2
+
+ F MICROFILM. Refers to 16mm roll film on 3M type cartridges.
+
+ MF MASTER FILM. Refers to thick diazo film suitable for further reproduction.
+
+ MP Refers to paper printed one side, unpunched quality shall be suitable for further
+ reproduction or microfilming.
+
+ MT MAGNETIC TAPE
+
+ P1 PRINTED ONE SIDE. Refers to manuals in paper with print on one side of the sheets
+ only.
+
+ P2 PRINTED BOTH SIDES. Refers to manuals with print on both sides of the sheets.
+
+TYPE C CUSTOMIZED. Refers to manuals which are customized.
+
+ E ENVELOPE. Refers to manuals which are not customized.
+
+ P PRELIMINARY. Refers to preliminary data or manuals which may consist of:
+
+ o either one time issue not maintained by revision service, or
+
+ o preliminary issues maintained by revision service until final manual or data delivery, or
+
+ o supply of best available data under final format with progressive completion through
+ revision service.
+
+DELIVERY Manual delivery is expressed either as the number of days prior to delivery of the Aircraft or
+ as nil (0), which designates the date of delivery of the Aircraft. It is agreed that the
+ number of days indicated will be rounded up to the next regular revision release date.
+
+ SCHEDULE A
+
+ PART III-DELIVERY CONDITION REQUIREMENTS
+
+Set forth below is a description of the condition in which the Aircraft must be in order for Lessee to be
+obligated to accept the Aircraft under the Lease. It is solely a description of such condition precedent and
+shall not be construed as a representation, warranty or agreement of any kind whatsoever, express or implied,
+by Lessor with respect to the Aircraft or its condition, all of which have been disclaimed by Lessor and
+waived by Lessee as set forth in the Lease, including in the Common Terms Agreement.
+
+Delivery Condition Requirements:
+
+1. The "Delivery Condition Requirements" for the Aircraft are as follows:
+
+ On Delivery, the Aircraft shall
+
+(i) be new, ex factory and painted in Lessee's livery;
+
+(ii) have a valid Export Certificate of Airworthiness for the United States;
+
+ (iii) have an issued FAR 121 Compliance Statement from the Manufacturer;
+
+ (iv) on or prior to the Delivery Date, have had accomplished all outstanding mandatory service
+ bulletins, Airworthiness Directives and similar requirements applicable to the Aircraft
+ having a compliance date prior to the Delivery Date or within 180 days after the Delivery
+ Date and which are required by the State of Design, the FAA or the Manufacturer.
+
+(v) and otherwise be in the condition required for delivery pursuant to each of two Purchase
+ Agreements, dated July 16, 1996 and September 29, 1998, respectively, each between the
+ Manufacturer and GE Capital (each a "Purchase Agreement" and together, the "Purchase
+ Agreements") and the Airbus Aircraft Specification Number D.000.0200, Issue Number 4, dated
+ April 30, 1995, except as amended by change orders initiated by Lessor under the terms of
+ the Purchase Agreement, including as modified to include the additional GECC baseline SCNs
+ in accordance with the GECC A319 baseline specification Issue 1 (the "GECC A319 Baseline
+ Specification.")
+
+2. Modifications (a) The Agreed Lessee Modifications shall be accomplished pre-delivery at the sole
+ cost and expense of Lessee. Lessor shall use reasonable efforts to accomplish all Agreed Lessee
+ Modifications prior to Delivery. Cost of all Agreed Lessee Modifications, including charges for any
+ "out of sequence production", shall be invoiced to Lessee upon Lessor's receipt of invoice
+ applicable to each individual Agreed Lessee Modification from the relevant third party vendor. If
+ Lessor notifies Lessee that any Agreed Lessee Modification cannot be accomplished prior to the
+ Delivery Date, including without limitation any delays in accomplishing such Modifications caused by
+ failure of Lessee to deliver any materials or parts to the Manufacturer by the required on-dock
+ dates as advised by Manufacturer, such Agreed Lessee Modification shall be excluded from the
+ Delivery Condition Requirements.
+
+ (b) Cost Adjustment. Lessor and Lessee agree that if all fees, costs and expenses invoiced to
+ Lessor directly attributable to the Agreed Lessee Modifications, including without limitation, the
+ order, purchase, delivery and installation on the Aircraft of the galleys, seats, avionics, APU and
+ wheels and brakes (collectively, the "BFE/SFE") selected by Lessee as part of the Agreed Lessee
+ Modifications are less than such fees, costs and expenses invoiced to Lessor for the BFE/SFE
+ selected by Lessor as part of the GECC A319 Baseline Specification, then upon the delivery of the
+ Aircraft, Lessor shall pay to Lessee the difference between (i) the Lessee selected BFE/SFE ,
+ pro-rata for such Aircraft leased by Lessee from Lessor, and (ii) the Lessor selected BFE/SFE for
+ such Aircraft. Lessee acknowledges that Lessor is subject to confidentiality agreements with its
+ vendors relating the price of the above referenced BFE/SFE. Lessor shall certify to Lessee the net
+ difference between the costs of Lessee selected BFE/SFE if less than the Lessor selected BFE/SFE.
+
+ (c ) Specification Credit. Lessee has requested that the items listed below in this clause (c )
+ (the "Listed Items") be removed from the GECC A319 Baseline Specification and not be included in the
+ Aircraft. Lessor shall, in its discretion, determine whether each Listed Item is, or is not,
+ removed from the Aircraft. In consideration thereof, Lessee hereby receives a credit for the
+ Aircraft in the amount of One Hundred Twenty-five Thousand Dollars ($125,000) (the "Specification
+ Credit") (i) first, against any amounts due and payable by Lessee to Lessor relating to the cost of
+ any additions to the GECC A319 Baseline Specification selected by Lessee; (ii) second, to the extent
+ any Specification Credit remains, against any amounts due and payable by Lessee to Lessor relating
+ to the cost of any increase in BFE or SFE not already included in the GECC A319 Baseline
+ Specification and (iii) third, to the extent any Specification Credit remains, against any amounts
+ due and payable by Lessee to Lessor under this Agreement. No Listed Items shall be included in the
+ cost adjustments provided in clause 2 (b) above.
+
+ Listed Items:
+
+Ozone Catalytic Converters (G8EO2J1011101S1H)
+
+HF LRU (G8E23J1113004S1H)
+
+Third Radio Management Panel (G8E23J1310102S1H)
+
+System Prov. For Audio Pax Entertainment Sys. (G8E23J3670000G1H)
+
+System Provisions for PES Video (G8E23J3670000G1H,
+
+ G8E23J3610501S1H)
+
+Lav. D Mod. for Stretcher Loading (G8E25J2070000G1H)
+
+Prov. For Mech. Bulk Loading (G8E25J5231501S1H,
+
+System in Fwd. And Aft Cargo Holds MCG8E25.52.003J1MO1)
+
+ SCHEDULE B
+ COMMERCIAL TERMS
+
+ Lessor and Lessee hereby agree that the definitions and other commercial and financial terms set
+forth in this Schedule B shall apply to the leasing of the Aircraft under the Lease.
+
+ In addition, Lessor and Lessee understand and agree that the commercial and financial information
+contained in this Schedule B are considered by Lessor and Lessee as proprietary and confidential. Lessor and
+Lessee each hereby agree, and any of their assignees, upon becoming such shall agree that it will treat this
+Schedule B as proprietary and confidential and will not, without the prior written consent of the other,
+disclose or cause to be disclosed, the terms hereof or thereof to any Person, except to its agents,
+representatives, advisors, employees, counsel, underwriters, auditors, investors, financing parties and head
+lessors as necessary or appropriate for the leasing transaction which is the subject hereof, or except (a) as
+may be required by applicable Law or pursuant to an order, or a valid and binding request, issued by any
+court or other Government Entity having jurisdiction over Lessor, Lessee or the assignee of either of them,
+as the case may be, or (b) as necessary to enable Lessor or its assignee to make transfers, assignments or
+other dispositions to potential transferees, assignees or participants of its interest in and to the Lease.
+
+ In connection with any such disclosure or any filing of the information contained herein or therein
+pursuant to any such applicable Law, Lessor, Lessee or the assignee of either of them, as the case may be,
+shall request and use its best reasonable efforts to obtain confidential treatment of this Schedule B and the
+other party will cooperate in making and supporting any such request for confidential treatment.
+
+PART I PART I-CASUALTY OCCURRENCE DEFINITIONS
+
+ Agreed Value means $33,500,000.
+
+ Damage Notification Threshold means $500,000.
+
+ Deductible Amount means $750,000; provided that the Deductible Amount shall not be higher than the
+ lowest deductible carried on any hull insurance policy maintained in respect of any Airbus A319
+ series 100 aircraft in Lessee's fleet which is leased, purchased, financed or refinanced after June
+ 8, 2000.
+
+ Minimum Liability Coverage means $600,000,000.
+
+PART II DEPOSIT; LC AMOUNT; INTEREST RATE
+
+ Deposit means, for the purposes of Section 3.1 of the Aircraft Lease Agreement, $411,800, one-half
+ of which shall have been paid on or before the date hereof; and the balance of which shall be paid
+ no later than 30 days prior to Delivery of the Aircraft; provided, however, that Lessee may elect to
+ provide Lessor with a Letter of Credit in an amount, from a financial institution and otherwise in
+ form and substance, reasonably acceptable to Lessor. Lessee acknowledges and agrees that it is not
+ located in the State of New York within the meaning of Section 7-101 1-c(b) of the New York General
+ Obligations Law, and therefore the requirements of Section 7-101 of the New York General Obligations
+ Law do not apply to the Deposit.
+
+ Initial Aircraft Rental Credit means, an amount equal to $1,000,000.
+
+ Interest Rate: The Interest Rate shall be the "prime rate" as quoted in the Wall Street Journal
+ from time to time during the applicable period plus one and one-half percent (1.5%) per annum, but
+ not to exceed the maximum amount permitted by Law.
+
+ LC Amount means, for the purposes of Section 3.1 of the Aircraft Lease Agreement, the amount of the
+ Deposit secured by a Letter of Credit.
+
+ Pre-Delivery Termination Value means $2,500,000.00.
+
+ Quotation Date means the day two Business Days before the Scheduled Delivery Date.
+
+PART III RENT
+
+ Assumed Rent means (i) for the first twelve (12) Rental Periods $205,900; (ii) for Rental Periods 13
+ through 24 $215,900; and (iii) for each Rental Period thereafter, $225,900. The foregoing amounts
+ are based upon the Manufacturer's Aircraft Price in June, 1999 and an eight year swap rate between
+ 6.05% and 6.83%. The Assumed Rent shall be (A) increased by an amount equal to $3,230 per month if
+ Lessee elects to pay the Deposit pursuant to a Letter of Credit and (B) increased by (i) $8,000 per
+ month if Lessee elects, upon no less than 14 months prior written notice, to reschedule Delivery of
+ the Aircraft to any Alternate Scheduled Delivery Month in lieu of the current Scheduled Delivery
+ Month as herein defined or (ii) $16,000 per month if Lessee elects, upon no less than 14 months
+ prior written notice, to reschedule Delivery of the Aircraft to a month which is not a Scheduled
+ Delivery Month or an Alternate Scheduled Delivery Month.
+
+ Rent. The Rent payable in respect of each Rental Period during the Term shall be payable in 144
+ consecutive monthly installments, in advance on each Rent Date, with each such installment equal to
+ an amount calculated as follows:
+
+ Rent = (A x B + ([S-X] x [N x B])) where:
+
+ A is the Assumed Rent for the applicable Rental Period;
+
+ X means the assumed 8-year U.S. Dollar Swap rate expressed as a number determined as follows:
+ (i) ifs is less than or equal to 6.05%, then X is equal to 6.05%, (ii) ifs is greater than
+ 6.05% and less than 6.83%, then X is equal to S, and (iii) ifs is equal to or greater than
+ 6.83%, then X is equal to 6.83%;
+
+ S is (i) the actual 8 year Dollar swap rate ("Open" rate per Bloomberg screen "IRSB" )
+ expressed as a number and obtained by Lessor on the Quotation Date: or, if on the Quotation
+ Date the Bloomberg Screen "IRSB" is not available or does not display rates for the
+ required period, the 8-year Dollar swap rate quoted on the applicable Reuters page,
+ expressed as a number and obtained by Lessor on the Quotation Date; or (ii) the sum of(a)
+ the actual 8 year Dollar swap rate as set forth in (i) above fixed on a date, at Lessee's
+ option, which is earlier than title Quotation Date upon 30 days' prior written notice to
+ Lessor; and (b) 15 basis points for each year from the effective date of such notice (which
+ effective date shall be 30 days after the date of such notice) until the Scheduled Delivery
+ Date, pro rated for any partial year;
+
+ N is $12,900; and
+
+ B is 1 + (Gl - G2)/G2, rounded to the nearest five (5) places of decimals, where:
+
+ Gl is the Manufacturer's Gross Invoice Price for the Aircraft on the basis of
+ delivery of the Aircraft on the Delivery Date; provided, however, that G1 shall
+ not be disclosed by Lessor to Lessee and
+
+ G2 is the Manufacturer's Gross Invoice Price for the Aircraft which would apply if
+ the Aircraft were delivered in June 1999; provided, however, that G2 shall not be
+ disclosed by Lessor to Lessee.
+
+PART IV [INTENTIONALLY OMITTED]
+
+PART V SUPPLEMENTAL RENT
+
+ The Supplemental Rent payable will be determined with reference to the following:
+
+ Airframe Supplemental Rent means all (i) Airframe 4C Supplemental Rent and (ii) Airframe 8C
+ Supplemental Rent in each case payable by Lessee pursuant to Clause (a) below.
+
+ Annual Supplemental Rent Adjustment means (3%.)
+
+ APU Supplemental Rent means all Supplemental Rent payable by Lessee pursuant to Clause (d) below.
+
+ Assumed Ratio Adjustment: For the purposes of Section 5.4 of the Common Terms Agreement, Assumed
+ Ratio means a 2.5 hour to one cycle ratio (2.5:1) and any adjustment pursuant to Clause 5.4 shall be
+ based on the following table:
+
+ Airbus A319 Aircraft - 0.5/1 1.0/1 1.5/1 2.0/1 2.5/1 3.0/1
+ FH/CYC Ratio
+
+ Airframe 4C $32 $32 $32 $32 $32 $32
+ Supplemental Rent Rate
+
+ Airframe 8C $12 $12 $12 $12 $12 $12
+ Supplemental Rent Rate
+
+ Engine Refurbishment $128 $88 $73 $65 $62 $59
+ Supplemental Rent Rate
+
+ Engine LLP Supplemental $115 $52.5 $35 $26 $21 $17.5
+ Rent Rate
+
+ APU Supplemental Rent $39 $20 $13 $9 $7 $9
+ Rate
+
+ Landing Gear $39 $20 $13 $9 $7 $6
+ Supplemental Rent Rate
+
+ Assumed Utilization means an annual utilization of 3,500 hours per annum.
+
+ Engine Supplemental Rent means all (i) Engine LLP Supplemental Rent payable by Lessee pursuant to
+ Clause (b) below, and (ii) Engine Refurbishment Supplemental Rent payable by Lessee pursuant to
+ Clause (c) below.
+
+ Landing Gear Supplemental Rent means all Supplemental Rent payable by Lessee pursuant to Clause (e)
+ below.
+
+ Supplemental Rent equals each of the following amounts:
+
+(a) Airframe: in respect of each Airframe 4C Check, $32 ("Airframe 4C Supplemental Rent Rate") for each
+ Flight Hour operated by the Aircraft during each calendar month during the Term ("Airframe
+ 4C Supplemental Rent") and Airframe 8C Check, $12 ("Airframe 8C Supplemental Rent Rate")
+ for each Flight Hour operated by the Aircraft during each calendar month during the Term
+ ("Airframe 8C Supplemental Rent");
+
+(b) Engine Life-Limited Parts: in respect of the life-limited Parts for each Engine installed on the
+ Airframe, $21 ("Engine LLP Supplemental Rent Rate") for each Flight Hour operated by that
+ Engine during each calendar month during the Term ("Engine LLP Supplemental Rent");
+
+(c) Engine Refurbishment: in respect of each Engine installed on the Airframe, $62 ("Engine
+ Refurbishment Supplemental Rent Rate") for each Engine Flight Hour (or fraction thereof)
+ operated by that Engine during each calendar month during the Term ("Engine Refurbishment
+ Supplemental Rent");
+
+(d) APU: in respect of the APU Airframe, $7 ("APU Supplemental Rent Rate") for each Flight Hour
+ operated by the APU during each calendar month during the Term ("APU Supplemental Rent"); and
+
+(d) Landing Gear: in respect of the Landing Gear, $7 ("Landing Gear Supplemental Rent Rate") for each
+ Flight Hour operated by the Landing Gear during each calendar month during the Term
+ ("Landing Gear Supplemental Rent").
+
+Supplemental Rental Cap means an aggregate amount of all Supplemental Rent paid in respect of the
+Aircraft during the Term in an amount equal to the sum of (i) $2,500,000 plus (ii) the amount of all
+Maintenance Contributions made by Lessor in respect of the Aircraft.
+
+PART VI RETURN CONDITION DEFINITIONS; MAINTENANCE PAYMENTS AT REDELIVERY; AIRWORTHINESS DIRECTIVE SHARING
+ PAYMENTS
+
+ DEFINITIONS:
+
+ Engine Cycles Restriction means 3,500 Engine Cycles.
+
+ Engine Flight Hours Restriction means 4,000 Engine Flight Hours.
+
+ Engine Refurbishment means all scheduled and unscheduled off-the-wing Engine maintenance and repair
+ accomplished for each module in accordance with the performance restoration, minimum restoration or
+ full overhaul sections of the Manufacturer's workscope planning guide and including performing the
+ following for each of the modules, for each of the Engines:
+
+ Hot Section Module means the combustor, combustor casing, HPT nozzle, HPT rotor, LPT nozzle
+ (stage one).
+
+ Hot Section Module Refurbishment means, with respect to any Engine, the accomplishment of a
+ "Performance Level" refurbishment, per the CFMI Workscope Planning Guide, of the Hot Section
+ Module including the complete inspection and repair as necessary per the shop manual of the
+ combustor, combustor casing, high pressure turbine nozzle section, high pressure turbine
+ rotor, and low pressure turbine nozzle stage 1 in an engine repair/overhaul station,
+ including (without limitation) complete unstacking of the high pressure turbine; de-blading
+ of discs; visual inspections of all discs; verification that all snap diameters on discs are
+ within limits; inspection of all blades for tip condition, blade length and cracking.
+ Repair or replacement of all blades below minimum with new or refurbished blades; blade-up
+ of discs using new lock plates; assembly of rotors in the turbine; balance of all rotors;
+ installation of rotor in the Engine.
+
+ HPC Module means the high pressure compressor rotor and the high pressure compressor forward
+ and aft stator .
+
+ HPC Module Refurbishment means, with respect to any Engine, the accomplishment of a
+ "Performance Level" refurbishment, per the CFMI Workscope Planning Guide, of the HPC Module
+ including the completion of the following: complete unstacking of the high pressure
+ compressor and complete shop manual inspection; of the forward and aft stator cases,
+ de-blading discs; visual inspections of all discs; verification that all snap diameters on
+ discs are within limits; inspection of all blades for proper chord dimensions, cracking; and
+ erosion on leading and trailing edges; repair or replacement of blades below minimum;
+ inspection and repair of stators as necessary; blade-up of discs using new lock plates;
+ assembly of rotor in the compressor; balance of all rotors; and installation of rotor in the
+ Engine..
+
+ Fan and Booster Module means the fan rotor and booster, the number 1 and 2 bearing support,
+ inlet gearbox and number 3 bearing assembly, and the fan frame assembly.
+
+ Fan and Booster Module Refurbishment means, with respect to any Engine, the accomplishment
+ of a "Minimum Level" refurbishment, per the CFMI Workscope Planning Guide, of the fan and
+ booster module including the completion of the following: removal from engine and shop
+ manual inspection of fan/booster assembly, removal and shop manual inspection of fan blades,
+ booster blades, and spacers. The fan disk should be separated from the booster spool only
+ for cause. Visually inspect the exposed areas of the fan disk and booster spool. Recontour
+ fan blades, inspection of all blades for proper chord dimensions and cracking; repair or
+ replacement of blades below minimum; inspection and repair of stators as necessary; blade-up
+ of discs using new lock plates; assembly of rotors in the compressor; balance of all rotors;
+ installation of rotor in the Engine..
+
+ LPT Module means the low pressure turbine, LPT shaft, and LPT Frame.
+
+ LPT Module Refurbishment means, with respect to any Engine, the accomplishment of a "Minimum
+ Level" refurbishment, per the CFMI Workscope Planning Guide, of the LPT Module including the
+ complete visual inspection and repair as necessary of the low pressure turbine module of an
+ Engine in an engine repair/overhaul station, including (without limitation) complete
+ unstacking of the low pressure turbine; complete visual inspection; de-blading of discs ;
+ visual inspections of all discs; verification that all snap diameters on discs are within
+ limits; inspection of all blades for proper chord dimensions and cracking; repair or
+ replacement of all blades below minimum; inspection and repair of stators as necessary;
+ blade-up of discs using new lock plates; assembly of rotors in the turbine; balance of all
+ rotors; and installation of rotor in the Engine.
+
+ Accessory Drive Module means the Transfer Gearbox and Accessory Gearbox.
+
+ Accessory Drive Module Refurbishment means with respect to any engine the inspection and
+ repair per shop manual.
+
+ Minimum APU Limit means 1,500 Flight Hours since the last gas path refurbishment.
+
+ Minimum Component Calendar Life means 12 months.
+
+ Minimum Component Cycles means 1,600 Cycles
+
+ Minimum Component Flight Hours means 3,200 Flight Hours
+
+ Minimum Engine Cycles means 3,500 Cycles.
+
+ Minimum Engine Flight Hours means 4,000 Flight Hours.
+
+ Minimum Landing Gear Calendar Time means 18 months
+
+ Minimum Landing Gear Cycles means 3,500 Cycles.
+
+ Minimum Landing Gear Flight Hours means 4,000 Flight Hours.
+
+ Minimum Measurable Fuel Requirement means the amount of fuel as at Delivery.
+
+ Redelivery "C" Check means the next sequential Block `C' check in accordance with the Lessee's
+ Maintenance Program including those bridging tasks identified in the Manufacturer's Maintenance
+ Planning Document, Appendix J, to bridge the Aircraft back to a block program and "Block `C'
+ Structural Check" with at least 4,000 Flight Hours remaining to the next "C" or higher check.
+
+ AD Sharing
+
+ AD Threshold means $100,000.
+
+ If any Airworthiness Directive is issued by the FAA for which terminating action is required to be
+ performed by Lessee pursuant to Section 8.10(c)(ii) of the Common Terms Agreement and FAR Part 121
+ and if the actual cost incurred by Lessee (as documented in the same manner and paid within the same
+ time as required under Section 7.2 of the Common Terms Agreement for a Maintenance Contribution
+ payment by Lessor) in performing or causing to be performed such Airworthiness Directive exceeds the
+ AD Threshold, Lessor shall, following receipt of the invoice in such amount and provided no (i)
+ Default relating to any payment under the Lease or (ii) any other Event of Default has occurred and
+ is continuing, reimburse to Lessee an amount calculated in accordance with the following formula:
+
+ A-B* (C-D)/C where:
+
+ A = Total actual invoiced cost of such Airworthiness Directive.
+
+ B = AD Threshold.
+
+ C = 96 months.
+
+ D = Months remaining to the Scheduled Expiry Date.
+
+MAINTENANCE ADJUSTMENTS:
+
+Maintenance Adjustment: In respect of each calendar month (or part thereof) during the Term, Lessee will pay
+to Lessor at the end of the Term in accordance with Section 5.4 of the Common Terms Agreement and Section 3.3
+of this Agreement the following Maintenance Adjustments:
+
+(a) Airframe Maintenance Adjustment: in respect of the Airframe 4C Check and Airframe 8C Check, upon
+ redelivery of the Aircraft to Lessor (but not after the occurrence of an Event of Loss with respect to
+ the Aircraft), Lessee shall pay to Lessor for each Flight Hour since new or since the last Airframe
+ Structural Check, as applicable, an amount equal to (i)(A) the number of Flight Hours on the Airframe
+ since new or since the last Airframe Structural Check, as applicable, multiplied by (B) the Airframe 4C
+ Supplemental Rent Rate less (C) the Remaining Airframe 4C Supplemental Rent and an amount equal to
+ (ii)(A) the number of Flight Hours on the Airframe since new or since the last Airframe Structural
+ Check, as applicable, multiplied by (B) the Airframe 8C Supplemental Rent Rate less (C) the Remaining
+ Airframe 8C Supplemental Rent (collectively, the "Airframe Maintenance Adjustment").
+
+(b) Engine Refurbishment Maintenance Adjustment: in respect of each Engine, upon redelivery of the Aircraft
+ to Lessor (but not after the occurrence of an Event of Loss with respect to the Aircraft or any Engine),
+ for any life used since new or since the latest Engine Refurbishment of each defined module (as further
+ described below, each a "Defined Module") in accordance with the applicable percentage, whichever is
+ less, to the date of Redelivery, Lessee shall pay to Lessor an amount equal to (i) for each Engine
+ Flight Hour (or fraction thereof) operated by that Engine in the aggregate during each calendar month
+ during the Term since new or since the last Engine Refurbishment multiplied by (ii) the Engine
+ Refurbishment Supplemental Rent Rate less (iii) Remaining Engine Refurbishment Supplemental Rent (the
+ "Engine Refurbishment Maintenance Adjustment"). For purposes of this Clause, Defined Modules shall
+ include each of the Combustion Chamber/ High Pressure Turbine (38% of the Engine Refurbishment
+ Supplemental Rent Rate); High Pressure Compressor (33% of the Engine Refurbishment Supplemental Rent
+ Rate); the Low Pressure Turbine (16% of the Engine Refurbishment Supplemental Rent Rate) and the Fan
+ Booster (13% of Engine Refurbishment Supplemental Rent Rate).
+
+provided, however, if any of the amounts described above is less than zero then the applicable Maintenance
+Adjustment shall be equal to zero.
+
+(c) Engine Life Limited Parts: with respect to Engine Life-Limited Parts ("Engine LLPs"), upon redelivery
+ of the Aircraft to Lessor (but not after the occurrence of an Event of Loss with respect to the Aircraft
+ or any Engine), within any Engine, Lessee shall pay to Lessor an amount equal to (i) for each Engine
+ Flight Hour (or fraction thereof) operated by that Engine in the aggregate during each calendar month
+ during the Term since new or since the last Engine Refurbishment multiplied by (ii) the Engine LLP
+ Supplemental Rent Rate less (iii) Remaining Engine LLP Supplemental Rent (the "Engine LLP Maintenance
+ Adjustment").
+
+(d) APU: with respect to the APU, upon redelivery of the Aircraft to Lessor (but not after the occurrence of
+ an Event of Loss with respect to the Aircraft), Lessee shall pay to Lessor an amount equal to (i) $7 per
+ Flight Hour since new or HSI in accordance with the Manufacturer's recommendations less (ii) the
+ Remaining APU Supplemental Rent (the "APU Maintenance Adjustment").
+
+(e) Landing Gear Adjustment: with respect to Landing Gear (per shipset), upon redelivery of the Aircraft to
+ Lessor (but not after the occurrence of an Event of Loss with respect to the Aircraft), Lessee shall pay
+ to Lessor an amount equal to (i) $7 per Flight Hour since new or since complete overhaul in accordance
+ with the Manufacturer's recommendations, whichever is less, minus (ii) the Remaining Landing Gear
+ Supplemental Rent (the "Landing Gear Maintenance Adjustment")
+
+For purposes of this section: "Remaining Airframe Supplemental Rent" means the amount equal to the aggregate
+amount of Airframe 4C Supplemental Rent and the Airframe 8C Supplemental Rent paid under the Lease during the
+Term minus the aggregate amount previously paid by Lessor under Section 7.2(a)(i) of the Common Terms
+Agreement. "Remaining Engine LLP Supplemental Rent" means the amount equal to the aggregate amount of Engine
+LLP Supplemental Rent paid under the Lease during the Term minus the aggregate amount previously paid by
+Lessor under Section 7.2(a)(ii) of the Common Terms Agreement. "Remaining Engine Supplemental Rent" means the
+amount equal to the aggregate amount of Engine Supplemental Rent paid under the Lease during the Term minus
+the aggregate amount previously paid by Lessor under Section 7.2(a)(iii) of the Common Terms Agreement.
+"Remaining APU Supplemental Rent" means the amount equal to the aggregate amount of APU Supplemental Rent paid
+under the Lease during the Term minus the aggregate amount previously paid by Lessor under Section 7.2(a)(iv)
+of the Common Terms Agreement. "Remaining Landing Gear Supplemental Rent" means the amount equal to the
+aggregate amount of Landing Gear Supplemental Rent paid under the Lease during the Term minus the aggregate
+amount previously paid by Lessor under Section 7.2(a)(v) of the Common Terms Agreement.
+
+ SCHEDULE B
+
+ INTENTIONALLY DELETED FROM THE VERSION OF THIS DOCUMENT FILED WITH THE FAA AS CONTAINING CONFIDENTIAL AND
+ PROPRIETARY INFORMATION.

@@ -6,6 +6,7 @@ Static, self-paced courses that teach legal practice to engineers. No backend: e
 | Course | Path | What's in it |
 |---|---|---|
 | Calling the Deal: private M&A from zero | `courses/ma/` | 16 modules + diagnostic + final exam, 7 labs on 22 real SEC-filed share purchase agreements, 17-episode podcast (5h 17m), handbook, cheatsheet |
+| Clearing the aircraft deal | `courses/aviation/` | 13 modules + diagnostic + final exam, 7 labs, 21 filed exhibits, flashcards, handbook and cheatsheet |
 
 ## Layout
 ```
@@ -51,3 +52,7 @@ Scripts: Gemini Pro, from the module text. Voices: Gemini TTS, two speakers. Rea
 ## Caveats
 - The lab answer key ships with the site (`courses/ma/data/precedents.json`), so anyone with the site can read it.
 - Precedent data is machine-extracted from public SEC exhibits and spot-checked. Market statistics are from secondary summaries; verify before relying on them. Not legal advice.
+
+### Aviation preview
+
+[Clearing the aircraft deal](courses/aviation/) includes 13 modules, a diagnostic, a final exam, seven labs, flashcards and printable references. The [source manifest](build/aviation/sources/manifest.json) records the historical SEC exhibit URLs and filing dates. The [public marking key](courses/aviation/data/precedents.json) includes a question, short quotation and section for each graded field. A filed form can demonstrate drafting without establishing an executed outcome. The four-clause rent comparison is a teaching sample. Local counsel must verify current rules, declarations and procedures for a live transaction.

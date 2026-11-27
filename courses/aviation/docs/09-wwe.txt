@@ -1,0 +1,1795 @@
+exhibit10-9
+
+Exhibit 10.9
+
+AIRCRAFT SALE AND PURCHASE AGREEMENT
+
+Dated as of the 30th day of April, 2013
+
+between
+
+Bombardier Aerospace Corporation
+
+as Seller
+
+and
+
+World Wrestling Entertainment, Inc.
+
+ as Purchaser
+
+concerning the sale and purchase of that certain Bombardier Inc. aircraft,
+
+model BD-700-1A11 (Global 5000 variant) bearing
+
+Manufacturer's Serial Number 9192
+
+WWE April 2013 9192
+
+AIRCRAFT SALE AND PURCHASE AGREEMENT
+
+This AIRCRAFT SALE AND PURCHASE AGREEMENT (this “Agreement”) is made and entered into as of the 30th day of April, 2013, by and between Bombardier Aerospace Corporation, a Delaware corporation, (“Seller”) having a principal address of 3400 Waterview Parkway, Suite 400, Richardson TX 75080 and World Wrestling Entertainment, Inc., a Delaware corporation (“Purchaser”), having a principal address of 1241 East Main Street, Stamford, CT 06902.
+
+W I T N E S S E T H
+
+WHEREAS, Seller desires to sell the Aircraft to Purchaser and Purchaser desires to purchase the Aircraft from Seller pursuant to the terms and conditions contained in this Agreement.
+
+NOW, THEREFORE, in consideration of these premises and the mutual covenants and agreements herein contained and other good and valuable consideration, the parties hereto agree as follows:
+
+ARTICLE I. DEFINITIONS
+
+1.1
+
+The following terms shall have the following meanings for all purposes of this Agreement:
+
+“Aircraft” means that certain 2006 Bombardier, Inc. aircraft, model BD-700-1A11 (Global 5000 variant) bearing manufacturer’s serial number 9192 and registration N700LK and its two (2) installed Rolls Royce BR710A2-20 engines, bearing manufacturer’s serial numbers 12857 (left) and 12858 (right), respectively, to be described on the International Registry with manufacturer designation: Bombardier, model designation: Global 5000 and engine manufacturer designation: Rolls Royce, model designation: BR710A2-20; and one (1) installed AlliedSignal RE-220GX auxiliary power unit, bearing manufacturer’s serial number P284 and all equipment, components, instruments, avionics, systems, appurtenances, appliances, parts, accessions, furnishings, loose equipment, engine covers, tool kits, spares, and other equipment of whatever nature incorporated in, attached to, or associated with any of the foregoing in Seller’s possession or control, including, without limitation, the loose equipment described on Exhibit G attached hereto, and all Aircraft Documents.
+
+“Aircraft Documents” means a current and valid U.S. Airworthiness Certificate (without exceptions) and all records, manuals and reports as set forth in the attached Loose Equipment List (Exhibit G), and any and all other records related to the Aircraft that are in Seller's possession or control.
+
+“Aircraft Registration Application” means an FAA Aeronautical Center Form 8050-1 Aircraft Registration Application.
+
+“Aircraft Specification” means the Aircraft Specification set forth in Exhibit A attached hereto.
+
+“Aircraft Technical Acceptance/Rejection Letter” means an Aircraft Technical Acceptance/Rejection Letter in the form of Exhibit C attached hereto.
+
+“Airworthiness Certificate” means an FAA Standard Airworthiness Certificate (FAA Form 8100-2).
+
+“APU” means the auxiliary power unit described in the definition of the Aircraft.
+
+“Balance of the Purchase Price” means the amount of Twenty Seven Million Dollars ($27,000,000.00).
+
+“Business Day” means any day of the year in which (i) banks in the States of Connecticut, Texas and/or New York are open, and (ii) the FAA is open for filing title documents.
+
+“Cape Town Convention” means, collectively, the official English language texts of the Convention on International Interests in Mobile Equipment (the “Convention”) and its Protocol on Matters Specific to Aircraft
+
+WWE April 2013 9192
+
+Equipment (the “Protocol”), both signed in Cape Town, South Africa on November 16, 2001, together with any protocols, regulations, rules, orders, agreements, instruments, amendments, supplements, or revisions that have or will be subsequently made in connection with the Convention or the Protocol by the “Supervisory Authority” (as defined in the Consolidated Text), the International Registry or “Registrar” (as defined in the Consolidated Text) or any other international or national, body or authority, all as in effect in the United States or other relevant Contracting State (as used in the Consolidated Text). All references to articles or sections of the Cape Town Convention shall mean the article or Section of the Consolidated Text. Except to the extent otherwise defined in this Agreement, terms used in this Agreement that are defined in the Cape Town Convention shall, when used in relation to the Cape Town Convention, have the meanings ascribed to them in the Cape Town Convention.
+
+“Closing” means the consummation of the purchase and sale transaction contemplated by this Agreement.
+
+“Closing Date” means the date the Purchase Price is paid to Seller and thereafter title to the Aircraft is transferred from Seller to Purchaser.
+
+“Consolidated Text” means the combination of the Convention and the Protocol (each as defined in the definition of Cape Town Convention) that was authorized and created pursuant to Resolution No. 1 adopted by the Cape Town Diplomatic Conference and any reference to a provision of the Consolidated Text is a reference to the provision of the Convention or the Protocol from which it is derived.
+
+“Delivery Condition” means the required condition of the Aircraft at the Closing as set forth in Exhibit B attached hereto.
+
+“Delivery Location” means Wichita, Kansas or such other location within the continental United States mutually acceptable to Seller and Purchaser.
+
+“Delivery Receipt” means the Aircraft Delivery and Acceptance Receipt in the form of Exhibit D attached hereto.
+
+“Deposit” means a refundable purchase money deposit in the amount of Five Hundred Thousand Dollars ($500,000.00). However, the Deposit shall become non-refundable upon Purchaser’s acceptance of the Aircraft as evidenced by Purchaser’s execution of Exhibit C – Aircraft Technical Acceptance/Rejection Letter.
+
+“Discrepancies” means airworthiness discrepancies or other discrepancies that cause the Aircraft to be out of compliance with the Delivery Condition as determined by the Inspection Facility, as per Exhibit B.
+
+“Dollar, dollar, US$, $” means the lawful currency of the United States of America from time to time.
+
+“Escrow Agent” means Insured Aircraft Title Service, Inc., Attention: Kirk Woford, 4848 S.W. 36th Street, Oklahoma City, OK, 73179, Tel: (405) 681-6663, Fax: (405) 682-0810.
+
+“Escrow and Title Search Fee” means an amount not to exceed the sum of Seven Thousand Five Hundred Dollars ($7,500.00).
+
+“FAA” means the Federal Aviation Administration.
+
+“FAA Bill of Sale” means an FAA Aeronautical Center Form 8050-2 Aircraft Bill of Sale.
+
+“FAA Civil Aviation Registry” means the FAA Civil Aviation Registry, Aircraft Registration Branch, Mike Monroney Aeronautical Center, 6500 South MacArthur Boulevard, Oklahoma City, Oklahoma 73169.
+
+“FAR” means the Aeronautics Regulations of Title 14, Parts 1 to 399 of the United States Code of Federal Regulations, as amended.
+
+WWE April 2013 9192
+
+“Inspection” means the pre-purchase inspection conducted by the Inspection Facility to verify the Aircraft is in Delivery Condition as per Exhibit B which shall include a Records Review and Test Flight time is required to ensure the Aircraft complies fully with the Delivery Condition, which Inspection shall be conducted at Purchaser’s sole cost and expense except as otherwise provided herein.
+
+“Inspection Facility” means Jet Aviation, located at 6400 Curtiss Steinberg Dr., Cahokia, Illinois 62206, or such other inspection facility as may be designated by Purchaser and reasonably acceptable to Seller.
+
+“International Registry” means the International Registry of Mobile Assets established pursuant to the Cape Town Convention.
+
+“Lien” means any lien, mortgage, security interest, lease or other demand, claim, charge, international interest, prospective international interest, encumbrance or right of others, including, without limitation, rights of others under any engine or parts interchange, loan, lease, or pooling agreement, and any air navigation, EuroControl or other similar over-flight charges, and any foreign or domestic taxes, imposts or assessments.
+
+“Material Corrosion” means corrosion to the Aircraft (i) beyond manufacturer’s tolerances, or (ii) the repair of which constitutes Material Damage.
+
+“Material Damage" means any damage to the Aircraft or any part thereof that required or requires (i) the issuance of an FAA Form 337; (ii) any deviation from the approved manufacturer’s aircraft build specifications or standard production configuration, or (iii) an alteration or repair, which would constitute a “major repair” as such term is defined in 14 C.F.R., Part 43, Appendix A and/or recorded in a manner prescribed by 14 C.F.R., Part 43, Appendix B, or otherwise in the log books or records of the Aircraft or in an insurance claim or otherwise.
+
+“Professional User” and “Professional User Entity” have the meanings ascribed to the terms in Section 2.1.6 of the Registry Regulations.
+
+“Purchase Price” means the amount of Twenty Seven Million Five Hundred Thousand Dollars ($27,500,000.00).
+
+“Purchaser’s Broker” means Jet Advisors, LLC.
+
+“Registry Regulations” means the Regulations for the International Registry, which may be obtained online through the International Registry’s website at https://www.internationalregistry.aero.
+
+“Transacting User” and “Transacting User Entity” have the meanings ascribed to the terms in Section 2.1.11 of the Registry Regulations.
+
+“Warranties Assignments” means collectively the Bombardier Aerospace Corporation Assignment of Warranties in the form of Exhibit E attached hereto with respect to the manufacturer’s warranties and any other applicable warranties, if any, in effect for the Aircraft.
+
+“Warranty Bill of Sale” means a Warranty Bill of Sale in the form of Exhibit F attached hereto.
+
+ARTICLE II. AGREEMENT TO BUY AND SELL
+
+2.1
+
+Agreement. For and in consideration of the Purchase Price, and subject to and contingent upon Seller acquiring clear and marketable title to the Aircraft, on the Closing Date, Seller shall sell or cause to be sold, and deliver the Aircraft to Purchaser in the Delivery Condition on and subject to the terms and conditions set forth herein, and Purchaser shall purchase (and pay the Purchase Price for) and accept delivery of the Aircraft from Seller, on and subject to the terms and conditions set forth herein.
+
+WWE April 2013 9192
+
+2.2
+
+Deposit. Purchaser made the payment of the Deposit to Escrow Agent by wire transfer in immediately available funds on March 28, 2013. The Deposit shall be held by Escrow Agent and shall be applied towards the Purchase Price at the Closing or otherwise disbursed in accordance with the provisions of this Agreement. The Deposit is refundable to Purchaser, except as specifically provided in this Agreement. Upon execution and delivery of this Agreement by Purchaser and Seller, Seller shall cease all efforts to market or sell the Aircraft to a party other than Purchaser.
+
+ARTICLE III. AIRCRAFT CONDITION AND INSPECTION
+
+3.1
+
+Aircraft Condition. The Aircraft shall be delivered to Purchaser on the Closing Date in the Delivery Condition.
+
+3.2
+
+Inspection Authority. The Aircraft and the Aircraft Documents shall be ferried and delivered by Seller, at its sole cost and expense to the Inspection Facility and shall be subjected to the Inspection, the scope of which is more particularly set forth on Exhibit H attached hereto, for the purpose of enabling Purchaser to determine that the Aircraft is in the Delivery Condition as required by Section 3.1, including without limitation, a technical assessment, performance runs and boroscoping of the engines, boroscoping of the APU, for which Seller shall request written permission from Garrett/AlliedSignal/Honeywell, if required under any applicable service contract, and a hard landing inspection. Purchaser shall pay all costs and expenses of the Inspection and any tests or investigations carried out by or at the request of Purchaser, provided, however, that Purchaser’s responsibility for costs associated with any acceptance or evaluation flight(s) shall be limited to the fuel consumed during such flight(s), navigation fee, landing fees, handling fees and the fees and expenses for the flight crew provided either by the Inspection Facility or another mutually agreed flight crew which shall include Seller’s pilot as pilot-in-command. In this respect, Purchaser shall open a work order with the Inspection Facility for its account and pre-pay the quoted cost of the Inspection by the Inspection Facility. All acceptance or evaluation flights shall be flown by either the Inspection Facility’s designated or approved pilots or another mutually agreed flight crew which shall include Seller’s pilot as pilot-in-command. Seller shall have and retain “operational control” of the Aircraft (meaning, with respect to a flight, the exercise of authority over initiating, conducting or terminating a flight) and exclusive possession, command and control over the Aircraft during all such acceptance or evaluation flights. The pilot-in-command shall have final and complete authority to postpone or cancel any flight for any reason or condition which, in his or her judgment, will compromise the safety of the flight. The parties further acknowledge and agree that only personnel essential to the safe and reasonable conduct of the acceptance or evaluation flights shall be on board the Aircraft, including three (3) technical representatives of Purchaser and Seller’s technical representative (with one pilot occupying the jump seat or the right seat if such pilot is specifically approved (i) by the insurance carrier providing Seller’s insurance for the Aircraft, and (ii) by the Inspection Facility). In addition, Purchaser shall be entitled to have one of its technicians onsite at the Inspection Facility to observe the Inspection.
+
+3.3
+
+Inspection Location and Commencement. At Purchaser’s sole cost and expense, the Inspection shall be performed by the Inspection Facility, and shall be scheduled to commence on or about April 22, 2013.
+
+3.4
+
+Aircraft Rejection/Post Inspection. Within two (2) business days after the completion of the Inspection and the delivery of the final, written Inspection report to both parties, pursuant to the terms of this Agreement, but prior to rectification of any Discrepancies found during the Inspection and prior to starting the performance of all scheduled inspections and maintenance due within six (6) months or 150 flight hours from the Closing, Purchaser will (i) accept the Aircraft, (ii) accept the Aircraft, subject to the correction and repair of the Discrepancies, or (iii) reject the Aircraft, by delivering to Seller, with a copy to Escrow Agent, a completed, executed Aircraft Technical Acceptance/Rejection Letter with the applicable line marked to show Purchaser’s acceptance or rejection. Purchaser may, in its sole discretion, reject the Aircraft if the Aircraft is not satisfactory to Purchaser. In the event Purchaser rejects the Aircraft pursuant to Section 3.4, upon confirmation that Purchaser has paid all cost and expenses of the Inspection incurred prior to the rejection, the Deposit shall, subject to Section 4.5, immediately be refunded to Purchaser, and this Agreement shall terminate and be of no further force or effect and neither party shall have any further liability or obligation hereunder.
+
+WWE April 2013 9192
+
+3.5
+
+Failure to Deliver Technical Acceptance/Rejection Letter. If Purchaser does not deliver a completed Aircraft Technical Acceptance/Rejection Letter to Seller on or before the two (2) business days after completion of the Inspection and receipt of the final, written Inspection report, Purchaser shall be deemed to have rejected the Aircraft and upon confirmation that Purchaser has paid all cost and expenses of the Inspection incurred prior to the deemed rejection, the Deposit shall be immediately refunded to Purchaser, and this Agreement shall terminate and be of no further force or effect and neither party shall have any further liability or obligation hereunder.
+
+3.6
+
+Correction of Discrepancies. If Purchaser has accepted the Aircraft pursuant to the Aircraft Technical/Acceptance Letter, Seller shall, at Seller’s cost and expense, cause all airworthiness Discrepancies, any Discrepancy outside of limits per manufacturer’s specifications, and any Discrepancy that causes the Aircraft to not be in compliance with the Delivery Condition to be corrected as determined by the Inspection Facility. Following Seller’s correction of all such Discrepancies, one (1) or more additional acceptance or evaluation flights (not to exceed two (2) hours duration, in the aggregate) maybe performed if required by the Inspection Facility to verify correction of any such Discrepancies or return the Aircraft to unrestricted service. Purchaser’s responsibility for costs associated with any such additional acceptance or evaluation flight(s) shall be limited to the fuel consumed during such flight(s), navigation fee, landing fee, handling fee and the fees and expenses for the flight crew provided by the Inspection Facility or another mutually agreed flight crew which shall include Seller’s pilot as pilot-in-command. Such additional evaluation or acceptance flights shall be conducted in accordance with Section 3.2.
+
+ARTICLE IV. CLOSING PROCEDURES
+
+4.1
+
+Pre-Closing Obligations.
+
+4.1.1
+
+Prior to the Closing, Escrow Agent shall prepare and deliver to Purchaser and Seller title reports for the Aircraft and each of the Aircraft’s engines, which reports shall include relevant information from the FAA Civil Aviation Registry and the International Registry.
+
+4.1.2
+
+Prior to the Closing, Seller shall, at its sole cost and expense, ferry and position the Aircraft at the Delivery Location.
+
+4.1.3
+
+On or prior to the Closing, Seller shall deliver, or cause to be delivered, to Escrow Agent:
+
+4.1.3.1
+
+an undated, but otherwise fully executed, FAA Bill of Sale and an undated, but otherwise fully executed, Warranty Bill of Sale, in each case from the Seller in favor of Purchaser;
+
+4.1.3.2
+
+an undated, but otherwise fully executed, Warranties Assignment; and
+
+4.1.3.3
+
+releases of all Liens, if any, affecting title to the Aircraft or the engines, other than Liens created by or through Purchaser or by persons claiming by or through Purchaser.
+
+4.1.4
+
+On or prior to the Closing, Purchaser shall deliver to Escrow Agent:
+
+4.1.4.1
+
+an undated, but otherwise fully executed, Aircraft Registration Application for the Aircraft; and
+
+4.1.4.2
+
+the Balance of the Purchase Price, plus one-half of the Escrow and Title Search Fee.
+
+4.2
+
+Conditions Precedent to Seller’s Obligations. Seller’s obligation to sell and deliver the Aircraft to Purchaser on the Closing Date shall be subject to the following conditions precedent:
+
+4.2.1
+
+At the time of the Closing, Purchaser shall not be in breach or default of any of Purchaser’s obligations arising under this Agreement.
+
+WWE April 2013 9192
+
+4.2.2
+
+At the time of the Closing, all of Purchaser’s representations set forth in Section 5.2 shall be true and accurate in all material respects.
+
+4.2.3
+
+Prior to the Closing and prior to ferrying the Aircraft from the Inspection Facility to the Delivery Location, Purchaser shall have delivered to Escrow Agent an undated, but otherwise fully executed, Aircraft Registration Application for the Aircraft, and the Balance of the Purchase Price.
+
+4.3
+
+Conditions Precedent to Purchaser’s Obligations. Purchaser’s obligation to purchase and accept delivery of the Aircraft from Seller on the Closing Date shall be subject to the following conditions precedent:
+
+4.3.1
+
+At the time of the Closing, Seller shall not be in breach or default of any of Seller’s obligations arising under this Agreement.
+
+4.3.2
+
+At the time of the Closing, all of Seller’s representations set forth in Section 5.1 shall be true and accurate in all material respects.
+
+4.3.3
+
+Prior to the Closing, Seller shall have delivered or cause to be delivered to Escrow Agent an undated, but otherwise fully executed, FAA Bill of Sale, an undated, but otherwise fully executed, Warranty Bill of Sale, an undated, but otherwise fully executed Warranties Assignment and releases of all Liens, if any, affecting title to the Aircraft or the engines, other than Liens created by or through Purchaser or by persons claiming by or through Purchaser.
+
+4.3.4
+
+Prior to the Closing, Seller shall have become an approved Transacting User and shall act as its own Professional User Entity for purposes of discharging any international interests Seller may have in the Aircraft, consenting to Purchaser’s registration of a contract of sale with respect to the Aircraft following transfer of title of the Aircraft from Seller to Purchaser and Seller’s receipt of the Purchase Price, and any other related actions, and complied with all other obligations of Seller under Section 4.5.1 and 4.5.2 of this Agreement.
+
+4.3.5
+
+Prior to the Closing, Seller, at its sole cost and expense, shall have positioned the Aircraft at the Delivery Location.
+
+4.3.6
+
+Prior to the Closing, Seller, at its sole cost and expense, shall have corrected or repaired all airworthiness Discrepancies, any Discrepancy outside of limits per manufacturer’s specifications, and any Discrepancy that causes the Aircraft to not be in compliance with the Delivery Condition as determined by the Inspection Facility.
+
+4.3.7
+
+At the time of the Closing, all applicable airframe and engine maintenance contracts shall be paid up to the Closing Date and transferable, if allowed by the service provider, to Purchaser, as set forth in Schedule 1 attached to Exhibit B – Delivery Conditions.
+
+4.3.8
+
+At the time of the Closing, the Aircraft shall be in the required Delivery Condition.
+
+4.4
+
+Closing. Unless the Purchaser has rejected the Aircraft pursuant to Section 3.4, the Closing shall occur within five (5) Business Days after the Inspection Facility confirms that the Aircraft is in the required Delivery Condition, the Inspection Facility’s issuance of a return to service order for the Aircraft, and there are no Discrepancies on the Aircraft. At the time of the Closing, the parties shall perform the following closing deliveries, all of which collectively shall constitute the Closing:
+
+4.4.1
+
+Seller shall position the Aircraft at the Delivery Location. The flight from the Inspection Facility to the Delivery Location shall be at Seller’s cost.
+
+4.4.2
+
+Subject to the Aircraft being in the required Delivery Condition Purchaser shall accept delivery of the Aircraft from Seller at the Delivery Location by delivering to Seller a fully executed Delivery
+
+WWE April 2013 9192
+
+Receipt. Actual possession of the Aircraft shall not transfer to Purchaser until completion of the conditions set forth in Section 4.4.3 below.
+
+4.4.3
+
+Seller and Purchaser shall commence a conference call with Escrow Agent during which:
+
+4.4.3.1
+
+Upon confirmation of the receipt of the Purchase Price by Escrow Agent, Seller, and the holder(s) of any Lien(s), if applicable, shall have filed any Lien releases in the FAA Civil Aviation Registry and shall instruct Escrow Agent to date and file the FAA Bill of Sale, to discharge any registration with the International Registry by Seller and/or any such Lien holder of any international interest in the Aircraft, to consent on behalf of Seller to Purchaser's registration with the International Registry of a contract of sale of the Aircraft in favor of Purchaser, and to deliver to Purchaser the Warranty Bill of Sale and the Warranties Assignments; and
+
+4.4.3.2
+
+Purchaser shall simultaneously with the execution of the actions and items set forth in Subsection 4.4.3.1 instruct Escrow Agent to date and file the Aircraft Registration Application in the FAA Civil Aviation Registry, to register a contract of sale of the Aircraft in favor of Purchaser, and to release and wire the Purchase Price as instructed by Seller less Seller’s sum of one-half of the Escrow and Title Search Fee which shall be retained by Escrow Agent.
+
+Each of the events described in this Section 4.4 shall take place sequentially and shall be contingent upon the occurrence of each of the other such events.
+
+4.5
+
+International Registry Matters.
+
+4.5.1
+
+Purchaser will not register, consent to, or allow any third party to register any international interest or prospective international interest under the Cape Town Convention with respect to the airframe or the engines on the Aircraft until such time as title to the Aircraft has been transferred from Seller to Purchaser.
+
+4.5.2
+
+Seller represents that it is an entity properly registered under the Cape Town Convention registry. Seller will, at Closing, provide its consent to the registration of an international interest evidencing the transfer of title to the Aircraft to Purchaser, provided all amounts due to Seller under the Agreement have been paid in full.
+
+4.5.3
+
+In the event of termination of this Agreement for any reason whatsoever, any reimbursement to be made to Purchaser shall be conditional upon Purchaser discharging or causing the discharge of any registration created by or through Purchaser or by persons claiming by or through Purchaser. Upon request, Purchaser shall provide Seller with sufficient evidence to satisfy Seller that any such registrations have been discharged. Notwithstanding the foregoing, if Seller commences court proceedings to obtain the discharge of any such registrations created in contravention of this Section 4.5, Seller shall be entitled to recover against Purchaser any and all costs, fees and expenses (including attorney’s fees) incurred by Seller to obtain such discharge and Purchaser shall also be liable for any and all damages suffered by Seller as a result of Purchaser’s breach of its obligations under this Section 4.5. Seller shall be entitled to set-off such costs, fees, expenses and damages against any reimbursement to be made to Purchaser under this Agreement.
+
+ARTICLE V. REPRESENTATIONS AND WARRANTIES
+
+5.1
+
+Seller’s Representations and Warranties. Seller hereby represents and warrants to Purchaser that, as of the date of execution of this Agreement and as of the Closing Date:
+
+WWE April 2013 9192
+
+5.1.1
+
+Seller is a corporation, duly formed, validly existing, and in good standing under the laws of Delaware, having the capacity to sue and be sued in its own name, having full power, legal right and authority to carry on its business as currently conducted, and to execute, deliver and perform the provisions of this Agreement.
+
+5.1.2
+
+The execution, delivery, and performance by Seller of this Agreement, and the sale of the Aircraft, have been duly authorized by all necessary actions on behalf of Seller and do not conflict with or result in any breach of any of the terms or constitute a default under any document, instrument, or agreement to which Seller is a party.
+
+5.1.3
+
+The person executing this Agreement on behalf of Seller has full power and authority to do so.
+
+5.1.4
+
+This Agreement constitutes the legal, valid and binding obligations of Seller and is enforceable against Seller in accordance with its terms.
+
+5.1.5
+
+Seller has, or on the Closing Date will have, the exclusive right, title and interest to own the Aircraft and, at the time of the Closing, Seller shall cause title in and to the Aircraft to pass and to be conveyed to Purchaser free and clear of any and all Liens whatsoever (except for Liens created by or through Purchaser or by persons claiming by or through Purchaser) and Seller will warrant and defend such title forever against all claims and demands whatsoever (except for Liens created by or through Purchaser or by persons claiming by or through Purchaser).
+
+5.1.6
+
+Seller has not entered into any agreement (other than this Agreement) pursuant to which Seller is or may be contractually and/or legally obligated to sell, lease, assign or otherwise transfer the Aircraft or any interest in the Aircraft to any party other than Purchaser.
+
+5.2
+
+Purchaser’s Representations and Warranties. Purchaser hereby represents and warrants to Seller that, as of the date of execution of this Agreement and as of the Closing Date:
+
+5.2.1
+
+Purchaser is a Delaware corporation, duly formed, validly existing, and in good standing under the laws of the State of Delaware, having the capacity to sue and be sued in its own name, having full power, legal right and authority to carry on its business as currently conducted, and to execute, deliver and perform the provisions of this Agreement.
+
+5.2.2
+
+The execution, delivery, and performance by Purchaser of this Agreement, and the acquisition of the Aircraft, have been duly authorized by all necessary action on behalf of Purchaser and do not conflict with or result in any breach of any of the terms or constitute a default under any document, instrument, or agreement to which Purchaser is a party.
+
+5.2.3
+
+The person executing this Agreement on behalf of Purchaser has full power and authority to do so.
+
+5.2.4
+
+This Agreement constitutes the legal, valid and binding obligations of Purchaser and is enforceable against Purchaser in accordance with its terms.
+
+ARTICLE VI. DISCLAIMER
+
+6.1
+
+THE WARRANTY, OBLIGATIONS AND LIABILITIES OF SELLER AND THE RIGHTS AND REMEDIES OF PURCHASER SET FORTH IN THIS AGREEMENT AND IN THE WARRANTY BILL OF SALE ARE EXCLUSIVE AND ARE IN LIEU OF, AND PURCHASER HEREBY WAIVES AND RELEASES, ALL OTHER WARRANTIES, OBLIGATIONS, REPRESENTATIONS OR LIABILITIES, EXPRESS OR IMPLIED, ARISING BY LAW, IN CONTRACT, CIVIL LIABILITY OR IN TORT, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO A) ANY IMPLIED WARRANTY OF MERCHANTABILITY OR IMPLIED WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR OF ANY IMPLIED CONDITION, AND B) ANY OTHER
+
+WWE April 2013 9192
+
+OBLIGATION OR LIABILITY ON THE PART OF SELLER TO ANYONE OF ANY NATURE WHATSOEVER BY REASON OF THE DESIGN, MANUFACTURE, SALE, REPAIR, LEASE OR USE OF THE AIRCRAFT OR RELATED PRODUCTS AND SERVICES DELIVERED OR RENDERED HEREUNDER. TO THE EXTENT APPLICABLE LAWS DO NOT ALLOW THE LIMITATIONS SET OUT IN SECTION 6.1, SUCH LIMITATIONS SHALL NOT BE APPLIED OR INVOKED.
+
+6.2
+
+SELLER SHALL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL AND/OR PUNITIVE DAMAGES OF ANY KIND OR NATURE UNDER ANY CIRCUMSTANCES OR, WITHOUT LIMITING THE FOREGOING, FOR ANY LOST PROFITS OR ANY OTHER LOSSES OR DAMAGES FOR OR ARISING OUT OF ANY LACK OR LOSS OF USE OF ANY AIRCRAFT, ANY EQUIPMENT, ANY ACCESSORY OR ANY SPARE PART FOR ANY REASON.
+
+6.3
+
+SUBJECT TO THE PROVISIONS OF THIS AGREEMENT, THE PARTIES HERETO HEREBY ACKNOWLEDGE AND AGREE THAT THE LIMITED WARRANTIES AND THE LIMITATION OF LIABILITY CLAUSES CONTAINED IN THIS ARTICLE 6 HAVE BEEN EXPRESSLY AGREED TO FOR THE BENEFIT OF BOTH BOMBARDIER AEROSPACE CORPORATION (THE SELLER) AND BOMBARDIER INC. (THE MANUFACTURER OF THE AIRCRAFT) TO HAVE EFFECT AS IF BOMBARDIER INC. WAS A PARTY TO THIS AGREEMENT FOR SUCH PURPOSES; PROVIDED, HOWEVER, THAT NOTHING HEREIN SHALL LIMIT, WAIVE OR OTHERWISE MODIFY OR AFFECT ANY REMAINING MANUFACTURER WARRANTIES ON THE AIRCRAFT.
+
+ARTICLE VII. TAXES
+
+7.1
+
+Purchaser shall pay to and indemnify Seller for, and hold Seller harmless from and against, all franchise, gross receipts, sales, use, excise, personal property, ad valorem, value added, stamp, landing, airport use or other taxes, levies, imposts, duties, charges, fees, asset tax or withholdings of any nature, together with any penalties, fines or interest thereon (collectively "Taxes") as a result of or in connection with the Agreement and imposed against the Seller, the Purchaser or the Aircraft, or any part thereof, by any federal or foreign government, any state, municipal or local subdivision, any agency or instrumentality thereof or other taxing authority, or upon the ownership, delivery, possession, or transfer thereof, or upon or with respect to the Agreement. If a claim is made against Seller for any Taxes that is subject to indemnification by Purchaser, Seller shall notify Purchaser promptly of such claim in writing.
+
+7.2
+
+Purchaser shall not be responsible for; (i) any taxes on, or measured by, the net income of Seller or amounts in lieu of such taxes imposed by a governmental authority in any jurisdiction; or (ii) any Taxes, or any penalties, fines or interest thereon, imposed solely as a result of the willful misconduct or gross negligence of Seller; or (iii) any Taxes which relate to events occurring prior to the Delivery Time. Seller shall indemnify and hold Purchaser harmless from any such Taxes, penalties, fines or interest imposed on Purchaser solely as a result of (i) (ii) or (iii) above. If a claim is made against Purchaser for any Taxes that is subject to indemnification by Seller, Purchaser shall notify Seller promptly of such claim in writing.
+
+ARTICLE VIII. MISCELLANEOUS
+
+8.1
+
+Third-Party Warranties. To the extent that any warranties from manufacturers and service providers or suppliers with respect to the Aircraft are in effect and are assignable, all rights under such warranties are hereby assigned and transferred to Purchaser effective at the time of the Closing.
+
+Seller shall reasonably assist Purchaser in maintaining continuity of and transferring any such warranties, and shall take all reasonable steps to assist Purchaser in asserting and processing warranty claims after the Closing, which assistance may include executing documents or agreements that are reasonably necessary to vest all rights under such warranties in Purchaser, provided Purchaser shall pay any and all costs and expenses incurred by Seller with respect to the foregoing. Without limiting the generality of the foregoing, effective upon the Closing, Seller hereby assigns to Purchaser:
+
+WWE April 2013 9192
+
+8.1.1
+
+all rights to enforce or compel performance under any such warranty; and
+
+8.1.2
+
+all claims for damages arising out of or for breach or default under any such warranty, and all rights to exercise any remedy for breach or default under any such warranty that may be available under such warranty, at law, or in equity after the Closing.
+
+8.2
+
+Limited Use of Aircraft by Seller, Risk of Loss, Damage or Destruction of Aircraft.
+
+8.2.1
+
+Limited use of Aircraft. Seller shall ensure that the Aircraft shall have no more than 1385 total airframe hours at the Closing, except that the aircraft airframe hours may exceed 1385 if said additional hours are incurred for reason of any acceptance or evaluation flights or for positioning the Aircraft to a Delivery Location other than Tucson, Arizona.
+
+8.2.2
+
+Risk of Loss. Seller shall bear all risk of loss, damage, or destruction of the Aircraft until title to the Aircraft is transferred from Seller to Purchaser and thereafter, Purchaser shall bear all risk of loss, damage, or destruction of the Aircraft.
+
+8.2.3
+
+Destruction or Damage Beyond Economic Repair. Notwithstanding any contrary provision of this Agreement, if at any time prior to the Closing the Aircraft is destroyed or damaged beyond economic repair, the Deposit shall, subject to Section 4.5, immediately be refunded to Purchaser and this Agreement shall terminate and be of no further force or effect and neither party shall have any further liability or obligation hereunder.
+
+8.2.4
+
+Repairable Damage. Notwithstanding any contrary provision of this Agreement, if at any time prior to the Closing the Aircraft sustains any Material Damage or is otherwise damaged, but not beyond economic repair, Seller shall immediately notify Purchaser of the extent of such damage and the time required to repair such damage. Upon receipt of such notice, Purchaser, in its sole discretion, shall elect either to terminate this Agreement by written notice to Seller and Escrow Agent, or to purchase the Aircraft after it is repaired by Seller and otherwise returned to the Delivery Condition. Purchaser shall provide Seller written notice of Purchaser’s election within two (2) Business Days of receipt of Seller’s notice. If Purchaser does not provide such notice to Seller within such two (2) Business Days, Purchaser shall be deemed to have elected to terminate this Agreement. If Purchaser elects or is deemed to have elected to terminate this Agreement, the Deposit shall, subject to Section 4.5, immediately be refunded to Purchaser, this Agreement shall be of no further force or effect, and neither party shall have any further liability or obligation hereunder. If Purchaser elects to purchase the Aircraft after it is repaired and otherwise returned to the Delivery Condition, Seller shall at its own expense cause such damage to be repaired as soon as reasonably practicable, and the Closing shall be delayed until all such repairs are completed to the extent required for the Inspection Facility to determine that the Aircraft is in the Delivery Condition.
+
+8.3
+
+Termination and Defaults.
+
+8.3.1
+
+Termination. Either party may terminate the Agreement before Closing by written notice of termination to the other party upon the occurrence of any of the following events: (i) the other party makes an assignment for the benefit of creditors, or admits in writing its inability to pay its debts; (ii) a receiver or trustee is appointed for the other party or for substantially all of such party's assets and, if appointed without such party's consent, such appointment is not discharged or stayed within thirty (30) days; (iii) proceedings under any law relating to bankruptcy, insolvency or the reorganization or relief of debtors are instituted by or against the other party and, if contested by such party, are not dismissed or stayed within thirty (30) days; or (iv) any writ of attachment or execution or any similar process is issued or levied against the other party or any significant part of its property and is not released, stayed, bonded or vacated within thirty (30) days after its issue or levy. In the event of termination by Purchaser pursuant to the provisions of this Section 8.3.1, the Deposit shall, subject to Section 4.5, immediately be refunded to Purchaser, this Agreement shall be of no further
+
+WWE April 2013 9192
+
+force or effect, and neither party shall have any further liability or obligation hereunder. In the event of termination by Seller pursuant to the provisions of this Section 8.3.1, the Deposit shall be retained by Seller, this Agreement shall be of no further force or effect, and neither party shall have any further liability or obligation hereunder.
+
+8.3.2
+
+Seller’s Default.
+
+8.3.2.1
+
+In the event Purchaser has accepted the Aircraft as provided in Section 3.4 and Seller (i) fails to deliver the Aircraft to Purchaser in accordance with the terms and conditions of this Agreement for any reason other than Seller’s failure to acquire clear and marketable title to the Aircraft, and/or (ii) is in breach or default of any material term or condition of this Agreement, and does not act to cure such default or breach within (10) days after receipt of written notice from Purchaser specifying such default or breach, and does not continue thereafter to diligently and in good faith correct or cure the alleged default or breach and subsequently cure such breach or default within forty (40) days after receipt of written notice from Purchaser specifying such default or breach, and provided Purchaser is not in breach or default of this Agreement, Purchaser shall have the right, as its sole and exclusive remedy, to terminate this Agreement by written notice to Seller and Escrow Agent, whereupon the Deposit shall immediately be refunded to Purchaser, and thereupon this Agreement shall be of no further force or effect and neither party shall have any further liability or obligation hereunder. Purchaser waives any other remedies that may be available to Purchaser at law or in equity other than as set forth in this Section 8.3.2.
+
+8.3.2.2
+
+In the event Purchaser has accepted the Aircraft as provided in Section 3.4 and Seller fails to deliver the Aircraft to Purchaser in accordance with the terms and conditions of this Agreement due to Seller’s failure or inability to acquire clear and marketable title to the Aircraft, and provided Purchaser is not in breach or default of this Agreement, Purchaser shall have the right, as its sole and exclusive remedy, to terminate this Agreement by written notice to Seller and Escrow Agent, whereupon (a) the Deposit shall immediately be refunded to Purchaser, and (b) Seller shall reimburse Purchaser for the reasonable and documented costs, expenses and fees with respect to the Inspection, test flights and maintenance consultants incurred by Purchaser in connection with the transactions contemplated by this Agreement, and thereupon this Agreement shall be of no further force or effect and neither party shall have any further liability or obligation hereunder. Seller and Purchaser acknowledge and represent that the refund of the Deposit and reimbursement for expenses and fees as set forth in Subsections (a) and (b) of this Section 8.3.2.2 is a reasonable estimate of the damages that would be incurred by Purchaser in the event Seller defaults on Seller’s obligations under this Agreement as a result of Seller’s failure or inability to acquire free and clear title to the Aircraft on or prior to the Closing Date. Purchaser waives any other remedies that may be available to Purchaser at law or in equity other than as set forth in this Section 8.3.2.
+
+8.3.3
+
+Purchaser’s Default. In the event Purchaser has accepted the Aircraft as provided in Section 3.4 and Seller tenders delivery of the Aircraft in the Delivery Condition in accordance with the terms and conditions of this Agreement and Purchaser fails to accept delivery of the Aircraft and pay the Purchase Price to Seller in accordance with the terms and conditions of this Agreement, and such failure continues for (10) days after receipt of written notice thereof from Seller, and provided Seller is not in breach or default of this Agreement, Seller shall have the right to terminate this Agreement by written notice to Purchaser and Escrow Agent, whereupon Escrow Agent shall pay the Deposit to Seller, as liquidated damages, and thereupon this Agreement shall be of no further force or effect. Seller and Purchaser acknowledge and represent that the liquidated damages amount provided for in this Section 8.3.3 is a reasonable estimate of the damages that would be incurred by Seller in the event Purchaser defaults on Purchaser’s obligations under this Agreement. Seller’s rights to terminate the Agreement and receive the liquidated damages amount shall be the sole and exclusive remedy
+
+WWE April 2013 9192
+
+available to Seller in the event Purchaser defaults on Purchaser’s obligations under this Agreement, and Seller waives any other remedies that may be available to Seller at law or in equity.
+
+8.4
+
+Amendments. The provisions of this Agreement may not be waived, altered, modified, amended, or supplemented in any manner whatsoever except by written instrument signed by both parties hereto.
+
+8.5
+
+Severability. Any provision of this Agreement that may be determined by competent authority to be prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+8.6
+
+Assignment. Except as otherwise set forth herein, neither party may assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the other party. Notwithstanding the foregoing, upon written notice to Seller, Purchaser shall be entitled to assign its rights under this Agreement to (i) an affiliate or a related party, or (ii) a leasing company in connection with Purchaser ’s lease financing of the Aircraft, provided that Purchaser shall remain jointly and severally liable for its obligations under this Agreement; provided, however, that such assignee shall be in compliance with Seller’s standard due diligence requirements. Notwithstanding the first sentence of this Section 8.6, Purchaser hereby acknowledges that Seller shall have the right, without Purchaser’s consent, to create a security interest or hypothecation with respect to this Agreement or to collaterally assign this Agreement or any of its rights hereunder to any financial institution or to a wholly-owned subsidiary or affiliate of Seller, provided that Seller’s assignment to a financial institution or creation of a security interest or hypothecation shall be solely for the purpose of securing financing, and provided further that any such security interest or hypothecation shall be released in full on or prior to the Closing Date.
+
+8.7
+
+Successor and Assigns. This Agreement shall inure to the benefit of and be binding upon each of the parties hereto and their respective permitted successors and assigns.
+
+8.8
+
+Headings and References. The division of this Agreement into sections, and the insertion of headings, are for convenience of reference only and shall not affect the construction or interpretation of this Agreement.
+
+8.9
+
+Counterparts. This Agreement may be fully executed in counterparts by each of the parties hereto, all such counterparts together constituting but one and the same instrument. Such counterparts may be exchanged via facsimile transmission or emailed in portable document format provided that immediately following such transmission, each party shall forward an executed original copy of the counterpart to the other party by first class mail or courier; provided, however, that the failure to obtain an original copy shall not affect the validity or enforceability of this Agreement.
+
+8.10
+
+Notices. All communications, declarations, demands, consents, directions, approvals, instructions, requests and notices required or permitted by this Agreement shall be in writing and shall be deemed to have been duly given or made when delivered personally or transmitted electronically by e-mail or facsimile, receipt acknowledged, or in the case of documented overnight delivery service or registered or certified mail, return receipt requested, delivery charge or postage prepaid, on the date shown on the receipt therefor, in each case at the address set forth below:
+
+If to Seller: Bombardier Aerospace Corporation
+
+3400 Waterview Parkway, Suite 400
+
+Richardson TX 75080
+
+Attn: Luke Frick
+
+Telephone: 972-960-3817
+
+Facsimile: 972-960-3853
+
+ Email: luke.frick@aero.bombardier.com
+
+WWE April 2013 9192
+
+If to Purchaser: World Wrestling Entertainment, Inc.
+
+1241 East Main Street
+
+Stamford CT 06902
+
+Attn: Emma Rubinov - and - Attn: Jim Langham
+
+Telephone: (203) 352-1167 Telephone: (203) 359-5169
+
+Facsimile: (203) 352-8699 Facsimile: (203) 353-0236
+
+With a Copy to: Jet Advisors®, LLC
+
+200 Hanscom Drive, Suite 301
+
+Bedford, MA 01730
+
+Attn: Kevin O'Leary
+
+Telephone: (617) 600-6868
+
+Facsimile: (617) 830-0405
+
+If to Escrow Agent: Insured Aircraft Title Service, Inc.
+
+4848 S.W. 36th Street
+
+Oklahoma City, OK 73179
+
+Attn: Kirk Woford
+
+Tel: (405) 681-6663
+
+Fax: (405) 682-0810
+
+Seller shall provide to Purchaser a copy of all communications, declarations, demands, consents, directions, approvals, instructions, requests and notices sent by Seller to Escrow Agent related to this Agreement, and Purchaser shall provide to Seller a copy of all communications, declarations, demands, consents, directions, approvals, instructions, requests and notices sent by Purchaser to Escrow Agent related to this Agreement other than bank account information or fees payable to its consultants or broker from escrow. Failure of either party to provide a copy of any such notice to the other party shall not be construed as a default under any provision of this Agreement.
+
+8.11
+
+Non-Waiver. Any failure at any time of either party to enforce any provision of this Agreement shall not constitute a waiver of such provision or prejudice the right of such party to enforce such provision at any subsequent time.
+
+8.12
+
+Entire Agreement. The parties agree that the terms and conditions of this Agreement constitute the entire agreement between the parties. This Agreement supersedes all prior agreements between the parties, express or implied.
+
+8.13
+
+Transaction Costs and Expenses. Purchaser and Seller shall each pay one-half (½) of the Escrow and Title Search Fees. Except as otherwise set forth herein, each party to this Agreement shall bear its own transaction costs and expenses, including, without limitation, any brokers’ commissions and/or attorneys’ fees. Without limiting the generality of the foregoing, (i) all International Registry charges for Purchaser to become a Transacting User Entity or Transacting User, and to register Purchaser’s international interest in the Aircraft, shall be paid by Purchaser; and (ii) all International Registry charges for Seller to become a Transacting User Entity or Transacting User, and all charges in connection with the removal of any encumbrance on title, including without limitation International Registry charges to discharge any international interest in the Aircraft that Seller or any lienholders (other than any lienholders claiming by or through Purchaser) may have, shall be paid by Seller.
+
+8.14
+
+Brokerage Fees and Expenses. Purchaser shall pay, and shall defend, indemnify, and hold Seller harmless from and against, all brokerage fees and commissions due and payable to Purchaser’s Broker and any other aircraft brokers or other persons or entities arising from any actual or alleged relationship with Purchaser arising from the sale of the Aircraft. Seller shall pay, and shall defend, indemnify, and hold Purchaser harmless
+
+WWE April 2013 9192
+
+from and against, all brokerage fees and commissions due and payable to any aircraft brokers or other persons or entities arising from any actual or alleged relationship with Seller arising from the sale of the Aircraft.
+
+8.15
+
+Survival. All terms of this Agreement calling for effectiveness or survivability after the Closing shall survive the Closing.
+
+8.16
+
+Time is of the Essence. Time shall be of the essence for all events contemplated hereunder.
+
+8.17
+
+Continuing Obligations. Each party shall take, or cause to be taken, such actions, and will execute and deliver, or cause to be executed and delivered, such additional documents and instruments, and will do, or cause to be done, all such actions as are necessary, in conjunction with, and after the Closing, to effectuate the transactions contemplated in this Agreement.
+
+8.18
+
+Governing Law. The Parties agree that the provisions of this Agreement shall be construed and enforced according to the laws of the State of New York, United States of America, regardless of the choice of law provisions of any other jurisdiction, including the State of New York.
+
+8.19
+
+Dispute Resolution. Any controversy, dispute or claim between the Parties arising out of the interpretation, performance, non-performance or breach or alleged breach of this Agreement (“Dispute”) shall be submitted to a state or federal court located in New York, New York, United States of America, and each of Purchaser and Seller hereby agree to submit to the jurisdiction of the federal or state courts located in New York, New York, United States of America in respect of any such suit or proceeding.
+
+8.20
+
+Force Majeure. Neither Seller nor Purchaser shall be liable for any failure to perform pursuant to this Agreement (including but not limited to failure to deliver or delay in delivering the Aircraft) provided such failure or delay is due to acts of God or the public enemy (civil war, insurrection or riots); acts of terrorism; fires, floods, explosions or serious accidents; any act of any government or any agency thereof; strikes or labor disputes or problems; unavailability of parts or equipment, or other delay or failure of transportation, subcontractors or suppliers; or any other cause beyond Seller's or Purchaser’s (as the case may be) reasonable control (“Force Majeure Events”). However if any Force Majeure Event causes any such failure to continue beyond fifteen (15) Business Days after the date upon which the Closing should have occurred in accordance herewith, the Purchaser and Seller shall have the option of terminating this Agreement by written notice to Seller and Escrow Agent, whereupon the Escrow Agent shall, subject to Section 4.5, return the Deposit to Purchaser, this Agreement shall be of no further force or effect, and neither party shall have any further liability or obligation hereunder.
+
+* * * Signature Page Follows * * *
+
+WWE April 2013 9192
+
+IN WITNESS WHEREOF, the undersigned parties have caused this Agreement to be executed, delivered and effective as of the date first above written.
+
+Seller:
+
+Bombardier Aerospace Corporation
+
+By:
+
+/s/ Luke Frick
+
+Print:
+
+Luke Frick
+
+Title:
+
+Contracts Manager
+
+Date:
+
+April 30, 2013
+
+Purchaser:
+
+World Wrestling Entertainment, Inc.
+
+By:
+
+/s/ George A. Barrios
+
+Print:
+
+George A. Barrios
+
+Title:
+
+Chief Financial Officer
+
+Date:
+
+April 30, 2013
+
+CONSENT AND JOINDER
+
+Purchaser and Seller hereby appoint Escrow Agent as document holder and stakeholder for the sale and purchase of the Aircraft and Escrow Agent accepts such appointment for and in consideration of the Escrow and Title Search Fee. The parties acknowledge that Escrow Agent is acting as a document holder and stakeholder only, its duties being purely ministerial, at their request and for their convenience, that Escrow Agent shall not be deemed to be the agent or trustee for either of the parties, and that Escrow Agent shall not be liable to either of the parties for any act or omission unless it involves willful misconduct or negligence on its part.
+
+The undersigned does hereby consent to and join in the foregoing Agreement hereby agreeing to act as Escrow Agent in accordance with the provisions of the Agreement applicable to Escrow Agent.
+
+Insured Aircraft Title Service, Inc.
+
+By:
+
+/s/Kick Woford
+
+Print:
+
+Kick Woford
+
+Date:
+
+May 1, 2013
+
+WWE April 2013 9192
+
+Exhibit A
+
+AIRCRAFT SPECIFICATION
+
+GLOBAL 5000
+
+Serial Number 9192
+
+Registration N700LK
+
+Date of Manufacture: March, 2006
+
+Entered into Service: November, 2006
+
+AIRFRAME STATUS (As of March 20, 2013)
+
+TOTAL TIME: 1359
+
+LANDINGS: 646
+
+1A (500 Hr) completed at 1357 hours; next due at 1857 hours. 1C (15 Mo) completed December 2012; next due March 2014. 3A (1500 Hr) completed at 1357 hours; next due at 2857 hours. 8C Inspection due November 2016
+
+Maintenance Tracking Program: CAMP
+
+Enrolled on Smart Parts Program (Contract # 9192-62BP)
+
+ENGINE STATUS
+
+LEFT ENGINE: Rolls Royce BR710A2-20
+
+L Serial Number: 12857
+
+Hours: 35
+
+Cycles: 20
+
+HSI and Overhaul: On Condition
+
+RIGHT ENGINE: Rolls Royce BR710A2-20
+
+R Serial Number: 12858
+
+Hours: 35
+
+Cycles: 20
+
+HSI and Overhaul: On Condition
+
+Engines enrolled on Rolls Royce Corporate Care Program. Engine rate (2013): $344.46 per engine per hour
+
+APU: Allied Signal RE-220 (GX), s/n P-284; 1124 hours.
+
+Enrolled on Honeywell MSP Gold Program (Contract # 440047685). APU rate (2013): $93.27 per APU hour
+
+AVIONICS & EQUIPMENT
+
+Honeywell 2000 XP Integrated Avionics System:
+
+•Six 8”x 7” DU-870 Color EFIS displays
+
+•Triple HG-2001GD03 Inertial Reference System
+
+•Triple AZ-950 Micro Air Data Computers (MADC)
+
+•Quad Ameteck DA-810 Data Acquisition Units (DAU)
+
+•Triple NZ-2000 Integrated Flight Management System w/ Dual 12 Channel GPS
+
+•Triple IC-800 Integrated Avionics Computers (IAC) with EFIS reversionary capability
+
+•Primus 880 Color Weather Radar w/ LSZ-860 Lightning Sensor
+
+•TCAS 2000 Traffic Alert and Collision Avoidance System (Change 7 incorporated)
+
+•Central Aircraft Information Maintenance System (CAIMS)
+
+•Full Authority Digital Engine Control System (FADEC)
+
+•Engine Indication/Crew Alerting System (EICAS)
+
+•Dual Primus Integrated NAV/COM/Ident Radios w/
+
+VOR/ILS/MKR/ADF/DME/VHF Comm and Mode S Transponders with Flight ID and Enhanced Surveillance (RCZ-833K and RNZ851)
+
+•8.33kHz channel spacing and FM Immunity compliant
+
+•Dual Collins ALT-4000 Radio Altimeters
+
+•Dual Collins HF-9000 HF Communication System
+
+•Single Coltech CSD-714 SELCAL
+
+ADDITIONAL EQUIPMENT
+
+•MNPS, RNP10 Capable
+
+•RVSM Capable
+
+•ARTEX 406Mhz Emergency Location Transmitter
+
+•Dual Full Regime Auto Throttle System
+
+•Enhanced Vision System
+
+•Thales/Sextant Heads Up Display
+
+•Dual Collins SAT-6100 High Speed Data Link
+
+•Iridium ICS-200 Satellite Phone System
+
+•Teledyne ACARS Data link
+
+•Allied Signal EGPWS with Windshear Detection Alert
+
+•Allied Signal SSFDR Flight Data Recorder
+
+•Allied Signal SSCVR Cockpit Voice Recorder
+
+•Honeywell DL-950 Data Loader
+
+•Securaplane CAM-11 4 Camera Video System
+
+•Airshow AXSi Interactive Flight Information System
+
+•Fwd & Aft cabin bulkhead mount 21.3” LCD monitors
+
+•Single seats have “in arm” individual video monitors
+
+•Multi Disc CD Changer
+
+•Dual CD/DVD/MP3 Player
+
+WEIGHTS
+
+Gross Weight (Ramp): 87,950 lbs.
+
+Max Takeoff Weight: 87,700 lbs.
+
+Max Landing Weight: 78,600 lbs.
+
+Basic Operating Weight: 51,435 lbs.
+
+Empty Weight: 49,923 lbs.
+
+Fuel Capacity: 36,000 lbs.
+
+INTERIOR
+
+Original Interior, November 2006. Fireblocked; Thirteen (13) passengers, plus one jumpseat. Fwd galley contains coffee maker, cold air chiller unit, microwave oven, high temp oven and 10.4” touch screen control panel. The fwd cabin features four (4) executive club seats with foldout tables. Center-Left cabin features a 4-place conference group opposite a credenza/Kibitzer cabinet. The credenza houses the entertainment equipment as well as a fax machine. Aft cabin features a 3-place 16G berthable divan opposite two (2) executive club seats with foldout table.
+
+EXTERIOR
+
+Original Paint, November 2006. Matterhorn White upper fuselage, light Cream lower fuselage and wings. Three Gradient Metallic Maroon accent stripes running from nose to tail.
+
+THE ABOVE SPECIFICATIONS ARE SUBJECT TO VERIFICATION DURING THE INSPECTION.
+
+18
+
+WWE April 2013 9192
+
+Exhibit B
+
+DELIVERY CONDITION
+
+On the Closing Date, the Aircraft shall comply with all the conditions set forth below, collectively constituting the required “Delivery Condition” as determined by Purchaser as a result of the Inspection.
+
+Capitalized Terms used herein but not otherwise defined herein shall have the meaning ascribed to such terms in the Aircraft Sale and Purchase Agreement dated as of April 30, 2013 (“Agreement”) by and between Bombardier Aerospace Corporation (“Seller”) and World Wrestling Entertainment, Inc. (“Purchaser”).
+
+1.
+
+the Aircraft shall have a valid U.S. certificate of airworthiness without exceptions;
+
+2.
+
+the Aircraft shall have no more than 1385 airframe total time, no more than 60 engine time and no more than 1150 APU time;
+
+3.
+
+the Aircraft shall have all systems functional and in good and proper working order and serviceable condition meeting manufacturer's specifications and tolerances for return to unrestricted service. For avoidance of doubt, the term, “proper working order and serviceable condition" shall mean a condition which (a) is consistent with the maintenance manuals limitations, measurements, or operational criteria applicable to the Aircraft systems; and (b) does not require a modification to the normal life limitation, overhaul or inspection interval or normal operating procedures as set out in the Aircraft maintenance and flight manuals, except as modified by an Airworthiness Directive or mandatory Service Bulletin;
+
+4.
+
+the Aircraft shall have all original Aircraft Documents (except that copies shall be acceptable in the case that originals are not required by the FAA), complete and, continuous, up to date, printed or published in the English language, and in compliance with manufacturer requirements and FAR Part 91, including any required component repair tags, FAA Forms 8130-3, serviceable tags or other documentation in the FAR required form showing work accomplished or parts replaced for all serialized, life-limited components that have been replaced or overhauled, and that all required inspections, maintenance and repairs have been performed;
+
+5.
+
+the Aircraft shall be current on its maintenance in accordance with the manufacturer's approved maintenance plan and the CAMP program;
+
+6.
+
+the Aircraft shall have no Material Damage history as recorded in the Aircraft logbooks or as discovered during the Inspection;
+
+7.
+
+the Aircraft Transponder shall meet Mode S surveillance for European operations;
+
+8.
+
+the Aircraft shall have no airframe, engines or auxiliary power unit corrosion beyond allowable limits or in excess of manufacturer’s tolerances as stated in the Bombardier Global 5000 or Rolls Royce maintenance manual;
+
+9.
+
+the Aircraft shall be in compliance with all calendar and hourly inspections, time-limited components, applicable FAA Airworthiness Directives with effective compliance dates on or prior to the Closing Date complied with, in each case without deferment or extension;
+
+10.
+
+the Aircraft shall be in compliance with respect to RVSM, MNPS, RNP5, FM Immunity and 8.33 COM performed and completed and the Aircraft Transponder shall meet the Mode S Enhanced Surveillance (EHS) for European operations;
+
+11.
+
+the Aircraft shall have all inspections, maintenance and repairs performed in accordance with the manufacturer's maintenance manual;
+
+12.
+
+the Aircraft shall have each engine able to produce its rated takeoff thrust in a ground power run, in accordance with the manufacturer's applicable specifications and tolerances;
+
+13.
+
+the Aircraft shall conform in all material respects to the description of the Aircraft set forth in Exhibit A;
+
+19
+
+WWE April 2013 9192
+
+14.
+
+the Aircraft shall have no parts, systems or components on the Aircraft which are on temporary loan;
+
+15.
+
+All loose equipment inventoried with the Aircraft during the Inspection as described in Exhibit G (“Loose Equipment”) is included and will be delivered with the Aircraft at Closing. Also included are any exterior covers for engines, pitot and the like that are normally utilized with the Aircraft type. It is understood by Purchaser that the Loose Equipment includes only existing items and in good serviceable condition, which were part of Seller’s purchase of the Aircraft from the previous owner.
+
+16.
+
+the parts programs and service agreements as set forth in Schedule 1 attached hereto shall be fully paid up to the Closing and transferable to Purchaser as set forth therein;
+
+17.
+
+all scheduled inspections and maintenance due within six (6) months or 150 flight hours from the Closing shall be completed, in each case without deferment or extension;
+
+18.
+
+the Aircraft engine and APU turbine blades and all hot section components shall be in serviceable condition as confirmed by boroscope and SOAP inspections; and
+
+19.
+
+Seller, as part of the Purchase Price, will provide Purchaser the Bombardier Global Pre-Owned Resale Package, as set forth in Schedule 1 attached hereto.
+
+20
+
+WWE April 2013 9192
+
+Schedule 1 to
+
+Pre-Owned Aircraft Purchase Agreement
+
+Customer Support Services
+
+1.0
+
+Training
+
+The following training is included in the Aircraft Purchase Price and will be provided at no additional cost to Purchaser. In all cases, any on-aircraft flight training shall be completed on Purchaser’s Aircraft after Delivery Time. Seller recommends that all training be completed before placing the Aircraft into service, but, in any event, all training shall be completed no later than one (1) year from Delivery Time or Purchaser's rights to training at no additional cost shall expire.
+
+•Ground and simulator initial flight training for two (2) qualified pilots
+
+•Ground maintenance training course for one (1) mechanic (as applicable)
+
+The training for a Global Express will be made available at the Bombardier DFW and Montreal Training Facilities, and the maintenance training will be made available at the Bombardier DFW and Montreal Training Facilities. Purchaser is responsible for all travel and living expenses of Purchaser's pilots and mechanics.
+
+2.0
+
+Technical Data and Services
+
+2.1
+
+Technical Publications
+
+2.1.1
+
+Seller will supply one set of the following Seller’s produced documentation and technical publications, excluding all vendor and engine OEM publications:
+
+a) Airplane Flight Manual
+
+b) Pilots Manual
+
+c) Crew Checklist
+
+d) Maintenance Manual
+
+e) Wiring Manual
+
+f) Illustrated Parts Catalog
+
+g) Service Bulletins
+
+in a CD ROM when available, otherwise one paper set will be provided. If a paper manual is required by a specific regulation, one paper manual will be provided, e.g. Airplane Flight Manual.
+
+2.1.2
+
+Seller shall also provide: Technical Publications Subscription Service plus one year free revision Service (as applicable) of existing Technical Publications to current at no cost, including one year free access to SmartFix Plus internet based troubleshooting tool.
+
+2.2
+
+Field Service Representative (FSR) Support
+
+Field Support Representatives (FSRs) are available 24 hours a day, year round. Located in various regions to accommodate Seller’s customers, whether domestic or international, the FSRs provide support and recommendations on a wide variety of subjects such as spare parts inventories, tools and ground support equipment, avionics, etc.
+
+Furthermore, the FSRs also provide information on new innovations, publications, training programs, seminars and workshops, inspection procedures and equipment modifications.
+
+21
+
+WWE April 2013 9192
+
+2.3
+
+Medaire
+
+Seller will enroll the Aircraft, at no cost to Purchaser, in MedAire’s primary services and programs, with one year free subscription. It includes:
+
+•
+
+MedLink® — This hotline connects flight crews and other travelers directly with board certified emergency-room physicians specially trained to handle emergencies in remote locations.
+
+•
+
+Medical Training — Addresses the challenges of providing medical care in remote locations. Available courses include managing inflight emergencies, hangar safety, use of defibrillators, and handling hazardous materials. Training is conducted at Bombardier Training Centers.
+
+•
+
+First Aid Kits — Aircraft, hangar, travel and biohazard kits are available, including MedAire’s automatic replace and replenish service, MedTrack.
+
+2.4
+
+Inspection Services
+
+First 500 hour airworthiness inspection (“flat rate”) to be paid by Seller, excluding completion items, due following Delivery Time at any Business Aviation Service (BAS) center. It includes:
+
+•
+
+Standard Maintenance Manual (Chapter 5) inspection
+
+•
+
+Consumables required to carry out inspection
+
+•
+
+Does not include discrepancies and findings which would be invoiced separately
+
+•
+
+Must be accomplished within eighteen (18) months from Delivery Time
+
+•
+
+Cannot be combined with other discount offers
+
+2.5
+
+Maintenance Tracking Program
+
+Transfer of the currently existing aircraft Maintenance Tracking Program (“CAMP”) paid in full and current up to Delivery Time, including one free year service subscription.
+
+2.6
+
+Engine Maintenance Program
+
+This Aircraft is currently enrolled on the Rolls Royce Corporate Care engine maintenance service program. At Delivery Time the engine maintenance service program shall be transferred, fully paid and current, at no additional cost to Purchaser. In this case, a new engine maintenance service plan agreement shall be established between Purchaser and the engine manufacturer at the then current pricing.
+
+2.7
+
+Aircraft Auxiliary Power Unit (APU) Maintenance Program
+
+The Aircraft APU is currently enrolled on the Honeywell MSP Gold Program APU maintenance service program. At Delivery Time the APU maintenance service program shall be transferred, fully paid and current, at no additional cost to Purchaser. In this case, a new APU maintenance service plan agreement shall be established between Purchaser and the APU manufacturer at the then current pricing.
+
+2.8
+
+Smart Parts – Airframe
+
+Seller will issue a new Parts Replacement Agreement (SMART Parts) with the applicable term based on model and manufacture year for the Aircraft on behalf of Purchaser. Costs associated with the enrollment of the Aircraft for Smart Parts shall be for the account of Seller and Purchaser shall be governed by the provisions of the standard provisions of the Bombardier Smart Parts Agreement commencing at Delivery Time.
+
+22
+
+WWE April 2013 9192
+
+3.0
+
+Warranty
+
+Seller warrants to Purchaser that at Delivery Time, the Aircraft, including airframe, avionics and other optional equipment, shall function in accordance with manufacturer’s standards.
+
+3.1
+
+Seller’s sole obligation and liability under this Warranty is a) expressly limited to the LABOR ONLY for the correction by repair, replacement or rework of the item(s) by Seller at Seller’s facilities, or at Bombardier Aerospace (Seller) Authorized Facility, of any defect specified above and b) subject to Purchaser giving notice to Seller of a claim under this Warranty within thirty (30) days of discovery of the defect, but in no event later than the expiration of the warranty period set forth in Article 3.2. The Aircraft or any item(s) found defective shall be returned to Seller at Purchaser’s expense. No claims will be accepted for labor or miscellaneous charges incurred by facilities other than a Bombardier Aviation Services (BAS) Facility or Bombardier Aerospace Authorized (Seller) Facilities.
+
+3.1.1
+
+Seller also warrants that at Delivery Time, the Aircraft shall be in compliance with (i) all applicable airworthiness directives of the FAA, and (ii) all Alert and/or mandatory service bulletins (as applicable) and (iii) all service bulletins necessary to qualify for the SMART PARTS program (as applicable).
+
+3.2
+
+The Warranty (LABOR ONLY) in respect to the Aircraft shall be for 12 months or 300 hours from Delivery Time, whichever first occurs (the “Labor Warranty Term”), provided Purchaser enrolls and maintains the Aircraft in the Bombardier Smart Parts program and enrolls and maintains both engines and Auxiliary Power Unit (APU) in the relative engine and APU power by the hours maintenance program during the Labor Warranty Term..
+
+3.3
+
+At Seller’s option, Purchaser shall be entitled to claim a repair, replacement or rework pursuant to this Warranty provided:
+
+i)
+
+The Aircraft has not been operated or maintained in material violation of the provisions of the manufacturer’s approved Flight Manual, Maintenance Manual and Service Bulletins, and as each thereof may be amended from time to time by the manufacturer;
+
+ii)
+
+An installation, repair, alteration or modification to or of the Aircraft made by Purchaser or a third party has not been the cause or a contributing cause of the defect;
+
+iii)
+
+The Aircraft has not been subjected to misuse, abuse or accident or has not been improperly stored and has been protected against the elements when not in use.
+
+iv)
+
+The material required to address the warranty corrective action was procured from Bombardier Aerospace spares.
+
+3.4
+
+Notwithstanding any other provisions herein, the Warranty shall not apply to any engines or Auxiliary Power Unit (APU) installed on the Aircraft. The warranty, if any, for the engines or any APU, shall be provided directly by the respective manufacturer. The rights of Purchaser thereunder shall be as a matter between Purchaser and the equipment manufacturer. Purchaser agrees that Seller shall have no obligation, liability or responsibility for any service bulletin, warranty including, without limitation, any lack of performance, reliability or maintainability of the Aircraft as a result of the engines or APU.
+
+3.5
+
+Seller does not warrant, and is hereby relieved of any obligation to warrant, any accessory, equipment or part incorporated in the Aircraft, which is not furnished pursuant to the Agreement.
+
+3.6
+
+This Warranty excludes the following:
+
+•
+
+Scheduled maintenance for hourly, calendar and landing inspections applicable to the Aircraft, in accordance with the Bombardier Time Limits/Maintenance Checks manual
+
+•
+
+Interior items / components (to the extent not covered by remaining applicable vendor warranty)
+
+23
+
+WWE April 2013 9192
+
+•
+
+Engineering expense
+
+•
+
+Mobile repair parties and travel expense
+
+•
+
+All fuel, landing fees, applicable taxes, tariffs, duties, freight, AOG fees, crew expenses and insurance
+
+•
+
+Shop supplies, supplies necessary for airplane cleaning, servicing and replenishment of toilet supplies, fuel, oils, liquid deicing systems, oxygen system, and other consumables and expendables
+
+•
+
+Metallic paint (including stripes)
+
+•
+
+Lights, lenses, filters, gaskets, o-rings, sealants, fasteners, rivets, nut plates, static wicks, bonding wires, jumpers and tires
+
+•
+
+Items which experience normal deterioration due to erosion, wear and exposure to environmental elements
+
+•
+
+Surface corrosion
+
+•
+
+Chaffing
+
+•
+
+Windshield rain repellent
+
+•
+
+Ground support equipment (including rentals)
+
+•
+
+Rental exchanges and labor associated with rentals
+
+•
+
+Vendor publications addressing Service Bulletins, Airworthiness Directives and Advisory Wires without Bombardier Aerospace cover letter addressing Bombardier Aerospace’s responsibility
+
+•Any Aircraft surveys and/or pre-purchase inspections conducted subsequent to Delivery Time
+
+3.7
+
+Any repair, replacement or rework under the Warranty shall be covered to the extent of the unexpired portion of the Labor Warranty Term set forth in Section 3.2 above remaining at the time of such repair, replacement or rework.
+
+3.8
+
+Purchaser shall be responsible for any expenses or costs related to items submitted under this Warranty that are later determined to have no defect (No Fault Found). Flight test expense associated with recertifying and trouble shooting an aircraft (including crew expense) will be the sole responsibility of the aircraft owner.
+
+3.9
+
+Seller will, at no additional cost to Purchaser and to the extent Seller is able under applicable agreements, cause any and all remaining warranties related to the airframe, engines, APU, avionics, paint or interior to be transferred and assigned to Purchaser.
+
+3.10
+
+Purchaser shall maintain reasonably complete records of operations and maintenance of the Aircraft and shall make such records available to Seller as Seller may reasonably require. If Purchaser fails to maintain those records Seller shall be relieved of its Warranty obligations.
+
+24
+
+WWE April 2013 9192
+
+Exhibit C
+
+AIRCRAFT TECHNICAL ACCEPTANCE/REJECTION LETTER
+
+Date: ________________, 2013
+
+TO:
+
+Bombardier Aerospace Corporation
+
+Re: Completion of Inspection
+
+Dear Sir/Madam:
+
+Pursuant to that certain Aircraft Sale and Purchase Agreement (the “Agreement”) dated as of the April ___, 2013, by and between Bombardier Aerospace Corporation (“Seller”), and World Wrestling Entertainment, Inc. (“Purchaser”), pertaining to the 2006 Bombardier, Inc. model BD-700-1A11 (Global 5000 variant) aircraft, bearing manufacturer’s serial number 9192, registration N700LK and its two (2) installed Rolls Royce BR710A2-20 engines, bearing manufacturer’s serial numbers 12857 (left) and 12858 (right), and one (1) installed AlliedSignal RE-220GX auxiliary power unit, bearing manufacturer’s serial number P284 and all components, instruments, avionics, systems, appurtenances, appliances, parts, accessions, furnishings, Loose Equipment, and other equipment of whatever nature incorporated in or attached to any of the foregoing, and all Aircraft Documents (collectively, the “Aircraft”), this letter confirms that Purchaser has completed the Inspection (as such term is defined in the Agreement) of the Aircraft on this date and Purchaser, in its sole discretion, elects as follows:
+
+____ ACCEPTS the Aircraft.
+
+____ ACCEPTS the Aircraft, subject to Seller causing, at its sole costs and expense the remediation and corrections of the Discrepancies as described on the attached Discrepancy List and the repair of the Aircraft to satisfy the Delivery Conditions (as such terms are defined in the Agreement), and subject further to Seller’s compliance with its other obligations under the Agreement.
+
+____ REJECTS the Aircraft pursuant to the Agreement.
+
+SINCERELY,
+
+World Wrestling Entertainment, Inc.
+
+By: ________________________
+
+Print: ________________________
+
+Title: ________________________
+
+25
+
+WWE April 2013 9192
+
+DISCREPANCY LIST
+
+Attachment to AIRCRAFT TECHNICAL ACCEPTANCE/REJECTION LETTER
+
+The following discrepancies on the Aircraft will be corrected:
+
+1.
+
+2.
+
+3.
+
+BOMBARDIER AEROSPACE CORPORATION (Seller)
+
+By:
+
+Print Name:
+
+Title:
+
+Date:
+
+World Wrestling Entertainment, Inc. (Purchaser)
+
+By:
+
+Print Name:
+
+Title:
+
+Date:
+
+26
+
+WWE April 2013 9192
+
+Exhibit D
+
+AIRCRAFT DELIVERY AND ACCEPTANCE RECEIPT
+
+______________ hereby acknowledges to have received and accepted from BOMBARDIER AEROSPACE CORPORATION at the ___________________________ Airport, in the City of ________________________, State of ________, U.S.A., on the ______ day of _____________________ 2013 at the hour of _____________o'clock, one (1) Bombardier Inc. Global 5000 aircraft, model M/N, serial number S/N and U.S. FAA Registration Number R/N. Included with the Aircraft are the ______________________________ engines bearing the manufacturer’s Serial Numbers E/L and E/R.
+
+TOTAL AIRFRAME
+
+HOURS:
+
+LANDINGS:
+
+LEFT ENGINE, SN
+
+E/L
+
+HOURS:
+
+CYCLES:
+
+RIGHT ENGINE, SN
+
+E/R
+
+HOURS:
+
+CYCLES:
+
+APU MANUFACTURER:
+
+HOURS:
+
+APU SERIAL NUMBER:
+
+This Receipt and Acceptance is subject to the Discrepancy List attached hereto and made a part hereof by this reference.
+
+RECEIVING PARTY: World Wrestling Entertainment, Inc. (Purchaser)
+
+By:
+
+Print Name:
+
+Title:
+
+Date:
+
+WITNESSED BY:
+
+27
+
+WWE April 2013 9192
+
+DISCREPANCY LIST
+
+Attachment to RECEIPT AND ACCEPTANCE OF AIRCRAFT
+
+The following discrepancies on the Aircraft will be corrected at a mutually acceptable time and place (any Bombardier service facility or other Bombardier authorized service facility). Such discrepancies are to be scheduled and corrected no later than ninety (90) days from the Closing Date, with any and all expenses involved with the repair or replacement required by the discrepancy correction being for the account of BOMBARDIER AEROSPACE CORPORATION. Costs of positioning the Aircraft will be for the account of Purchaser:
+
+1.
+
+2.
+
+3.
+
+BOMBARDIER AEROSPACE CORPORATION (Seller)
+
+By:
+
+Print Name:
+
+Title:
+
+Date:
+
+World Wrestling Entertainment, Inc. (Purchaser)
+
+By:
+
+Print Name:
+
+Title:
+
+Date:
+
+28
+
+WWE April 2013 9192
+
+Exhibit E
+
+BOMBARDIER AEROSPACE CORPORATION
+
+ASSIGNMENT OF WARRANTIES LETTER
+
+BOMBARDIER AEROSPACE CORPORATION
+
+PRE-OWNED AIRCRAFT SALES
+
+3400 Waterview Parkway, Suite 400
+
+Richardson, Texas 75080
+
+TEL (972) 960-3810
+
+FAX (972) 960-3853
+
+__________ __, 2013
+
+World Wrestling Entertainment, Inc.
+
+1241 East Main Street
+
+Stamford CT 06902
+
+Attn: __________________
+
+Re: Assignment of remaining airframe primary metal structures warranty for that certain 2006 Bombardier Global 5000 aircraft with serial number 9192 (the “Aircraft”)
+
+Dear Mr. __________________________:
+
+Pursuant to that certain Aircraft Purchase and Sale Agreement, dated as of ________________________________ (the "Agreement") pertaining to the Aircraft hereinafter described and as executed by and between Bombardier Aerospace Corporation ("Seller") and __________________________________________, this letter is to acknowledge that upon completion of the sale of the Aircraft to Purchaser as per the term of the Aircraft Purchase Agreement dated _________________________________, the remaining airframe warranties offered by Bombardier Inc. to the original purchaser of the Aircraft will be transferred to Purchaser, provided that upon the close of the sale the warranties are still in effect. The only warranty remaining on the Aircraft offered by the manufacturer, Bombardier Inc., is the primary metal structures warranty. The terms, conditions and limitations of that warranty are set forth in Article 8 of the attached Attachment A (the attached Schedule 2 is an excerpt of the warranty offered by Bombardier Inc. to the original purchaser of the Aircraft.). The primary metal structures warranty on the Aircraft expires on _________________. Any warranty claim shall be subject to the provisions of the attached document.
+
+If you have any questions regarding this matter, please do not hesitate to contact me.
+
+Sincerely,
+
+Bombardier Aerospace Corporation
+
+By:
+
+Name: Luke Frick
+
+Title: Manager, Contracts
+
+29
+
+WWE April 2013 9192
+
+Pre-Owned Aircraft Sales
+
+Schedule 2
+
+to Assignment of Warranties
+
+30
+
+WWE April 2013 9192
+
+Exhibit F
+
+WARRANTY BILL OF SALE
+
+KNOW ALL MEN BY THESE PRESENTS:
+
+THAT BOMBARDIER AEROSPACE CORPORATION, having an office at 3400 Waterview Parkway, Suite 400, Richardson, Texas, USA 75080 ("Seller"), is the owner of the full legal and beneficial title to that certain Bombardier Inc. Global Express Aircraft, model BD-700-1A11 (Global 5000 variant) ("Airframe") bearing manufacturer's Serial Number 9192 and registration number N700LK together with the two (2) Rolls Royce BR710A2-20 engines installed thereon, bearing manufacturer's Serial Numbers 12857 and 12858 ("Engines"), respectively, and that certain AlliedSignal RE-220GX auxiliary power unit, bearing manufacturer’s serial number P284, together with the following ("Equipment"): (a) all equipment, appliances, parts, instruments, appurtenances, accessories, furnishings, and other property installed in or attached to the Airframe or Engines on the date hereof; and (b) all documents, logbooks, manuals, certificates, data equipment and spare parts listed on Schedule “A” of that certain Purchase Agreement dated the _______ day of ___________________________ 2013 (the Airframe, the Engines and the Equipment are collectively hereinafter referred to as the "Aircraft").
+
+THAT for and in consideration of good and valuable consideration, the receipt of which is hereby acknowledged, Seller does on the date set forth below, grant, convey, transfer, bargain and sell, deliver and set over, all right, title and interest in and to the Aircraft unto WORLD WRESTLING ENTERTAINMENT, INC. (“Purchaser”), and unto Purchaser's successors and assigns, forever.
+
+THAT Seller hereby warrants to Purchaser and its successors and assigns that, immediately prior to the delivery of this Warranty Bill of Sale, Seller had good and lawful right to sell the same, and that there is hereby conveyed to Purchaser on the date hereof, good and marketable title to the Aircraft free and clear of all rights, prior claims, interests, liens, charges, registrations and encumbrances (including those resulting from any and all taxes) (hereinafter “Liens”) other than those created by or through Purchaser or by persons claiming by or through Purchaser, and that Seller will warrant and defend such title forever against all claims and demands whatsoever by any and all persons except for claims and demands resulting (i) from any transfer of title by or through Purchaser; or (ii) from any Liens created by or through Purchaser or by persons claiming by or through Purchaser; or (iii) relating to events occurring subsequent to the date hereof.
+
+IN WITNESS WHEREOF, Seller has caused this instrument to be executed and delivered by its duly authorized signatory as of this ___ day of ________________, 2013.
+
+Seller:
+
+Bombardier Aerospace Corporation
+
+By: ________________________
+
+Print: ________________________
+
+Title: ________________________
+
+31
+
+WWE April 2013 9192
+
+Exhibit G
+
+Global Express 5000, Serial Number 9192
+
+Inventory of Loose Equipment
+
+Cockpit
+
+2 Hand Mic’s
+
+2 Flashlights
+
+4 Oxygen Masks
+
+1 Crash Axe
+
+1 Hand Held Fire Extinguisher
+
+1 Crew PBE
+
+2 Smoke Goggles
+
+2 Life Vests
+
+2 Cockpit Quick Reference Handbooks
+
+1 FMZ Series Pilot Operating Manual
+
+1 Ground Handling and Servicing Manual
+
+Forward Left Wardrobe
+
+1 CD-ROM of 9192 Specific Manuals
+
+1 LSZ-860 Lightning Sensor Pilot Manual
+
+1 Primus II (RM-850 RMU) Pilot Manual
+
+1 FMS CD-820 Control Display Unit Pilot Operating Manual
+
+1 Primus 880 Radar Pilot Manual
+
+1 Waste Servicing Guide
+
+1 De-Icing/Anti-Icing Information Manual
+
+2 Telex 750 Headsets
+
+1 EROS Oxygen Mask
+
+1 Life Vest
+
+1 Cabin Handbook
+
+1 Flashlight
+
+4 Umbrella’s
+
+1 Medaire Medical Kit
+
+1 Airplane Flight manual
+
+2 Coat Hanger
+
+1 PMAT Computer
+
+1 PMAT Cable
+
+Right Main Galley
+
+32
+
+WWE April 2013 9192
+
+1 Chrome Coffee Urn’s
+
+23 Crystal Wine Glasses
+
+1 TIA Coffee Maker
+
+1 Waste Container Hoop
+
+Left Main Galley
+
+1 TIA Microwave Oven
+
+14 Wine and Highball Glasses
+
+8 Low Cocktail Glasses
+
+1 Convective Baking Oven
+
+1 Life Raft
+
+1 Crystal Ice Bucket
+
+4 Crystal Liquor Decanters
+
+Forward Main Cabin
+
+5 Safety Cards
+
+5 Bose Stereo Headsets
+
+4 CES-5000 Quick Start Guides
+
+8 Life Vests
+
+1 Cabin Entertainment Set Up Controller w/Charger
+
+1 Fax Machine
+
+1 Life raft
+
+Aft Cabin
+
+4 Life Vests
+
+5 Bose Stereo Headsets
+
+5 Safety Cards
+
+1 CES-5000 Quick Start Card
+
+1 Life Raft
+
+1 Stainless Foldout Dining Table
+
+1 Hand Held Fire Extinguisher
+
+1 Therapeutic Oxygen Kit
+
+Aft Lavatory and Wardrobe
+
+1 Large Portable Fire Extinguisher
+
+5 Coat Hangers
+
+3 Portable Serving Trays
+
+1 Blanket
+
+1 PBE
+
+33
+
+WWE April 2013 9192
+
+Loose Equipment/Records/Manuals
+
+1 Paint Kit in Black Storage Box
+
+1 EVS Cover Plate (in white foam wrap)
+
+1 Spare Acoustic Curtin
+
+2 Beige Leather Pillows
+
+2 Small Cockpit Writing tables
+
+1 CD-ROM R/Collins Data Load App for CPAS-3000 (In Misc. Box)
+
+1 Plastic Bag of Aircraft Keys (10 ea) (In Fwd LH Coat Closet)
+
+15 Spare Safety Cards
+
+3 CES-5000 Instruction Cards
+
+3 CD-ROM CES Application Files
+
+3 CD-ROM for Iridium Phone System
+
+1 Rockwell/Collins Technical Documents for CES System
+
+1 CD-ROM Goodrich Interior Lighting Maintenance
+
+2 Grey Cup Holder Inserts
+
+2 Small Leather Pouches for Cockpit
+
+2 Sheet Skin Covers for Cockpit
+
+1 Bag of Maintenance Covers
+
+1 Small Box containing Spare Phone Handset and Spare Pronto Control
+
+2 Bags of 3 each Leather Pouches
+
+1 Cabin Maintenance Runner
+
+1 Large Removable Bulkhead Storage Envelope
+
+1 Set, Throw Rugs
+
+1 Nomex Galley Floor Insulation (in plastic bag)
+
+1 Spare Entrance Carpet (in plastic bag)
+
+2 Engine Covers in Yellow Pouches
+
+4 Self inflating Mattress Covers in Storage Bags
+
+1 Large Gray Storage Case containing the Ground Support Covers, Nets, Flags etc.
+
+Box 1
+
+1 Water Heater Manual
+
+1 CES-5000 Installation Manual
+
+1 SATCOM 2100 Installation Manual
+
+1 CES-5000 Fault Isolation Manual
+
+2 CAMP Manuals
+
+1 CAMP Completed Task Card Binder
+
+1 AMT-50 Inmarsat Installation Manual
+
+1 Aerocom Installation Manual
+
+2 2.4 GHZ Cordless Phone Manuals
+
+1 Sigma 7 Installation/User Manual
+
+34
+
+WWE April 2013 9192
+
+Box 2
+
+1 Vendor Bulletins Binder\
+
+1 Parts Certificates (8130-3) Binder
+
+1 Service Bulletin Binder
+
+1 HP Office 6200 Printer User Guide
+
+1 AD Cert Delivery Booklet
+
+1 Engineering Configuration Statement Book
+
+Box 3
+
+5 White Binders of Closed Work Orders (these contain parts certificates also)
+
+Box 4
+
+3 Wiring Manual Binders
+
+2 Supplemental Maintenance Manuals (ATA 7-25, 26-56)
+
+Box 5
+
+2 Supplemental Maintenance Manuals (ATA 7-25, 26-56)
+
+2 Flight Crew Operating Manuals (Vol 1, 2)
+
+1 Airplane Flight manual
+
+Box 6
+
+5 Series A (1 ea), B (2 ea), C (2 ea) Engineering Documentation Binders
+
+Box 7
+
+4 Series A, B Engineering Documentation Binders
+
+1 Grooming Guide
+
+1 ICS 100/200 Iridium Phone Installation Manual
+
+Box 8
+
+2 Series C Engineering Documentation Binders
+
+1 Completion Documentation Binder (7 - 56)
+
+1 Flight Planning and Cruise Control Manual
+
+1 Customer Aircraft Binder
+
+Box 9
+
+4 White Closed Work Order Binder
+
+11 Envelopes of Closed Past Work Orders
+
+35
+
+WWE April 2013 9192
+
+1 Flight Planning and Cruise Control Manual
+
+Box 10
+
+1 Dispatch Deviation Guide
+
+2 Standard Practices Manual Volume 1 and 2
+
+1 Supplemental Illustrated Parts Binder
+
+1 Series A Engineering Documentation Binder
+
+Box11
+
+2 Quick Reference Handbook Vol 1, 2
+
+2 FMZ FMS Pilot Operating Manual
+
+1 Primus II Radio Manual
+
+1 CD-820 Cockpit Display Control User Manual
+
+1 Primus 880 Radar Pilot Manual
+
+1 FMS Training Program CD-ROM (in plastic box)
+
+1 Cabin Handbook
+
+1 Rockwell/Collins Aviation Glossary
+
+1 LSZ-860 Lightning Sensor Pilot Guide
+
+1 SATCOM 6000 User Guide
+
+1 CPAS-3000 Data Loader Operator Guide
+
+2 CES-G5000 Cabin Electrical System Operator Guide
+
+1 AFIS Quick Reference Guide
+
+Box 12
+
+1 Package of Air Stair Step Covers
+
+1 Set, Small Black/Gold Lamp Shades
+
+1 Flight Attendant Oxygen Mask
+
+* Several Miscellaneous Interior Spare Parts and Pieces
+
+Box 13
+
+Miscellaneous : Interior Parts, Seat belts, Inserts, Cargo Net, Flashlights, Cutlery
+
+Aircraft Log Books
+
+2 Airframe Log book
+
+2 Engine Log Books
+
+1 APU Log Book
+
+4 Battery Logs
+
+36
+
+WWE April 2013 9192
+
+Exhibit H
+
+Global Express 5000, Serial Number 9192
+
+Inspection Scope
+
+Please see attached.
+
+37
+
+WWE April 2013 9192

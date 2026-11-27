@@ -1,0 +1,151 @@
+[
+  {
+    "id": "01-jetblue-a320",
+    "filing": "2012-02-28",
+    "registrant": "JETBLUE AIRWAYS CORP",
+    "form": "EX-10.33",
+    "url": "https://www.sec.gov/Archives/edgar/data/1158463/000119312512084229/d273260dex1033.htm"
+  },
+  {
+    "id": "02-united-boeing",
+    "filing": "2010-04-27",
+    "registrant": "UAL CORP /DE/",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/100517/000119312510094960/dex101.htm"
+  },
+  {
+    "id": "03-lan-boeing",
+    "filing": "2008-06-25",
+    "registrant": "Lan Airlines SA",
+    "form": "EX-4.4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1047716/000119312508140337/dex44.htm"
+  },
+  {
+    "id": "04-airtran-boeing",
+    "filing": "2003-11-14",
+    "registrant": "AIRTRAN HOLDINGS INC",
+    "form": "EX-10.2",
+    "url": "https://www.sec.gov/Archives/edgar/data/948846/000119312503081318/dex102.htm"
+  },
+  {
+    "id": "05-baltia-kalitta",
+    "filing": "2012-03-02",
+    "registrant": "BALTIA AIR LINES INC",
+    "form": "EX-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/869187/000116519512000003/10-1KALITTA_AircPur2010RDc3.htm"
+  },
+  {
+    "id": "06-coachmen",
+    "filing": "2006-06-02",
+    "registrant": "COACHMEN INDUSTRIES INC",
+    "form": "EX-2",
+    "url": "https://www.sec.gov/Archives/edgar/data/21212/000090655506000040/ex21060206.htm"
+  },
+  {
+    "id": "07-microstrategy",
+    "filing": "2007-02-01",
+    "registrant": "MICROSTRATEGY INC",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312507017616/dex101.htm"
+  },
+  {
+    "id": "08-tempus",
+    "filing": "2017-11-28",
+    "registrant": "Tempus Applied Solutions Holdings, Inc.",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1628871/000121390017012673/f10q0917ex10-1_tempus.htm"
+  },
+  {
+    "id": "09-wwe",
+    "filing": "2013-05-03",
+    "registrant": "WORLD WRESTLING ENTERTAINMENTINC",
+    "form": "EX-10.9",
+    "url": "https://www.sec.gov/Archives/edgar/data/1091907/000144530513001086/aircraftpurchaseagreement.htm"
+  },
+  {
+    "id": "10-spirit-sale",
+    "filing": "2025-03-03",
+    "registrant": "Spirit Airlines, Inc.",
+    "form": "EX-10.71",
+    "url": "https://www.sec.gov/Archives/edgar/data/1498710/000149871025000008/save-ex1071x20241231x10k.htm"
+  },
+  {
+    "id": "11-aircastle-shared-terms",
+    "filing": "2014-05-07",
+    "registrant": "Aircastle LTD",
+    "form": "EX-10.3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1362988/000136298814000006/ayrq12014ex103.htm"
+  },
+  {
+    "id": "12-midway-lease",
+    "filing": "2001-04-02",
+    "registrant": "MIDWAY AIRLINES CORP",
+    "form": "EX-10.143",
+    "url": "https://www.sec.gov/Archives/edgar/data/946323/000102140801002009/0014.txt"
+  },
+  {
+    "id": "13-airtran-common-terms",
+    "filing": "2003-11-14",
+    "registrant": "AIRTRAN HOLDINGS INC",
+    "form": "EX-10.6",
+    "url": "https://www.sec.gov/Archives/edgar/data/948846/000119312503081318/dex106.htm"
+  },
+  {
+    "id": "14-kitty-hawk-terms",
+    "filing": "2004-11-17",
+    "registrant": "KITTY HAWK INC",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/932110/000095013404017767/d20186aexv10w1.txt"
+  },
+  {
+    "id": "15-frontier-lease",
+    "filing": "2002-08-09",
+    "registrant": "FRONTIER AIRLINES INC /CO/",
+    "form": "EX-10",
+    "url": "https://www.sec.gov/Archives/edgar/data/921929/000092192902000018/exhibit.htm"
+  },
+  {
+    "id": "16-aircastle-lease",
+    "filing": "2006-08-18",
+    "registrant": "Aircastle LTD",
+    "form": "EX-10.3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1362988/000095013606006995/file4.htm"
+  },
+  {
+    "id": "17-airlease",
+    "filing": "2002-03-22",
+    "registrant": "AIRLEASE LTD",
+    "form": "EX-10.55 MATERIAL CO",
+    "url": "https://www.sec.gov/Archives/edgar/data/799033/000109230602000076/ex10-55.txt"
+  },
+  {
+    "id": "18-ubiquiti-lease",
+    "filing": "2014-02-07",
+    "registrant": "Ubiquiti Networks, Inc.",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1511737/000151173714000009/ubnt-12312013xex101.htm"
+  },
+  {
+    "id": "19-williams-sonoma",
+    "filing": "2008-09-12",
+    "registrant": "WILLIAMS SONOMA INC",
+    "form": "EX-10.3",
+    "url": "https://www.sec.gov/Archives/edgar/data/719955/000119312508195046/dex103.htm"
+  },
+  {
+    "id": "20-lan-common-terms",
+    "filing": "2007-05-07",
+    "registrant": "Lan Airlines SA",
+    "form": "EX-4.3",
+    "url": "https://www.sec.gov/Archives/edgar/data/1047716/000095013607003144/file4.htm"
+  },
+  {
+    "id": "21-global-crossing-finance",
+    "filing": "2026-11-05",
+    "registrant": "Global Crossing Airlines Group Inc.",
+    "form": "EX-10.1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1846084/000119312526449445/jetmf-ex10_1.htm",
+    "retrieved_from": "https://live-contracts.arthur.law/agreement/01a1ad3b-0a1b-7695-8f87-c5e32bf6db82",
+    "retrieval_note": "Public exhibit text mirrored from the named EDGAR accession. The SEC archive returned HTTP 403 during the local download. The filed exhibit and the SEC filing index were checked separately."
+  }
+]

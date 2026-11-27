@@ -1,6 +1,6 @@
 // Theme: 'system' | 'light' | 'dark'. Loaded in <head> so there is no flash.
 (function(){
-  const KEY='ma_theme';
+  const KEY=document.currentScript.dataset.storageKey || 'ma_theme';
   const apply=t=>{const h=document.documentElement;if(t==='light'||t==='dark')h.setAttribute('data-theme',t);else h.removeAttribute('data-theme')};
   apply(localStorage.getItem(KEY)||'system');
   const label=t=>({system:'◐ Auto',light:'☀ Light',dark:'☾ Dark'}[t]);

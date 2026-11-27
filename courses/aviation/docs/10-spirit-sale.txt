@@ -1,0 +1,1261 @@
+Document
+
+Exhibit 10.71
+
+EXECUTION COPY
+
+THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT THE CONFIDENTIAL PORTION HAS BEEN OMITTED PURSUANT TO ITEM 601(b)(10)(iv) WHEREBY CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED BECAUSE IT IS BOTH NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE REGISTRANT IF PUBLICLY DISCLOSED: [***]
+
+AIRCRAFT SALE AND PURCHASE AGREEMENT
+(SPIRIT-GAT 2024)
+
+dated as of October 29, 2024
+
+between
+
+SPIRIT AIRLINES, INC.
+as Seller
+
+and
+
+GA TELESIS, LLC
+as Buyer
+
+____________________________________________
+
+23 Used Airbus A320 and A321 Aircraft
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+TABLE OF CONTENTS
+
+Page
+
+1.1 Definitions. 1
+
+1.2 Interpretation. 7
+
+2. Agreements to Sell and Purchase; Assignment of Warranties; Etc. 8
+
+2.1 Sale and Purchase of Aircraft. 8
+
+2.2 Assignment of Warranties. 9
+
+2.3 Milestones. 9
+
+2.4 Acknowledgment. 10
+
+2.5 Designation of Buyer’s Owner Trustee. 10
+
+3. Deposit; Purchase Price; Payment. 11
+
+3.1 Deposit. 11
+
+3.2 Purchase Price. 11
+
+3.3 Delivery Date Payment. 11
+
+3.4 Payment Instructions. 12
+
+4. Inspection and Technical Acceptance; Etc. 12
+
+4.1 Inspection and Technical Acceptance. 12
+
+4.2 Removal of Excluded Equipment. 12
+
+4.3 Substitution of Seats. 13
+
+5. Delivery of Aircraft. 13
+
+5.1 Delivery Condition. 13
+
+5.2 Post-Delivery Assistance. 14
+
+5.3 Delivery Location. 14
+
+5.4 Delivery Schedule. 14
+
+5.5 Delivery. 15
+
+6. Conditions Precedent. 15
+
+6.1 Conditions Precedent. 15
+
+6.2 No Financing or Other Contingencies. 17
+
+7. Termination. 17
+
+7.1 Total Loss before Delivery. 17
+
+7.2 Termination Event. 17
+
+7.3 Aircraft Non-Sale Event. 17
+
+7.4 Default Provisions. 17
+
+7.5 Effect of Termination. 18
+
+8. Representations and Warranties; Disclaimers and Waivers. 18
+
+i
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+8.1 Seller Representations and Warranties. 18
+
+8.2 Buyer Representations and Warranties. 19
+
+8.3 Disclaimers. 20
+
+8.4 Waivers. 21
+
+9. Insurance. 22
+
+9.1 Insurances. 22
+
+9.2 Certificates, Etc. 23
+
+10. Transfer Taxes. 23
+
+10.1 Diligence. 23
+
+10.2 Tax Indemnity. 23
+
+10.3 Cooperation. 23
+
+10.4 Procedures, Etc. 24
+
+11. Miscellaneous. 24
+
+11.1 Entire Agreement, Amendment, and Installment Contract. 24
+
+11.2 Time of the Essence to Complete Purchase of Aircraft. 25
+
+11.3 Non-Waiver. 25
+
+11.4 Severability. 25
+
+11.5 Notices. 25
+
+11.6 Governing Law & Jurisdiction. 26
+
+11.7 Waiver of Jury Trial. 27
+
+11.8 Further Assurances. 27
+
+11.9 Counterparts. 27
+
+11.10 Transaction Costs. 27
+
+11.11 Assignment, Successors and Assigns. 27
+
+11.12 Confidentiality. 27
+
+11.13 Third-party Beneficiaries. 28
+
+11.14 Limitation of Liability. 28
+
+11.15 Force Majeure. 28
+
+11.16 Publicity. 29
+
+11.17 Relationship of the Parties. 29
+
+11.18 Brokers and other Third Parties. 29
+
+ii
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+EXHIBITS
+
+Exhibit A Description of Aircraft
+
+Exhibit B Aircraft Records
+
+Exhibit C List of Excluded Equipment
+
+Exhibit D Inspection and Technical Acceptance
+
+Exhibit E Form of Aircraft Acceptance Certificate
+
+Exhibit F Form of Warranty Bill of Sale
+
+Exhibit G Form of Incident/Accident Clearance Statement
+
+Exhibit H Form of Compliance Certification Statement
+
+Exhibit I Acknowledgment of Marketing and Sales Process
+
+and Seller’s Cost Savings
+
+iii
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+AIRCRAFT SALE AND PURCHASE AGREEMENT
+
+(SPIRIT-GAT 2024)
+
+This AIRCRAFT SALE AND PURCHASE AGREEMENT (SPIRIT-GAT 2024) (the “Agreement”) is entered into as of October 29, 2024 by and between SPIRIT AIRLINES, INC., a Delaware corporation (hereinafter referred to as “Seller”) and GA TELESIS, LLC, a Delaware limited liability company (hereinafter referred to as “Buyer”) (Seller and Buyer are each a “Party” and, collectively, the “Parties”).
+
+RECITALS
+
+WHEREAS, Seller owns 23 Airbus model A320 aircraft and Airbus model A321 aircraft (each, as described more fully on Exhibit A, but excluding Excluded Equipment and, if Seller so elects, with Substituted Seats, together with all documents and available records pertaining thereto in Seller’s possession and set forth on Exhibit B (the “Records”), an “Aircraft” and, collectively, the “Aircraft”);
+
+WHEREAS, Seller and Buyer are parties to that certain term sheet, dated October 15, 2024 (the “Term Sheet”), between Seller and Buyer that contemplates the Parties entering into a definitive agreement pursuant to which Seller will sell to Buyer, and Buyer will purchase from Seller, such Aircraft; and
+
+WHEREAS, the Parties now desire to enter into this Agreement.
+
+NOW, THEREFOR, in consideration of the mutual promises and covenants herein contained, the receipt and sufficiency of which is hereby acknowledged, the Parties hereto agree as follows:
+
+1. Definitions & Interpretation.
+
+1.1 Definitions. The following capitalized terms used herein and not otherwise defined shall have the following respective meanings for all purposes of this Agreement.
+
+“Access” means, with respect to each Aircraft, the last to occur of (i) Seller’s completion of the applicable maintenance under Sections 4.2 and 4.3, (ii) Seller’s provision of all Records with respect to such Aircraft, as evidenced by a written communication from Seller to Buyer confirming that Buyer has access to all Records and (iii) Seller’s provision of all additional Records requested by Buyer following Buyer’s initial inspection of the Records, as evidenced by a written communication from Seller to Buyer confirming that Buyer has access to all such additional Records.
+
+“AD” has the meaning given to it in Section 5.1.
+
+1
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+“Affiliate” means a Person or an entity that directly or indirectly controls, is controlled by, or is under common control with, another Person or entity, including, among the others, executive officers, directors, large stockholders, subsidiaries, parent entities and sister companies.
+
+“Agreement” has the meaning given to it in the preamble.
+
+“Aircraft” has the meaning given to it in the recitals.
+
+“Aircraft Acceptance Certificate” means an aircraft acceptance certificate substantially in the form provided in Exhibit E and executed by Buyer.
+
+“Aircraft Non-Sale Event” means, with respect to any Aircraft, if Delivery of such Aircraft has not occurred on or prior to the Delivery Window Deadline for such Aircraft.
+
+“Airframe” means, with respect to each Aircraft, the related airframe (excluding the associated Engines) listed on Exhibit A.
+
+“AMM” means Aircraft Maintenance Manual.
+
+“Bankruptcy Case” has the meaning given to it in Section 2.3.
+
+“Bankruptcy Code” has the meaning given to it in Section 2.3.
+
+“Base Purchase Price” means, for each Aircraft, the amount specified for such Aircraft in the column entitled “Base Purchase Price” on Annex A hereto.
+
+“Bill of Sale” means a warranty bill of sale substantially in the form of Exhibit F hereto.
+
+“Business Day” means a day other than a Saturday or Sunday on which the banks in New York City, New York, USA are open for the transaction of business of the type required by this Agreement.
+
+“Buyer” has the meaning given to it in the preamble.
+
+“Buyer’s Default” means the occurrence of one or more of the following events:
+
+(i) with respect to any Aircraft, Buyer’s failure to accept the Delivery of such Aircraft when required to do so in accordance with all applicable terms and conditions of this Agreement (including, without limitation, failure by the applicable Buyer’s Owner Trustee to accept the Bill of Sale for such Aircraft in
+
+2
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+connection with such Delivery when required to do so in accordance with all applicable terms and conditions of this Agreement);
+
+(ii) with respect to any Aircraft, any of the conditions precedent within the control of Buyer is not satisfied (or waived by Seller in its sole and absolute discretion) by the Delivery Window Deadline for such Aircraft and such failure is not due to or arising from a breach by Seller of its obligations under this Agreement; or
+
+(iii) (A) any failure by Buyer to observe or perform any of its other material obligations under this Agreement if such failure continues for fifteen (15) days after written notice thereof is delivered to Buyer from Seller (provided that if the same is not capable of being cured within such 15-day period, subject to Buyer having commenced good faith efforts to cure the same, the material breach has thereafter not been cured within 30 days following receipt of Seller’s written notice), or (B) the occurrence of a default by Buyer described in the foregoing clauses (i) or (ii) with respect to [***] Aircraft.
+
+“Buyer’s Liens” has the meaning given to it in Section 2.1(b).
+
+“Buyer’s Owner Trustee” means, with respect to each Aircraft, any of [***].
+
+“Cape Town Agreements” means the Cape Town Convention, as supplemented by the Cape Town Aircraft Protocol (in each case, the English language version).
+
+“Cape Town Aircraft Protocol” means The Protocol on International Interests in Mobile Equipment, concluded in Cape Town, South Africa, on November 16, 2001 (the English language version).
+
+“Cape Town Convention” means The Convention on International Interests in Mobile Equipment, concluded in Cape Town, South Africa, on November 16, 2001 (the English language version).
+
+“Civil Aviation Registry” means the registry of aircraft maintained by the FAA.
+
+“Confidential Information” has the meaning given to such term in Section 11.12.
+
+“Confirmatory Unilateral Disbursement Notice” has the meaning set forth in the Escrow Agreement.
+
+“Delivery” means, with respect to each Aircraft, delivery of the sale of such Aircraft pursuant to the terms of this Agreement.
+
+3
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+“Delivery Condition” means, with respect to each Aircraft, the condition of such Aircraft at Delivery as provided in Section 5.1.
+
+“Delivery Date” means, with respect to an Aircraft, the actual date on which Delivery occurs.
+
+“Delivery Location” has the meaning given to such term in Section 5.3.
+
+“Delivery Window Deadline” has the meaning given to such term in Section 5.4.
+
+“Dollars”, “$” and “US$” mean the lawful currency of the United States.
+
+“Engine” means, with respect to each Aircraft, any one of the two aircraft engines associated with such Aircraft on Exhibit A.
+
+“Escrow Agent” means McAfee & Taft, a Professional Corporation, as escrow agent under the Escrow Agreement.
+
+“Escrow Agreement” means that certain Escrow Agreement, dated on or about October 30, 2024, among Buyer, Seller and Escrow Agent, as the same may be amended, supplemented or otherwise modified pursuant to the terms thereof.
+
+“Escrow Funds” has the meaning set forth in the Escrow Agreement.
+
+“Excluded Equipment” means the list of components, parts, systems and equipment as listed on in Exhibit C, which includes, to the extent set forth on such Schedule D, the following: (a) defibrillators, enhanced emergency medical kits and other medical equipment, (b) components or systems installed on or affixed to the related airframe that are used to provide individual telecommunications, Wi-Fi and/or satellite connectivity or electronic entertainment or services to passengers aboard the Aircraft, (c) branded galley carts, beverage carts, liquor kits, food tray carriers, ice containers, oven inserts, galley inserts (other than any non-branded electrical equipment in the galley), and other branded passenger convenience or service items and (e) cargo containers. Excluded Equipment shall not include any property abandoned pursuant to Section 4.2.
+
+“FAA” means the United States Federal Aviation Administration.
+
+“FAA Bill of Sale” means, with respect to an Aircraft (or, as applicable, an Airframe), an FAA Form AC 8050-2 aircraft bill of sale (or any successor form thereto established and accepted by the FAA).
+
+“FAA Counsel” means the law firm of McAfee & Taft, a Professional Corporation, or such other Law firm as agreed between the Parties.
+
+4
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+“FAA Registration Application” means, with respect to an Aircraft (or, as applicable, an Airframe), an FAA Form AC 8050-1 aircraft registration application document (or any successor form thereto established and accepted by the FAA) required to register the Aircraft for operation within the United States.
+
+“GAT OP” means the owner participant under the Trust Agreement, which shall either be GAT or a joint venture in which GAT is a participant or servicer.
+
+“Government Entity” means the United States government, any state or other political subdivision thereof and any entity exercising executive, legislative, judicial, regulatory, or administrative functions of or pertaining to any such government.
+
+“Initial Escrowed Deposit Amount” has the meaning given to it in Section 3.1.
+
+“Inspection” has the meaning given to it in Section 4.1.
+
+“Insurance Period” has the meaning given to it in Section 9.1.
+
+“International Interests” has the meaning ascribed to the term “international interests” under the Cape Town Agreements.
+
+“International Registry” has the meaning ascribed to the term “international registry” under the Cape Town Agreements.
+
+“Law” means any (a) Law, statute, decree, constitution, regulation, order or directive of any Government Entity, (b) treaty, pact, compact or other agreement to which any Government Entity is a signatory or party, (c) judicial or administrative interpretation or application of any of the foregoing or (d) any binding judicial precedent having the force of Law in any Government Entity.
+
+“Lien” means any lien, security interest, lease, mortgage, pledge, International Interest on the International Registry (but not any contract of sale registration on the International Registry), title retention or other charge or encumbrance or claim or right of others or agreement the effect of which is the creation of security, including, without limitation, rights of others under the Aircraft, Airframe, or Engine, or parts thereof, interchange, loan, or lease agreement.
+
+“Milestone” has the meaning given to it in Section 2.3.
+
+“Party” has the meaning given to it in the preamble.
+
+“Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint stock company, company, firm, trust,
+
+5
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+organization, government, or any agency or political subdivision thereof or any other entity, whether or not having a separate legal personality.
+
+“Petition Date” has the meaning given to it in Section 2.3.
+
+“Proposed Order” has the meaning given to it in Section 2.3.
+
+“Purchase Price” has the meaning given to it in Section 3.2.
+
+“Records” has the meaning given to it in the recitals.
+
+“Representatives” has the meaning given to it in Section 11.12.
+
+“Sale Approval Motion” has the meaning given to it in Section 2.3.
+
+“Seller” has the meaning given to it in the preamble.
+
+“Seller’s Default” means the occurrence of one or more of the following events:
+
+(i) with respect to any Aircraft, Seller’s failure to consummate the Delivery of such Aircraft when required to do so in accordance with all applicable terms and conditions of this Agreement.
+
+(ii) with respect to any Aircraft, any of the conditions precedent within the control of Seller is not satisfied (or waived by Buyer in its sole and absolute discretion) by the Delivery Window Deadline for such Aircraft and such failure is not due to or arising from a breach by Buyer of its obligations under this Agreement; or
+
+(iii) (A) any failure by Seller to observe or perform any of its other material obligations under this Agreement if such failure continues for fifteen (15) days after written notice thereof is delivered to Seller from Buyer (provided that if the same is not capable of being cured within such 15-day period, subject to Seller having commenced good faith efforts to cure the same, the material breach has thereafter not been cured within 30 days following receipt of Buyer’s written notice), or (B) the occurrence of a default by Seller described in the foregoing clauses (i) or (ii) with respect to [***] Aircraft.
+
+“SB” has the meaning given to it in Section 5.1.
+
+6
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+“Scheduled Delivery Month” means, for each Aircraft, the calendar month specified for such Aircraft in the column entitled “Scheduled Delivery Month” on Exhibit A hereto.
+
+“Seller Parties” means Seller, its subsidiaries and parent organizations, and each of its and their directors, officers, shareholders, members, controlling Persons, agents, employees, subsidiaries, Affiliates, servants, successors, assigns and transferees of the foregoing parties (each, a “Seller Party”).
+
+“Substituted Seats” has the meaning given to it in Section 4.3.
+
+“Surviving Provisions” has the meaning given to it in Section 5.5(b).
+
+“Technical Acceptance” has the meaning given to it on Exhibit D.
+
+“Technical Acceptance Deadline” has the meaning given to it in Section 4.1.
+
+“Termination Event” has the meaning given to it in Section 7.2.
+
+“Term Sheet” has the meaning given to it in the recitals.
+
+“Total Loss” means, as applicable, the actual, constructive or arranged total loss of an Aircraft.
+
+“Transaction Documents” means this Agreement and the Escrow Agreement and, with respect to each Aircraft, the related Bill of Sale, the Aircraft Acceptance Certificate, the FAA Bill of Sale and the FAA Registration Application.
+
+“Transfer Taxes” has the meaning given to it in Section 10.2.
+
+“Trust Agreement” means, with respect to any Aircraft, the applicable Trust Agreement for the related Buyer’s Owner Trustee, as notified by Buyer to Seller pursuant to Section 2.5.
+
+1.2 Interpretation. All references in this Agreement to Exhibits, Sections, paragraphs, subsections, clauses and other subdivisions refer to the corresponding Exhibits, Sections, paragraphs, subsections, clauses and other subdivisions of or to this Agreement unless expressly provided otherwise. Titles appearing at the beginning of any Sections, paragraphs, subsections, or other subdivisions of this Agreement are for convenience only, do not constitute any part of this Agreement, and shall be disregarded in construing the language hereof. The words “this Agreement,” “herein,” “hereby,” “hereunder,” and “hereof,” and words of similar nature, refer to this Agreement as a whole and not to any particular Section, subsection, or other subdivision unless expressly
+
+7
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+so limited. The words “this Section,” and “this subsection,” and words of similar nature, refer only to the Section, or subsection hereof in which such words occur. The word “including” (in its various forms) means “including without limitation”. Pronouns in masculine, feminine, or neutral genders shall be construed to state and include any other gender, and words, terms, and titles (including terms defined herein) in the singular form shall be construed to include the plural and vice versa, unless the context otherwise requires. Exhibits and Appendices referred to herein are attached hereto. Except as otherwise provided in this Agreement, any reference herein to any Law shall be construed as referring to such Law as amended, modified, codified, or reenacted, in whole or in part, and in effect from time to time, and references to particular provisions of a Law include a reference to the corresponding provisions of any prior or succeeding Law, and any reference herein to a document includes that document as amended from time to time in accordance with its terms, and any document entered into in substitution or replacement therefor. Any reference to an amendment includes a supplement, novation, or re-enactment, and “amended” is to be construed accordingly. The word “extent” in the phrase “to the extent” means the degree to which a subject or other theory extends, and such phrase shall not simply mean “if”. Whenever this Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified. Whenever any action must be taken hereunder on or by a day that is not a Business Day, then such action may be validly taken on or by the next day that is a Business Day. Any reference to any federal, state, local, or foreign Law shall be deemed also to refer to all rules and regulations promulgated thereunder, unless the context shall otherwise require. Reference herein to “federal” shall be construed as referring to U.S. federal.
+
+2. Agreements to Sell and Purchase; Assignment of Warranties; Etc.
+
+2.1 Sale and Purchase of Aircraft.
+
+(a) With respect to each Aircraft, Seller agrees to sell and Buyer agrees to buy such Aircraft, in each case upon and subject to the terms and conditions of this Agreement. The aggregate consideration payable with respect to each Aircraft will be the Purchase Price for such Aircraft; provided that the payment of the applicable Purchase Price or any portion thereof shall be in accordance with the applicable provisions of this Agreement.
+
+(b) Upon payment of the Purchase Price in respect of an Aircraft, Seller shall, by execution and delivery to Buyer or Buyer’s Owner Trustee of a Bill of Sale, sell to Buyer or Buyer’s Owner Trustee outright good and marketable title in and to each Aircraft, free and clear of all Liens (other than Liens created by, through or on behalf of Buyer, GAT OP or any other beneficiary or settlor under the Trust Agreement, or Buyer’s Owner Trustee, in its individual capacity or as owner trustee (“Buyer’s Liens”)).
+
+8
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+(c) With respect to each Aircraft, concurrently with Seller’s delivery to Buyer or the applicable Buyer’s Owner Trustee of an executed Bill of Sale for such Aircraft, Buyer or the applicable Buyer’s Owner Trustee shall accept delivery of such Aircraft, and Buyer or the applicable Buyer’s Owner Trustee shall execute and deliver an Aircraft Acceptance Certificate in respect of such Aircraft.
+
+2.2 Assignment of Warranties. Seller hereby assigns to the Buyer, effective as of each Delivery Date, any and all existing assignable warranties and service life policies, or other rights, remedies or claims against manufacturers, suppliers, vendors and maintenance and overhaul agencies relating to the applicable Aircraft (in the case of rights, remedies or claims, only with respect to rights, remedies or claims arising, or based on events, occurrences and circumstances occurring, on or after the Delivery of the applicable Aircraft). Seller makes no representation or warranty as to the existence or assignability of any such warranties and rights.
+
+2.3 Milestones. After the date of this Agreement, if Seller commences or becomes subject of a case under the United States Bankruptcy Code, 11 U.S.C. §§ 101 et seq. (the “Bankruptcy Code”), or such a case is commenced against Seller, at any time before the Delivery Window Deadline for any undelivered Aircraft has not yet expired and so long as no Termination Event has occurred (any such bankruptcy case occurring, a “Bankruptcy Case”), then Seller agrees to complete the following actions on or before the dates specified below (each a “Milestone” and collectively, the “Milestones”):
+
+(a) Within one day after the petition date (the “Petition Date”) on which such Bankruptcy Case is filed, Seller shall file a motion (the “Sale Approval Motion”) in its Bankruptcy Case pursuant to Sections 363 and 365 seeking approval of, as applicable, the Transaction Documents and the assumption of such agreements and shall reasonably seek, subject to the bankruptcy court’s availability, to schedule the hearing on such Sale Approval Motion within thirty days after the Petition Date; and
+
+(b) within forty-five (45) days after such motion is so filed, the bankruptcy court overseeing the Seller’s Bankruptcy Case shall enter an order, in form and substance reasonably acceptable to Buyer, approving, as applicable, the Transaction Documents and the assumption of such agreements, under Sections 363 and 365 of the Bankruptcy Code.
+
+Buyer, in its sole reasonable discretion, may extend the above deadline(s) for any or all of the Milestones (as extended prior to the then current applicable Milestone(s)) in written notice(s) sent by email to Seller (to the following email addresses: [***] with a copy to: [***]). Without limiting the effect of Section 11.2 hereof, the Parties agree that, so long
+
+9
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+as Seller uses good faith efforts to satisfy the foregoing Milestones, the failure by Seller to attain any Milestones shall not be deemed to be a breach by Seller of the terms of this Agreement or of any Transaction Document.
+
+The Sale Approval Motion and the associated proposed order (the “Proposed Order”) shall be prepared by Seller. The form and substance of any amendments or modifications to such Proposed Order must be in form and substance reasonably acceptable to Buyer and Seller.
+
+2.4 Acknowledgment. Reference is hereby made to the provisions set forth in the Term Sheet under the heading “Acknowledgment of Marketing and Sales Process and Seller’s Cost Savings” and that are incorporated herein as Exhibit I hereto, and Seller hereby represents that, as of the date of this Agreement, such provisions are true and correct. After the date of this Agreement, if Seller becomes the subject of a case under the Bankruptcy Code, Seller will submit a declaration in support of the Sale Approval Motion setting forth the matters described in Exhibit I hereto.
+
+2.5 Designation of Buyer’s Owner Trustee. With respect to each Aircraft, Buyer may by written notice to Seller at least five Business Days before the Delivery of such Aircraft designate a Buyer’s Owner Trustee to be named as “Purchaser” on the Bills of Sale for such Aircraft (including the details of the relevant Trust Agreement); provided that each Buyer’s Owner Trustee must comply with Seller’s know your customer checks and due diligence, as determined by Seller (acting reasonably) and the Buyer shall remain responsible for any obligations owed to Seller hereunder notwithstanding any such designation.
+
+Notwithstanding anything to the contrary herein or in any Transaction Documents for any Aircraft, prior to the occurrence of the Delivery relating to such Aircraft:
+
+(a) Buyer shall not transfer (and if Buyer is not the sole beneficiary under the applicable Trust Agreement, Buyer shall not permit any beneficiary of such Trust Agreement to transfer) any of its right, title or interest to acquire such Aircraft or under all or any part of the Transaction Documents for such Aircraft other than, in the case of Buyer, by designating the applicable Buyer’s Owner Trustee to be named as “Purchaser” on the Bills of Sale for such Aircraft in accordance with the terms of this Agreement;
+
+(b) Buyer shall not grant (and if Buyer is not the sole beneficiary under the applicable Trust Agreement, Buyer shall not permit any beneficiary of such Trust Agreement to grant) a Lien in all or any part of its interest in the trust estate or the applicable Trust Agreement in respect of such Aircraft or permit the Buyer’s Owner Trustee for such Aircraft to grant a Lien in any of its right, title or
+
+10
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+interest in and to such Aircraft, any of the applicable Transaction Documents, the applicable trust estate or any proceeds therefrom; and
+
+(c) Buyer shall not permit the Buyer’s Owner Trustee for such Aircraft to transfer any of its right, title or interest in and to such Aircraft, any of the applicable Transaction Documents, the applicable trust estate or any proceeds therefrom.
+
+3. Deposit; Purchase Price; Payment.
+
+3.1 Deposit. Buyer confirms that, prior to the execution of this Agreement, Buyer has paid to Escrow Agent, in immediately available funds, $50,000,000 (the “Initial Escrowed Deposit Amount”) as an escrowed deposit to be held and applied pursuant to the terms of the Escrow Agreement.
+
+3.2 Purchase Price.
+
+(a) For each Aircraft, the total consideration payable by Buyer to Seller at Delivery for such Aircraft shall be equal to the Base Purchase Price for such Aircraft, as such amount may be adjusted pursuant to Section 3.2(b) (for each Aircraft, its “Purchase Price”).
+
+(b) For each Aircraft, the Base Purchase Price for such Aircraft shall be adjusted on the Delivery Date thereof in accordance with the below formula:
+
+[***]
+
+3.3 Delivery Date Payment. At Delivery of each Aircraft, Buyer shall pay Seller the Purchase Price in respect of such Aircraft delivered (net of any portion of the Initial Escrowed Deposit Amount actually paid by Escrow Agent to Seller in accordance with the Escrow Agreement with respect to such Aircraft on or prior to the Delivery Date for such Aircraft), free and clear of and without any deduction or withholding for or on account of tax.
+
+3.4 Payment Instructions. Buyer’s payments due under this Agreement shall be made in Dollars in immediately available funds to the following account (or such other account as Seller may notify Buyer in writing):
+
+[***]
+
+with payment advice to: [***]; ref: Aircraft MSN [*].
+
+11
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+4. Inspection and Technical Acceptance; Etc.
+
+4.1 Inspection and Technical Acceptance.
+
+(a) Buyer shall have the opportunity to perform a physical inspection (but, for the avoidance of doubt, not amounting to a “C-check” inspection access) of each Aircraft, including its Records, prior to its purchase, at its own cost (the “Inspection”), as more fully described on Exhibit D.
+
+(b) With respect to each Aircraft, the deadline (the “Technical Acceptance Deadline”) for Technical Acceptance will be within [***] (or solely with respect to [***], within [***]) of Buyer being given Access to such Aircraft (including the Records for such Aircraft) for Inspection, or such other date as may be mutually agreed by the Parties.
+
+(c) Buyer, in its sole discretion, may elect to perform a physical walk-around inspection of any Aircraft that may include going on board such Aircraft and examining the contents of any open panels, bays or other components of such Aircraft (but shall not include the opening of any unopened panels, bays or other components) on the Delivery Date, prior to Delivery, to confirm that the Aircraft is in materially the same physical condition as of the date of Buyer’s Technical Acceptance (ordinary wear and tear excepted).
+
+4.2 Removal of Excluded Equipment. All Excluded Equipment items listed in Exhibit C shall be removed from the Aircraft and are excluded from being part of the Aircraft at Delivery, whether or not such items are installed in the Aircraft or present at Delivery. At Seller’s option, as advised to Buyer prior to Delivery, (i) Seller shall remove all or part of the Excluded Equipment prior to Delivery, or (ii) Buyer shall remove all or any remaining Excluded Equipment items within seven (7) days following Delivery in accordance with industry, regulatory and manufacturer standards. If applicable, the Parties shall include the list of outstanding Excluded Equipment to be removed by Buyer on each Aircraft Acceptance Certificate. To the extent any of the Excluded Equipment items are removed by Buyer after Delivery, Seller will pay or reimburse Buyer for the reasonable and documented out-of-pocket cost (without markup) charged by the service provider at the Delivery Location that accomplishes the removals. Any interior Excluded Equipment removed by Buyer following Delivery shall be assembled, suitably packed and safely stored for return shipment to Seller at Seller’s cost. Buyer shall in no event market or sell any of the Excluded Equipment. Notwithstanding the foregoing, Seller may, upon delivery of written notice to Buyer, elect to abandon any item of Excluded Equipment, in which case title to the same shall, at Delivery of the Aircraft, transfer to Buyer at no cost or charge to either of Buyer or Seller.
+
+12
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+4.3 Substitution of Seats. With respect to each Aircraft, Seller will have an option of either (i) leaving the “Big Front” seats currently installed on such Aircraft or (ii) prior to the applicable Delivery Date, replacing such “Big Front” seats by installing standard economy seats (the “Substituted Seats“) with the conforming cabin changes; provided that, if Seller elects as described in clause (ii), Seller will, prior to the Delivery Date for such Aircraft, provide Buyer with an approved Layout of Passenger Accommodation (LOPA).
+
+5. Delivery of Aircraft.
+
+5.1 Delivery Condition.
+
+(a) Except as expressly described in this Section 5.1, each Aircraft will be delivered in “AS-IS, WHERE-IS” and “WITH ALL FAULTS” condition. There shall be no hard time limits, or cycle, condition or time or other requirements of any kind, applicable to any Aircraft, any Engine, Engine LLP or any other part.
+
+(b) Each Aircraft shall be in serviceable condition per the AMM and in the same general condition, configuration (but in each case allowing for the removal of any Excluded Equipment and, if Seller so elects, replacement of the “Big Front” seats with the Substituted Seats), and modification as of the time such Aircraft was removed from revenue service, normal wear and tear for an aircraft of a similar age and maintenance status excepted.
+
+(c) [***]
+
+(d) Seller shall remove or paint over (or cause to be removed or painted over) any and all uses of the Spirit Airlines name, logo or other identifying marks (both from the interior and exterior) from each Aircraft prior to its Delivery.
+
+(e) [***]
+
+(f) Each Aircraft shall have a valid Certificate of Airworthiness.
+
+5.2 Post-Delivery Assistance. With respect to each Aircraft, after its Delivery and closing, if reasonably requested by Buyer, Seller will provide commercially reasonable assistance to Buyer, and at Buyer’s cost and expense, in obtaining a valid Export Certificate of Airworthiness for such Aircraft.
+
+5.3 Delivery Location. The delivery location (the “Delivery Location”) for each Aircraft shall be [***], or such other location as mutually agreed between the
+
+13
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Parties, provided that Buyer and Seller shall reasonably cooperate with one another to select a Delivery Location for which an applicable exemption from Transfer Taxes is available in connection with the sale of the Aircraft. Seller shall arrange and pay for all relocation flights and associated flight permits to locate the Aircraft at the Delivery Location prior to Delivery. Following Delivery of an Aircraft, Buyer shall be responsible for arranging the parking and storage of such Aircraft, and shall be responsible for the payment of all parking and storage fees for such Aircraft following its Delivery.
+
+5.4 Delivery Schedule.
+
+(a) The Scheduled Delivery Months corresponding to each Aircraft appear in Exhibit A. The Parties agree that the Scheduled Delivery Month for any Aircraft may not be modified absent written consent by the Parties, which consent (if so requested) may not be unreasonably withheld or delayed and, if Seller requests that Buyer consent to reordering the Scheduled Delivery Months of specific Aircraft that are of similar type and possess similar maintenance status and characteristics, such consent may not be unreasonably withheld or delayed by Buyer.
+
+(b) For each Aircraft, the “Delivery Window Deadline” shall mean the date that is [***] after the [***] of the Scheduled Delivery Month for such Aircraft or such later date as requested (which request must be made in writing in advance of such deadline) by a Party (if such delay has not been caused by such Party) and consented to by the other Party, which consent may not be unreasonably delayed or withheld.
+
+5.5 Delivery.
+
+(a) Upon satisfaction or waiver of the conditions precedent for an Aircraft set forth in Section 6.1, Buyer shall pay the Purchase Price and deliver the Aircraft Acceptance Certificate, and Seller shall execute and concurrently deliver to Buyer or Buyer’s Owner Trustee the Bill of Sale, whereupon risk of loss to the relevant Aircraft shall transfer to Buyer and title to the relevant Aircraft shall transfer to Buyer or Buyer’s Owner Trustee, as applicable.
+
+(b) For each Delivery, upon title transfer, neither Buyer nor Seller shall have any further obligation or liability to the other in respect of the applicable Aircraft, and the terms and conditions of the Agreement in respect of such Aircraft shall automatically terminate and have no force and effect except for with respect to this subsection, Section 5.2 (Post-Delivery Assistance), Section 9 (Insurance), Section 10 (Transfer Taxes), Section 11.3 (Non-Waiver), Section 11.6 (Governing Law and Jurisdiction), Section 11.10 (Transaction Costs),
+
+14
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Section 11.12 (Confidentiality), Section 11.13 (Third-party Beneficiaries) and Section 11.14 (Limitation of Liability), and in each case of the foregoing any provisions of this Agreement required to give meaning to the aforementioned sections (the “Surviving Provisions”).
+
+6. Conditions Precedent.
+
+6.1 Conditions Precedent. Following Technical Acceptance of an Aircraft, Buyer’s obligation to purchase such Aircraft and Seller’s obligation to sell such Aircraft shall be subject to the following conditions; provided that it shall not be a condition precedent to the obligations of one Party that any document be delivered or action be taken that is to be delivered or be taken by the other Party or by a Person within the control of such other Party:
+
+(a) execution of the Transaction Documents for such Aircraft;
+
+(b) receipt of all appropriate governmental or regulatory approvals deemed necessary or advisable by Seller and Buyer;
+
+(c) such Aircraft shall be free and clear of all Liens (but excluding any Buyer’s Liens), including any interests on the International Registry, or liens of record at the FAA shall be in the process of being released, with the FAA Counsel filing the appropriate releases with the FAA, or discharges of interests on the International Registry shall be in the process of being registered by the FAA Counsel;
+
+(d) Buyer shall receive a signed incident accident clearance statement with respect to such Aircraft substantially in the form of Exhibit G, dated the Delivery Date;
+
+(e) receipt by Seller of the full Purchase Price for such Aircraft;
+
+(f) there shall be no material adverse change in the physical condition of such Aircraft from the date of Buyer’s Technical Acceptance of such Aircraft to its Delivery Date;
+
+(g) receipt by Buyer of the compliance certification statement from Seller in the form of Exhibit H;
+
+(h) receipt by Seller of the compliance certification statement from Buyer in the form of Exhibit H;
+
+15
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+(i) receipt by Seller of a duly executed copy from Buyer of the Aircraft Acceptance Certificate with respect to such Aircraft;
+
+(j) (1) prepositioning by Buyer of a completed and executed FAA Registration Application and such other documentation required for Buyer to register the Aircraft in the United States in the name of the Buyer or the applicable Buyer’s Owner Trustee as owner to be prepositioned with FAA Counsel to be filed concurrently with the Bill of Sale and/or FAA Bill of Sale and (2) Buyer taking, or causing the applicable Buyer’s Owner Trustee to take, all actions required of Buyer or such Buyer’s Owner Trustee in order to cause the sale of the Aircraft from Seller to Buyer or Buyer’s Owner Trustee pursuant to this Agreement to be registered with the International Registry established pursuant to the Cape Town Agreements; and
+
+(k) receipt by Seller of certificates from Buyer’s insurance broker evidencing Buyer’s compliance with the insurance provisions of Section 9 hereof.
+
+6.2 No Financing or Other Contingencies. The transactions contemplated herein shall not be subject to or contingent on (i) Buyer obtaining any financing in relation to its acquisition of any Aircraft or (ii) the closing of any other transaction.
+
+7. Termination.
+
+7.1 Total Loss before Delivery. If any Aircraft suffers a Total Loss prior to Delivery, Seller shall, as soon as reasonably practicable after it has become aware of such Total Loss, notify Buyer in writing thereof and, with effect from the date of such Total Loss, the Seller’s obligations to sell and the Buyer’s obligation to purchase the Aircraft shall terminate.
+
+7.2 Termination Event. Subject to the remaining terms of this Section 7, if a Bankruptcy Case occurs and any of the Milestones are not satisfied by the applicable date set for such Milestone (a “Termination Event”), then all remaining obligations of Seller to sell to Buyer (and to deliver the Bills of Sale to the applicable Buyer or Buyer’s Owner Trustee), and of Buyer to buy from Seller, with respect to any Aircraft under this Agreement and/or the Transaction Documents (other than the Escrow Agreement) not previously purchased by Buyer and all remaining obligations of Buyer to purchase such Aircraft will terminate.
+
+7.3 Aircraft Non-Sale Event. Subject to the remaining terms of this Section 7, if an Aircraft Non-Sale Event occurs with respect to any Aircraft, then all remaining obligations of Seller to sell to Buyer (and to deliver the Bills of Sale to Buyer or the applicable Buyer’s Owner Trustee), and of Buyer to Buy from Seller, with respect to such
+
+16
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Aircraft under this Agreement and/or the other Transaction Documents (other than the Escrow Agreement) will terminate.
+
+7.4 Default Provisions.
+
+(a) Buyer’s Default. With respect to any Aircraft, if any default described in clauses (i) or (ii) of the definition of “Buyer’s Default” should occur in respect of such Aircraft, then Seller shall be entitled, in each case at Seller’s sole discretion so long as such default is then continuing, to elect one or more of the following in respect of such Aircraft subject to the default, exercisable by delivering written notice to Buyer: (i) suspend performance under this Agreement with respect to such Aircraft, or (ii) terminate this Agreement immediately with respect to such Aircraft. If any default described in clause (iii) of the definition of “Buyer’s Default” should occur, then Seller shall be entitled, in each case at Seller’s sole discretion so long as such default is then continuing, to elect one or more of the following in respect of all of the Aircraft for which the Delivery hereunder have not yet occurred, exercisable by delivering written notice to Buyer: (i) suspend performance under this Agreement with respect to either (as specified in such notice) (y) such Aircraft or (z) all of the Aircraft for which the Delivery hereunder have not yet occurred, and/or (ii) terminate this Agreement immediately with respect to such Aircraft.
+
+(b) Seller’s Default. With respect to any Aircraft, if any default described in clauses (i) or (ii) of the definition of “Seller’s Default” should occur in respect of such Aircraft, then Buyer shall be entitled, in each case at Buyer’s sole discretion so long as such default is then continuing, to elect one or more of the following in respect of such Aircraft subject to the default, exercisable by delivering written notice to Seller: (i) suspend performance under this Agreement with respect to such Aircraft, or (ii) terminate this Agreement immediately with respect to such Aircraft. If any default described in clause (iii) of the definition of “Seller’s Default” should occur, then Buyer shall be entitled, in each case at Buyer’s sole discretion so long as such default is then continuing, to elect one or more of the following in respect of all of the Aircraft for which the Delivery hereunder have not yet occurred, exercisable by delivering written notice to Seller: (i) suspend performance under this Agreement with respect to either (as specified in such notice) (y) such Aircraft or (z) all of the Aircraft for which the Delivery hereunder have not yet occurred, and/or (ii) terminate this Agreement immediately with respect to such Aircraft.
+
+7.5 Effect of Termination. Notwithstanding the foregoing, each party hereto may exercise any other right or remedy, if any, which may be available to it under applicable law or the Transaction Documents in respect of such Aircraft (if they have
+
+17
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+been entered into) and each party shall retain any and all claims, if any, for damages under such Transaction Documents (if they have been entered into) or under applicable law for any breach of any agreement, representation, warranty or covenant contained in this Agreement or such Transaction Documents (if they have been entered into). Without limiting the foregoing, and regardless of whether this Agreement has been terminated with respect to a particular Aircraft, Buyer may demand that the Escrow Agent return the appropriate Escrow Funds to Buyer pursuant to Section 6 of the Escrow Agreement. Additionally, without limiting the effect of the foregoing, and subject to the terms of the Escrow Agreement, Buyer can, in compliance with the Escrow Agreement, elect to send a Confirmatory Unilateral Disbursement Notice as provided under the Escrow Agreement.
+
+8. Representations and Warranties; Disclaimers and Waivers.
+
+8.1 Seller Representations and Warranties.
+
+Seller represents and warrants to Buyer that the following statements are as of the date hereof and at each Delivery true and accurate:
+
+(a) it is duly organized and validly existing under the Laws of its jurisdiction of formation and has the power and authority to carry on its business as presently conducted and to perform its obligations under the Transaction Documents to which it is a Party;
+
+(b) each of the Transaction Documents to which it is a Party has been (or will be, when executed) duly authorized, entered into and delivered by it and constitutes the legal, valid and binding obligation of it enforceable against it in accordance with its terms (subject to bankruptcy, insolvency, reorganization or similar Laws of general application affecting the enforcement of creditors’ rights generally);
+
+(c) neither the execution and delivery of the Transaction Documents to which it is a Party, nor the consummation of the transactions contemplated thereby nor compliance by it with any of the terms and provisions thereof will contravene any Law applicable to it or result in any breach of, or constitute a default under any indenture, mortgage, chattel mortgage, deed of trust, conditional sales contract, bank loan or credit agreement, partnership agreement, or other agreement or instrument to which it is a Party or by which it or its properties or assets are bound or affected;
+
+(d) neither the execution, delivery or performance by it of the Transaction Documents to which it is a Party, nor the consummation by it of any of the transactions contemplated thereby, will require the consent or approval of,
+
+18
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+the giving of notice to, or the taking of any other action in respect of, the shareholders, or the trustee or holder of any indebtedness of it, except such as have been or will be obtained or effected, each of which approvals, consents and waivers shall be in full force and effect on the Delivery Date;
+
+(e) on each Delivery Date Seller will have full legal and beneficial title in and to the relevant Aircraft, free and clear of any Liens over such Aircraft other than Buyer’s Liens and Liens that will be discharged prior to Delivery, and at Delivery Seller shall convey to Buyer or Buyer’s Owner Trustee good and marketable title to the Aircraft free and clear of any Liens (other than Buyer’s Liens); and
+
+(f) there are no suits, actions, arbitration proceedings or claims pending or, to the knowledge of Seller, threatened against Seller arising out of or in connection with the Transaction Documents before or by any Government Entity.
+
+8.2 Buyer Representations and Warranties.
+
+Buyer represents and warrants to Seller that the following statements are as of the date hereof and at each Delivery true and accurate:
+
+(a) it is duly organized and validly existing under the Laws of its state of organization and has the power and authority to carry on its business as presently conducted and to perform its obligations under the Transaction Documents to which it is a Party;
+
+(b) each of the Transaction Documents to which it is a Party has been (or will be, when executed) duly authorized, entered into and delivered by Buyer and constitutes the legal, valid and binding obligation of Buyer enforceable against Buyer in accordance with its terms (subject to bankruptcy, insolvency, reorganization or similar Laws of general application affecting the enforcement of creditors’ rights generally);
+
+(c) neither the execution and delivery of the Transaction Documents to which it is a Party, nor the consummation of the transactions contemplated thereby nor compliance by it with any of the terms and provisions thereof will contravene any Law applicable to it or result in any breach of, or constitute a default under any indenture, mortgage, chattel mortgage, deed of trust, conditional sales contract, bank loan or credit agreement, corporate charter or by-laws, or other agreement or instrument to which it is a Party or by which its or its properties or assets are bound or affected;
+
+19
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+(d) neither the execution, delivery or performance by it of the Transaction Documents to which it is a Party, nor the consummation by it of any of the transactions contemplated hereby or thereby, will require the consent or approval of, the giving of notice to, or the taking of any other action in respect of, the members, or the trustee or holder of any indebtedness of Buyer, except such as have been or will be obtained or effected, each of which approvals, consents and waivers shall be in full force and effect on the Delivery Date; and
+
+(e) there are no suits, actions, arbitration proceedings or claims pending or, to the knowledge of Buyer, threatened against Buyer arising out of or in connection with the Transaction Documents before or by any Government Entity.
+
+8.3 Disclaimers.
+
+(a) EXCEPT AS EXPRESSLY SET FORTH IN THE BILL OF SALE WITH RESPECT TO AN AIRCRAFT, AND WITHOUT LIMITING ANY OF THE RIGHTS OR REMEDIES OF BUYER UNDER THIS AGREEMENT, EACH AIRCRAFT IS BEING SOLD ON ITS RESPECTIVE DELIVERY DATE TO BUYER IN “AS IS”, “WHERE IS” AND “WITH ALL FAULTS” CONDITION WITHOUT ANY REPRESENTATION, GUARANTEE OR WARRANTY OF THE SELLER, EXPRESS OR IMPLIED, OF ANY KIND, ARISING BY LAW OR OTHERWISE AS TO THE CONDITION THEREOF; AND
+
+(b) WITHOUT LIMITING THE GENERALITY OF SECTION 8.3(a), BUYER UNCONDITIONALLY AGREES THAT EACH AIRCRAFT, AND EACH PART THEREOF ARE TO BE SOLD AND PURCHASED IN AN “AS IS”, “WHERE IS” AND “WITH ALL FAULTS” CONDITION AS AT THE RELEVANT DELIVERY DATE APPLICABLE THERETO, AND NO TERM, CONDITION, WARRANTY, REPRESENTATION OR COVENANT OF ANY KIND HAS BEEN ACCEPTED, MADE OR IS GIVEN BY SELLER, IN RESPECT OF THE AIRWORTHINESS, VALUE, QUALITY, DURABILITY, TITLE (EXCEPT AS EXPRESSLY PROVIDED IN THE APPLICABLE BILL OF SALE), CONDITION, DESIGN, OPERATION, DESCRIPTION, MERCHANTABILITY OR FITNESS FOR USE OR PURPOSE OF THE AIRCRAFT, ANY IN-SCOPE ENGINE OR ANY PART THEREOF, AS TO THE ABSENCE OF LATENT, INHERENT OR OTHER DEFECTS (WHETHER OR NOT DISCOVERABLE), AS TO THE ACCURACY, VALIDITY, TRACEABILITY, COMPLETENESS OR CONDITION OF THE AIRCRAFT RECORDS, OR AS TO THE ABSENCE OF ANY INFRINGEMENT OF ANY PATENT, COPYRIGHT, DESIGN, OR OTHER
+
+20
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+PROPRIETARY RIGHTS; AND ALL CONDITIONS, WARRANTIES AND REPRESENTATIONS (OR OBLIGATION OR LIABILITY, IN CONTRACT OR IN TORT) IN RELATION TO ANY OF THOSE MATTERS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, ARE EXPRESSLY EXCLUDED.
+
+(c) EXECUTION AND DELIVERY OF AN AIRCRAFT ACCEPTANCE CERTIFICATE BY BUYER TO SELLER SHALL BE CONCLUSIVE PROOF THAT THE AIRCRAFT AND EACH PART THEREOF DESCRIBED IN SUCH AIRCRAFT ACCEPTANCE CERTIFICATE ARE IN EVERY WAY SATISFACTORY TO BUYER AND HAVE BEEN ACCEPTED BY BUYER FOR ALL PURPOSES OF THIS AGREEMENT.
+
+(d) DISCLAIMER OF APPLICATION OF C.I.S.G. THE PARTIES HEREBY EXPRESSLY DISCLAIM THE APPLICATION OF THE UNITED NATIONS CONVENTION ON THE INTERNATIONAL SALE OF GOODS TO THE EXTENT APPLICABLE TO THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.
+
+8.4 Waivers.
+
+(a) BUYER AGREES THAT IT SHALL NOT BE ENTITLED TO RECEIVE AND HEREBY DISCLAIMS AND WAIVES ANY RIGHT THAT IT MAY OTHERWISE HAVE TO RECOVER OR SEEK TO RECOVER FROM SELLER PUNITIVE OR EXEMPLARY DAMAGES IN RESPECT OF ANY CLAIM MADE UNDER OR IN CONNECTION WITH THIS AGREEMENT.
+
+(b) BUYER HEREBY AGREES THAT ITS ACCEPTANCE OF THE AIRCRAFT AT DELIVERY AND ITS EXECUTION AND DELIVERY OF THE AIRCRAFT ACCEPTANCE CERTIFICATE IN RESPECT OF EACH AIRCRAFT CONSTITUTE BUYER’S WAIVER OF ANY WARRANTY OF DESCRIPTION, EXPRESS OR IMPLIED, AND ANY CLAIMS BUYER MAY HAVE AGAINST SELLER OR ANY PARTY ACTING FOR OR ON BEHALF OF SELLER BASED UPON THE FAILURE OF THE AIRCRAFT TO CONFORM WITH SUCH DESCRIPTION.
+
+(c) DELIVERY BY BUYER TO SELLER OF THE AIRCRAFT ACCEPTANCE CERTIFICATE IN RESPECT OF EACH AIRCRAFT WILL BE CONCLUSIVE PROOF AS BETWEEN SELLER, ON THE ONE HAND, AND BUYER, ON THE OTHER HAND, THAT BUYER’S TECHNICAL EXPERTS HAVE EXAMINED AND INVESTIGATED EACH AIRCRAFT (INCLUDING
+
+21
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+THE ENGINES) AND HAVE UNCONDITIONALLY AND IRREVOCABLY ACCEPTED SUCH AIRCRAFT.
+
+9. Insurance.
+
+9.1 Insurances.
+
+(a) [***]
+
+(b) All policies carried in accordance with this Section 9.1 and any policies taken out in substitution or replacement for any such policies, (i) shall include the Seller Parties as additional insureds (but not as manufacturer, repairer or servicing agent of the Aircraft, and without imposing on any such party liability to pay premiums with respect to such insurance) as respects the operation of the Buyer, (ii) shall be maintained with insurers of recognized standing and normally participating in the leading international commercial aviation insurance markets (through reinsurance, if necessary) and reasonably acceptable to Seller, (iii) shall provide that if the insurers cancel such insurance for any reason, or if the same is allowed to lapse for non-payment of premium or if any material change is made in the insurance which adversely affects the interest of the Seller Parties, such lapse, cancellation or change shall not be effective as to the Seller Parties and each of them for [***] in the case of war risk and allied perils coverage) after written notice by such insurers of such lapse, cancellation or change, provided, however, that if any notice period specified above is not reasonably obtainable, such policies shall provide for as long a period of prior notice as shall then be reasonably obtainable, (iv) shall expressly provide that all of the provisions thereof, except the limits of liability, shall operate in the same manner as if there were separate policy covering each insured, (v) provide that the insurers will waive any right to any setoff, recoupment, subrogation or counterclaim or any other deduction, by attachment or otherwise, and (vi) be primary and without right of contribution from any insurance which may be carried by the Seller Parties and any of them.
+
+9.2 Certificates, Etc. On or before the Delivery Date for each Aircraft, Buyer shall provide to Seller a certificate of insurance and letter of undertaking evidencing the coverage required pursuant to this Section 9 and shall provide to Seller, as applicable, an updated certificate of insurance and letter of undertaking upon each renewal or replacement of the coverage required pursuant to this Section 9.
+
+22
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+10. Transfer Taxes.
+
+10.1 Diligence. Each Party is responsible for researching its own tax position in relation to the transactions contemplated by the Transaction Documents, at its own cost and for its sole benefit.
+
+10.2 Tax Indemnity. Buyer shall, on an after-tax basis, pay, indemnify and hold Seller and its Affiliates harmless from any and all sales, use, transfer, excise, personal property, ad valorem, value-added, stamp, or other taxes and fees, withholdings, imposts, levies, customs or other duties, charges, monetary transfer fees, or governmental withholdings, together with any penalties, fines, or interest thereon, imposed, levied, or assessed in connection with the sale or Delivery of, or transfer of title to, each Aircraft (including the Engines associated with such Aircraft) to Buyer or the applicable Buyer’s Owner Trustee, as the case may be, hereunder, other than (i) taxes imposed on the overall net income, profits or gains of Seller in respect of the sale or Delivery of, or transfer of title to, the Aircraft to Buyer or the applicable Buyer’s Owner Trustee, as the case may be; (ii) taxes to the extent imposed as result of Seller’s failure to comply with the terms of this Agreement; (iii) taxes imposed, levied or assessed to the extent arising out of or in connection with the ownership, import, export, possession, operation, use, maintenance, return, or storage of the Aircraft prior to the Delivery Date, except any taxes arising out of or in connection with the sale or Delivery of, or transfer of title to, the Aircraft hereunder, or (iv) taxes to the extent arising as a result of the gross negligence or willful misconduct of Seller or its Affiliates or resulting from any inaccuracy of any representation or warranty of Seller hereunder (any or all of the foregoing, “Transfer Taxes”).
+
+10.3 Cooperation. The Parties shall reasonably cooperate with one another to deliver to each other such certifications and other documents as may be reasonably requested in order to avail of any applicable exemption from Transfer Taxes. Without limiting the foregoing, at or prior to the Delivery of each Aircraft, Buyer shall either (i) pay any Transfer Taxes imposed, levied, or assessed in connection with the sale or Delivery of, or transfer of title to, such Aircraft or (ii) provide to Seller a duly completed and validly executed exemption certificate, resale certificate, or other documentation satisfactory to Seller establishing a complete exemption from Transfer Taxes with respect to the sale or Delivery of, or transfer of title to, such Aircraft.
+
+10.4 Procedures, Etc.
+
+(a) If any Transfer Taxes for which Buyer is responsible under Section 10.2 are imposed, levied or assessed on Seller or any of its Affiliates, or Seller or any of its Affiliates are required by Law or otherwise to pay any such Transfer Taxes, Buyer shall reimburse Seller and/or its Affiliates for the full amount of
+
+23
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+such Transfer Taxes within [***] after receipt from Seller of written request for such reimbursement, accompanied by original receipts or other sufficient evidence of payment of such Transfer Taxes.
+
+(b) If a claim is made against Seller or any of its Affiliates for any Transfer Taxes for which Buyer is responsible under Section 10.2, Seller will promptly notify Buyer in writing of such claim; provided, however, that Seller’s failure to provide such notice will not relieve Buyer of its obligations hereunder except to the extent such failure precludes Buyer’s ability to contest the claim. So long as (a) Buyer has provided Seller with an opinion of independent and reputable tax counsel reasonably satisfactory to Seller that a reasonable basis exists for contesting such claim and adequate reserves have been made for such Transfer Taxes or, if required, an adequate bond has been posted, and (b) such contest does not impose any risk on Seller or any of its Affiliates of civil or criminal liability, then Seller and/or its Affiliates, at Buyer’s written request and at Buyer’s expense, will in good faith contest (or permit Buyer to contest in the name of Buyer or Seller and/or its Affiliates through counsel reasonably acceptable to Seller) the validity, applicability or amount of such Transfer Taxes.
+
+11. Miscellaneous.
+
+11.1 Entire Agreement, Amendment, and Installment Contract. Except as expressly provided herein (including as set forth in Section 2.4), this Agreement together with the other Transaction Documents constitutes the entire agreement among the parties relating to the subject matter hereof and thereof and supersedes any and all previous agreements and understandings, oral or written, relating to the subject matter hereof and thereof. In the event of any conflict between any term or provision in any of this Agreement or any other Transaction Document and any term or provision in the Term Sheet, the terms and provisions of this Agreement or such any other Transaction Document shall control and govern. This Agreement may not be amended except by an instrument in writing signed by or on behalf of each Party. The Parties acknowledge and agree that this Agreement is an installment contract, and accordingly (except in connection with a termination of this Agreement pursuant to Section 7.3), the inability or failure of the Delivery of any Aircraft, Airframe, or Engine, will not relieve the obligation of the Seller to sell, and the Buyer to buy, the remaining Aircraft, Airframes, or Engines.
+
+11.2 Time of the Essence to Complete Purchase of Aircraft. The Parties agree that time shall be of the essence of this Agreement with respect to (a) closing and delivering each Aircraft by the Delivery Window Deadline for such Aircraft and (b) the date set herein for each of the Milestones. Additionally, each of the Parties shall act in a commercially reasonable manner to effect the transactions contemplated under this
+
+24
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Agreement in a prompt manner and in accordance with the time periods and deadlines provided herein.
+
+11.3 Non-Waiver. Any of the terms, covenants, or conditions hereof may be waived only by a written instrument executed by or on behalf of the Party hereto waiving compliance. No course of dealing on the part of any Party hereto, or its respective officers, employees, agents, accountants, attorneys, investment bankers, consultants, or other authorized representatives, nor any failure by a Party hereto to exercise any of its rights under this Agreement shall operate as a waiver thereof or affect in any way the right of such Party at a later time to enforce the performance of such provision. No waiver by any Party hereto of any condition, or any breach of any term or covenant contained in this Agreement, in any one or more instances, shall be deemed to be or construed as a further or continuing waiver of any such condition or breach or a waiver of any other condition or of any breach of any other term or covenant. Except as otherwise provided in this Agreement, the rights of the Parties hereto under this Agreement shall be cumulative, and the exercise or partial exercise of any such right shall not preclude the exercise of any other right.
+
+11.4 Severability. In the event that any provision of this Agreement or the application thereof to any Party shall, to any extent, be invalid or unenforceable under any applicable Law, then such provision shall be deemed inoperative to the extent that it is invalid or unenforceable and the remainder of this Agreement, and the application of any such invalid or unenforceable provision to the Parties, jurisdictions or circumstances other than to whom or to which it is held invalid or unenforceable, shall not be affected thereby nor shall the same affect the validity or enforceability of this Agreement.
+
+11.5 Notices. Any notice, request or information required or permissible under this Agreement will be in writing and in the English language. Notices must be addressed to the Parties as set forth below and delivered in person or sent by electronic mail or by expedited delivery, with a copy sent by e-mail. Any such notice shall be effective when received. In the case of a notice sent by expedited delivery, notice will be deemed received on the date of delivery set forth in the records of the Person which accomplished the delivery. If any notice is sent by more than one of the above listed methods, notice will be deemed received on the earliest possible date in accordance with the above provisions.
+
+(a) Seller:
+
+Spirit Airlines, Inc.
+
+1731 Radiant Drive
+
+Dania Beach, Florida
+
+25
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Attention: Legal Department
+
+Telephone: [***]
+
+E mail: [***]
+
+Attention: Treasury Department
+
+Telephone: [***]
+
+E mail: [***]
+
+(with copies to [***] and [***])
+
+(b) Buyer:
+
+GA Telesis, LLC
+
+1850 NW 49th Street
+
+Fort Lauderdale, Florida 33309 USA
+
+Attention: Legal Department
+
+Telephone: [***]
+
+E mail: [***]
+
+(with copies to [***] and [***])
+
+11.6 Governing Law & Jurisdiction.
+
+(a) This Agreement and all ancillary agreements and documents relating hereto (including without limitation any Aircraft Acceptance Certificate, FAA Bill of Sale and Bill of Sale hereunder), shall be governed by and construed in accordance with the Laws of the State of New York, including all matters of construction, validity, and performance, without reference to principles of conflicts of Law other than sections 5-1401 and 5-1402 of the New York general obligations Law.
+
+(b) Each of the Parties irrevocably submits itself to the non-exclusive jurisdiction of the courts of the State of New York sitting in the City and County of New York and to the non-exclusive jurisdiction of the U.S. District Court for the Southern District of New York located in the Borough of Manhattan to settle any dispute or claim that arises out of or in connection with this Agreement (including any non-contractual disputes or claims in connection herewith or therewith).
+
+(c) Each party hereto waives objection to such courts on the grounds of inconvenient forum, venue or otherwise as regards proceedings in connection with this Agreement and other documents related hereto and agrees that (subject to permitted appeals) a judgment or order of such a court in connection with this
+
+26
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Agreement or the other documents related hereto is conclusive and binding on it and may be enforced against it in the courts of any other jurisdiction.
+
+11.7 Waiver of Jury Trial. Each Party, to the extent permitted by Law, knowingly, voluntarily, and intentionally waives its right to a trial by jury in any action or other legal proceeding for matters, contractual, tortious, or otherwise, arising out of or relating to this Agreement and the transactions contemplated hereby.
+
+11.8 Further Assurances. Each Party hereto will promptly and duly execute and deliver such further documents to make such further assurances for and take such further action reasonably requested by any Party to whom such first Party is obligated, all as may be reasonably necessary to carry out more effectively the intent and purpose of this Agreement.
+
+11.9 Counterparts. This Agreement may be executed in any number of original, electronic or pdf counterparts and by any Party hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which, when taken together, shall constitute one and the same agreement.
+
+11.10 Transaction Costs. Each Party shall bear its own costs and expenses (including attorney’s fees) in relation to the negotiation and documentation of, and consummation of the transactions contemplated by this Agreement, and any other ancillary documents or agreement and the transactions contemplated hereby and thereby. In respect of the sale of each Aircraft, Seller and Buyer will share equally in the costs of FAA Counsel in the filing and registration of the sale of the Aircraft on the FAA’s Civil Aviation Registry and on the International Registry, as applicable.
+
+11.11 Assignment, Successors and Assigns. Except as provided in Section 2.5, neither Seller nor Buyer shall assign or transfer all or any of its rights and/or obligations under this Agreement without the prior written consent of the other Party, which may be withheld, conditioned, or delayed in such other Party’s sole and absolute discretion; provided that, no assignment will relieve the assigning Party of any of its rights or obligations. This Agreement shall bind and inure to the benefit of the Parties and any successors, and in each case permitted hereunder, assigns to the original Parties to this Agreement.
+
+11.12 Confidentiality. The terms and conditions of this Agreement are available only to Buyer and Seller and, in signing this Agreement, Buyer and Seller each acknowledge and agree that the terms and existence of this Agreement represent non-public, confidential and proprietary information (“Confidential Information”). Each party (including their respective officers, directors, employees, agents and advisers) agrees that it will not disclose Confidential Information to any third party; provided,
+
+27
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+however, that the Parties may disclose the Confidential Information (i) to their and their affiliates’ officers, directors, members, managers, employees, attorneys, accountants, consultants, shareholders and advisors (collectively, “Representatives”) who need to know such information for the purpose of discussing and/or evaluating the transaction contemplated hereby and who agree not to disclose the Confidential Information, (ii) to any actual or potential participant, assignee or lender of Buyer (or any of their respective Representatives) who need to know such information for the purpose of discussing and/or evaluating such participation, assignment or financing, as the case may be, and who agree not to disclose the Confidential Information, (iii) solely with respect to the identity of the Aircraft (and component engines, components, parts, systems and other equipment) and the technical specifications and delivery dates of such, to potential lessees or of other customers of Buyer (and their respective Representatives) of any of the Aircraft or equipment, and (iv) as requested or required in connection with a judicial, administrative or regulatory proceeding in which it or a partner, officer, director, member, manager, employee or affiliate is involved, pursuant to a court order or subpoena by a regulatory or government inquiry or demand, or as otherwise required by applicable law or regulation; provided, however, that in connection with any SEC filing for Seller, Seller shall share a draft of any SEC filing or press release with Buyer regarding the transactions provided herein prior to filing or issuing such and Seller shall seek confidential treatment or redact from any such SEC filing the Purchase Price being paid for each specific Aircraft, the delivery date for each Aircraft and the technical specifications required with respect to the Aircraft.
+
+11.13 Third-party Beneficiaries. This Agreement is not intended to and shall not provide any Person not a Party hereto with any rights, of any nature whatsoever, against any of the Parties hereto, and no Person or entity not a Party hereto shall have any right, power, privilege, benefit, or interest arising out of this Agreement.
+
+11.14 Limitation of Liability. Notwithstanding anything to the contrary in this Agreement, no Party shall be liable to the other Party under this Agreement for any exemplary, special, punitive, indirect, remote, speculative, incidental, or consequential damages of any kind (including, but not limited to, lost profits, loss of sales, loss of revenue or loss of opportunity), in each case whether in tort (including negligence or gross negligence), strict liability, by contract, statute or otherwise, even if a Party has been advised of the possibility of such damages.
+
+11.15 Force Majeure. Seller shall not be liable for any failure of or delay in the Delivery of the Aircraft at the Delivery Location, or in any other obligation hereunder for the period that such failure or delay is due to acts of God or the public enemy; war, insurrection or riots; fires, governmental actions; strikes or labor disputes; pandemic, epidemic, or quarantine mandate; inability to obtain materials, accessories, or parts from the vendors; or any other cause beyond a Seller’s reasonable control. Upon the
+
+28
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+occurrence of any such event, the time required for performance by the Seller of its obligations arising under this Agreement shall be extended by a period equal to the duration of such event. In the event that such extension continues for more than [***], then either Party may terminate this Agreement in respect of the purchase and sale of the Aircraft subject to such delay, and an Aircraft Non-Sale Event shall be deemed to have occurred with respect to such Aircraft.
+
+11.16 Publicity.
+
+(a) Neither Party will issue any press release or make any public announcement relating to the subject matter of this Agreement without the prior written approval of the other Party, except that either Party may make any public disclosure it believes in good faith is required by applicable Law. Notwithstanding the foregoing, if either Party, or a third party, makes a public disclosure related to this Agreement that is false or damaging to a Party, the aggrieved Party will have the right to make a public response reasonably necessary to correct any misstatement, inaccuracies or material omissions in the initial and wrongful affirmative disclosure without prior approval of the other Party. Neither Party will be required to obtain consent pursuant to this section for any proposed release or announcement that is consistent with information that has previously been made public without breach of its obligations under this clause.
+
+(b) Neither Party will, without the other Party’s prior written consent in each instance (x) use in advertising, publicity or marketing communications of any kind the name or other trademarks of the other Party or any of its Affiliates, or any employee of either, or (y) represent, directly or indirectly, that any product or service provided by a Party has been approved or endorsed by the other Party or any of its Affiliates.
+
+11.17 Relationship of the Parties. Nothing contained in this Agreement shall be deemed to create an association, partnership, joint venture, or relationship of principal and agent or master and servant between the Parties, or to grant either Party the right or authority to assume, create or incur any liability or obligation of any kind, express or implied, against, in the name of, or on behalf of, the other Party.
+
+11.18 Brokers and other Third Parties. Each Party represents and warrants to the other that it has not paid, agreed to pay or caused to be paid directly or indirectly in any form, any commission, percentage, contingent fee, brokerage or other similar payments of any kind in connection with this Agreement or the transactions contemplated hereby, to any Person. Each Party agrees to indemnify and hold the other harmless from and against any and all claims, suits, damages, costs and expenses (including, but not limited to reasonable attorneys’ fees and costs) asserted by any agent, broker or other
+
+29
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+third party for any commission or compensation of any nature whatsoever based upon this Agreement or the Transaction Documents or the Aircraft.
+
+[SIGNATURE PAGE FOLLOWS]
+
+30
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+IN WITNESS WHEREOF, the Parties hereto have entered into this Agreement as of the day and year first above written.
+
+SELLER:
+
+SPIRIT AIRLINES, INC.
+
+By: /s/ Simon Gore
+
+Name: Simon Gore
+
+Title: Vice President & Treasurer
+
+BUYER:
+
+GA TELESIS, LLC
+
+By: /s/ Abdol Moabery
+
+Name: Abdol Moabery
+
+Title: CEO
+
+Signature Page
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+Exhibit A
+
+DESCRIPTION OF AIRCRAFT
+
+ MSN AC Type YOM ESNs* Assumed Engine LLP Limiter Base Purchase Price
+Scheduled Delivery Month**
+
+ 8632 A320-200 CEO 2018 V18891 11480
+ [***]
+ [***]
+
+ V18892 11649
+
+ 6463 A320-200 CEO 2015 V17579 5868 [***] [***]
+
+ V17588 6400
+
+ 6331 A320-200 CEO 2014 V17476 5210 [***] [***]
+
+ V17478 5067
+
+ 6672 A321-200 CEO 2015 V17808 7404 [***] [***]
+
+ V17814 7692
+
+ 6487 A320-200 CEO 2015 V17626 6195 [***] [***]
+
+ V17628 5865
+
+ 7724 A320-200 CEO
+2017
+
+ V18570 9294 [***] [***]
+
+ V18571 9291
+
+ 7679 A320-200 CEO 2017 V18466 9347 [***] [***]
+
+ V18483 9044
+
+ 7635 A320-200 CEO 2017 V18426 8554 [***] [***]
+
+ V18430 9229
+
+Exhibit A
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+ 6736 A321-200 CEO 2015 V17844 8059 [***] [***]
+
+ V17872 8832
+
+ 8824 A320-200 CEO 2019 V18936 13113 [***] [***]
+
+ V18937 12288
+
+ 8696 A320-200 CEO 2019 V18906 12529 [***] [***]
+
+ V18907 12565
+
+ 8659 A320-200 CEO 2018 V18897 12830 [***] [***]
+
+ V18902 11364
+
+ 8611 A320-200 CEO 2018 V18881 11420 [***] [***]
+
+ V18878 11420
+
+ 7957 A321-200 CEO 2017 V18670 10605 [***] [***]
+
+ V18671 10068
+
+ 7908 A321-200 CEO 2017 V18648 10744 [***] [***]
+
+ V18649 10285
+
+ 7857 A321-200 CEO 2017 V18594 9949 [***] [***]
+
+ V18599 10411
+
+ 7668 A321-200 CEO 2017 V18479 9991 [***] [***]
+
+ V18481 9645
+
+ 7462 A321-200 CEO 2017 V18452 11035 [***] [***]
+
+ V18453 9204
+
+ 6507 A320-200 CEO 2015 V17639 5804 [***] [***]
+
+ V17648 5747
+
+Exhibit A
+
+Page 2
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+ 6586 A320-200 CEO 2015 V17669 6271 [***] [***]
+
+ V17709 5614
+
+ 8614 A320-200 CEO 2018 V18888 12458 [***] [***]
+
+ V18886 12052
+
+ 7395 A321-200 CEO 2017 V18413 9185 [***] [***]
+
+ V18415 9787
+
+ 6566 A320-200 CEO 2015 V17693 5401 [***] [***]
+
+ V17704 5978
+
+ Total: $518,896,500
+
+* [***]
+
+**[***]
+
+Exhibit A
+
+Page 3
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit B
+
+AIRCRAFT RECORDS
+
+[***]
+
+Exhibit B
+
+Page 4
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit C
+
+LIST OF EXCLUDED EQUIPMENT
+
+[***]
+
+Exhibit C
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit D
+
+INSPECTION AND TECHNICAL ACCEPTANCE
+
+[***]
+
+Exhibit D
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit E
+
+FORM OF AIRCRAFT ACCEPTANCE CERTIFICATE
+
+GA TELESIS, LLC (“Buyer”) hereby confirms, pursuant to the Aircraft Sale and Purchase Agreement (SPIRIT-GAT 2024), dated October 29, 2024, among SPIRIT AIRLINES, INC. (“Seller”) and Buyer (the “Sale and Purchase Agreement”), that Buyer’s execution of this certificate constitutes its confirmation of its absolute, irrevocable and unconditional acceptance of the Airframe and Engines and that pursuant to the Sale and Purchase Agreement, Buyer is satisfied in every way and in all respects (subject to the discrepancies listed on Annex A hereto) with the condition of the following equipment;
+
+(i) one (1) Airbus S.A.S. model [A320-232]1 / [A321-231]2 airframe bearing the manufacturer’s serial number [number] and U.S. registration mark [N####], in “as is, where is” condition, including all parts, components, appliances, accessories, instruments, furnishings, alterations, and other items of equipment installed in, attached to or related to the Airframe, but excluding the Excluded Equipment (“Airframe”);
+
+(ii) two (2) International Aero Engines AG (IAE) model [V2527-A5 Select One] 3 / [V2533-A5 Select One]4 engines, bearing the manufacturer’s serial numbers [ESN1 & ESN2], in “as is, where is” condition, including all parts, components, appliances, accessories, instruments, furnishings, alterations, and other items of equipment installed in, attached to or related to the Engines, but excluding the Excluded Equipment (each an “Engine”); and
+
+(iii) all Records related to the Airframe and each Engine.
+
+Buyer acknowledges that it is purchasing the Airframe and Engines, in “AS IS”, “WHERE IS” and “WITH ALL FAULTS” condition and subject to each and every agreement, exclusion, waiver and disclaimer set forth in the Sale and Purchase Agreement.
+
+Capitalized terms used herein but not otherwise defined shall have the meanings assigned to them in the Sale and Purchase Agreement.
+
+1 Insert for an Airbus A320 model aircraft.
+
+2 Insert for an Airbus A321 model aircraft.
+
+3 Insert for an Airbus A320 model aircraft.
+
+4 Insert for an Airbus A321 model aircraft.
+
+Exhibit E
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+GA Telesis, LLC, as Buyer
+
+By:
+
+Name:
+
+Title:
+
+Exhibit D
+
+Page 2
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+ANNEX A
+
+TO THE
+
+AIRCRAFT ACCEPTANCE CERTIFICATE
+
+DISCREPANCY LIST
+
+[To be included as applicable]
+
+EXCLUDED EQUIPMENT TO BE REMOVED
+
+[To be included as applicable]
+
+Exhibit E
+
+Page 3
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit F
+
+FORM OF WARRANTY BILL OF SALE
+
+WARRANTY BILL OF SALE
+
+SPIRIT AIRLINES, INC. (“Seller”), in consideration of the sum of Ten Dollars ($10.00) and other valuable consideration in hand paid for [NAME OF BANK OR TRUST COMPANY], AS OWNER TRUSTEE UNDER THAT CERTAIN TRUST AGREEMENT, DATED AS OF [__], 2024, BETWEEN OWNER TRUSTEE AND [__] (“Purchaser”) by or on behalf of GA Telesis, LLC, the receipt and sufficiency of which is hereby acknowledged by Seller, has granted, exchanged, sold, conveyed, transferred and delivered, and does by these presents hereby grant, exchange, sell, convey, transfer, deliver and set over unto Purchaser pursuant to that certain Aircraft Purchase and Sale Agreement (SPIRIT-GAT 2024) dated as of October 29, 2024 (the “Sale and Purchase Agreement”), between Seller and GA Telesis, LLC good and marketable title to the following described property, with all rights and privileges of ownership thereto:
+
+(ii) one (1) Airbus S.A.S. model [A320-232]5 / [A321-231]6 airframe bearing the manufacturer’s serial number [number] and U.S. registration mark [N####], in “as is, where is” condition, including all parts, components, appliances, accessories, instruments, furnishings, alterations, and other items of equipment installed in, attached to or incorporated into the Airframe, but excluding the Excluded Equipment (“Airframe”); and
+
+(iii) two (2) International Aero Engines AG (IAE) model [V2527-A5 Select One] 7 / [V2533-A5 Select One]8 engines, bearing the manufacturer’s serial numbers [ESN1 & ESN2], in “as is, where is” condition, including all parts, components, appliances, accessories, instruments, furnishings, alterations, and other items of equipment installed in, attached to or incorporated into the Engines, but excluding the Excluded Equipment (each an “Engine”);
+
+TO HAVE AND TO HOLD the same unto Purchaser, its successors and assigns forever. The undersigned warrants that the Airframe and Engines hereby sold to Purchaser are free and clear from all liens, encumbrances, and rights of others, other than any Buyer’s
+
+5 Insert for an Airbus A320 model aircraft.
+
+6 Insert for an Airbus A321 model aircraft.
+
+7 Insert for an Airbus A320 model aircraft.
+
+8 Insert for an Airbus A321 model aircraft.
+
+Exhibit F
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Lien (as such term is defined in the Aircraft Sale and Purchase Agreement), and covenants and agrees to warrant and defend the title to the Airframe and Engines hereby sold to Purchaser, its successors and assigns, against all claims and demands whomsoever.
+
+EXCEPT AS SET FORTH ABOVE, THE AIRFRAME AND EACH ENGINE IS SOLD TO PURCHASER “AS- IS, WHERE-IS” AND “WITH ALL FAULTS”. SELLER MAKES NO EXPRESS OR IMPLIED WARRANTY INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR PURPOSE, AND NO REPRESENTATION OR AFFIRMATION OF FACT IS MADE, WITH RESPECT TO THE AIRCRAFT. IN NO EVENT SHALL SELLER BE LIABLE TO PURCHASER FOR ANY INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES SUSTAINED BY PURCHASER AS A RESULT OF THE SALE OF THE AIRCRAFT.
+
+[SIGNATURE PAGE FOLLOWS]
+
+Exhibit F
+
+Page 2
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+IN WITNESS WHEREOF, this Bill of Sale has been executed on behalf of Seller by its authorized representative on __________________, 202___.
+
+Seller:
+
+SPIRIT AIRLINES, INC.
+
+By:
+
+Name:
+
+Title:
+
+Exhibit F
+
+Page 3
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit G
+
+[***]
+
+Exhibit G
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit H
+
+FORM OF COMPLIANCE CERTIFICATION STATEMENT
+
+[***]
+
+Exhibit H
+
+Aircraft SPA (SPIRIT-GAT 2024)
+
+1010483421v25
+
+Exhibit I
+
+ACKNOWLEDGMENT OF
+MARKETING AND SALES PROCESS AND SELLER’S COST SAVINGS
+
+During the course of the second and third quarters of 2024, Seller conducted a multi-round aircraft marketing process exploring potential sale-leaseback financings and outright sales opportunities for the Aircraft. Seller approached approximately a dozen active market participants with a goal of focusing on parties who have demonstrated capabilities to close larger-sized transactions on an expedited basis. After receiving offers, Seller determined that outright sales would be the preferred transaction course and began providing feedback on each potential conforming buyer’s outright sales offer. In response to the feedback provided, Buyer submitted a revised commercial proposal upsizing its offer to cover all 23 Aircraft for the purchase price set forth herein. Seller believes that the transactions reflected in this Agreement represent the best offer for the Aircraft, taken as a whole, and is in the best interests of Seller based upon (among other factors and without limitation) (a) the foregoing described marketing process, (b) the Purchase Price provided hereunder, (c) the other terms set forth in this Agreement, (d) the expected execution benefits from placing all 23 Aircraft with a single buyer and (e) the operational right-sizing (including any related cost savings) that Seller is able to implement based upon the terms hereof.
+
+Exhibit I
+
+Aircraft SPA (SPIRIT-GAT 2024)

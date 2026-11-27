@@ -1,0 +1,6254 @@
+Table of Contents
+
+Exhibit
+10.3
+
+Aircraft Lease
+Agreement
+
+between
+
+Maersk Aircraft A/S
+
+as
+Lessor
+
+and
+
+Sterling
+Airlines A/S
+
+as
+Lessee
+
+Relating to one
+Boeing B737-700 aircraft, manufacturer’s serial number 28010,
+Danish registration marks
+OY-MRG
+
+Dated on 12
+September 2005
+
+PORTIONS OF THIS EXHIBIT
+MARKED BY AN *** HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR
+CONFIDENTIAL TREATMENT FILED SEPARATELY WITH THE SECURITIES AND
+EXCHANGE COMMISSION.
+
+ Table
+of
+Contents
+
+ 0.
+
+ RECITALS
+
+ 1
+
+ 1.
+
+ DEFINITIONS
+AND
+CONSTRUCTION
+
+ 2
+
+ 1.1
+
+ Definitions
+
+ 2
+
+ 1.2
+
+ Construction
+
+ 7
+
+ 2.
+
+ AGREEMENT
+TO
+LEASE
+
+ 8
+
+ 2.1
+
+ Lease
+
+ 8
+
+ 2.2
+
+ Lessee
+waiver of
+rights
+
+ 8
+
+ 2.3
+
+ Ownership
+
+ 8
+
+ 3.
+
+ DELIVERY
+
+ 8
+
+ 3.1
+
+ Delivery
+location and
+condition
+
+ 8
+
+ 3.2
+
+ Predelivery
+procedure and
+delivery
+
+ 8
+
+ 3.3
+
+ Waiver
+
+ 9
+
+ 3.4
+
+ Force
+majeure affecting
+delivery
+
+ 10
+
+ 3.5
+
+ Total
+loss prior to
+delivery
+
+ 10
+
+ 4.
+
+ CONDITIONS
+PRECEDENT
+
+ 10
+
+ 4.1
+
+ Conditions
+precedent requirements, Lessor
+requirements
+
+ 10
+
+ 4.2
+
+ Sole
+benefit of
+lessor
+
+ 10
+
+ 4.3
+
+ Non-fulfilment
+
+ 10
+
+ 4.4
+
+ Conditions
+precedent requirements, Lessee
+requirements
+
+ 10
+
+ 4.5
+
+ Sole
+benefit of
+Lessee
+
+ 10
+
+ 4.6
+
+ Non-fulfilment
+
+ 11
+
+ 5.
+
+ RENTS,
+COSTS AND
+TAXES
+
+ 11
+
+ 5.1
+
+ Rent,
+Additional Rent and
+Deposit
+
+ 11
+
+ 5.2
+
+ No
+set-off
+
+ 11
+
+ 5.3
+
+ No
+Rent
+reduction
+
+ 11
+
+ 6.
+
+ PAYMENTS
+
+ 11
+
+ 6.1
+
+ Rent,
+Additional Rent and
+Deposit
+
+ 11
+
+ 6.2
+
+ Deposit
+and Letter of
+Credit
+
+ 12
+
+ 6.3
+
+ Lessor
+payment
+details
+
+ 12
+
+ 6.4
+
+ Default
+interest
+
+ 12
+
+ 6.5
+
+ Net
+lease
+
+ 12
+
+ 6.6
+
+ VAT
+
+ 13
+
+ 6.7
+
+ Payment
+in other
+currency
+
+ 13
+
+ 6.8
+
+ IATA
+clearance
+
+ 13
+
+ 6.9
+
+ Tax
+indemnification
+
+ 13
+
+ 7.
+
+ ADJUSTMENT
+OF ADDITIONAL
+RENT
+
+ 14
+
+ 7.1
+
+ Adjustment
+provisions
+
+ 14
+
+ 7.2
+
+ Engine
+Reserve allocation
+adjustment
+
+ 14
+
+ 7.3
+
+ Low
+Utilisation
+
+ 14
+
+ 8.
+
+ LESSEE
+COVENANTS
+
+ 14
+
+ 8.1
+
+ Licenses
+and
+certificates
+
+ 14
+
+ 8.2
+
+ Consents,
+approvals and
+filings
+
+ 14
+
+ 8.3
+
+ Base
+
+ 14
+
+ 8.4
+
+ Maintenance
+
+ 15
+
+ 8.5
+
+ Removal,
+interchange and
+modifications
+
+ 15
+
+ 8.6
+
+ Aircraft
+documents
+
+ 17
+
+ 8.7
+
+ Negative
+covenants
+
+ 17
+
+ 8.8
+
+ Protection
+of
+rights
+
+ 18
+
+ 8.9
+
+ Navigation,
+over-flight and airport
+charges
+
+ 18
+
+I
+
+ 9.
+
+ LESSOR
+COVENANTS
+
+ 18
+
+ 9.1
+
+ Quiet
+enjoyment
+
+ 18
+
+ 9.2
+
+ Maintenance
+contributions
+
+ 19
+
+ 9.3
+
+ Increased
+contribution
+
+ 19
+
+ 9.4
+
+ Exceptions
+to
+contribution
+
+ 20
+
+ 9.5
+
+ Airworthiness
+directive cost
+share
+
+ 20
+
+ 9.6
+
+ Lessor
+consultation
+
+ 20
+
+ 10.
+
+ SUB-LEASING
+
+ 20
+
+ 10.1
+
+ No
+sub-lease
+
+ 20
+
+ 10.2
+
+ Permitted
+sub-lease
+
+ 20
+
+ 10.3
+
+ Administration
+of sub-lease
+agreement
+
+ 21
+
+ 11.
+
+ INFORMATION
+AND
+INSPECTION
+
+ 21
+
+ 11.1
+
+ Aircraft
+information
+
+ 21
+
+ 11.2
+
+ Financial
+information
+
+ 21
+
+ 11.3
+
+ Inspections
+
+ 21
+
+ 12.
+
+ WARRANTIES
+
+ 22
+
+ 13.
+
+ INSURANCE
+
+ 22
+
+ 13.1
+
+ Liability
+for
+damage
+
+ 22
+
+ 13.2
+
+ Types
+of
+insurance
+
+ 22
+
+ 13.3
+
+ Renewal
+
+ 22
+
+ 13.4
+
+ No
+coverage
+
+ 23
+
+ 13.5
+
+ Payee
+amounts
+
+ 23
+
+ 13.6
+
+ General
+insurance
+requirements
+
+ 23
+
+ 13.7
+
+ Hull
+insurance
+requirements
+
+ 23
+
+ 13.8
+
+ Liability
+insurance
+requirements
+
+ 24
+
+ 13.9
+
+ No
+suspension or
+impairment
+
+ 24
+
+ 13.10
+
+ Assignment
+of
+insurances
+
+ 25
+
+ 13.11
+
+ Application
+of insurance
+proceeds
+
+ 25
+
+ 13.12
+
+ Covenants
+
+ 25
+
+ 13.13
+
+ Negative
+undertakings
+
+ 25
+
+ 13.14
+
+ Reinsurance
+
+ 26
+
+ 13.15
+
+ AVN
+67B
+application
+
+ 26
+
+ 14.
+
+ REQUISITION
+AND DEPRIVATION OF
+POSSESSION
+
+ 26
+
+ 14.1
+
+ Requisition
+of hire or
+use
+
+ 26
+
+ 14.2
+
+ Requisition
+proceeds, requisition for
+hire
+
+ 26
+
+ 14.3
+
+ Requisition
+proceeds, requisition for
+title
+
+ 27
+
+ 15.
+
+ TOTAL
+LOSS
+
+ 27
+
+ 15.1
+
+ Occurrence
+of Total
+Loss
+
+ 27
+
+ 15.2
+
+ Transfer
+of title following Total
+Loss
+
+ 27
+
+ 15.3
+
+ Total
+loss not involving
+airframe
+
+ 27
+
+ 16.
+
+ REDELIVERY
+OF THE
+AIRCRAFT
+
+ 27
+
+ 16.1
+
+ Redelivery
+
+ 27
+
+ 16.2
+
+ Pre-redelivery
+procedure
+
+ 28
+
+ 16.3
+
+ Redelivery
+flight
+
+ 28
+
+ 16.4
+
+ Non-compliance
+
+ 28
+
+ 16.5
+
+ Redelivery
+certificate
+
+ 29
+
+ 16.6
+
+ Disputes
+regarding aircraft
+condition
+
+ 29
+
+ 16.7
+
+ Modifications
+
+ 29
+
+II
+
+ 17.
+
+ INDEMNITIES
+
+ 29
+
+ 17.1
+
+ Loss
+or damage to
+aircraft
+
+ 29
+
+ 17.2
+
+ Losses
+deriving from the
+Lease
+
+ 29
+
+ 17.3
+
+ Losses
+deriving from
+default
+
+ 30
+
+ 17.4
+
+ Continued
+insurance
+coverage
+
+ 30
+
+ 17.5
+
+ Indemnity
+survival
+
+ 30
+
+ 18.
+
+ DEFAULT
+
+ 30
+
+ 18.1
+
+ Events
+of
+Default
+
+ 30
+
+ 18.2
+
+ Following
+an Event of
+Default
+
+ 32
+
+ 18.3
+
+ After
+termination due to Event of
+Default
+
+ 33
+
+ 18.4
+
+ Cumulative
+rights
+
+ 33
+
+ 18.5
+
+ Claim
+following Event of
+Default
+
+ 33
+
+ 19.
+
+ REPRESENTATIONS
+AND
+WARRANTIES
+
+ 33
+
+ 19.1
+
+ Lessee
+representations
+
+ 33
+
+ 19.2
+
+ Lessor
+representations
+
+ 33
+
+ 20.
+
+ COMPLETE
+AGREEMENT
+
+ 34
+
+ 20.1
+
+ Complete
+agreement
+
+ 34
+
+ 21.
+
+ NOTICES
+
+ 34
+
+ 21.1
+
+ Notices
+
+ 34
+
+ 22.
+
+ ASSIGNMENT
+
+ 34
+
+ 22.1
+
+ Lessee
+no
+assignment
+
+ 34
+
+ 22.2
+
+ Lessor
+assignment
+
+ 34
+
+ 23.
+
+ APPLICABLE
+LAW AND
+JURISDICTION
+
+ 35
+
+ 23.1
+
+ Governing
+law
+
+ 35
+
+ 23.2
+
+ Jurisdiction
+
+ 35
+
+ 23.3
+
+ No
+immunity
+
+ 35
+
+ 24.
+
+ COSTS
+
+ 35
+
+ 24.1
+
+ Costs
+
+ 35
+
+ 25.
+
+ TIME
+OF THE
+ESSENCE
+
+ 35
+
+ 25.1
+
+ Time
+of the
+essence
+
+ 35
+
+ 26.
+
+ RIGHTS OF
+THIRD
+PARTIES
+
+ 36
+
+ 26.1
+
+ No
+third party
+rights
+
+ 36
+
+ 27.
+
+ EXECUTION
+PAGE
+
+ 36
+
+ 27.1
+
+ Maersk
+Aircraft
+A/S
+
+ 36
+
+ 27.2
+
+ Sterling
+Airlines
+A/S
+
+ 36
+
+ Annex
+A
+
+ 37
+
+ Form of Delivery
+Acceptance Certificate
+
+ 37
+
+ Annex
+B
+
+ 39
+
+ Aircraft
+Specification
+
+ 39
+
+ Annex
+C
+
+ 40
+
+ Aircraft
+Documents
+
+ 40
+
+ Annex
+D
+
+ 44
+
+ Conditions Precedent
+Requirement
+
+ 44
+
+ Annex
+E
+
+ 46
+
+ Form of Redelivery
+Acceptance Certificate
+
+ 46
+
+ Annex
+F
+
+ 48
+
+ General Condition
+Requirements —
+Redelivery
+
+ 48
+
+ Annex
+G
+
+ 49
+
+ Specific Condition
+Requirements —
+Redelivery
+
+ 49
+
+III
+
+ Annex
+H
+
+ 50
+
+ Letter of
+Authorisation
+
+ 50
+
+ Annex
+I
+
+ 51
+
+ Additional Rental
+Adjustment
+
+ 51
+
+ Annex
+J
+
+ 52
+
+ Deregistration Power of
+Attorney
+
+ 52
+
+ Annex
+K
+
+ 54
+
+ Calculation of Rent
+Control
+
+ 54
+
+IV
+
+Table of Contents
+
+THIS
+AIRCRAFT LEASE AGREEMENT is made on the 12th day of September
+2005
+
+between
+
+ (1)
+ MAERSK
+AIRCRAFT A/S, a limited company organised and existing under the
+laws of the Kingdom of Denmark with its principal office at Copenhagen
+Airport South, DK-2791 Dragoer, Denmark (the
+‘‘Lessor’’);
+and
+
+ (2)
+ STERLING AIRLINES A/S,
+a limited company organised and existing under the laws of Denmark with
+its principal office at Copenhagen Airport South, DK-2791 Dragoer,
+Denmark (the
+‘‘Lessee’’).
+
+ 0.
+ RECITALS
+
+WHEREAS
+
+ 0.1
+ The
+parties wish to provide for the lease of the Aircraft to the Lessee on
+the terms set forth herein.
+
+1
+
+Table of Contents
+
+IT IS HEREBY AGREED as
+follows:
+
+ 1.
+ DEFINITIONS AND
+CONSTRUCTION
+
+ 1.1
+ Definitions
+
+In
+this Aircraft Lease Agreement, the following expressions shall have the
+following respective
+meanings:
+
+‘‘Acceptance
+Certificate’’ means an acceptance certificate issued as
+provided for in clause 3.2 substantially in the form set forth in Annex
+A;
+
+‘‘AD Compliance
+Period’’ means ***;
+
+‘‘AD
+Threshold’’ means USD
+***;
+
+‘‘Additional Rent’’
+means the sum of the Airframe Reserve, Landing Gear Reserve, APU
+Reserve, Engine Reserve and Engine LLP
+Reserve;
+
+‘‘Agreed Aircraft
+Value’’ means
+***;
+
+‘‘Agreed Engine
+Value’’ means USD
+***;
+
+‘‘Aircraft’’ means
+the aircraft identified and described in Annex B together with the
+Engines and Components (whether or not any of the Engines may from time
+to time be installed on the Airframe) together with the Aircraft
+Documents;
+
+‘‘Aircraft
+Documents’’ means the documents, data and records
+identified in Annex C and any other documents, data and records
+required in connection with together with all additions, renewals,
+revisions and replacements made from time to
+time;
+
+‘‘Airframe’’ means
+the Aircraft excluding the Engines and all appliances, parts, spare
+parts, instruments, appurtenances, accessories, furnishings or other
+equipment or property of any kind delivered with the Aircraft or from
+time to time installed on or attached
+thereto;
+
+‘‘Airframe
+Reserve’’ means USD *** per Flight
+Hour;
+
+‘‘Airframe Structural
+Check’’ means the structural maintenance programme as
+defined in the Boeing Maintenance Planning Data Document D626A001 which
+is designed timely detection and repair of structural damage,
+corrosion, stress corrosion, fatigue cracking and other items by visual
+and/non-destructive test as set forth
+herein;
+
+‘‘Airworthiness
+Directive’’ means an airworthiness directive and/or
+mandatory note issued by the State of Design Authority, the Aviation
+Authority and the State of Registration (to the extent there is an
+irreconcilable conflict between them, the State of Registration
+requirements shall prevail and between State of Design Authority
+requirements and Aviation Authority requirements, Aviation Authority
+requirements shall
+prevail);
+
+‘‘AnnualAdditional Rent
+Adjustment’’ means the Lessor’s adjustment,
+acting reasonably (but subject to clause 7.1.1), of each the
+constituents to the Additional Rent by reference to the current
+Manufacturer’s catalogue prices, the Manufacturer’s
+recommendations, industry experience, any change of the operational
+environment of the Aircraft and any changes in industry costs compared
+to such prevailing on the Delivery Date or on the last Annual
+Additional Rent Adjustment in accordance with clause 7.1 (as the case
+may be);
+
+‘‘APU’’ means
+the auxiliary power unit installed on the Airframe on the Delivery
+Date, or any auxiliary power unit installed on the Airframe as a
+replacement of the original auxiliary power unit (such replacement to
+be in accordance with the terms
+hereof);
+
+‘‘APU Hour’’
+means each hour or part thereof elapsed from ignition of the APU to
+shut-down of the APU;
+
+‘‘APU
+Reserve’’ means USD *** per APU Hour to cover APU
+overhaul in accordance with the Manufacturer’s maintenance
+manual;
+
+2
+
+Table of Contents
+
+‘‘Assignment of
+Insurances’’ any assignment of Insurances in accordance
+with clause 13.10;
+
+‘‘Assumed
+Ratio’’ means, with respect to the Landing Gear Reserve
+1,400 Flight Cycles per calendar year and, with respect to the
+remaining constituents to the Additional Rent, 2.5:1 Flight Hour to
+Flight Cycle;
+
+‘‘Aviation
+Authority’’ means the Danish Civil Aviation
+Administration (Statens Luftfartsvæsen), JAA, EASA or any other
+authority or agency which may from time to time have control and
+supervision of, or jurisdiction over, the registration, airworthiness
+and operation of the Aircraft or matters relating to civil aviation
+with respect to the Aircraft, the Lessee or the
+Sub-Lessee;
+
+‘‘Base’’
+means Denmark (but excluding Greenland and the Faeroe Islands), Norway,
+Iceland, Finland or
+Sweden;
+
+‘‘Banks’’ means
+HSH Nordbank International S.A., Nordea Finance Sweden plc, Svenska
+Handelsbanken, Copenhagen Branch and Landesbank
+Berlin-Girozentrale;
+
+‘‘Business
+Day’’ means a day on which banks in Copenhagen, New
+York City and the place of payment are open for foreign exchange
+transactions;
+
+‘‘C-Check’’
+means the next sequential ‘‘C’’ check
+(systems and zonal) or the equivalent in accordance with the
+Manufacturer’s maintenance planning
+document;
+
+‘‘C-Check
+Costs’’ means
+***;
+
+‘‘Component’’ means
+all or any appliance, part, instrument, appurtenance, accessory,
+furnishing, emergency equipment or other equipment of any kind (other
+than complete Engines) incorporated in or installed on or attached to
+the Airframe and any Engine on the Delivery Date and any replacement of
+such appliance, part, instrument, appurtenance, accessory, furnishing,
+emergency equipment or other equipment and any free of charge
+modification kit and tool made available to the Lessee during the Lease
+Period;
+
+‘‘Currency of
+Obligation’’ shall have the meaning ascribed to it in
+clause 6.7;
+
+‘‘Deductible
+Amount’’ means USD
+***;
+
+‘‘Default Interest
+Rate’’ means ***;
+
+‘‘Delivery Date’’ means the
+date on which the Aircraft is delivered to and accepted by the Lessee
+under the Lease;
+
+‘‘Delivery
+Location’’ means Copenhagen, Denmark or such other
+place, as the parties shall
+agree;
+
+‘‘Deposit’’ means
+USD ***;
+
+‘‘Deposit Payment
+Date’’ means the Delivery
+Date;
+
+‘‘Dollars’’ and
+‘‘USD’’ means the lawful currency from
+time to time of the United States of
+America;
+
+‘‘EASA’’means
+the European Aviation Safety Agency or any successor
+thereof;
+
+‘‘Eligible Maintenance
+Event’’ means each of the maintenance events referred
+to in clause 9.2.1 through clause
+9.2.5;
+
+‘‘Engine’’ means
+(i) each engine of the manufacture and model specified in the Lease for
+the Aircraft which forms part of the Aircraft on the Delivery Date, the
+serial numbers of which are set forth in Annex B, whether or not
+installed on the Airframe and (ii) any Replacement Engine, with effect
+from the time when title has passed to the Owner in accordance with the
+Lease together with all
+Components;
+
+‘‘EngineLLP
+Reserve’’ means USD *** per Engine per Flight
+Cycle;
+
+‘‘Engine
+Refurbishment’’ means all scheduled and unscheduled
+off-the-wing Engine maintenance and repair accomplished for each module
+in accordance with the performance restoration or full overhaul
+sections of the Manufacturer's workscope planning
+guide;
+
+3
+
+Table of Contents
+
+‘‘Engine Relevant
+Item’’ means, with respect to an Engine and as the case
+may be, the (i) fan and front frame, (ii) the compressor, (iii) the
+combustor, (iv) the high pressure turbine, (v) the low pressure turbine
+and (vi) the accessory gearbox;
+
+‘‘Engine
+Reserve’’ means USD ***;
+
+‘‘Event of Default’’
+means any event or circumstance specified in clause
+18.1;
+
+‘‘FAA’’ means the
+Federal Aviation Administration of the United States of America and any
+successor thereof;
+
+‘‘First Rent Payment
+Date’’ means the Delivery
+Date;
+
+‘‘Flight Cycle’’
+means one flight (i.e. one take-off and subsequent touch-down is equal
+to one flight cycle);
+
+‘‘Flight
+Hour’’ means each hour or part thereof elapsed from
+take-off to touchdown;
+
+‘‘Governing
+Law’’ means Danish
+law;
+
+‘‘IATA’’ means
+International Air Transport
+Association;
+
+‘‘IATA Clearing
+House’’ means the clearing system operated by IATA
+through which participating companies can settle their interline
+billings by offsetting their mutual
+transaction;
+
+‘‘Indebtedness’’
+means indebtedness incurred by the Lessee in respect of (i) moneys
+borrowed or raised; (ii) any bond, note, loan stock, debenture or
+similar instrument; (iii) acceptance or documentary credit facilities;
+(iv) deferred payments for assets or services acquired; (v)
+payments under leases entered into primarily as a method of raising
+finance or of financing the asset leased; and (vi) guarantees, bonds,
+standby letters of credit or other assurances against financial loss in
+respect of Indebtedness of any person falling within any of (i) to (vi)
+above;
+
+‘‘Insurances’’
+means any and all contracts or policies of insurance, or renewals
+thereof, required to be effected and maintained by the Lessee pursuant
+to the provisions of clause 13 and all benefits thereof including
+claims of whatsoever
+nature;
+
+‘‘JAA’’ means the
+Joint Aviation Authorities, an associated body of the European Civil
+Aviation regulatory authorities of a number of European states who have
+agreed to co-operate in developing and implementing common regulatory
+requirements, safety standards and procedures or EASA (gradually
+succeeding into the functions of the Joint Aviation Authorities) or any
+other successor organisation or
+agency;
+
+‘‘Landing Gear
+Reserve’’ means USD *** per calendar month to cover
+landing gear overhaul in accordance with Manufacturer’s
+Component Maintenance Manual, latest revision for overhaul of the nose
+and main landing
+gears;
+
+‘‘Lease’’ means
+this Aircraft Lease Agreement and any schedules, addenda and documents
+executed in connection hereto and
+thereto;
+
+‘‘Lease Period’’
+means a period of 72 months commencing on the Delivery Date;
+
+‘‘Lenders’’ mean the Banks,
+their successors and assigns and/or any person granting a loan to the
+Lessor with respect to the Aircraft and/or any person having been
+granted security over and against the Aircraft by way of a Mortgage or
+otherwise;
+
+‘‘Lessee Conditions Precedent
+Requirements’’ means the requirements detailed in Part
+II to Annex D;
+
+‘‘Lessor Conditions
+Precedent Requirements’’ means the requirements
+detailed in Part I to Annex D;
+
+‘‘Letter
+of Credit’’ means an on first demand letter of credit
+or on first demand bank guarantee in the amount of USD *** and on such
+terms, and rendered by such bank, as the Lessor shall reasonably
+approve, it being understood that *** or *** is acceptable to the
+Lessor;
+
+4
+
+Table of Contents
+
+‘‘LIBOR’’
+means, in relation to a particular period, the arithmetic mean (rounded
+upwards, if necessary, to five decimal places) of the London interbank
+offered rates for deposits of Dollars for a period equal to such period
+at or about 11 a.m. on the Quotation Date for such period as displayed
+on Telerate Screen page 3750 (or such other page as may replace such
+page on such service for the purpose of displaying London interbank
+offered rates of leading banks for deposits of Dollars or, if on such
+date the offered rates for the relevant period of fewer than two
+leading banks (reasonably selected by the Lessor) are so
+displayed;
+
+‘‘Maintenance
+Performer’’ means the Lessee, the Permitted Sub-Lessee
+and such other maintenance performer as is approved and internationally
+recognised by the JAA to perform maintenance and/or modification
+services on commercial aircraft and/or commercial aircraft engines,
+which maintenance performer shall have recognised standing and
+experience and be suitable equipped to perform such services to
+aircraft of the same or improved model as the Aircraft and be
+reasonably acceptable to the
+Lessor;
+
+‘‘Maintenance
+Programme’’ means the maintenance programme for the
+Aircraft as approved by the Lessor and the Aviation Authority and
+complies with the standard maintenance programme from time to time
+recommended by the respective Manufacturer of the Airframe, Engines and
+Components; and which shall include an anti-fungus/biological growth
+and contamination prevention control and treatment programme of all
+fuel tanks in accordance with manufacturer’s approved procedures
+and specifications; and which shall also include scheduled periodic
+thorough cleaning of the Aircraft interior and exterior (all cleaning
+materials to be used in accordance with the manufacturer’s
+recommendations, specification and standard
+practices);
+
+‘‘Manufacturer’’
+means the manufacturer of the Airframe, Engines or any Component, as
+applicable in the context used
+herein;
+
+‘‘Minimum Airframe
+Requirements’’ means
+***;
+
+‘‘Minimum Component
+Requirements’’ means
+***;
+
+‘‘Minimum EGT
+Margin’’ means satisfactory exhaust gas temperature
+margin for operation, including, without limitation, in accordance with
+the Engine Manufacturer’s published guidelines and
+procedures;
+
+‘‘Minimum Engine
+Requirements’’ means
+***;
+
+‘‘Minimum Landing Gear
+Requirements’’ means
+***;
+
+‘‘Mortgage’’ means
+any mortgage, charge, pledge, negative pledge or similar security right
+over the Aircraft, granted from time to time by the Lessor to any Bank
+and/or any third party;
+
+‘‘Other
+Aircraft’’ means an
+‘‘Aircraft’’ as such term shall be
+understood under the Other
+Leases;
+
+‘‘Other
+Leases’’ means any other aircraft lease agreement
+(including for the sake of good order any subleases) made between the
+Lessor or any of its affiliates as lessor and the Lessee or any of its
+affiliates as lessee;
+
+‘‘Owner’’ means Maersk
+Aircraft A/S, Copenhagen Airport South, DK-2791 Dragoer,
+Denmark;
+
+‘‘Permitted
+Sub-Lessee’’ means any person sub-leasing the Aircraft
+under a Sub-Lease Agreement to which the Lessor has consented in
+accordance with clause 10;
+
+‘‘Permitted
+Liens’’ means each of:
+
+ (a)
+ a lien
+for Taxes, except Taxes imposed upon the income or property of the
+Lessee, not yet assessed or, if assessed, not yet due and payable or,
+if due and payable, which are being contested in good faith by
+appropriate proceedings and so long as any such proceedings or the
+continued existence of such lien do not involve any likelihood of the
+sale, forfeiture or loss of the Aircraft or any Engine or any Component
+or any interest therein;
+
+ (b)
+ a lien for the fees
+or charges of any airport or air navigation authority not yet
+determined or, if determined, not yet due and payable or, if due and
+payable, which are being contested in good faith by appropriate
+proceedings and so long as any such proceedings or the continued
+existence of such lien do not involve any likelihood of the sale,
+forfeiture or loss of the Aircraft or any Engine or any Component or
+any interest therein;
+
+5
+
+Table of Contents
+
+ (c)
+ inchoate
+supplier’s, mechanic’s, workman’s,
+repairer’s or other like liens arising in the ordinary course of
+business in respect of amounts not yet due and payable or, if due and
+payable, which are being contested in good faith by appropriate
+proceedings and so long as any such proceedings or the continued
+existence of such lien do not involve any likelihood of the sale,
+forfeiture or loss of the Aircraft or any Engine or any Component or
+any interest therein,
+
+provided that in each case (i) the
+amount for which such lien arises, does not exceed USD 500,000 (or the
+equivalent in any other currency) and (ii) such lien does not arise as
+a result of any default or omission on the part of the Lessee;
+and
+
+ (d)
+ any encumbrance or security interest
+created by or in relation to the Owner or the Lessor however and
+wherever created or arising, including, but not limited to, any right
+of ownership, security, mortgage, pledge, charge, encumbrance, lease,
+lien, statutory or other right in rem, title retention, attachment,
+levy, claim or right of possession or
+detention.
+
+‘‘Place of
+Payment’’ means
+***;
+
+‘‘Quotation Date’’
+means, in relation to any period for which LIBOR is to be determined,
+the date on which quotations would customarily be provided by leading
+banks in the London Interbank Market for deposits in Dollars for
+delivery on the first day of any such
+period;
+
+‘‘Ratio Adjustment
+Items’’ means the Airframe Reserve, the Engine Reserve
+and the Landing Gear
+Reserve.
+
+‘‘Redelivery
+Certificate’’ means a redelivery certificate to be
+executed as provided in clause 16.5, substantially in the form set
+forth in Annex E;
+
+‘‘Redelivery
+Check’’ means the C-Check;
+
+‘‘Redelivery Condition
+Requirements’’ means the requirements set out in Annex
+F and or subject to (as the case may be) Annex G;
+
+‘‘Redelivery Date’’ means
+the date on which the Lessee redelivers the Aircraft to the Lessor in
+accordance with clause 16;
+
+‘‘Redelivery
+Location’’ means Copenhagen,
+Denmark;
+
+‘‘Rent’’ means
+each amount payable by the Lessee to the Lessor pursuant to clause
+5.1.1 in respect of the use of the Aircraft
+hereunder;
+
+‘‘Rent
+Amount’’ means the sum calculated in accordance with
+Annex K;
+
+‘‘Replacement
+Engine’’ means an engine of the same manufacturer and
+same or improved model and having equivalent or higher/better value,
+utility, modification, status, time elapsed since hot section
+refurbishment, cold section refurbishment, reduction gear overhaul,
+life limited part utility and remaining equivalent or better warranty
+status as the Engine it replaces in accordance with clause 8.5 and is
+otherwise of an equivalent or higher/better value and utility, and
+suitable for installation and use on the Airframe without impairing the
+values or utility of the Airframe and compatible with the remaining
+installed Engine(s);
+
+‘‘Required Liability
+Cover’’ means
+***;
+
+‘‘Requisition
+Proceeds’’ means any and all amounts payable in
+consequence of a requisition for title or hire or use of the
+Aircraft;
+
+‘‘Security
+Interest’’ means any mortgage, charge, pledge, lien,
+encumbrance, assignment, hypothecation, right of detention, right of
+set-off or any other agreement or arrangement having the effect of
+conferring security;
+
+‘‘Scheduled
+Delivery Date’’ means September
+2005 or such date as may be agreed by the
+parties;
+
+‘‘Second Rent Payment
+Date’’ means the day falling on the numerically
+corresponding day to the First Rent Payment Date of the next succeeding
+month after the First Rent Payment Date or, if there is no such
+numerically corresponding day, on the immediately preceding
+day;
+
+6
+
+Table of Contents
+
+‘‘Security
+Documents’’ means the Assignment of Insurances and the
+Letter of
+Credit;
+
+‘‘Specification’’
+means the specification of the Aircraft as set forth in Annex B;
+
+‘‘State of Design
+Authority’’ means the
+FAA;
+
+‘‘State of
+Incorporation’’ means
+Denmark;
+
+‘‘State of
+Registration’’ means
+Denmark;
+
+‘‘Sub-Lease
+Agreement’’ means such aircraft sub-lease agreement
+with a Permitted Sub-Lessee as the Lessor shall approve in accordance
+with clause 10.2;
+
+‘‘Subsidiary’’ means, in
+relation to any company or corporation,
+
+ (i)
+ a company or corporation which is
+controlled, directly or indirectly, by the first mentioned company or
+corporation;
+
+ (ii)
+ more than half the
+issued share capital of which is beneficially owned, directly or
+indirectly, by the first mentioned company or corporation;
+or
+
+ (iii)
+ which is a Subsidiary of
+another Subsidiary of the first mentioned company or
+corporation;
+
+‘‘STC’’
+shall have the meaning ascribed to it in clause
+8.5.6;
+
+‘‘Taxes’’ mean any
+and all present and future taxes, duties, withholdings, levies,
+assessments, imposts, fees and other governmental charges of all kinds
+(including any Value Added Tax and any stamp, documentary, license,
+registration or similar fee or tax), together with any penalties,
+fines, surcharges and interest thereon and any additions
+thereto.
+
+‘‘Tax
+Indemnities’’ mean the Lessor, the Owner and the
+Lenders;
+
+‘‘Test Flight
+Procedure’’ means the Manufacturer’s test flight
+procedure for aircraft of same make and model as the
+Aircraft;
+
+‘‘Total Loss’’
+means any of the following events:
+
+ (a)
+ the actual
+or constructive, compromised, arranged or agreed total loss of the
+Aircraft;
+
+ (b)
+ the Aircraft being destroyed,
+damaged beyond economic repair or permanently rendered unfit for normal
+use for any reason whatsoever;
+
+ (c)
+ the Aircraft
+being requisitioned for title, or title to the Aircraft being otherwise
+compulsorily acquired by the government of the State of Registry or any
+other authority; or
+
+ (d)
+ the Aircraft being
+hijacked, stolen, confiscated, detained or requisitioned for use or
+hire for (i) a period of more than 60 days or (ii) if a shorter period,
+such number of days as ends on the Redelivery
+Date.
+
+‘‘Value Added Tax’’
+means any value added or analogous tax or similar charge imposed by any
+government.
+
+ 1.2
+ Construction
+
+In
+the Lease;
+
+ 1.2.1
+ the words
+‘‘hereof’’,
+‘‘herein’’ and
+‘‘hereunder’’ and other words of similar import
+refer to the Lease as a whole and not to any particular part of the
+Lease;
+
+ 1.2.2
+ the headings of clauses
+are inserted for ease of reference only and shall not in any way affect
+the interpretation of the
+Lease;
+
+ 1.2.3
+ where the context so
+requires, in the Lease words importing the singular only shall also
+include the plural and vice
+versa;
+
+ 1.2.4
+ reference herein to any
+document, instrument or agreement means such document, instrument or
+agreement as originally implemented or executed or as amended, modified
+or supplemented in accordance with its terms from time to
+time;
+
+7
+
+Table of Contents
+
+ 1.2.5
+ unless
+otherwise specifically stated, reference to any
+‘‘clause’’ or ‘‘annex’’
+is a reference to such clause of or annex to this Aircraft Lease
+Agreement;
+
+ 1.2.6
+ reference to any
+person includes a reference to their successors and assigns and their
+respective officers, servants, employees and agents;
+and
+
+ 1.2.7
+ reference to a
+‘‘certified copy’’ of any document shall be to
+a photostatic copy certified by the party required to issue or provide
+such document as being a true, complete and up to date copy of the
+original document in question.
+
+ 2.
+ AGREEMENT
+TO LEASE
+
+ 2.1
+ Lease
+
+For
+good and valuable consideration the Lessor shall lease to the Lessee
+and the Lessee shall lease from the Lessor the Aircraft upon and
+subject to the terms and conditions of the Lease for the Lease
+Period.
+
+ 2.2
+ Lessee waiver of
+rights
+
+The Lessee hereby waives, to the extent
+permitted by applicable laws, any and all rights which it may now have,
+or which at any time hereafter may be conferred upon it, by statute or
+otherwise, to terminate, cancel, quit or surrender the Lease except in
+accordance with the express terms
+hereof.
+
+ 2.3
+ Ownership
+
+During
+the Lease Period, the Aircraft shall remain and be the property of the
+Owner, and the Lessee shall have no rights or title therein, except the
+rights specifically granted by the
+Lease.
+
+ 3.
+ DELIVERY
+
+ 3.1
+ Delivery
+location and condition
+
+Delivery and acceptance of the
+Aircraft shall take place on the Scheduled Delivery Date at the
+Delivery Location or at such other location as may be agreed between
+the Lessor and the Lessee whereupon the Aircraft shall become subject
+to and governed by the Lease and the Lease Period shall
+commence.
+
+The Aircraft shall, on the Delivery Date be
+configured and equipped in accordance with the
+Specification.
+
+ 3.2
+ Predelivery
+procedure and delivery
+
+ Prior to
+ the
+Scheduled Delivery Date, the Lessee shall be entitled
+to;
+
+ (1)
+ inspect the structure, Engines,
+Components, equipment and accessories of the
+Aircraft;
+
+ (2)
+ inspect the Engines, including (i)
+a complete video borescope inspection of (x) the low pressure and high
+pressure compressors and (y) turbine area, including combusters and
+(ii) engine condition runs including full take-off power engine
+run-up undertaken in accordance with the performance test in the
+Manufacturer’s maintenance manual (with the Engines not
+exceeding corrected limits for all parameters using temperature
+corrected charts and power assurance
+runs);
+
+ (3)
+ effect a complete video boroscope
+inspection of the APU; and
+
+ (4)
+ inspect the
+Aircraft Documents and all records relating to the
+Aircraft.
+
+Subject to the inspection referred to in this
+clause 3.2 not revealing defects outside the Manufacturer’s
+limits or subject to any such defects being corrected by the Lessor at
+its own expense, the Lessor shall tender the Aircraft for delivery to
+the Lessee on the Scheduled Delivery Date and the Lessee shall
+thereupon accept delivery of the Aircraft and deliver to the
+
+8
+
+Table of Contents
+
+Lessor the duly executed Acceptance
+Certificate which shall evidence acceptance of the Aircraft by the
+Lessee for all purposes of the Lease. Delivery by the Lessee to the
+Lessor of the Acceptance Certificate shall constitute conclusive
+evidence as between the Lessor and the Lessee that on the Delivery Date
+the Lessee examined the Aircraft in accordance with the above clause
+3.2 (1)-(4) and that the Aircraft was airworthy and in good working
+order and repair, without defect (whether or not discoverable as at the
+Delivery Date) save for any defect listed on the Acceptance Certificate
+and in all respects satisfactory to the Lessee. The Lessor and the
+Lessee may decide to postpone the performance of the inspection
+referred to in this clause 3.2 (2) and (3), in which case the
+Lessee’s acceptance of the Aircraft shall be subject to the
+performance of such inspection within such time period as shall be
+agreed between the Lessor and the Lessee, it being understood that any
+defects outside the Manufacturer’s limits attributable to events
+following the Delivery Date shall be for the Lessee’s
+account.
+
+If the inspection referred to in clause 3.2
+reveals damage on the Aircraft which is due to improper maintenance,
+misuse or mishandling by the Lessor, the Lessor shall (i) rectify such
+damage prior to the Delivery Date or, if acceptable to the Lessee, at
+such time following the Delivery Date which shall be agreed between the
+Lessor and the Lessee or (ii) compensate the Lessee for the direct
+costs involved in rectifying such
+damage.
+
+ 3.3
+ Waiver
+
+SUBJECT
+TO CLAUSE 3.2, THE LESSEE
+
+ (I)
+ ACKNOWLEDGES AND AGREES THAT THE
+LESSOR HAS NOT MADE NOR SHALL BE DEEMED TO HAVE MADE, ANY TERM,
+CONDITION, REPRESENTATION, WARRANTY OR COVENANT EXPRESSED OR IMPLIED
+(WHETHER STATUTORY OR OTHERWISE), AS TO THE AIRWORTHINESS, QUALITY,
+DURABILITY, CONDITION, DESIGN, OPERATION, DESCRIPTION, MERCHANTABILITY,
+FITNESS FOR USE OR PURPOSE OR SUITABILITY OF THE AIRCRAFT, AS TO THE
+ABSENCE OF LATENT OR OTHER DEFECTS (INCLUDING INHERENT DEFECTS),
+WHETHER OR NOT DISCOVERABLE, AS TO THE ABSENCE OF ANY INFRINGEMENT OF
+ANY PATENT, TRADEMARK OR COPYRIGHT, OR AS TO ANY REPRESENTATION OR
+WARRANTY WHATSOEVER, EXPRESS OR IMPLIED, WITH RESPECT TO THE AIRCRAFT,
+ALL OF WHICH ARE HEREBY EXCLUDED AND THAT THE LESSEE IS LEASING THE
+AIRCRAFT ‘‘AS IS, WHERE IS AND WITH ALL
+FAULTS’’, AND
+
+ (II)
+ HEREBY WAIVES AS BETWEEN ITSELF,
+THE OWNER AND THE LESSOR ALL ITS RIGHTS, EXPRESS OR IMPLIED (WHETHER
+STATUTORY OR OTHERWISE) AGAINST THE OWNER, THE LESSOR OR THE AIRCRAFT
+RELATING TO THE CAPACITY, AGE, QUALITY, DESCRIPTION, STATE, CONDITION,
+DESIGN, CONSTRUCTION, USE, OPERATION OR PERFORMANCE OF THE AIRCRAFT AND
+THE LEASING THEREOF BY THE LESSOR TO THE LESSEE, OR TO THE
+MERCHANTABILITY OR SUITABILITY OF THE AIRCRAFT OR ITS FITNESS FOR ANY
+PARTICULAR PURPOSE OR AS TO ITS AIRWORTHINESS.
+
+IN
+PARTICULAR AND WITHOUT PREJUDICE TO THE GENERALITY OF THE FOREGOING,
+SAVE AS EXPRESSLY PROVIDED IN THE LEASE, THE OWNER AND THE LESSOR SHALL
+BE UNDER NO LIABILITY TO THE LESSEE WHATSOEVER AND HOWSOEVER ARISING,
+AND FROM WHATEVER CAUSE, AND WHETHER IN CONTRACT OR IN TORT OR BOTH IN
+RESPECT OF ANY LOSS (CONSEQUENTIAL OR OTHERWISE), LIABILITY, DAMAGE OR
+DELAY OF, OR TO, OR IN CONNECTION WITH, THE AIRCRAFT, ANY PERSON OR
+PROPERTY WHATSOEVER, WHETHER ON BOARD THE AIRCRAFT OR
+ELSEWHERE.
+
+9
+
+Table of Contents
+
+ 3.4
+ Force
+majeure affecting delivery
+
+If the Lessor is, for
+reasons of force majeure (being acts outside the reasonable control of
+the Lessor (such as, but not limited to, acts of God, fire, strikes,
+labour disputes, slow down or interruption of work, adverse weather
+conditions or any other causes beyond the control of the Lessor)),
+unable to tender the Aircraft for delivery on the Scheduled Delivery
+Date, the Lessor shall specify another date falling as soon as
+possible, but no later than thirty (30) Business Days after the
+Scheduled Delivery Date (or such later date as shall be mutually
+acceptable to the Lessor and Lessee) as the date on which it shall
+tender delivery of the Aircraft to the Lessee, subject to the
+satisfaction by the Lessee of all of the Lessor Conditions Precedent
+Requirements on the date so specified by the Lessor. The Lease Period
+and the Lessee’s obligation to pay Rent, Additional Rent and all
+other amounts payable hereunder shall commence with effect from the
+(actual) Delivery Date. Notwithstanding that delivery of the Aircraft
+is delayed in the circumstances contemplated by this clause 3.4, the
+Lessor shall have no liability for any losses, damages, costs or
+expenses sustained or incurred by the Lessee by reason of such
+delay.
+
+If the actual Delivery Date has not occurred on
+or before thirty (30) Business Days after the Scheduled Delivery Date
+(or such later date as shall be mutually acceptable to the Lessor and
+Lessee) as a direct or indirect consequence of an event referred to in
+this clause 3.4, then each of the Lessor and the Lessee shall have the
+unilateral right to cancel and terminate the Lease in which case the
+Lease shall terminate upon terminating party's notice hereof to
+the other party. In the event that the Lease is so terminated, the
+Lessor shall be under no further liability to the Lessee including,
+without limitation, any consequential loss or damage or cost. The
+Lessor shall, however, forthwith return any amount received from the
+Lessee hereunder.
+
+ 3.5
+ Total loss prior
+to delivery
+
+In the event of a Total Loss in relation to
+the Airframe on or prior to the Delivery Date, the Lease shall
+automatically be cancelled on the date of such Total Loss or the date
+on which Lessor’s insurers shall declare total loss of the
+Aircraft, and neither party shall be under any further obligations or
+liability to the other with respect to the Aircraft and the Lessor
+shall forthwith return any amount received from the Lessee
+hereunder.
+
+ 4.
+ CONDITIONS
+PRECEDENT
+
+ 4.1
+ Conditions precedent
+requirements, Lessor requirements
+
+The Lessor’s
+obligation to deliver the Aircraft on the Scheduled Delivery Date to
+the Lessee shall be subject to Lessee’s fulfilment to the
+Lessor’s satisfaction of the Lessor Conditions Precedent
+Requirements.
+
+ 4.2
+ Sole benefit of
+lessor
+
+The Lessor Conditions Precedent Requirements are
+for the sole benefit of the Lessor and may be waived or deferred in
+whole or in part and with or without conditions by the Lessor.
+
+ 4.3
+ Non-fulfilment
+
+If the
+Lessor Conditions Precedent Requirements have not been duly and timely
+fulfilled by the Lessee, or waived by the Lessor, in accordance with
+this clause 4 the Lessor shall be entitled to treat such non-fulfilment
+as an Event of Default.
+
+ 4.4
+ Conditions
+precedent requirements, Lessee requirements
+
+The
+Lessee’s obligation to take delivery the Aircraft on the
+Scheduled Delivery Date shall be subject to Lessor’s fulfilment
+to the Lessee’s satisfaction of the Lessee Conditions Precedent
+Requirements.
+
+ 4.5
+ Sole benefit of
+Lessee
+
+The Lessee Conditions Precedent Requirements are
+for the sole benefit of the Lessee and may be waived or deferred in
+whole or in part and with or without conditions by the
+Lessee.
+
+10
+
+Table of Contents
+
+ 4.6
+ Non-fulfilment
+
+If
+the Lessee Conditions Precedent Requirements have not been duly and
+timely fulfilled by the Lessor, or waived by the Lessee, in accordance
+with this clause 4 the Lessee shall be entitled to treat such
+non-fulfilment as a material default by the
+Lessor.
+
+ 5
+ RENTS, COSTS AND
+TAXES
+
+ 5.1
+ Rent, Additional Rent and
+Deposit
+
+The Lessee shall make the following payments to
+the Lessor:
+
+ 5.1.1
+ An instalment (the
+‘‘Rent’’) equal to the Rent Amount for each
+month (or part thereof) of the Lease Period. The Rent shall be
+calculated for periods of 6 months (or, with respect to the last Rent
+Amount calculation hereunder, such shorter period as may apply),
+reflecting LIBOR for such period, and be payable monthly in advance in
+accordance with clause
+6.1.1.
+
+ 5.1.2
+ Additional Rent per Flight
+Hour or Flight Cycle (as the case may be) accrued by the Aircraft
+during the Lease Period. The Additional Rent shall be payable monthly
+in arrear, relate to the preceding month (or part thereof) of the Lease
+Period, and be calculated and payable in accordance with clause
+6.1.2.
+
+ 5.1.3
+ The Deposit (if
+applicable). The Deposit shall be payable in accordance with clause
+6.1.3.
+
+ 5.2
+ No
+set-off
+
+The Lessee’s obligation to pay Rent and
+Additional Rent and to make other payments in accordance with the Lease
+shall be absolute and unconditional irrespective of any contingency
+whatsoever including (but not limited to) (i) any right of set-off,
+counterclaim, recoupment, defence or other right which either party
+hereto may have against the other, (ii) any unavailability of the
+Aircraft for any reason of airworthiness, merchantability, fitness for
+any purpose, condition, design, or operation of any kind or nature of
+the Aircraft, or the ineligibility of the Aircraft for any particular
+use or trade, or for registration or documentation under the laws of
+any relevant jurisdiction, or the Total Loss of, or any damage to the
+Aircraft, (iii) any failure or delay on the part of the Lessee in
+performing or complying with any of the terms or undertakings under the
+Lease, (iv) any insolvency, bankruptcy, reorganisation, arrangement,
+readjustment of debt, dissolution, liquidation or similar proceedings
+by or against the Lessor or the Lessee, (v) any invalidity or
+unenforceability or lack of due authorisation of, or other defect in
+the Lease and (vi) any other circumstances which, but for this
+provision, would or might have the effect of terminating or in any way
+affecting any obligation of the Lessee
+hereunder.
+
+ 5.3
+ No Rent
+reduction
+
+The Lessee shall not be entitled to any
+remission or reduction of Rent in respect of any period during which
+the Aircraft is wholly or partially unserviceable for any reason
+provided always that, after the occurrence of a Total Loss, the Lessee
+shall pay Rent only up to the date of receipt by the Lessor of the full
+amount payable by the Lessee pursuant to clause
+15.1.
+
+ 6
+ PAYMENTS
+
+ 6.1
+ Rent,
+Additional Rent and Deposit
+
+Payments as set out in
+clause 5.1 shall be made in accordance with this clause
+6.1:
+
+ 6.1.1
+ The Rent for the period from
+the First Rent Payment Date to the Second Rent Payment Date shall be
+payable on the First Rent Payment Date. The next Rent payment shall be
+made on the Second Rent Payment Date and each succeeding Rent shall be
+paid on the numerically corresponding day to the Second Rent Payment
+Date of each succeeding month during the Lease Period or, if there is
+no such numerically corresponding day, on the immediately preceding
+Business Day. If any day on which Rent falls due is not a Business Day,
+the relevant Rent shall be paid on the immediately preceding Business
+Day.
+
+11
+
+Table of Contents
+
+ 6.1.2
+ The
+Additional Rent shall be calculated at the end of each calendar month
+or, with respect to the last Additional Rent payable under the Lease,
+at the end of the Lease Period, and be based on the Flight Hours and
+Flight Cycles (as the case may be) accrued by the Aircraft during the
+preceding calendar month (or part thereof). The Additional Rent shall
+be paid no later than ten (10) days following the end of that calendar
+month.
+
+ 6.1.3
+ If applicable, the Deposit
+shall be payable on the Deposit Payment Date.
+
+ 6.2
+ Deposit and Letter of
+Credit
+
+ 6.2.1
+ If applicable, the Deposit
+shall be retained by the Lessor and be applied and/or repaid to the
+Lessee in accordance with this clause 6.2.1. The Lessor may, but shall
+not be obliged to, at any time up to and including the later of sixty
+(60) days following termination of the Lease and (ii) sixty (60)
+days following redelivery of the Aircraft, apply the Deposit in whole
+or in part to make good any amount outstanding to the Lessor hereunder
+or under the Other Leases. Within sixty (60) days following (i)
+termination of the Lease Period and redelivery of the Aircraft to the
+Lessor in accordance with and in the condition required by the Lease or
+(ii) payment to the Lessor of the Agreed Aircraft Value following a
+Total Loss after the Delivery Date, provided in each case that the
+Lessor is satisfied that the Lessee has irrevocably paid to the Lessor
+all amounts which may then be outstanding or become payable under this
+Lease or which may then be outstanding under the Other Leases and has
+discharged any such liability that may result in a lien over the
+Aircraft or the Other Aircraft, the Lessor shall return to the Lessee
+the Deposit.
+
+ 6.2.2
+ If applicable, the
+Letter of Credit shall be retained by the Lessor and be applied and/or
+returned to the Lessee in accordance with this clause. The Lessor may,
+but shall not be obliged to, at any time up to and including the later
+of (i) sixty (60) days following termination of the Lease and (ii)
+sixty (60) days following redelivery of the Aircraft draw on the Letter
+of Credit in whole or in part to make good any amount outstanding
+hereunder or under the Other Leases. Within sixty (60) days following
+(i) termination of the Lease Period and redelivery of the Aircraft to
+the Lessor in accordance with and in the condition required by the
+Lease or (ii) payment to the Lessor of the Agreed Aircraft Value
+following a Total Loss after the Delivery Date, provided in each case
+that the Lessor is satisfied that the Lessee has irrevocably paid to
+the Lessor all amounts which may then be outstanding or become payable
+under this Lease or which may then be outstanding under the Other
+Leases and has discharged any such liability that may result in a lien
+over the Aircraft or the Other Aircraft, the Lessor shall return to the
+Lessee the Letter of Credit.
+
+ 6.3
+ Lessor
+payment details
+
+All payments of Rent, Additional Rent
+and other amounts to be paid by the Lessee hereunder shall be made on
+the due dates for payment in Dollars in immediately available funds to
+the Place of Payment or to such other bank or account in such
+jurisdiction as the Lessor may from time to time specify to the
+Lessee.
+
+ 6.4
+ Default
+interest
+
+If any payment of Rent, Additional Rent or any
+other amounts payable by the Lessee hereunder is not made when due, the
+Lessee shall, on demand by the Lessor, pay to the Lessor interest on
+such overdue amount from the due date until the date of the
+Lessor’s actual receipt of such payment at the Default Interest
+Rate.
+
+ 6.5
+ Net
+lease
+
+ 6.5.1
+ All payments to be made by
+the Lessee hereunder shall be made in full, free and clear of and
+without deduction or withholding for or on account of any
+Taxes.
+
+ 6.5.2
+ If at any time the Lessee
+is required by law and/or regulation to make any deduction or
+withholding from any amount payable by the Lessee hereunder (or if
+there is any change in the rates at which or the manner in which any
+such deduction or withholding is calculated), the
+
+12
+
+Table of Contents
+
+Lessee shall promptly notify the Lessor of
+such requirement or change and shall deliver to the Lessor as soon as
+practicable after the Lessee has made any payment from which it is
+required by law to make any deduction or withholding, a certified copy
+of the receipt issued by the authority (if any) to which the amount
+deducted or withheld was
+remitted.
+
+ 6.5.3
+ If (i) the Lessee is
+required by law and/or regulation to make any deduction or withholding
+from any amount payable by the Lessee to the Lessor hereunder, or (ii)
+the Lessor is required by law and/or regulation to make any payment, on
+account of Taxes or otherwise, on or in relation to any amount received
+or receivable by it hereunder (other than Taxes on the overall net
+income or capital gains of the Lessor imposed by Danish authorities),
+then the sum payable by the Lessee in respect of which such deduction,
+withholding or payment is required to be made shall be increased to the
+extent necessary to ensure that, after the making of such deduction,
+withholding or payment, the Lessor receives and retains (free from any
+liability in respect of any such deduction, withholding or payment) a
+net sum equal to the sum which it would have received and so retained,
+had no such deduction, withholding or payment been made. Upon (or as
+soon as possible in accordance with the legislation relating to Taxes
+applicable to the Lessor) the Lessor’s receipt from the Lessee
+of such net sum equal to the sum which it would have received and
+retained had no deduction, withholding or payment been made, the Lessor
+shall, if available to the Lessor in accordance with the legislation
+relating to Taxes applicable to it, apply for a tax credit or
+equivalent tax benefit resulting from the deduction, withholding or
+payment in question and the net tax credit or equivalent net tax
+benefit shall be extended to the Lessee, PROVIDED that the amount of
+such tax credit to the Lessee shall be limited to a maximum amount
+equal to the amount that has been paid by the Lessee to the Lessor
+under this clause 6.5.3 and further PROVIDED that under no
+circumstances shall the Lessor be obliged to reveal any of its tax
+affairs to the
+Lessee.
+
+ 6.6
+ VAT
+
+There
+shall be added to any sums payable by the Lessee to the Lessor
+hereunder such amounts (if any) of Value Added Tax as may from time to
+time be properly chargeable
+thereon.
+
+ 6.7
+ Payment in other
+currency
+
+If, under any applicable law, whether as a
+result of judgement against the Lessee or the liquidation of the Lessee
+or for any other reason, any payment under or in connection with the
+Lease is made or is recovered in a currency other than the currency in
+which it is payable pursuant to the Lease (the ‘‘Currency
+of Obligation’’) then, to the extent that the payment (when
+converted into the Currency of Obligation at the rate of exchange
+prevailing on the date of payment or, in the case of a liquidation, the
+latest date for the determination of liabilities permitted by the
+applicable law) falls short of the amount due under the Lease, the
+Lessee shall, as a separate and independent obligation, fully indemnify
+the Lessor against the amount of the shortfall. For the purposes of
+this clause, ‘‘rate of exchange’’ means the
+rate at which the Lessor is able on the relevant date to purchase the
+Currency of Obligation in London with that other
+currency.
+
+ 6.8
+ IATA
+clearance
+
+If the Lessee is or becomes a member of IATA
+with the option of clearing and having outstanding amounts against it
+cleared through the IATA Clearing House, it hereby consents and agrees
+to and undertakes with the Lessor to accept the Lessor clearing any
+amount outstanding under the Lease through the IATA Clearing House. The
+original invoice or a copy of the invoice issued by the Lessor to the
+Lessee and relating to outstanding amount shall, as against the IATA
+Clearing House, constitute conclusive evidence that such amount is
+outstanding and subject to clearance through the IATA Clearing
+House.
+
+ 6.9
+ Tax
+indemnification
+
+The Lessee shall pay and indemnify and
+hold harmless the Tax Indemnitees against all Taxes (other than Taxes
+on the overall net income, or Taxes relating to capital gains, of a Tax
+
+13
+
+Table of Contents
+
+Indemnitee, in each case as imposed by the
+Tax authorities in the state of incorporation of the relevant Tax
+Indemnitee) as a result of (a) the leasing of the Aircraft to the
+Lessee, (b) the sub-leasing of the Aircraft to the Permitted
+Sub-Lessee, (c) the payment and receipt of Rent, Additional Rent and/or
+any other payment required to be made by the Lessee under the Lease,
+(d) the payment or advance of any amount under the Security Documents
+or (e) the ownership, import, export, use, control, possession,
+maintenance, storage, replacement, refurbishment, insurance, service,
+overhaul, repair, testing, registration, delivery or redelivery of the
+Aircraft.
+
+ 7
+ ADJUSTMENT OF ADDITIONAL
+RENT
+
+ 7.1
+ Adjustment
+provisions
+
+***
+
+ 7.2
+ Engine
+Reserve allocation
+adjustment
+
+***
+
+ 7.3
+ Low
+Utilisation
+
+***
+
+ 8
+ LESSEE
+COVENANTS
+
+ 8.1
+ Licenses and
+certificates
+
+The Lessee
+shall:
+
+ 8.1.1
+ at all times during the
+Lease Period ensure that it or the Permitted Sub-Lessee (as applicable)
+is the holder of a valid air operator’s certificate issued by
+the Aviation Authority and all other licenses and certificates as shall
+be required under applicable law and/or by the Aviation Authority
+and/or the applicable authorities in the State of Registration and the
+State of Incorporation to permit the Lessee or Permitted Sub-Lessee (as
+the case may be) to operate the Aircraft under this Lease or under the
+Sub-Lease Agreement (as the case may be);
+and
+
+ 8.1.2
+ at all times during the Lease
+Period ensure that the crew operating the Aircraft is licensed by the
+Aviation Authority and/or validated by the Aviation Authority;
+and
+
+ 8.1.3
+ at all times during the Lease
+Period ensure that the Maintenance Performer has all necessary
+licenses, authorisations and permits to perform the maintenance of the
+Aircraft; and
+
+ 8.1.4
+ throughout the
+Lease Period not do or omit to do or permit to be omitted or done any
+act (i) which would breach any applicable law or any such
+certificates or licenses as are specified in clauses 8.1.1, 8.1.2 and
+8.1.3 or (ii) whereby any such certificates or licenses would or would
+be likely to cease to be in force, be revoked, withdrawn or suspended,
+or adversely amended or affected, and shall from time to time on
+request produce certified copies of such certificates or licenses to
+the Lessor.
+
+ 8.2
+ Consents, approvals and
+filings
+
+In addition to clause 8.1, the Lessee shall
+ensure that, at all times during the Lease Period it has obtained
+and/or completed and that the Permitted Sub-Lessee has obtained and/or
+completed any and all consents, approvals, orders, authorisations,
+registrations or filings required to authorise, or required in
+connection with, the execution, legality, validity, enforceability or
+admissibility in evidence of the Lease, the Sub-Lease Agreement, the
+Security Documents and any related agreement, document or instrument or
+the performance by the Lessee and the Permitted Sub-Lessee of any of
+their respective obligations hereunder and
+thereunder.
+
+ 8.3
+ Base
+
+The
+Aircraft shall during the Lease Period be based at the Base.
+
+14
+
+Table of Contents
+
+ 8.4
+ Maintenance
+
+The
+Lessee shall provide for the Aircraft being maintained, overhauled,
+modified and repaired and the Lessee shall provide
+for;
+
+ 8.4.1
+ the Aircraft being kept in
+as good operating condition and repair as the condition of the Aircraft
+as at the Delivery Date subject to fair wear and
+tear;
+
+ 8.4.2
+ the maintenance of a
+current certificate of airworthiness (issued by the Aviation Authority
+in the appropriate public transport category) for the
+Aircraft;
+
+ 8.4.3
+ the compliance on a
+terminating basis (where terminating action exists) with all applicable
+regulations including the standard stipulated by JAR-OPS 1 and the
+requirements of all Airworthiness Directives, all mandatory inspections
+and modification requirements and, if applicable to the Lessee’s
+operation of the Aircraft, all alert service bulletins, inspection
+service bulletins or similar requirements applicable to the Aircraft or
+any Component and to be carried out before the Redelivery Date and
+within the AD Compliance Period after the Redelivery
+Date;
+
+ 8.4.4
+ the performance of engine
+trend monitoring in accordance with a system satisfactory to the Lessor
+and forward results to Lessor on
+request;
+
+ 8.4.5
+ the prompt replacement
+of any Engine or Component (being an Engine or Component which is
+time-expired, lost, destroyed or damaged and which cannot be repaired
+in situ) with a replacement engine or component, complying with the
+provisions of clause 8.5.2 or
+8.5.3;
+
+ 8.4.6
+ the accomplishment of
+permanent repairs and/or replacement of cosmetic and appearance
+defects, including hail damage which are not within the
+Manufacturer’s
+limitations;
+
+ 8.4.7
+ all inspections,
+services, repairs, overhauls, tests and modifications to be made or
+carried out on or to the Aircraft and each part thereof are made or
+carried out by the Maintenance
+Performer;
+
+ 8.4.8
+ requiring all
+applicable service bulletin kits which are offered ‘‘no
+charge’’ by any Manufacturer or vendor, prior to the
+expiration of the ‘‘no charge’’ warranty period
+and in failing to do so, pay to the Lessor the costs to the Lessor of
+acquiring such service bulletin
+kits;
+
+ 8.5
+ Removal, interchange and
+modifications
+
+ 8.5.1
+ General: The
+Lessee or Sub-Lessee may replace Engines or Components in accordance
+with clause 8.5.2 and 8.5.3 and may install any Engine or Component on
+another aircraft that the Lessee or the Permitted Sub-Lessee owns or
+leases in accordance with clause 8.5.4. The Lessee shall ensure that
+any Engine or Component not installed on the Aircraft (or an aircraft
+permitted by clause 8.5.4) is properly and safely stored and insured
+and kept free of Security Interests save for Permitted
+Liens.
+
+ 8.5.2
+ Permanent
+Replacement: If the Lessee or Permitted Sub-Lessee
+permanently replaces an Engine or
+Component:
+
+ 8.5.2.1
+ In the case of an
+Engine, the replacement engine must be of a Replacement
+Engine.
+
+ 8.5.2.2
+ in the case of a
+Component, the replacement component must be in good operating
+condition, have as much useful life available until the next scheduled
+maintenance procedure, be of the same or a more advanced make and model
+and of the same interchangeable modification status as the Component it
+is replacing;
+
+ 8.5.2.3
+ the Replacement
+Engine or replacement component must have become and remain, until
+replaced in accordance with this clause, the property of the Owner free
+from Security Interests (other than Permitted
+Liens);
+
+ 8.5.2.4
+ the Lessee must have
+full details of the source and maintenance records of the Replacement
+Engine or replacement component and in the case of serialised rotable
+parts, also have a complete service history: and
+
+15
+
+Table of Contents
+
+ 8.5.2.5
+ if so
+requested by the Lessor, the Lessee shall provide a properly executed
+bill of sale or similar instrument to evidence the vesting in the Owner
+of title to any such Replacement Engine or replacement component
+permanently replacing an Engine or Component, free and clear of any
+Security Interests (other than Permitted Liens); it being acknowledged
+that the Lessor shall not generally and without good reason request a
+bill of sale where the value of the relevant Replacement Engine or
+replacement component is less than USD
+20,000.
+
+ 8.5.3
+ Temporary
+Replacement: The Lessee or Permitted Sub-Lessee may install
+any engine or component on the Aircraft as a temporary replacement
+if:
+
+ 8.5.3.1
+ no Event of Default has
+occurred and is continuing;
+
+ 8.5.3.2
+ as
+soon as reasonably practicable after an engine or component is
+installed on the Aircraft, but before the Redelivery Date, the Lessee
+or Permitted Sub-Lessee removes that engine or component and replaces
+it with the original Engine or Component (or, in the case of a
+Component, by a part which is allowed by clause 8.5.2);
+and
+
+ 8.5.3.3
+ the Insurances for the
+Aircraft are not
+affected.
+
+ 8.5.4
+ Other
+aircraft: An Engine or Component may be installed on an
+aircraft which Lessee or a Permitted Sub-Lessee owns or leases
+if:
+
+ 8.5.4.1
+ no Event of Default has
+occurred and is continuing;
+
+ 8.5.4.2
+ the
+Lessee or the Permitted Sub-Lessee has operational control over the
+aircraft;
+
+ 8.5.4.3
+ the Owner keeps the
+ownership of the Engine or Component concerned until replaced in
+accordance with this
+clause;
+
+ 8.5.4.4
+ the Engine or Component
+does not become subject to a Security Interest (other than a Permitted
+Lien); and
+
+ 8.5.4.5
+ the Engine or
+Component is removed from the aircraft as soon as practicable but not
+later than the Redelivery
+Date.
+
+ 8.5.5
+ Title to Removed
+Engines or Components: Any Engine or Component at any time
+removed from the Aircraft shall remain the property of the Owner unless
+and until a replacement has been effected in accordance with clause
+8.5.2 and unless and until title in that replacement has passed to the
+Owner subject to the Lease, free of all Security Interests (except for
+Permitted Liens), whereupon title to the replaced Engine or Component
+shall, provided no Event of Default has occurred and is continuing,
+pass to the Lessee.
+
+The Lessee or Permitted Sub-Lessee
+may remove any item from the Aircraft without replacing it if such item
+(i) has been installed by Lessee or Permitted Sub-Lessee on the
+Aircraft on or after the Delivery Date as an addition to and not in
+replacement of any item previously installed on or attached to the
+Aircraft, (ii) is not required to be installed on or attached to the
+Aircraft by the terms hereof and (iii) can be removed from the Aircraft
+without impairing the airworthiness of the Aircraft or diminishing the
+value of the Aircraft below the value which the Aircraft would have had
+such additional item not been installed thereon or attached thereto and
+upon such removal such item shall become free of all rights of the
+Lessor and title therein shall vest in the Lessee or the Permitted
+Sub-Lessee (as the case may be) free from any lien, charge or
+encumbrance of the Lessor
+
+Where an engine or component
+of a third party owner is installed on the Airframe, the Lessor agrees
+not to claim title in priority to the third party owner by virtue of
+that installation PROVIDED that the Lessor has been duly notified in
+writing of the said installation and the identity of the third party
+owner prior to that installation (the reference to third party owner in
+this sub-clause includes a reference to a third party holding a
+Security Interest in the relevant engine or part provided such Security
+Interest has been registered as required or permitted by applicable
+law).
+
+16
+
+Table of Contents
+
+ 8.5.6
+ Modifications:
+Lessee or Permitted Sub-Lessee shall not make any major modification or
+addition to the Aircraft, except for such
+which:
+
+ a.
+ is expressly permitted or required by
+the Lease; or
+
+ b.
+ has the prior written approval
+of Lessor (not to be unreasonably withheld) and does not diminish the
+condition or value of the Aircraft.
+
+All modifications
+and alterations incorporated throughout the Lease Period which deviate
+from the Aircraft's certified specifications, type, design or
+configuration to be completed in accordance with the
+Manufacturer’s recommendations and instructions, must be
+approved by the Aviation Authority, and where they deviate from the
+certified configuration of the Aircraft, shall be covered by a
+Supplemental Type Certificate (‘‘STC’’) issued
+by the Aviation Authority or the State of Design
+Authority.
+
+ 8.5.7
+ So long as no Event of
+Default has occurred and is continuing and subject to clause 16.7, the
+Lessee or Permitted Sub-Lessee may remove any modification or addition
+to the Aircraft provided that this does not diminish the value or
+condition of the Aircraft. Furthermore, the Lessor may require the
+Lessee to remove such modification on the Redelivery Date to restore
+the Aircraft to its condition prior to that modification or
+addition.
+
+ 8.6
+ Aircraft
+documents
+
+Lessee shall keep the Aircraft Documents and
+Records:
+
+ 8.6.1
+ in the English
+language;
+
+ 8.6.2
+ according to best
+airline practice; and
+
+ 8.6.3
+ so they
+meet the requirements of JAR-OPS Subpart M and the Maintenance
+Programme.
+
+ 8.7
+ Negative
+covenants
+
+The Lessee shall not and undertakes with the
+Lessor that the Permitted Sub-Lessee shall
+not;
+
+ 8.7.1
+ operate or permit the
+Aircraft to be operated in, to or from the United States of America or
+outside the areas permitted by the Insurances or in any manner which is
+contrary to the requirements of the
+Insurances;
+
+ 8.7.2
+ cause or permit to be
+done with, to, about or in connection with the Aircraft anything in
+breach of any applicable law, any applicable requirement of a
+government agency, any airworthiness certificate, any mandatory
+requirement of a Manufacturer, any provision of any applicable
+international convention or any provision of any rule or regulation
+issued under any such international convention applicable thereto;
+or
+
+ 8.7.3
+ hold out or represent or allow
+to be held out and represented that any member of the crew of the
+Aircraft is in the employment of the Lessor or the Owner or that the
+Lessor or the Owner is carrying persons or goods in the Aircraft or are
+in any way connected or associated with any operation of the
+Aircraft;
+
+ 8.7.4
+ use the Aircraft for
+the carriage of:
+
+ 8.7.4.1
+ whole animals
+living or dead except in the cargo compartments according to IATA
+regulations and except for domestic pet animals carried in a suitable
+container to prevent the escape of any liquid and to ensure the welfare
+of the animal;
+
+ 8.7.4.2
+ acids, toxic
+chemicals, other corrosive materials, explosives, nuclear fuels,
+nuclear wastes, or any nuclear assemblies or components, except as
+permitted for passenger aircraft under the ‘‘Dangerous
+Goods Regulations’’ schedule issued by IATA from time to
+time and provided that all the requirements for packing or otherwise
+contained therein are
+fulfilled;
+
+ 8.7.4.3
+ any other goods,
+materials or items of cargo which could reasonably be expected to cause
+damage to the Aircraft and which would not be adequately covered by the
+Insurances; or
+
+ 8.7.4.4
+ any illegal item
+or substance;
+
+17
+
+Table of Contents
+
+ 8.7.5
+ utilise
+the Aircraft for purposes of training, qualifying or reconfirming the
+status of cockpit personnel if such purposes
+are disproportionate to the use for such purpose of other
+aircraft operated by the Lessee or the Permitted Sub-Lessee (as the
+case may be);
+
+ 8.7.6
+ attempt or hold
+itself out as having any power to sell, lease (but for the sub-lease
+under the Sub-Lease Agreement), charge or otherwise encumber or dispose
+of the Aircraft or the whole or any part of the Insurances, nor create,
+incur or suffer to exist any lien, charge or encumbrance over the
+Aircraft (other than the Mortgage or any Permitted Liens) or over the
+whole or any part of the Insurances or any interest of the Lessor
+therein;
+
+ 8.7.7
+ do or cause or permit to
+be done any act (not being an act attributable to the Lessor, directly
+or indirectly) which could reasonably be expected to result in the
+Aircraft being arrested, confiscated, seized, taken in execution,
+impounded, forfeited, detained in exercise or purported exercise of any
+possessory lien or other claim or otherwise taken from the possession
+of the Lessee and if any such arrest, confiscation, seizure, taking,
+impounding, forfeiture or detention shall occur, the Lessee shall give
+immediate notice thereof to the Lessor, and shall use its best
+endeavours to procure the prompt release of the
+Aircraft;
+
+ 8.7.8
+ pledge to the credit of
+the Lessor or Owner for any maintenance, service, repairs, overhauls
+of, or modifications to, or changes or alterations in the Aircraft or
+otherwise;
+
+ 8.8
+ Protection of
+rights
+
+The Lessee shall make, or procure the making of,
+all necessary filings and recordings of the Lease, the Sub-Lease
+Agreement and the Security Documents in a timely fashion and from time
+to time execute such other documents or instruments and make such
+filings as may be necessary or advisable (in the reasonable opinion of
+the Lessor or required by the Owner or the Lenders) for the purpose of
+perfecting and protecting the Owner’s, Lenders' or
+Lessor’s title and interest in, to and over the Aircraft. The
+Lessee covenants that it shall and shall procure that the Permitted
+Sub-Lessee shall, at the request and expense of the Lessor, execute all
+such additional documents as the Lessor may reasonably require to
+protect the rights and interests of the Owner, Lenders or Lessor in, to
+and over the Aircraft, including, without limitation, all necessary
+registrations and filings required by or advisable under any applicable
+law or regulation, and not to do or omit or permit to be done or
+omitted anything which might jeopardise the Owner’s,
+Lenders' or Lessor’s rights and interests in, to and over
+the Aircraft;
+
+ 8.9
+ Navigation,
+over-flight and airport charges
+
+The Lessee shall pay
+promptly or procure for the Permitted Sub-Lessee to pay promptly when
+due all Eurocontrol charges, over-flight charges, en-route navigation
+charges, navigation services charges, start and landing fees and all
+other charges payable for the use of or for services provided at any
+airport or elsewhere, whether in respect of the Aircraft or any other
+aircraft operated by the Lessee or Permitted Sub-Lessee, and shall
+indemnify and hold the Owner and Lessor harmless in respect of the
+same. This indemnity shall continue in full force and effect
+notwithstanding the termination or expiration of the leasing of the
+Aircraft hereunder for any reason whatsoever or the return of the
+Aircraft to the Lessor.
+
+ 9
+ LESSOR
+COVENANTS
+
+ 9.1
+ Quiet
+enjoyment
+
+The Lessor represents and warrants to the
+Lessee that the Lessor has full right and power to lease the Aircraft
+to the Lessee on the terms of the Lease and that for as long as the
+Lessee continues to observe its obligations hereunder and no Event of
+Default has occurred, the Lessee shall be entitled to the quiet
+enjoyment and use of the Aircraft free from interruption by the Owner,
+the Lessor and the Lenders. The Lessee shall be entitled to register a
+lease declaration with the Danish Register of Rights over Aircraft in
+order to perfect the quiet enjoyment obligation on the Lessor under
+this clause 9.1 and the Lessor undertakes to provide for the
+beneficiary under any Mortgage to respect such lease declaration.
+
+18
+
+Table of Contents
+
+ 9.2
+ Maintenance
+contributions
+
+Provided that no Event of Default has
+occurred and is continuing, the Lessor shall pay the following amounts
+to the Lessee by way of contribution to the cost of maintenance of the
+Aircraft, upon receipt by the Lessor, within six months after
+commencement of such maintenance and before the Redelivery Date, of an
+invoice and supporting documentation reasonably satisfactory to the
+Lessor evidencing performance of the following work by the Maintenance
+Performer:
+
+ 9.2.1
+ Airframe: With
+respect to the Airframe, the completion of the Airframe Structural
+Check, the lesser of (i) the amount of that invoice and (ii) an amount
+equal to the aggregate amount of the Airframe Reserve paid under the
+Lease at the date such work starts less the aggregate amount previously
+paid by the Lessor under this
+sub-clause;
+
+ 9.2.2
+ Engine
+Life-Limited Parts: With respect to life-limited Components
+within any Engine, the performance of any replacement or repair of
+those Components, the lesser of (i) the amount of that invoice and (ii)
+an amount equal to the aggregate amount of the Engine LLP Reserve paid
+in respect of that Engine under the Lease at the date such work starts
+less the aggregate amount previously paid in respect of that Engine by
+the Lessor under this
+sub-clause;
+
+ 9.2.3
+ Engine
+Refurbishment: With respect to any Engine, the performance of
+Engine Refurbishment in respect of that Engine the lesser of (i) the
+amount of that invoice and (ii) an amount equal to the aggregate amount
+of the Engine Reserve paid under the Lease in respect of that Engine at
+the date such work starts less the aggregate amount previously paid in
+respect of that Engine by the Lessor under this
+sub-clause;
+
+ 9.2.4
+ APU: With
+respect to the APU, the performance of such overhauls as referred to in
+the definition of ‘‘APU Reserve’’ in clause
+1.1, the lesser of (i) the amount of that invoice and (ii) an
+amount equal to the aggregate amount of the APU Reserve paid under the
+Lease at the date such work starts less the aggregate amount previously
+paid by the Lessor under this sub-clause;
+and
+
+ 9.2.5
+ Landing
+gear: With respect to the Aircraft’s landing gear, the
+performance of such overhauls as referred to in the definition of
+‘‘Landing Gear Reserve’’ in clause 1.1, the
+lesser of (i) the amount of that invoice and (ii) an amount equal to
+the aggregate amount of the Landing Gear Reserve paid under the Lease
+at the date such work starts less the aggregate amount previously paid
+by the Lessor under this
+sub-clause.
+
+ 9.3
+ Increased
+contribution
+
+ 9.3.1
+ If, after completion
+of the first Eligible Maintenance Event following the Delivery Date
+with respect to
+
+ (i)
+ the
+Airframe;
+
+ (ii)
+ life-limited
+Components within each
+Engine;
+
+ (iii)
+ the Engine Relevant
+Items;
+
+ (iv)
+ APU; and
+
+ (v)
+ Landing Gear Relevant
+Items,
+
+the payment to be made by the Lessor under the
+relevant clause of clauses 9.2.1 through 9.2.5 does not reimburse in
+full the Lessee’s costs in having completed the subject first
+Eligible Maintenance Event, the Lessor shall pay to the Lessee (which
+payment shall be effected together with the payment under referenced
+clauses 9.2.1 through 9.2.5) an amount equivalent to such shortfall
+(subject to clause 9.3.2).
+
+ 9.3.2
+ The
+Lessor’s payment in respect of each of the items referred in (i)
+through (v) of clause 9.3.1 shall be limited as
+follows:
+
+ (i)
+ with respect to the
+Airframe, the Flight Hours on the Delivery Date since last relevant
+Eligible Maintenance Event multiplied by the Airframe
+Reserve;
+
+19
+
+Table of Contents
+
+ (ii)
+ with
+respect to the life-limited Components within each Engine, the Flight
+Cycles on the Delivery Date since last relevant Eligible Maintenance
+Event multiplied by the Engine LLP
+Reserve;
+
+ (iii)
+ with respect to the
+Engine Relevant Items, the Flight Hours on the Delivery Date since last
+relevant Eligible Maintenance Event multiplied by the Engine
+Reserve;
+
+ (iv)
+ with respect to the
+APU, the Flight Hours on the Delivery Date since last relevant Eligible
+Maintenance Event multiplied by the APU Reserve;
+and
+
+ (v)
+ with respect to the landing
+gear, the number of months on the Delivery Date since last Eligible
+Maintenance Event multiplied by the Landing Gear
+Reserve.
+
+ 9.3.3
+ For the purposes of
+clause 9.3.2, the ‘‘Airframe Reserve’’,
+‘‘Engine LLP Reserve’’,
+‘‘Engine Reserve’’, ‘‘APU
+Reserve’’ and ‘‘Landing Gear
+Reserve’’ shall mean such USD amount as referred to in
+the definitions of such in clause 1.1 hereof (but not adjusted in
+accordance with clauses 7.1 and 7.3), discounted annually (counting
+from the Delivery Date) by 3% back to the relevant Eligible
+Maintenance Event prior to the Delivery
+Date.
+
+ 9.4
+ Exceptions to
+contribution
+
+The Lessor shall not pay any such
+contribution as referred to in clauses 9.2 and
+9.3;
+
+ (a)
+ for repairs arising as a result of
+accidents or incidents (whether or not eligible for recovery under the
+Insurances), operational or maintenance mishandling or airworthiness
+directive work; nor
+
+ (b)
+ for repairs arising as a
+result of foreign object damage, the removal, installation, maintenance
+and repair of QEC (Quick Engine Change) kits and/or any elective
+components
+replacement.
+
+ 9.5
+ Airworthiness
+directive cost
+share
+
+***
+
+ 9.6
+ Lessor
+consultation
+
+With respect to the maintenance events
+referred to in clause 9.2 and the implementation of Airworthiness
+Directives referred to in clause 9.5 (with respect to the latter, the
+cost of which exceeding the AD Threshold), the Lessee shall, prior to
+initiating such event or implementation, consult with the Lessor with a
+view to decide upon the workscope for such event or
+implementation.
+
+ 10
+ SUB-LEASING
+
+ 10.1
+ No
+sub-lease
+
+Except for wet-leases under which the Lessee
+or Permitted Sub-Lessee retains the control over the Aircraft in full,
+the Lessee shall not lease or hire the Aircraft to another person or
+persons and the Lessee undertakes with the Lessor for the Permitted
+Sub-Lessee not to so lease or hire the
+Aircraft.
+
+ 10.2
+ Permitted sub-lease
+
+Subject to the Lessor’s prior, written consent, and
+notwithstanding clause 10.1, the Lessee (but not the Permitted
+Sub-Lessee) shall be allowed to sub-lease the Aircraft to an airline of
+international standing, and in a jurisdiction acceptable to the Lessor
+and on terms acceptable to the Lessor. The Lessor shall not
+unreasonably withhold its consent to such sub-lease of the Aircraft. As
+a matter of exemplification, it shall not be unreasonable for the
+Lessor to deny giving its consent if the Owner (save where the Owner is
+identical with the Lessor) or the Lenders shall not be willing to allow
+such sub-lease. Any consent may be given subject to
+conditions.
+
+20
+
+Table of Contents
+
+ 10.3
+ Administration
+of sub-lease agreement
+
+The Lessee shall duly and
+punctually perform and comply with its obligations under the Sub-Lease
+Agreement and shall enforce due and punctual performance and observance
+by the Permitted Sub-Lessee. The Lessee shall not without the prior
+written consent (not to be unreasonably withheld or delayed) of the
+Lessor agree to any amendment, variation, or waiver in respect of the
+Sub-Lease Agreement nor grant any consent expressed in the Sub-Lease
+Agreement to be required of the Lessee where consent is required to the
+same matter under the Lease. The Lessee shall promptly notify the
+Lessor upon becoming aware of any event of default or default under the
+Sub-Lease Agreement and shall promptly comply with all directions of
+the Lessor in relation
+thereto.
+
+ 11
+ INFORMATION AND
+INSPECTION
+
+ 11.1
+ Aircraft
+information
+
+ 11.1.1
+ Promptly upon
+becoming aware of same, the Lessee shall notify the Lessor
+of:
+
+ 11.1.1.1
+ any required major
+repair;
+
+ 11.1.1.2
+ any casualty or other
+damage or accident to the Aircraft or Engines except for insignificant
+occurrences; and
+
+ 11.1.1.3
+ any event
+which shall or may reasonably be considered likely to become a Total
+Loss and promptly notify the Lessor of any event or claim which shall
+or may reasonably be considered likely to involve the Owner, Lessor,
+Lenders or any of them in any cost, expense, loss or
+liability.
+
+ 11.1.2
+ On a weekly basis,
+the Lessee shall provide the Lessor with information on and all repair
+data, modifications and alterations with respect to the Aircraft (if,
+during such week, the Aircraft has been repaired, modified or
+altered).
+
+ 11.1.3
+ No later than on the
+7th day of each month during the Lease Period, the Lessee
+shall provide the Lessor with information
+on;
+
+ 11.1.3.1
+ total Flight Hours and
+Flight Cycles accumulated during the immediate preceding month by the
+Aircraft; each engine and APU installed on the Aircraft as well as each
+Engine and the APU delivered with the
+Aircraft.
+
+ 11.1.4
+ Forthwith upon the
+Lessor’s reasonable request, the Lessee shall provide the Lessor
+with information on;
+
+ 11.1.4.1
+ the
+Aircraft, its employment, condition, position and engagements;
+and
+
+ 11.1.4.2
+ Aircraft weight
+changes.
+
+ 11.2
+ Financial
+information
+
+The Lessee shall throughout the Lease
+Period;
+
+ 11.2.1
+ deliver to the Lessor
+within 14 days after publication thereof (and in any event within 150
+days after the end of the relevant financial year), copies of the
+audited financial statements of the Lessee and the Permitted Sub-Lessee
+for each of its financial years ending after the date
+hereof;
+
+ 11.2.2
+ deliver to the Lessor no
+later than 60 days after the end of teach first financial half-year
+un-audited semi annual financial statements of the Lessee and the
+Permitted Sub-Lessee for each of its financial half-years ending after
+the date
+hereof.
+
+ 11.3
+ Inspections
+
+The
+Lessee shall and shall procure that the Permitted Sub-Lessee
+shall;
+
+ 11.3.1
+ make or cause to be made
+available to the Lessor on request for inspection or copying or both,
+the log books and computer records of the Aircraft and all repair,
+maintenance, modification, overhaul or other records kept by the Lessee
+in respect of the Aircraft and all certificates that are from time to
+time in force in relation to the same and forthwith deliver the
+originals (if such party’s possession is not required and in
+such case, deliver copies), or, in the case of the log books, a
+photocopy of the same to the other party if requested;
+
+21
+
+Table of Contents
+
+ 11.3.2
+ upon the
+Lessor’s reasonable request permit the Owner, Lessor and Lenders
+to inspect the
+Aircraft.
+
+ 12
+ WARRANTIES
+
+The
+Lessor shall;
+
+ 12.1
+ assign to the
+Lessee, for the duration of the Lease Period or until an Event of
+Default has occurred and is continuing, any existing warranties from
+the Manufacturers in relation to the Airframe and the Engines, provided
+that such are assignable;
+and
+
+ 12.2
+ remain entitled to each and
+any other warranty, express or implied, with respect to the Aircraft,
+an Engine or Component so far as concerns any Manufacturer, vendor,
+sub-contractor or supplier. The Lessor shall without prejudice to its
+rights under the Lease co-operate with the Lessee in respect of any
+claim which may be pursued under any such warranty in relation to
+defects affecting the Aircraft, any Engine or Component, if such claim
+or circumstance leading to such claim arises during the Lease Period.
+The Lessee shall notify the Lessor promptly upon becoming aware of any
+such
+claim.
+
+ 13
+ INSURANCE
+
+ 13.1
+ Liability
+for damage
+
+The Lessee shall be liable for all damage to
+the Aircraft during the Lease
+Period.
+
+ 13.2
+ Types of
+insurance
+
+The Lessee shall throughout the Lease Period
+provide for the Aircraft to be insured at its own risk and expense with
+such first class reputable insurers reasonably approved in advance by
+the Lessor (which insurers shall, if so required by the Lessor, at all
+times re-insure substantially all of the risks so insured against with
+insurers of internationally recognised standing in the field of
+aviation insurance reasonably approved by the Lessor, it being
+understood that the Lessor will require such reinsurance to the extent
+only the Lessor is not satisfied with the primary insurers), arranged
+through insurance brokers reasonably acceptable to the Lessor and on
+such terms and conditions and in such forms, as the Lessor may require
+for:
+
+ 13.2.1
+ ‘‘All
+Risks’’, including war and associated risks, hull insurance
+on the Aircraft (including all flight and ground risks and ingestion
+coverage) on an agreed value basis payable in USD in an amount not less
+than the Agreed Aircraft
+Value;
+
+ 13.2.2
+ ‘‘All
+Risks’’ (including War and Allied Risks except when on
+ground or in transit other than by air) insurance on the Engines while
+not installed on any airframe in an amount per Engine on an agreed
+value basis payable in USD of not less than the Agreed Engine Value;
+and
+
+ 13.2.3
+ third party legal liability,
+bodily injury and property damage, passenger, mail and cargo legal
+liability, including aviation war, high-jacking and other perils excess
+liability insurance in accordance wit Extended Coverage Endorsement
+(aviation liabilities) AVN 52E, for such combined single limit per any
+one occurrence as per the Required Liability
+Cover.
+
+ 13.3
+ Renewal
+
+All
+policies providing insurance required by this clause 13 shall be
+renewed (or a new policy or policies providing similar coverage
+therefor taken out) prior to the respective expiration dates of the
+coverage of such policies, and the Lessee shall furnish to the Lessor a
+facsimile message setting out the progress in and stage of the
+negotiations with the insurers for the renewal of the Insurances and
+the prospects of such renewal no later than seven (7) Business Days
+prior to each expiration date, and prior to such respective expiration
+dates, furnish evidence acceptable to the Lessor of such renewal or
+substitution in the form of certificates of insurance evidencing the
+insurances to be effected under the Lease.
+
+22
+
+Table of Contents
+
+ 13.4
+ No
+coverage
+
+If any damage or loss is caused to the
+Aircraft, and/or if the Aircraft is seized by any governmental or other
+authority (including in the State of Registration) (whether de facto or
+de jure) or by others, during the Lease Period, and all costs deriving
+therefrom are not covered by the insurers, the Lessee shall pay all
+such uncovered costs deriving from such damages directly to the Lessor
+within thirty (30) days after such costs have been
+incurred.
+
+ 13.5
+ Payee
+amounts
+
+All claims in respect of a Total Loss and all
+other claims in excess of the Deductible Amount shall be paid directly
+to the Lessor or the Lenders (as the case may be) and so long as no
+Event of Default shall have occurred and be continuing, claims not in
+excess of Deductible Amount shall be paid to the
+Lessee.
+
+ 13.6
+ General insurance
+requirements
+
+The policies evidencing the Insurances
+required under clause 13.2
+shall:
+
+ 13.6.1
+ provide that the cover
+afforded to the Owner, Lessor and Lenders by the Insurances shall not
+be invalidated by any act or omission (including misrepresentation and
+non-disclosure) of any other person or party which results in a breach
+of any term, condition or warranty of the
+policies;
+
+ 13.6.2
+ specifically refer to
+the Lease and shall provide that the insurers agree that the coverage
+under the policies is extended (to the extent of the risks covered by
+the policies) to insure the Aircraft in accordance with the terms of
+the Lease;
+
+ 13.6.3
+ provide for worldwide
+coverage (subject only to such exceptions as the Lessor may agree in
+writing);
+
+ 13.6.4
+ provide that the
+insurers agree to waive rights of recourse against the Owner, Lenders,
+Lessor and their respective officers, directors, employees and
+agents;
+
+ 13.6.5
+ provide that the Owner,
+Lenders and Lessor do not have any operational interest in the
+Aircraft;
+
+ 13.6.6
+ provide that the
+insurers shall waive any right of subrogation against the Owner,
+Lenders and Lessor;
+
+ 13.6.7
+ provide that
+none of the Owner, Lessor or Lenders shall be liable for any premiums
+in respect thereof, and that the insurers shall not exercise any right
+of set-off or counterclaim, except in respect of outstanding premiums
+in respect of the Aircraft, against the interests of any of the Owner,
+Lenders or Lessor;
+
+ 13.6.8
+ provide that
+the insurers or insurance brokers (as the case may be) shall promptly
+notify the Lessor in the event of cancellation or of any change
+whatsoever of a restrictive nature affecting the Insurances or of any
+act or omission or any event which might invalidate or render
+unenforceable the Insurances or in the event that any premium or
+instalment of premium shall not be paid when due and that the
+Insurances shall continue unaltered for the benefit of the Owner,
+Lessor and Lenders and their successors and assigns, directors,
+officers, agents and employees for at least thirty (30) days after date
+of issue by the insurers of written notice of such cancellation,
+change, event or non-payment of premium or an instalment thereof except
+in the case of war risks and allied perils for which seven (7)
+days’ notice (or such lesser period as may be customarily
+available) shall be given;
+
+ 13.6.9
+ be
+subject only to such deductibles as the Lessor shall reasonably
+approve;
+
+ 13.6.10
+ provide that no claim
+arising under a required policy shall be settled, without the prior
+written consent of the Lessor, unless it is for less than the
+Deductible Amount. The Lessee shall give the Lessor immediate notice in
+writing of any occurrence which may result in a claim which shall
+exceed the Deductible Amount.
+
+ 13.7
+ Hull
+insurance requirements
+
+The policies evidencing the
+Insurances required under clauses 13.2.1 and 13.2.2
+shall:
+
+23
+
+Table of Contents
+
+ 13.7.1
+ include
+the Owner, Lessor and Lenders as named assured for their respective
+rights and interests;
+
+ 13.7.2
+ provide
+that the insurances provided hereunder shall be primary and without
+right of contribution from any other insurance which may be available
+to the Owner, Lenders or
+Lessor;
+
+ 13.7.3
+ include, in the event of
+separate insurances being arranged to cover the ‘‘All
+Risks’’ hull insurance and the ‘‘War
+Risk’’ and related insurance, a 50/50% provision as
+set forth in Lloyds Aviation Form AVS 103;
+and
+
+ 13.7.4
+ include a loss payable
+clause acceptable to the
+Lessor.
+
+ 13.8
+ Liability insurance
+requirements
+
+The policies evidencing the insurances
+required under clause 13.2.3
+shall:
+
+ 13.8.1
+ include the Owner,
+Lenders, Lessor and their respective officers, directors, employees,
+agents, successors and assigns as additional assureds for their
+respective rights and
+interests;
+
+ 13.8.2
+ insure the indemnity
+provisions of the Lease to the extent of the risks being
+insurable;
+
+ 13.8.3
+ provide that all the
+provisions thereof, except the limits of liability, shall operate to
+give each assured the same protection as if there were a separate
+policy covering each named
+assured;
+
+ 13.8.4
+ be primary and without
+right of contribution from other insurance which may be available to
+the Owner, Lenders or Lessor or their respective officers, directors,
+employees, agents, successors and assigns;
+and
+
+ 13.8.5
+ be for a minimum amount
+equal to the Required Liability Cover as a combined single limit on any
+one occurrence or such higher amount as the Lessor may reasonably
+require in order for such amount to reflect the best industry practise
+for airlines and aircraft operates comparable to the
+Lessee.
+
+ 13.9
+ No suspension or
+impairment
+
+The Lessee covenants, warrants and represents
+that it and the Permitted Sub-Lessee shall not do any act whereby any
+Insurances shall or may be suspended, impaired or defeated, and it
+shall take all reasonable actions necessary to restore any of the
+Insurances which have been suspended, impaired or defeated, and that
+the Lessee and the Permitted Sub-Lessee shall not in any circumstances
+suffer or permit the Aircraft to be used or operated at any time during
+the Lease Period without all of the Insurances being fully in effect.
+In the event that the Lessee or Permitted Sub-Lessee should for any
+reason fail to renew any policy or contract constituting the Insurances
+prior to the expiration thereof or fail to keep any such policy or
+contract in full force and effect, the Lessor shall have the option (if
+possible), but shall not be required or obliged, to pay the premiums on
+such policy or contract or to take out new insurance in and for an
+amount, type, coverage and on terms satisfactory to the Lessor,
+provided, however, that the exercise by the Lessor of such option shall
+not in any way affect the provisions of the Lease. The obtaining of
+such insurance or payment of such premium in any instance shall not
+oblige the Lessor to continue to do so and any such payment shall be
+reimbursed by the Lessee to the Lessor forthwith on demand. The Lessee
+shall not and shall not permit the Permitted Sub-Lessee to, without the
+prior written consent of the Lessor, take out insurances or provide for
+the Lessee, the Permitted Sub-Lessee, the Owner, the Lessor or the
+Lenders to be named assured in insurances effected by the Lessee or the
+Permitted Sub-Lessee with respect to the Aircraft, other than as
+required under the Lease, where such insurances shall or may prejudice
+the Insurances or the Owner's, Lessor’s or Lenders'
+recovery thereunder.
+
+24
+
+Table of Contents
+
+ 13.10
+ Assignment
+of insurances
+
+On the Lessor’s request, the Lessee
+shall, and shall provide for the Permitted Sub-Lessee to, assign to and
+in favour of the Lessor (and the Owner and Lenders if so requested by
+the Lessor) by way of security for the Lessee’s obligations
+under the Lease, all rights, title and interest, present and future, of
+the Lessee and Permitted Sub-Lessee in and to the Insurances from time
+to time effected and all benefits thereof (including claims and return
+of premiums). The Lessee undertakes (i) to give notice or to procure
+that notice of such assignment is given to all insurers and to procure
+the acknowledgement and agreement of the insurers thereto and (ii) to
+provide copies of such notices to the
+Lessor.
+
+ 13.11
+ Application of insurance
+proceeds
+
+Any insurance proceeds received in respect of
+the Aircraft, other than in respect of a Total Loss, shall promptly be
+applied firstly in or towards the cost of reinstating or repairing the
+Aircraft so that the same is in as good an operating condition as it
+would have been had such loss not occurred and had the Aircraft been
+maintained in the condition required by the Lease and if the Aircraft
+shall have been so reinstated or repaired the balance of such proceeds
+remaining shall be paid over to or retained by the Lessee, provided
+that if there shall be an Event of Default that has not been remedied,
+the balance of such insurance proceeds may be applied first in or
+towards payment of any sum then owed by the Lessee to the Lessor under
+the Lease. All insurance proceeds received on account of a claim under
+the Insurances referred to in clause 13.2.3 shall be applied in
+discharge of, or in reimbursement of a payment made in discharge of,
+the liability to which such claim
+relates.
+
+ 13.12
+ Covenants:
+
+The
+Lessee shall:
+
+ 13.12.1
+ upon effecting or
+renewing any of the Insurances and in addition from time to time upon
+receipt of a request from the Lessor to deliver to the Lessor an
+insurance certificate demonstrating compliance with this clause
+13;
+
+ 13.12.2
+ furnish to the Lessor on
+request certified copies of the relevant parts of all documents
+constituting, evidencing or regulating the terms of the Insurances or
+any of them;
+
+ 13.12.3
+ furnish to the
+Lessor forthwith upon the making of arrangements for the same, full
+details of any material modification to any of the Insurances adverse
+to the interests of the Lessor so far as it affects the Aircraft and
+the coverage afforded to parties assured
+thereunder;
+
+ 13.12.4
+ furnish to the
+Lessor, on request, evidence that each sum payable under or in
+connection with any of the Insurances has been
+paid;
+
+ 13.12.5
+ furnish to the Lessor, on
+request, all reports and data concerning claims made under the
+Insurances relating to the subject matter of the
+Lease;
+
+ 13.12.6
+ bear any part of any
+loss or liability which is to be borne by the insureds under any of the
+Insurances and keep the Owner, Lenders and Lessor and each of their
+respective officers, directors, employees, agents, successors and
+assigns at all times indemnified against any claims, costs, proceedings
+or expenses whatsoever in connection with any of the Insurances;
+and
+
+ 13.12.7
+ cause each of the brokers
+or insurers (as applicable) through or with whom any of the Insurances
+were effected to issue to the Owner, Lenders and the Lessor an
+undertaking with regard to the Insurances with which it or they is or
+are concerned in a form acceptable to the Lessor and to supply
+certified copies of all documents constituting, evidencing or
+regulating the terms of the same to the Lessor on
+request.
+
+ 13.13
+ Negative
+undertakings
+
+In connection with the Insurances, the
+Lessee shall not and shall procure that the Permitted Sub-Lessee shall
+not without the prior written consent of the
+Lessor:
+
+ 13.13.1
+ make any material
+modification to any of the Insurances (on renewal or otherwise) adverse
+to the interests of the Owner, Lenders or Lessor;
+
+25
+
+Table of Contents
+
+ 13.13.2
+ in case
+of hostilities in any part of the world (whether war be declared or
+not) cause or permit the Aircraft to be in any zone declared by the
+insurers of the Aircraft in respect of any relevant risk to be a war
+zone unless the cover provided by Insurances is in full force and
+effect and any additional premiums required by the insurers have been
+paid;
+
+ 13.13.3
+ operate the Aircraft at
+any time when, or in any place where, it is not insured in compliance
+with the provisions of this clause 13 or cause or permit the Aircraft
+to be employed in any place or in any manner or for any purpose
+inconsistent with the terms of, or outside the cover provided by, any
+of the Insurances; and
+
+ 13.13.4
+ settle,
+compromise or abandon any claim under any of the Insurances other than
+a claim involving an amount not exceeding the Deductible
+Amount.
+
+ 13.14
+ Reinsurance
+
+If
+the Lessor shall require reinsurance to be effected by the primary
+insurers of the Aircraft in the circumstances contemplated by clause
+13.2, such reinsurances shall, without prejudice to the right of the
+Lessor, approve the form and terms and conditions
+thereof:
+
+ 13.14.1
+ if in accordance with
+best industry practise, contain a
+‘‘cut-through’’ clause in terms satisfactory to
+the Lessor; and
+
+ 13.14.2
+ provide for
+payment to be made
+notwithstanding:
+
+ 13.14.2.1
+ any
+bankruptcy, insolvency, liquidation or dissolution of any of the
+primary insurers; and/or
+
+ 13.14.2.2
+ that
+the primary insurers have made no payment under the primary insurance
+policies.
+
+ 13.15
+ AVN 67B
+application
+
+Subject to the second paragraph of this
+clause 13.15, the Lessor and the Lessee acknowledge that the
+endorsements required by this clause 13 generally conform to the
+endorsement known as AVN67B. The Lessor hereby agrees that if and to
+the extent AVN67B remains a generally accepted form of endorsement in
+the international aircraft finance industry, the AVN67B form of
+endorsement shall be deemed to satisfy the corresponding provisions of
+this clause 13 and, to the extent any provision of this clause 13 is
+inconsistent with the AVN67B endorsement, such inconsistent provision
+shall be deemed amended to conform to the corresponding requirements of
+AVN67B. If and to the extent that changes in AVN67B (or any amendment
+or successor to AVN67B) become generally available in the international
+insurance market on commercially reasonably terms during the Lease
+Period, the Lessee agrees to cause its insurers to incorporate such
+changes in its policies as may be reasonably requested by the Lessor;
+provided, however, no such change shall adversely affect the rights and
+obligations of the Lessee, Owner, Lenders or Lessor hereunder.
+
+If AVN67B is applied, the parties agree that such shall be
+amended in order to provide the Lessor with such cover as had the
+Lessor not itself operated and maintained the Aircraft, including,
+without limitation, by omitting
+‘‘repairer’’ in clause 2.3 and omitting
+clause 3.3 in its entirety, in each case from the standard AVN67B form
+(in its current form).
+
+ 14
+ REQUISITION AND
+DEPRIVATION OF
+POSSESSION
+
+ 14.1
+ Requisition of hire or
+use
+
+If the Aircraft is requisitioned for hire or use by
+or under authority of any governmental or other authority (including in
+the State of Registration) occurs the Lessee shall, as soon as may be
+reasonably practicable after the end of the period for which it is so
+requisitioned for hire or use or, as the case may be, after recovery of
+possession of the Aircraft, cause it to be in all respects put into the
+condition required by the Lease, save when the Lessee or its insurers
+has paid an amount equivalent to the Agreed Aircraft Value to the
+Lessor in accordance with clause 15.1.
+
+ 14.2
+ Requisition proceeds, requisition for
+hire
+
+Subject to no Event of Default having occurred and
+is continuing, the Lessee shall be entitled to receive and retain all
+Requisition Proceeds in respect of a requisition for hire provided
+that,
+
+26
+
+Table of Contents
+
+notwithstanding the foregoing, if for any
+reason the Lessor receives any such Requisition Proceeds the Lessor
+shall be entitled to apply the same to meet any payments due and
+payable by the Lessee hereunder before accounting to the Lessee for the
+balance of such Requisition
+Proceeds.
+
+ 14.3
+ Requisition proceeds,
+requisition for title
+
+The Lessee shall take all steps
+necessary to ensure that Requisition Proceeds arising on a requisition
+of title shall be paid to the Lessor or as it may direct. All
+Requisition Proceeds so received by the Lessor or its nominee shall be
+applied by the Lessor in satisfaction pro tanto of the Lessee’s
+obligations hereunder and any surplus then held by the Lessor shall be
+paid to or for the account of the Lessee provided no Event of Default
+shall have occurred and be
+continuing.
+
+ 15
+ TOTAL
+LOSS
+
+ 15.1
+ Occurrence of Total
+Loss
+
+If a Total Loss occurs after the Delivery Date,
+Lessee shall pay the Agreed Aircraft Value to the Lessor or the Lenders
+(as the case may be) on or prior to the earlier of (i) 30 days after
+the date of occurrence of the Total Loss and (ii) the date of receipt
+of insurance proceeds in respect of that Total
+Loss.
+
+ 15.2
+ Transfer of title following
+Total Loss
+
+Subject to the rights of any insurers and
+reinsurers or other third party, upon irrevocable payment in full to
+the Lessor of the Agreed Aircraft Value and all other amounts which may
+be or become payable to the Lessor under the Lease, the Lessor shall,
+or shall procure that the Owner shall, without recourse or warranty
+(except as to freedom from Permitted Liens as set forth in paragraph
+(d) of the definition thereof in clause 1.1) transfer to the Lessee or
+shall procure that the Owner transfers to the Lessee all of the
+Owner’s rights to the Aircraft, on an as-is where-is basis, and
+shall at the Lessee's expense, execute and deliver or shall
+procure that the Owner executes and delivers such bills of sale and
+other documents and instruments as the Lessee may reasonably request to
+evidence (on the public record or otherwise) such transfer, free and
+clear of all rights of the Lessor, Owner and Lenders. Lessee shall
+indemnify Lessor and Owner for all fees, expenses and Taxes incurred by
+Lessor or Owner in connection with any such
+transfer.
+
+ 15.3
+ Total loss not involving
+airframe
+
+Upon the occurrence of an event similar to such
+set forth in the definition of Total Loss in clause 1.1 in relation
+to;
+
+ (i)
+ any Engine not installed on
+the Airframe or
+
+ (ii)
+ an Engine
+installed on the Airframe not involving a Total Loss of the Airframe
+or
+
+ (iii)
+ any Component not installed
+or not involving the Total Loss of the Airframe,
+
+the
+Lessee shall give the Lessor prompt written notice thereof and the
+Lessee shall pay for the replacement of such Engine or Component as
+soon as reasonably possible in accordance with clause
+8.5.2.
+
+ 16
+ REDELIVERY OF THE
+AIRCRAFT
+
+ 16.1
+ Redelivery
+
+At
+the expiry or earlier termination of the Lease Period, the Aircraft
+shall be redelivered to the Lessor at the Redelivery Location or such
+other location as may be agreed between the Lessor and the Lessee,
+comply with the Redelivery Condition Requirements, have no open or
+deferred items, comply with all other terms and conditions of the Lease
+and have all Aircraft Documents duly maintained in the English
+language.
+
+27
+
+Table of Contents
+
+Upon redelivery of the Aircraft,
+the Lessee shall provide to the Lessor all reasonable assistance, and
+shall execute and deliver to the Lessor all documents which the Lessor
+may reasonably require in order to enable the Lessor to export the
+Aircraft from the State of Registration and register the Aircraft on
+the register of the country to which the Aircraft is to be exported and
+otherwise to satisfy the requirements of the relevant civil aviation
+authority.
+
+ 16.2
+ Pre-redelivery
+procedure
+
+After completion of the Redelivery Check the
+Aircraft may be flown only in connection with redelivery/acceptance
+flights and necessary ferry flights to and from the workshop performing
+the Redelivery Check. Save for the Lessor’s payment of the
+C-Check Costs, the remaining costs of such Redelivery Check and of all
+other work necessary to get the Aircraft into the condition required by
+the Lease at the time of redelivery to the Lessor, ordinary wear and
+tear excepted, shall be borne by the Lessee. All such work shall take
+place prior to redelivery. During the Redelivery Check, the Lessee
+shall, at its own expense, make the Aircraft and all records relating
+to the Aircraft available to the Lessor for inspection in order to
+verify that the condition of the Aircraft complies with the provisions
+of the Lease. The period allowed for the inspection shall be of
+sufficient duration so as to permit the Lessor
+to:
+
+ (1)
+ inspect the structure, Engines,
+Components, equipment and accessories of the
+Aircraft;
+
+ (2)
+ inspect the Engines after the
+performance of the Test Flight Procedure, including (i) a complete
+video borescope inspection of (x) the low pressure and high pressure
+compressors and (y) turbine area, including combusters and (ii) engine
+condition runs including full take-off power engine run-up undertaken
+in accordance with the performance test in the Manufacturer’s
+maintenance manual (with the Engines not exceeding corrected limits for
+all parameters using temperature corrected charts and power assurance
+runs);
+
+ (3)
+ effect a complete video boroscope
+inspection of the APU; and
+
+ (4)
+ inspect the
+Aircraft Documents and all records relating to the
+Aircraft.
+
+Furthermore, Lessee acknowledges that the next
+operator of the Aircraft will need to inspect the Aircraft, the Engines
+and the Aircraft Documents prior to redelivery and Lessee hereby agrees
+to cooperate with Lessor and/or such next operator in order to
+coordinate and grant access for inspections and/or meetings as
+necessary (with the inspections being timed wherever practicable, to
+minimise disruption to the scheduled maintenance and operation of the
+Aircraft). In this connection, the Lessor shall use employees,
+subcontractors or agents of Lessor or an affiliate of Lessor (a
+‘‘Lessor Inspector’’) to carry out an
+initial visit and inspection for the purpose of gathering and copying
+information normally requested by inspectors and providing such to
+prospective next operators, so as to minimise the demands on
+Lessee/Permitted Sub-Lessee time. If it is necessary for an inspector
+of any prospective next operator to visit and inspect the Aircraft such
+inspector shall be accompanied by a Lessor Inspector who shall assist
+Lessee’s/Permitted Sub-Lessee's personnel during such an
+inspection visit. Lessee shall be entitled to obscure commercially
+sensitive confidential
+information.
+
+ 16.3
+ Redelivery
+flight
+
+The Lessee shall perform a redelivery flight for
+the Lessor of up to 90 minutes airborne time at the Lessee’s
+expense during which the Test Flight Procedure shall be performed. If
+agreed by the Lessor, the redelivery flight may be conducted en-route.
+The Lessor shall be allowed two of its qualified representatives on
+board the Aircraft during such redelivery
+flight.
+
+ 16.4
+ Non-compliance
+
+To
+the extent that, upon the inspection set out in clause 16.2 and the
+redelivery flight set out in clause 16.3, the condition of the Aircraft
+and Aircraft Documents does not comply with the provisions hereof
+rectification will need to be carried out as soon as possible. The
+Lessor may, in its discretion and at the expense of the Lessee, choose
+to carry out any such rectification itself. In the event that such
+rectification extends beyond the end of the Lease Period and provided
+
+28
+
+Table of Contents
+
+that, unless and until such rectification is
+effected, the Lessor would not be able to immediately put the Aircraft
+into commercial operation in the required redelivery configuration, the
+Lease Period shall, at the option of the Lessor, be extended and the
+provisions of the Lease shall remain in force until such rectification
+has been completed; provided however, that the Lessor shall have the
+right, after the end of the Lease Period, to take possession of the
+Aircraft and demand compensation for direct and documented costs
+incurred by the Lessor in connection with such repossession and in
+connection with putting the Aircraft and Aircraft Documents in the
+condition required by the
+Lease.
+
+ 16.5
+ Redelivery
+certificate
+
+Upon redelivery and provided that neither
+the inspection carried out pursuant to clause 16.2, nor the redelivery
+flight referred to in clause 16.3 has revealed that the condition of
+the Aircraft does not comply with the provisions of the Lease to the
+extent that upon redelivery the Lessor would not be able immediately to
+put the Aircraft into commercial operation, the Lessor shall sign a
+Redelivery Certificate. In a schedule to the Redelivery Certificate,
+the Lessee and the Lessor shall list any defect not caused by the gross
+negligence of the Lessor which is to be rectified after the redelivery
+flight, the cost of which shall be for the account of the Lessee. Both
+parties shall evidence their agreement thereto by signing such
+schedule. After completion of the redelivery flight, the cost of any
+fuel remaining onboard the Aircraft, in excess of the fuel onboard the
+Aircraft on the Delivery Date, shall be reimbursed to the Lessee by the
+Lessor and any amount of fuel less than the amount onboard the Aircraft
+on the Delivery Date shall be reimbursed by the Lessee to the
+Lessor.
+
+ 16.6
+ Disputes regarding
+aircraft condition
+
+In the event of any dispute between
+the Lessor and the Lessee as to the condition on redelivery of any
+Engine, the parties hereto agree to refer such dispute to an
+independent engineer nominated by the relevant Manufacturer (who shall
+act as an expert and not as an arbitrator) and whose findings shall be
+conclusive and binding on the parties hereto. The costs and expenses of
+such independent engineer shall be borne by the unsuccessful party to
+such
+dispute.
+
+ 16.7
+ Modifications
+
+The
+Lessee may in accordance with clause 8.5.6, prior to redelivery, remove
+any alterations, modifications or additions to the Aircraft (other than
+those which may be required for the Aircraft to meet the Redelivery
+Condition Requirements), at the Lessee’s expense and down time,
+provided that, if the Lessor wishes to retain any such alterations,
+modifications or additions, the Lessor and the Lessee shall negotiate
+in order to agree a reasonable price to be paid by the Lessor to the
+Lessee upon redelivery in respect
+thereof.
+
+ 17
+ INDEMNITIES
+
+ 17.1
+ Loss
+or damage to aircraft
+
+The Lessee hereby undertakes to
+indemnify and hold the Owner, Lenders and Lessor harmless from and
+against any and all loss of or damage to the Aircraft during the Lease
+Period and agrees, irrespective of the reason for such loss or damage,
+except where payment is made by the insurers, to pay to the Lessor any
+amount necessary to reinstate, repair or replace as soon as practicable
+the relevant part(s) of the Aircraft so that the same is in as good an
+operating condition as it was on the Delivery Date (assuming that the
+same complied with the requirements of the Lease) and the terms and
+conditions of the Lease shall remain in full force and effect. The
+indemnification obligation on the Lessee in this clause 17.1 shall not
+apply to loss of or damage to the Aircraft that are attributable to the
+gross negligence or wilful misconduct of the Owner, Lenders or
+Lessor.
+
+ 17.2
+ Losses deriving from the
+Lease
+
+The Lessee hereby undertakes to indemnify and hold
+harmless the Owner, Lessor and Lenders and their respective successors,
+assigns and shareholders, officers, agents and employees (each
+
+29
+
+Table of Contents
+
+an ‘‘lndemnitee’’
+and collectively the ‘‘lndemnitees’’) from and
+against any and all claims, actions, damages, losses, costs, charges,
+expenses, or payments caused by or arising out of or related, in whole
+or in part, directly or indirectly to the operation, maintenance,
+condition, possession, registration, import, control, modification,
+replacement, delivery, re-delivery, or sale or use of the Aircraft
+under the Lease, the Sub-Lease Agreement, the Security Documents and
+any other relevant documents at any time from the Delivery Date up to
+re-delivery of the Aircraft and agrees to defend or, with the prior
+written consent of the Lessor, to settle, any action or proceeding in
+respect of any such claim. The Lessor agrees that it shall, at the
+Lessee’s expense, provide all assistance reasonably requested by
+the Lessee in defending any such action or proceeding. If the Lessee
+fails so to defend or settle any such action or proceeding, the Lessee
+hereby undertakes to indemnify and hold harmless the Indemnitees from
+and against all costs, legal fees, expenses and liabilities occurred in
+and in relation to such claims, the investigation thereof and the
+defence of any such action or proceeding. The indemnification
+obligation on the Lessee in this clause 17.2 shall not apply to claims,
+actions, damages, losses, costs, charges, expenses or payments
+hereunder against an Indemnitee if such are attributable to the gross
+negligence or wilful misconduct of such
+Indemnitee.
+
+ 17.3
+ Losses deriving from
+default
+
+The Lessee hereby undertakes to indemnify and
+hold harmless the Lessor from and against all costs, losses and
+expenses, including reasonable legal fees, incurred by it in connection
+with (i) the occurrence of any Event of Default, (ii) delivery
+and acceptance of the Aircraft not taking place on the Scheduled
+Delivery Date by reason of the non-fulfilment of any of the conditions
+precedent applicable to the Lessee, (iii) any action brought by the
+Lessor to recover any amount due and unpaid hereunder or to recover
+possession of the Aircraft, whether such action progresses to judgement
+or not or (iv) preventing or attempting to prevent the arrest,
+confiscation, seizure, impounding, forfeiture or detention of the
+Aircraft or securing the release of the
+same.
+
+ 17.4
+ Continued insurance
+coverage
+
+With respect to the Lessee’s liability
+under the indemnity set out in clause 17.2, the Lessee shall ensure
+that the Indemnitees are covered by the Lessee’s or Permitted
+Sub-Lessee’s general liability insurance after the expiry or
+earlier termination of the Lease Period or, if the Lessee ceases to
+operate aircraft, to effect and maintain insurance with respect to such
+liability in any event for such period as the Lessor may reasonably
+request (but not exceeding more than 2 years or the next Airframe
+Structural Check which is due, whichever comes first), which provides
+for each Indemnitee to be named as additional insured. The
+Lessee’s obligation in this clause 17.4 shall not be affected by
+the Lessee ceasing to be lessee of the Aircraft and/or any of the
+Indemnitees ceasing to have any interest in respect of the
+Aircraft.
+
+ 17.5
+ Indemnity
+survival
+
+The indemnity given in this clause 17 shall
+survive the termination of the Lease Period with respect to any claims
+or cause of action arising out of any event occurring on or prior to
+redelivery of the Aircraft irrespective of whether such claim is raised
+during such period or
+thereafter.
+
+ 18
+ DEFAULT
+
+ 18.1
+ Events
+of Default
+
+Each of the following events shall constitute
+an Event of Default:
+
+ 18.1.1
+ the Lessee
+fails to pay any sum due and payable by it under the Lease or any
+Security Document on the due date thereof and such failure has not been
+remedied with *** from receipt of notice of such payment failure, or,
+in the case of sums payable on demand, within *** of
+demand;
+
+ 18.1.2
+ any default by the
+Lessee or the Permitted Sub-Lessee under the Security
+Documents;
+
+ 18.1.3
+ any default by the
+Lessee under the Sub-Lease Agreement, except if remedied within any
+applicable grace periods;
+
+30
+
+Table of Contents
+
+ 18.1.4
+ if
+applicable, the Lessee fails to ensure that the Deposit is, at all
+times during the entire Lease Period, in an amount as referred to in
+the definition of ‘‘Deposit’’
+notwithstanding that the Lessor may have applied the Deposit, or part
+thereof, in making good any amount or amounts owed by the Lessee under
+the Lease in accordance with clause
+6.2.1;
+
+ 18.1.5
+ if applicable, the Lessee
+fails to ensure that the Letter of Credit provides, at all times during
+the entire Lease Period, the Lessor with full security in the amount
+referred to in the definition of ‘‘Letter of
+Credit’’ notwithstanding that the Lessor has drawn
+against the Letter of Credit in making good any amount or amounts owed
+by the Lessee under the Lease in accordance with clause 6.2.2;
+
+ 18.1.6
+ the Lessee or the Permitted
+Sub-Lessee fails to obtain or maintain the Insurances for any reason or
+if any insurer in respect of the Insurances cancels the Insurances or
+disclaims liability for any
+reason;
+
+ 18.1.7
+ the Lessee or the
+Permitted Sub-Lessee sub-leases or otherwise parts with possession of
+the Aircraft (save as expressly authorised hereunder) without the prior
+written consent of the
+Lessor;
+
+ 18.1.8
+ any representation,
+warranty or statement made or deemed to be made by or on behalf of the
+Lessee herein or otherwise in connection with the Lease or the Security
+Documents or in any certificate, statement, notice, opinion or other
+document given, made or furnished to the Lessor pursuant to or in
+connection herewith proves to be untrue or incorrect (as at the date
+when, or when deemed to have been, given, made, furnished or entered
+into) in any material respect or any condition, event or circumstance
+shall occur or exist as a result of which if any of such
+representations, warranties or statements had been repeated immediately
+thereafter by reference to the facts and circumstances existing at the
+time of such repetition, such representation, warranty or statement
+would not be true and correct in any material respect, provided,
+however, that if such event has not been caused by the Lessee’s
+gross negligence or wilful misconduct then the Lessee shall be
+permitted fifteen (15) days (from receipt of a written or facsimiled
+advice of such breach from the Lessor) to correct such
+event;
+
+ 18.1.9
+ if any consent, approval,
+order, authorisation, registration or filing required to authorise, or
+required in connection with, the execution, legality, validity,
+enforceability or admissibility in evidence of the Lease, the Sub-Lease
+Agreement or the Security Documents, or the performance by the Lessee
+or the Permitted Sub-Lessee of any of their respective obligations
+hereunder or thereunder is modified in a manner materially prejudicial
+to the Owner, Lessor or Lenders or is not granted or is revoked,
+withdrawn or terminated or expires and is not renewed or otherwise
+ceases to be in full force and
+effect;
+
+ 18.1.10
+ if the Lessee shall
+repudiate the Lease or any of the Security Documents or do or cause or
+permit to be done any act or thing evidencing an intention to repudiate
+any of those;
+
+ 18.1.11
+ if an event of
+default or termination event, howsoever described, occurs under the
+Other Leases or under any other material agreement between (i) the
+Lessee or any of its Subsidiaries and (ii) the Lessor or any of
+its Subsidiaries or any company of which the Lessor is a Subsidiary, in
+each case, except if remedied within any applicable grace periods or,
+if no such grace period, 5 Business Days after receipt of notice
+by the Lessee from the
+Lessor;
+
+ 18.1.12
+ any Indebtedness of the
+Lessee in excess of USD *** becomes due or is declared due prior to the
+date it would otherwise have become due and is not paid on the due date
+and has not been remedied within 10 Business
+Days;
+
+ 18.1.13
+ if an event of default
+(or equivalent) is duly declared by the relevant lessor under any other
+aircraft lease agreements, entered into by the Lessee which has not
+been remedied within 10 Business
+Days;
+
+ 18.1.14
+ a creditor attaches or
+takes possession of, or a distress, execution, sequestration or other
+process is levied or enforced upon, or issued against, a material
+portion of the assets of the Lessee;
+
+31
+
+Table of Contents
+
+ 18.1.15
+ the
+Lessee suspends, or threatens to suspend, payment of its debts or is
+unable, or is deemed by an appropriate authority or in accordance with
+applicable law to be unable, to pay its debts or admits in writing its
+inability to pay its debts as they fall due or a general moratorium is
+imposed on the payment of any debts of the Lessee or the Lessee or
+enters into negotiations with one or more of its creditors with a view
+to the general readjustment or rescheduling of any of its debts or
+proposes or enters into any composition or other arrangement for the
+benefit of its creditors generally or any class of creditors or
+proceedings with respect to the Lessee are commenced under applicable
+law relating to reconstruction or readjustment of
+debts;
+
+ 18.1.16
+ the Lessee takes any
+action or any legal proceedings are commenced and are not discharged,
+dismissed or stayed within fifteen (15) days or other steps taken for
+(i) the Lessee to be adjudicated or found bankrupt or insolvent, (ii)
+the winding-up or dissolution of the or (iii) the appointment of a
+liquidator, trustee, receiver, administrator, administrative receiver
+or similar officer of the Lessee or the whole or any part of its
+assets; or
+
+ 18.1.17
+ to the extent not
+due to the act or omission of the Owner or Lessor, the Aircraft is
+arrested, confiscated, seized, taken in execution, impounded,
+forfeited, detained in exercise or purported exercise of any possessory
+lien or other claim, or otherwise taken from the possession of the
+Lessee or the Sub-Lessee, and the Lessee fails to procure the release
+of the Aircraft as soon as possible and in no event later than within
+five (5) Business Days;
+
+ 18.1.18
+ the
+Lessee defaults in the due performance or observance of any of its
+covenants, undertakings or obligations under the Lease and the Security
+Documents (save for such covenants, undertakings or obligations where
+non-compliance constitutes an Event of Default pursuant to the
+foregoing provisions of this clause 18.1) and, if such default is
+capable of remedy, the Lessee fails to remedy such default to the
+satisfaction of the Lessor within a period of fifteen (15) Business
+Days after receipt by the Lessee of notice from the Lessor requiring
+the same to be remedied;
+and
+
+ 18.1.19
+ ***
+
+ 18.2
+ Following
+an Event of Default
+
+At any time after the occurrence of
+an Event of Default the Lessor may, with or without notice to the
+Lessee:
+
+ 18.2.1
+ for the Lessee’s
+account, do anything which may reasonably be required to remedy such
+Event of Default and recover from the Lessee all costs and expenses
+incurred in so doing;
+
+ 18.2.2
+ enforce
+its rights under the Security
+Documents;
+
+ 18.2.3
+ proceed by
+appropriate court action to seek an order for immediate and final
+repossession of the Aircraft and to export the Aircraft or an order to
+otherwise enforce performance by the Lessee of the applicable covenants
+and provisions of the Lease or to recover damages for the breach
+thereof;
+
+ 18.2.4
+ treat the occurrence of
+the Event of Default as a repudiation by the Lessee of the Lease and
+immediately terminate the Lease Period whereupon the same shall be
+deemed automatically and immediately terminated
+by
+
+ 18.2.4.1
+ the retaking of possession
+of the Aircraft and the Lessee agrees that the Lessor or its
+representatives or agents may for this purpose enter upon any premises
+belonging to or in the occupation or under the control of the Lessee
+where the Aircraft may be located or cause the same to be redelivered
+to the Lessor at such location as the Lessor may require and the Lessor
+shall be entitled to act as attorney for the Lessee in causing such
+redelivery or in directing pilots to fly the Aircraft to the required
+location for redelivery thereof to the Lessor and shall have all the
+powers and authorisation legally necessary for taking such action. In
+the event of exercise by the Lessor of its powers under this clause
+18.2.4.1 such termination shall be deemed to take effect on the taking
+of possession by the Lessor at the required location;
+or
+
+ 18.2.4.2
+ serving notice of such
+termination on the Lessee specifying the occurrence which is giving
+rise to such Event of Default.
+
+32
+
+Table of Contents
+
+ 18.3
+ After
+termination due to Event of Default
+
+Following
+termination of the Lease Period, the Lessee shall redeliver possession
+of the Aircraft to the Lessor at such location as the Lessor may
+require and otherwise in accordance with the requirements of clause 16.
+Upon such termination, all rights of the Lessee hereunder shall
+henceforth absolutely cease and terminate but without prejudice to the
+Lessee’s obligations under the Lease all of which shall continue
+in full force and effect and the Owner and/or Lessor shall be entitled
+to sell or otherwise deal with the Aircraft as if the Lease had never
+been made.
+
+ 18.4
+ Cumulative
+rights
+
+No remedy referred to in this clause 18 is
+exclusive, but each remedy shall be cumulative and in addition to any
+other remedy referred to herein or otherwise available to the Lessor.
+The exercise or partial exercise by the Lessor of any of its remedies
+hereunder shall not preclude any other or further exercise thereof or
+the exercise by the Lessor of any one or more of such other remedies.
+No failure or delay of the Lessor in exercising any right hereunder
+shall operate as waiver thereof or of any one or more of such other
+remedies.
+
+ 18.5
+ Claim following Event of
+Default
+
+***
+
+ 19
+ REPRESENTATIONS
+AND WARRANTIES
+
+ 19.1
+ Lessee
+representations
+
+Lessee makes the representations and
+warranties set out in below. Lessee understands that these statements
+must be true, both when the Lease is signed and on the Delivery
+Date.
+
+ 19.1.1
+ Status: It
+has been properly formed as a company with limited liability and has
+since been maintained according to all laws and regulations applicable
+to the
+Lessee.
+
+ 19.1.2
+ Non-Conflict: In
+entering into the Lease and carrying out its obligations, it does not
+contravene or breach any law or regulation applicable to
+Lessee.
+
+ 19.1.3
+ Power and
+Authority: It has the authorisations it needs to enter into
+the Lease and to carry out its obligations, and it has the power to
+enter into the Lease, the Sub-Lease Agreement and the Security
+Documents.
+
+ 19.1.4
+ Legal
+Validity: Its obligations under the Lease, the Sub-Lease
+Agreement and the Security Documents are legal, valid and
+binding.
+
+ 19.1.5
+ No Event of
+Default: No Event of Default has occurred and is continuing or
+would occur because of delivery of the Aircraft under the
+Lease.
+
+ 19.2
+ Lessor
+representations
+
+Lessor makes the representations and
+warranties set out in below. Lessor understands that these statements
+must be true, both when the Lease is signed and on the Delivery
+Date.
+
+ 19.2.1
+ Status: It
+has been properly formed as a company with limited liability and has
+since been maintained according to all laws and regulations applicable
+to the
+Lessor.
+
+ 19.2.2
+ Non-Conflict: In
+entering into the Lease and carrying out its obligations, it does not
+contravene or breach any law or regulation applicable to the
+Lessor.
+
+ 19.2.3
+ Power and
+Authority: It has the authorisations it needs to enter into
+the Lease and to carry out its
+obligations.
+
+ 19.2.4
+ Legal
+Validity: Its obligations under the Lease are legal, valid
+and binding.
+
+33
+
+Table of Contents
+
+ 20
+ COMPLETE
+AGREEMENT
+
+ 20.1
+ Complete
+agreement
+
+All prior negotiations between the Lessor and
+the Lessee are merged into the terms of the Lease, and the Lease
+supersedes all preceding correspondence, arrangements and stipulations
+between the parties concerning the subject matter hereof and can be
+amended only by written instrument signed by both
+parties.
+
+ 21
+ NOTICES
+
+ 21.1
+ Notices
+
+All
+notices, requests, demands or other communications to or upon the
+respective parties hereto shall be deemed to have been duly given or
+made:
+
+ (a)
+ if delivered by hand, at the time of
+delivery;
+
+ (b)
+ if given or made, by facsimile,
+when sent and addressed and upon receipt of identifying answer back as
+follows:
+
+ (i)
+ if to the Lessor
+to:
+
+Maersk Aircraft A/S
+ Copenhagen Airport
+South
+DK-2791 Dragoer
+
+Denmark
+
+Telefax
+no. +45 32 31 44 95
+Attention: The
+President
+
+ (ii)
+ if to the Lessee
+to:
+
+Sterling Airlines A/S
+Copenhagen
+AirportSouth
+DK-2791 Dragoer
+Denmark
+
+Telefax no.
++45 32 89 07 32
+Attention: The President
+
+or such
+other addresses as the Lessor or the Lessee may from time to time
+specify in writing to the other
+party.
+
+ 22
+ ASSIGNMENT
+
+ 22.1
+ Lessee
+no assignment
+
+The Lease shall be binding upon and inure
+to the benefit of each of the parties hereto and their respective
+successors and permitted assigns provided that the Lessee may not
+assign any of its rights or transfer or purport to transfer any of its
+obligations hereunder.
+
+ 22.2
+ Lessor
+assignment
+
+The Lessor shall be entitled to assign any of
+its rights and benefits in and over the Aircraft and under the Lease
+and the Security Documents as security.
+
+Furthermore, the
+Lessor shall be entitled to assign, without the Lessee’s
+consent, all its rights and obligations under this Lease and the
+Security Documents, provided that (i) the assignee shall be a
+internationally reputable company, (ii) no such assignment shall give
+rise to any obligation on the part of the Lessee to make any payment
+which it would not have been required to make had the Lessor not
+effected such assignment, (iii) such assignment shall be registered in
+all registries and agencies in the State of Registration as may be
+required by applicable law and (iv) the assignment shall not interfere
+with the quiet enjoyment of the Lessee.
+
+34
+
+Table of Contents
+
+ 23
+ APPLICABLE LAW AND
+JURISDICTION
+
+ 23.1
+ Governing
+law
+
+The Lease is governed by and shall be construed in
+accordance with the Governing
+Law.
+
+ 23.2
+ Jurisdiction
+
+For
+the benefit of the Lessor, the Lessee irrevocably agrees that any legal
+action or proceedings arising out of or in connection with the Lease
+against the Lessee or any of its assets may be brought before the
+Maritime and Commercial Court of Copenhagen (‘‘Sø-
+og Handelsretten i København’’), Denmark, which
+shall have jurisdiction to settle any disputes arising out of or in
+connection with the Lease and irrevocably and unconditionally submits
+to the jurisdiction of the Danish courts. The submission to such
+jurisdiction shall not (and shall not be construed so as to) limit the
+rights of the Lessor to take proceedings against the Lessee in the
+courts of any other competent jurisdiction, nor shall the taking of
+proceedings in any one or more jurisdictions preclude the taking of
+proceedings in any other jurisdiction, whether concurrently or not. The
+Lessee irrevocably waives any objection it may now or hereafter have to
+the laying of venue of any action or proceeding in any court and any
+claim it may now or hereafter have that any action or proceeding has
+been brought in an inconvenient forum. Each of the Lessor and the
+Lessee agrees that only the Maritime and Commercial Court of
+Copenhagen, Denmark and no other courts shall have jurisdiction to
+determine any claim which the Lessee may have against the Lessor
+arising out of or in any way connected with the Lease .
+
+ 23.3
+ No immunity
+
+The Lessee
+agrees that in any legal action or proceedings against it or its assets
+in connection with the Lease and/or the Security Documents no immunity
+from such legal action or proceedings (which shall include, without
+limitation, suit, attachment prior to judgment, other attachment, the
+obtaining of judgment, execution or other enforcement) shall be claimed
+by or on behalf of the Lessee or with respect to its assets,
+irrevocably waives any such right of immunity which it or its assets
+now have or may hereafter acquire or which may be attributed to it or
+its assets and consents generally in respect of any such legal action
+or proceedings to the giving of any relief or the issue of any process
+in connection with such action or proceedings including, without
+limitation, the making, enforcement or execution against any property
+whatsoever, (irrespective of its use or intended use) of any order or
+judgment which may be made or given in such action or
+proceedings.
+
+ 24
+ COSTS
+
+ 24.1
+ Costs
+
+The
+Lessor shall prepare lease agreement documentation and be responsible
+for its own review (including legal expenses). The Lessee shall be
+responsible for its review (including legal expenses) and shall pay all
+its expenses associated with the transaction and any costs which may
+result from registration, including registration of the Aircraft with
+the Aviation Authority, and other public transactions which may be
+advisable or necessary to complete from time to time to protect the
+ownership interests and the interests of the Owner, Lessor and Lenders
+in the Aircraft.
+
+ 25
+ TIME OF THE
+ESSENCE
+
+ 25.1
+ Time of the
+essence
+
+Time shall be of the essence in relation to the
+performance by the Lessee of all of its obligations hereunder, subject
+to any grace periods expressly agreed by the
+Lessor.
+
+35
+
+Table of Contents
+
+ 26
+ RIGHTS OF THIRD
+PARTIES
+
+ 26.1
+ No third party
+rights
+
+No term of the Lease is enforceable by a person
+who is not party to the Lease.
+
+ 27
+ EXECUTION
+PAGE
+
+IN WITNESS WHEREOF this Aircraft Lease Agreement
+has been duly executed by the duly authorised representatives of the
+parties hereto on the date first above
+written.
+
+ 27.1
+ Maersk Aircraft
+A/S
+
+ By:
+ /s/ Gert
+Weisenstein
+
+ Its:
+ Attorney-in-fact
+
+ Name:
+ Gert
+Weisenstein
+
+ 27.2
+ Sterling
+Airlines
+A/S
+
+ By:
+
+ /s/
+Richard O. Richardsson, as attorney-in-fact
+
+ /s/ Knud K.
+Pedersen
+
+ Its:
+
+ for
+Almar Orn Hilmarsson, its CEO
+
+ VP,
+COO
+
+ Name:
+
+ Richard
+O. Richardsson
+
+ Knud K.
+Pedersen
+
+36
+
+Table of Contents
+
+Annex A
+
+Form of Delivery
+Acceptance Certificate
+
+ September
+2005
+
+Maersk Aircraft A/S
+Copenhagen Airport
+South
+DK-2791 Dragoer
+Denmark
+
+This Acceptance
+Certificate is executed and delivered pursuant a specific aircraft
+lease agreement dated September 2005 between
+Maersk Aircraft A/S as lessor and Sterling Airlines A/S as lessee (the
+‘‘Agreement’’). Words and expressions
+defined in the Agreement shall, except where the context otherwise
+requires, have the same respective meanings when used in this
+Acceptance Certificate.
+
+The Lessee hereby irrevocably and
+unconditionally confirms and agrees
+that:-
+
+ (a)
+ on the date hereof at
+
+and at hours (local) the Aircraft more
+particularly described in schedule 1 hereto was delivered to and
+irrevocably and unconditionally accepted by the Lessee, the Lease
+Period has commenced and henceforward the Aircraft shall be subject to
+the terms and conditions of the
+Agreement;
+
+ (b)
+ subject to the defects
+referred to in schedule 2 (including the damage chart) and schedule 3
+hereto, the Aircraft complies fully with the requirements of the
+Agreement and is fully satisfactory to the
+Lessee;
+
+ (c)
+ the representations and
+warranties set forth in clause 19.1 of the Agreement are true, accurate
+and fully observed as if the same had been made and given on and as of
+the date hereof with respect to the facts and circumstances existing as
+at the date hereof;
+
+ (d)
+ no Event of
+Default has occurred and is continuing.
+
+37
+
+Table of Contents
+
+Schedule 1 to Annex A, description
+of Aircraft
+
+One (1) Boeing B737-700 aircraft and two (2)
+CFM56-7B22 aircraft engines:-
+
+ Airframe
+Serial No.
+
+ Engine Serial
+Nos.
+
+ 28010
+
+ 874956
+
+ 874957
+
+Fuel
+Status: Kilos/lbs
+ ;
+and
+
+ACCEPTANCE
+DETAILS:
+
+ AIRFRAME
+
+ DATE
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ LANDING
+
+GEAR
+
+ P/N
+
+ S/N
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ Left
+Gear
+
+ Right
+Gear
+
+ Nose
+Gear
+
+ ENGINES
+
+ TYPE
+
+ S/N
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ LH
+Engine
+
+ RH
+Engine
+
+ AUXILIARY
+POWER UNIT
+
+ P/N
+
+ S/N
+
+ APU
+HOURS
+
+ AIRFRAME
+HOURS
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ Interior
+ Equipment:
+
+LOPA
+– attached ______________________
+
+Emergency drawing
+– attached ______________________
+
+Schedule
+2 to Annex A, damage chart
+
+Schedule 3 to Annex A,
+cosmetic damage chart
+
+Signed for and on behalf of
+the Lessee
+
+By:
+
+38
+
+Table of Contents
+
+Annex B
+
+Aircraft
+Specification
+
+One (1) Boeing B737-700 aircraft, airframe
+manufacturer’s serial number 28010 with two (2) installed
+CFM56-7B22 aircraft engines, engine manufacturer’s serial
+numbers 874956 and 874957.
+
+The Aircraft shall comply with
+Boeing Detailed Specification D6-38808-2, revision D as modified from
+time to time to reflect changes as a result of selected optional
+features, service bulletins, modifications and Airworthiness
+Directives.
+
+39
+
+Table of Contents
+
+Annex C
+
+Aircraft
+Documents
+
+The following documentation and technical
+records and publications shall be delivered/redelivered with the
+Aircraft:
+
+ A.
+ Certificates
+
+ –
+ Certificate
+of Airworthiness
+
+ –
+ Certificate of
+Registration
+
+ –
+ Noise
+Certificate
+
+ –
+ Radio
+License
+
+B. Aircraft Status
+Records
+
+ –
+ Technical Log Book
+
+ –
+ Airframe Log Book (if
+applicable)
+
+ –
+ Aircraft Modification Log
+Book (if applicable)
+
+ –
+ Aircraft current
+Time & Cycles, with daily utilization reports (Master Time
+Log)
+
+ –
+ Aircraft maintenance Inspection and
+Status Report, including time – to–go and last compliance
+times
+
+ –
+ Airworthiness Directive Status and
+Summary Report (terminated and repetitive) for airframe, engines,
+components and
+appliances
+
+ –
+ Manufacturer’s Service
+Bulletin Status and Summary Report
+
+ –
+ Local
+Modification Status and Summary Report
+
+ –
+ Current Weighing Report, including current
+Operational Weights
+
+ –
+ Damage
+Chart
+
+ –
+ Accident and Incident
+report
+
+ –
+ Service Difficulty
+report
+
+ –
+ List of Deferred Maintenance Items
+and Repetitive Inspections resulting from known aircraft or engine
+defects
+
+ C.
+ Aircraft Maintenance
+Records
+
+ –
+ Test Flight
+Reports
+
+ –
+ Last two Boeing C-Check performed
+(or the equivalent) including complete cycle of all lower level
+maintenance checks and last lower level maintenance
+check
+
+ –
+ Original Work Cards for all
+historical major maintenance work packages (Including C and
+D-check)
+
+ –
+ All Time Controlled Inspection
+Maintenance Records
+
+ D.
+ Aircraft
+History Records
+
+ –
+ Aircraft Structural
+Repair History for all structural repairs including FAA Form 8110-3 and
+FAA Form 337 where repairs outside
+SRM
+
+ –
+ Major Repair and Alteration
+Records
+
+– Aircraft Paint-Strip History including
+Balancing Reports for flying control surfaces
+
+ –
+ Airworthiness Directive Records and
+Compliance Documentation for airframe, components and appliances (dirty
+fingerprints)
+
+40
+
+Table of Contents
+
+ –
+ Modification
+Records Manufacturer’s Service Bulletins and method of
+compliance (dirty fingerprints)
+
+ –
+ Local
+Modification Records including Engineering Orders with Substantiating
+Data and EASA approval for Major Modifications (dirty
+fingerprints)
+
+ –
+ Life Limited Parts Status
+(compliance data and time due off) including traceability to origin and
+manufacture (dirty fingerprints)
+
+ –
+ Flight
+Logs since new
+
+ E.
+ Engine Records (for
+each engine)
+
+ –
+ Log
+books
+
+ –
+ Overhaul and Repair Documents for
+all shop visit (dirty fingerprints)
+
+ –
+ Life
+Limited Parts Status (compliance data and time due off) including
+traceability to origin and manufacture (dirty
+fingerprints)
+
+ –
+ Engine Disk
+Sheet
+
+ –
+ Engine Data Submittal
+Sheet
+
+ –
+ Current (last) Test Cell Report
+
+ –
+ Airworthiness Directive Records and
+Compliance Documentation (dirty
+fingerprints)
+
+ –
+ Modification Records
+Manufacturer’s Service Bulletins and method of compliance (dirty
+fingerprints)
+
+ –
+ Borescope Inspection
+Reports
+
+ –
+ Engine Trend Monitoring Reports
+(take-off and cruise data)
+
+ F.
+ APU
+Records
+
+ –
+ Log Book (updated with time and
+method of determination the
+time)
+
+ –
+ Overhaul and Repair Documents for
+all shop visit (dirty fingerprints)
+
+ –
+ Life
+Limited Parts Status (if applicable) including traceability to origin
+and manufacture (dirty
+fingerprints)
+
+ –
+ Modification Records
+Manufacturer’s Service Bulletins and method of compliance (dirty
+fingerprints)
+
+ –
+ Current (last) Test Cell
+Report
+
+ –
+ Borescope Inspection
+Reports
+
+ G.
+ Component Records (including Components
+installed Engines and APU)
+
+ –
+ Component
+Status Report (component fitted listing showing part number, serial
+number, position, time since new, time since overhaul, cycles since
+new, cycle since overhaul and time due off)
+
+ –
+ Component Documentation including
+serviceable tags (EASA/JAA Form 1, FAA Form 8130-3), shop visit reports
+and back-up documentation (traceability to origin and manufacture/last
+overhaul as applicable for all life limited components) for components
+replaced since delivery from Boeing
+
+41
+
+Table of Contents
+
+ H.
+ Manuals
+
+– 1 Airplane
+Flight Manual
+
+– 1 Manufacturer’s
+Flight Crew Operating Manual
+
+– 2 Quick
+Reference Handbook
+
+– 1 Master Minimum
+Equipment List
+
+– 1 Weight and Balance Manual
+including Supplement
+
+– 1 Wiring Diagram
+manual
+
+– 1 Illustrated Parts
+Catalog
+
+– 1 Aircraft Maintenance
+Manual
+
+– 1 Aircraft System Schematics
+Manual
+
+– 1 Fault Isolation manual
+(FIM)
+
+– 1 Structural Repair
+Manual
+
+– 1 Boeing Maintenance Planning
+Document
+
+– 1 Boeing Aircraft Detailed
+Specification
+
+– 1 Vendor Manual
+Seats
+
+– 1 Vendor Manual
+Galleys
+
+– 1 Vendor Manual
+Ovens
+
+– 1 Vendor Manual Water
+boilers
+
+I. Miscellaneous Technical
+Documents
+
+– Maintenance Program
+Specification/Requirements
+
+– Certified (FAA, JAA or
+EASA approved) Interior Configuration Drawing
+(LOPA)
+
+– Certified Emergency Equipment Drawing (FAA,
+JAA or EASA approved)
+
+– Copy of STC’s (if
+applicable)
+
+– Current Compass Swing
+Report
+
+– Boeing Interior
+Specification
+
+– Electrical Load Analysis Report
+
+J. Delivery Documentation ex
+Boeing
+
+– Manufacturers Delivery
+Documents
+
+ –
+ Export Certificate of
+Airworthiness issued following manufacture in respect of the Airframe
+and Engines
+
+– Aircraft Readiness
+Log
+
+– Landing Gear Log (if
+applicable)
+
+– Rigging
+Brochure
+
+– Miscellaneous
+Brochure
+
+– Fuel Measuring
+Brochure
+
+– Boeing Weighing
+Report
+
+– Boeing Production Test Flight
+Report(s)
+
+42
+
+Table of Contents
+
+– Boeing PRR
+Listing
+
+– Health
+Certificate
+
+– Original FAA Airworthiness Directive
+Compliance List
+
+– CFMI Engine Data Submittal Booklet
+for each Engine
+
+43
+
+Table of Contents
+
+Annex D
+
+Conditions
+Precedent Requirement
+
+PART
+I
+
+ 1.
+ Preliminary
+Conditions
+
+Lessor shall receive from the Lessee, not
+later than two Business Days prior to the Scheduled Delivery Date, each
+of the following, satisfactory in form and substance to
+Lessor:
+
+ a.
+ Opinions: If the
+State of Registration or State of Incorporation is not Denmark,
+evidence that legal opinions, satisfactory to the Lessor, will be
+issued on the Delivery Date by independent legal counsel acceptable to
+Lessor from the jurisdiction of the State of Registration and/or State
+of Incorporation as the Lessor shall reasonably require and relating to
+the Lease, the Security Documents, the Sub-Lease Agreement, execution,
+enforcement, perfection, security, repossession and tax
+issues;
+
+ b.
+ Letter of Credit:
+If applicable, a draft Letter of
+Credit.
+
+ c.
+ Signatory
+evidence: Evidence that the persons having executed or shall
+execute the Lease, the Security Documents, the Sub-Lease Agreement and
+any other documents and agreements relative thereto were and are duly
+authorised to do so on behalf of the party to such document or
+agreement (save for the Lessor and the
+Owner).
+
+ d.
+ Corporate
+documents: Certified copies of the Lessee’s articles of
+association.
+
+ e.
+ Insurances:
+Draft certificates of insurance with required endorsement and other
+evidence satisfactory to the Lessor that Lessee or the Permitted
+Sub-Lessee is taking the required steps to ensure due compliance with
+the provisions of the Lease as to Insurances with effect on and after
+the Delivery
+Date
+
+ f.
+ Approvals: Evidence
+of the issue of each approval, license and consent which may be
+required in relation to, or in connection with the performance by
+Lessee of any of its obligations under the Lease.
+
+ g.
+ Licenses: copies of the
+Lessee's and Permitted Sub-Lessee’s air transport license,
+air operator's certificates and all other licenses, certificates
+and permits required by the Lessee and the Permitted Sub-Lessee in
+relation to, or in connection with, the operation of the
+Aircraft;
+
+ h.
+ Air Traffic
+Control: A letter from the Lessee and the Permitted Sub-Lessee in
+the form of Annex
+H;
+
+ i.
+ Deregistration power of
+attorney: A deregistration power of attorney from the Lessee and
+the Permitted Sublessee in the form of Annex
+J.
+
+ j.
+ General: Such other
+documents as the Lessor may reasonably
+require.
+
+ 2.
+ Final
+Conditions
+
+The Lessor shall receive on or before the
+Delivery Date each of the
+following:
+
+ a.
+ Acceptance
+Certificate: The Acceptance Certificate, dated and fully
+completed, and executed by Lessor and
+Lessee;
+
+ b.
+ Opinions: The
+signed original of each of the legal opinions referred to above and
+dated on the Delivery Date;
+
+ c.
+ Payments: All sums due to
+the Lessor under the Lease on or before the Delivery Date including the
+first payment of Rent and Deposit (if
+applicable);
+
+ d.
+ Letter of
+Credit: The Letter of Credit (if
+applicable):
+
+ e.
+ Insurances:
+Certificates of insurance with required endorsement and other evidence
+satisfactory to the Lessor that Lessee or the Permitted Sub-Lessee is
+taking the required steps to ensure due compliance with the provisions
+of the Lease as to Insurances with effect on and after the Delivery
+Date;
+
+44
+
+Table of Contents
+
+ f.
+ Security
+Documents: The Security
+Documents;
+
+ g.
+ Filings:
+evidence that on the Delivery Date all filings, registrations,
+recordings and other actions have been or will be taken which are
+necessary or advisable to ensure the validity, effectiveness and
+enforceability of the Lease, the Sub-Lease Agreement and the Security
+Documents and to protect the rights of the Owner and the Lessor;
+
+ h.
+ Lease Assignment:
+acknowledgment of notice of assignment of the Lease in favour of the
+Lenders in such form as the Lessor may reasonably require (if
+applicable); and
+
+ i.
+ General:
+Such other documents as Lessor may reasonably
+require.
+
+PART
+II
+
+ 3.
+ Lessee shall receive from the
+Lessor, not later than two Business Days prior to the Scheduled
+Delivery Date, each of the following, satisfactory in form and
+substance to Lessee:
+
+ a.
+ Signatory
+evidence: Evidence that the persons having executed or shall
+execute the Lease and any other documents and agreements relative
+thereto were and are duly authorised to do so on behalf of the party to
+such document or agreement (save for the
+Lessee).
+
+ b.
+ Corporate
+documents: Certified copies of the Lessor’s articles of
+association.
+
+ c.
+ General:
+Such other documents as the Lessee may reasonably
+require.
+
+ 4.
+ Final
+Conditions
+
+The Lessee shall receive on or before the
+Delivery Date each of the
+following:
+
+ a.
+ Acceptance
+Certificate: The Acceptance Certificate, dated and fully
+completed, and executed by Lessor and
+Lessee;
+
+ b.
+ Assignment of
+Warranties; The assignments of warranties referred to in clause
+12.1, it being understood that the Lessee shall reasonably accept that
+such may not be available and may be delivered after Delivery;
+and
+
+ c.
+ Lease declaration:
+The lease declaration referred to in clause 9.1 in a format reasonably
+acceptable to the Lessee, duly executed on behalf of the Lessor and
+capable of being registered with first priority with the Danish
+Register of Rights over
+Aircraft.
+
+ d.
+ General: Such
+other documents as Lessee may reasonably
+require.
+
+45
+
+Table of Contents
+
+Annex E
+
+Form of Redelivery
+Acceptance Certificate
+
+To: The
+Lessee (Redelivery
+Date)
+
+This Redelivery Certificate is executed and
+delivered pursuant to a specific aircraft lease agreement dated
+ 2005 (the
+‘‘Agreement’’) between Maersk Aircraft A/S
+as lessor and Sterling Airlines A/S as lessee. Words and expressions
+not otherwise defined in this Redelivery Certificate shall have the
+same meanings as given to them in the Agreement.
+
+The
+Lessor hereby confirms that:-
+
+ (a)
+ on
+the date hereof at
+
+and at hours (local) the Aircraft more
+particularly described in schedule 1 hereto was redelivered to and
+accepted by the Lessor; and
+
+ (b)
+ the
+Aircraft complies fully with the requirements of clause 16 of the
+Agreement save only for such defects (if any) as set forth in schedule
+2 hereto, such defects to be rectified at the cost of the
+Lessee.
+
+46
+
+Table of Contents
+
+Schedule 1 to Annex E, description
+of Aircraft
+
+One (1) Boeing B737-700 aircraft and two (2)
+CFM56-7B22 aircraft engines:-
+
+ Airframe
+Serial
+No.
+
+ Engine
+Serial
+Nos.
+
+ 28010
+
+ 874956
+
+ 874957
+
+Fuel
+Status: Kilos/lbs
+ ;
+and
+
+ACCEPTANCE
+DETAILS:
+
+ AIRFRAME
+
+ DATE
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ LANDING
+GEAR
+
+ P/N
+
+ S/N
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ Left
+Gear
+
+ Right
+Gear
+
+ Nose
+Gear
+
+ ENGINES
+
+ TYPE
+
+ S/N
+
+ FLIGHT
+HOURS
+
+ CYCLES
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ LH
+Engine
+
+ RH
+Engine
+
+ AUXILIARY
+POWER UNIT
+
+ P/N
+
+ S/N
+
+ APU
+HOURS
+
+ AIRFRAME
+HOURS
+
+ SINCE
+NEW
+
+ SINCE LAST OH
+
+ SINCE NEW
+
+ SINCE LAST
+OH
+
+ Interior
+ Equipment:
+
+LOPA
+– attached ______________________
+
+Emergency drawing
+– attached ______________________
+
+Schedule
+2 to Annex E, damage chart
+
+Signed for and on behalf
+of
+
+Maersk Aircraft A/S as
+lessor
+
+By:
+
+Signed for and on behalf of the
+Lessee
+
+By:
+
+47
+
+Table of Contents
+
+Annex F
+
+General Condition
+Requirements –
+Redelivery
+
+***
+
+48
+
+Table of Contents
+
+Annex G
+
+Specific Condition
+Requirements – Redelivery
+
+The below conditions shall
+amend or be supplemental to (as the case may be) Annex
+F.
+
+***
+
+49
+
+Table of Contents
+
+Annex H
+
+Letter of
+Authorisation
+
+(to be typed on headed notepaper of the
+Lessee and Permitted Sub-Lessee)
+
+to:
+
+European Organisation for the Safety of Air
+Navigation (‘‘Eurocontrol’’)
+
+Rue
+de Loi 72
+
+B-1040
+Brussels
+
+Belgium
+
+to:
+
+[   ]
+Airport
+
+[address]
+
+to:
+
+whom
+it may concern
+
+Dear Sirs
+
+Pursuant to the
+terms of an Aircraft Lease Agreement (the
+‘‘Lease’’) dated
+September 2005 between Maersk Aircraft A/S (the
+‘‘Lessor’’) and Sterling Airlines A/S (the
+‘‘Lessee’’) [and pursuant to the terms
+of a further Aircraft Sub-Lease Agreement (the
+‘‘Sub-Lease’’) dated
+September 2005 between the Lessee and ourselves] in respect
+of one Boeing B737-700 aircraft MSN 28010 and Danish registration marks
+OY-MRG (the ‘‘Aircraft’’), the Lessor has
+agreed to lease to the Lessee [and the Lessor has consented to the
+further sub-lease from the Lessee to ourselves of the Aircraft for the
+Lease Period stated in the Lease and the Sub-Lease]. Under the
+Lease [and Sub-Lease] we are required to and hereby request
+and authorise you to provide to the Lessor upon such person’s
+request from time to time, statements of account of all sums due from
+us to you at the date of such request in respect of the Aircraft and/or
+any aircraft operated by us or otherwise howsoever
+arising.
+
+The authority contained herein shall be revoked
+only upon receipt by you of written revocation signed by both the
+Lessor and ourselves requesting such revocation.
+
+Signed
+for and on behalf of
+
+[Lessee/Permitted
+Sub-Lessee]
+
+By
+its:
+
+50
+
+Table of Contents
+
+Annex I
+
+Additional Rental
+Adjustment
+
+***
+
+51
+
+Table of Contents
+
+Annex J
+
+Deregistration
+Power of Attorney
+
+IRREVOCABLE POWER OF ATTORNEY
+
+Sterling Airlines A/S, a company organised and
+existing under the laws of Denmark whose principal office is at
+Copenhagen Airport South, DK-2791 Dragoer, Denmark, (the
+‘‘Lessee’’) hereby agrees as
+follows:
+
+WHEREAS:
+
+ A.
+ The
+Lessee and Maersk Aircraft A/S (the
+‘‘Lessor’’), a company registered in
+Denmark, are parties to an aircraft lease agreement dated
+ September 2005 between the Lessor as lessor and
+the Lessee as lessee, as amended from time to time (the
+‘‘Lease’’) pursuant to which the
+Lessor has agreed to lease to the Lessee, on the terms and subject to
+the conditions set out in the Lease, one (1) Boeing B737-700, having
+manufacturer's serial number 28010 and Danish registration
+marks OY-MRG (the
+‘‘Aircraft’’).
+
+ B.
+ It
+is a condition of the Lease that the Lessor receives from the Lessee a
+duly executed irrevocable and unconditional power of attorney in the
+form of this Power of Attorney.
+
+NOW
+THEREFORE, the Lessee grants to the Lessor this irrevocable
+and unconditional power of
+attorney.
+
+ 1.
+ Unless the context
+otherwise requires (or unless otherwise defined herein), words and
+expressions defined in the Lease shall have the same meanings when used
+in this Power of Attorney.
+
+ 2.
+ The
+Lessee hereby confers an irrevocable and unconditional power of
+attorney in favour of the Lessor (with the right of substitution and
+re-substitution, and with the right to revoke any substitution or
+re-substitution granted):
+
+ (a)
+ to
+represent the Lessee wheresoever and whatsoever in all matters and
+affairs in connection with the export, deregistration or
+re-registration of the
+Aircraft;
+
+ (b)
+ to remove or export
+the Aircraft from Denmark and to apply for and obtain permits, licences
+or approvals with respect to any of the above matters on the
+Lessee’s behalf and in its name or otherwise so that the Lessor
+is empowered to do and perform all things which the Lessee is or would
+hereafter be entitled and empowered to do and perform, without any
+exception, in relation to those matters, all for the account of the
+Lessee;
+
+ (c)
+ to release, terminate
+and void on the Lessee’s behalf and in its name or otherwise any
+and all of the interests of the Lessee in the
+Aircraft;
+
+ (d)
+ to consent to the
+transfer of the registration of the Aircraft and all other engines,
+accessories or items in use at the time of such transfer thereon or
+therein or otherwise held or used in substitution or replacement
+therefor in whatsoever manner on the Lessee’s behalf and in its
+name or otherwise;
+
+ (e)
+ to enable the
+Lessor to enforce or exercise any of its rights under the Lease;
+and
+
+ (f)
+ to sign, seal (if
+appropriate), deliver and/or execute on the Lessee’s behalf and
+in its name or otherwise any and all documents, agreements,
+applications, consents or other instruments of whatsoever nature as the
+Lessor considers in its absolute discretion necessary or desirable in
+connection with any or all of the matters referred to in (a), (b), (c),
+(d) or (e) above.
+
+ 3.
+ The Lessor is
+authorised to delegate to such person or persons as they may choose the
+exercise of any or all of the powers conferred on the Lessor hereunder
+AND to appoint one or more substitute or substitutes as attorney or
+attorneys under them or any of them for all or any of the purposes
+aforesaid and to revoke any such appointment from time to time and to
+substitute or appoint any other or others in the place of such attorney
+or attorneys as the Lessor shall from time to time think
+fit.
+
+52
+
+Table of Contents
+
+ 4.
+ The powers
+as set out in this Power of Attorney shall become effective from the
+date hereof.
+
+ 5.
+ This Power of Attorney
+shall be governed by and construed in accordance with the laws of
+Denmark and cannot be revoked or cancelled by the signatory
+thereof.
+
+IN WITNESS whereof the Lessee has executed
+this power of attorney.
+
+Sterling Airlines
+A/S
+
+ by
+
+ by
+
+In
+witness of the signatures being genuine, the date being true and
+correct and the signatories being of
+age:
+
+ Signature:
+
+ Signature:
+
+ Name
+in print:
+
+ Name in
+print:
+
+ Occupation:
+
+ Occupation:
+
+ Address:
+
+ Address:
+
+53
+
+Table of Contents
+
+Annex K
+
+Calculation of
+Rent Control
+
+***
+
+54
