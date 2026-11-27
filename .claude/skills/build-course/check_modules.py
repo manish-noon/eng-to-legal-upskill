@@ -56,7 +56,7 @@ def main(cid):
         p.feed(t)
         probs += p.errs[:5] + ["unclosed <%s>" % s for s in p.stack]
         prose = re.sub(r'<div class="(quiz|num)".*?<p class="explain">.*?</p>\s*</div>', " ", t, flags=re.S)
-        prose = re.sub(r'<details class="think">.*?</details>|<dl class="terms">.*?</dl>', " ", prose, flags=re.S)
+        prose = re.sub(r'<figure class="diagram">.*?</figure>|<details class="think">.*?</details>|<dl class="terms">.*?</dl>', " ", prose, flags=re.S)
         words = len(re.sub(r"<[^>]+>", " ", prose).split())
         nq = t.count('class="quiz"') + t.count('class="num"')
         nn = t.count('class="num"')

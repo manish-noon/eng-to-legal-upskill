@@ -27,7 +27,7 @@ Reference model: `courses/ma/` (finished course) and `build/ma/` (its sources). 
 9. **Diagnostic (`d00`), final exam (`x16` or `xNN`) and the issues-list lab.** Diagnostic: ~15 questions across all parts, unscored for pass, shows where to start. Final exam: new fact patterns across every module, numeric items included, 80% pass.
 10. **Handbook + cheatsheet** distilled from the finished modules: `handbook.html` (long reference, one section per module, glossary built from all `dl.terms`) and `cheatsheet.html` (one printable page: the method, the key numbers with sources, the decision table). Print both to PDF (Chrome headless `--print-to-pdf`) and commit the PDFs.
 11. **Podcast**: invoke the `build-podcast` skill.
-12. **Design pass** against `docs/DESIGN.md`. Aim for the finished level from the start (the first M&A pass was rejected as "not good"; the second, with hierarchy, TOC, dashboard, landed).
+12. **Diagrams and design pass** against `docs/DESIGN.md`. Blocky editorial style: zero radius, rules not shadows (inherited from `shared/`). Add hand-authored inline SVG `figure.diagram` blocks wherever a mechanism has shape (timeline, waterfall, decision tree, funnel, stack, band chart, verdict matrix): at least one per mechanics module, plus precedent band charts computed from the answer-key data. Fan these out to agents per module group with the figure rules from DESIGN.md; never change questions or prose; recompute every number. Save each figure to `build/<id>/figs/` and reuse them in the handbook and in the cheatsheet (a dense visual one-pager that prints to one A4 landscape page). Screenshot light/dark, desktop/iPad before shipping. Aim for the finished level from the start (the first M&A pass was rejected as "not good"; the second, with hierarchy, TOC, dashboard, landed).
 13. **Ship**: add the course to `courses.json` (fields: id, title, subtitle, description, path, podcast, status, modules, hours), update README table, run locally (`python3 -m http.server 8000`), check every page, commit, push to `main`, confirm the live URLs load.
 
 ## The method (the core of every course)
@@ -39,6 +39,7 @@ Every course ends in a decision method. Use the domain-agnostic template in `ref
 - [ ] Verification pass done and every finding resolved or noted.
 - [ ] No statistic without a named study from the research file; no invented statutes, cases or real deals; jurisdiction variance flagged.
 - [ ] Anything you wrote or edited by hand is recomputed (the only wrong marked answer in M&A came from a quick manual edit).
+- [ ] Every mechanics module has a `figure.diagram`; figure numbers match the text; cheatsheet prints to one A4 landscape page.
 - [ ] Light and dark both checked; mobile sidebar works; print view of handbook/cheatsheet OK.
 
 ## Rules

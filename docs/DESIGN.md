@@ -2,6 +2,8 @@
 
 The look every course shares. Source of truth: `shared/style.css` (tokens, components) and `shared/theme.js` (theme switch). Reference screenshots: `docs/design/`. Inspiration: Stripe/Linear docs for the interface, a Substack-style reading column for prose. Aim for this level on the first pass.
 
+**Style (v3, current): blocky editorial.** Zero corner radius everywhere (enforced globally by `*{border-radius:0!important}` in `shared/style.css`). Swiss/editorial grid in the spirit of IBM Carbon, the FT and Bloomberg: strong rules and 1px borders, a 2–4px ink or accent rule to mark hierarchy (module header, section headers, question cards, figures), restrained colour, **no soft shadows** (at most a solid 3–6px offset on hover or the podcast artwork), square status markers, square progress meter instead of a ring. The reading column stays a ~70ch serif with 1.72 line-height.
+
 ![Module page](design/redesign-1.jpg)
 
 ## Type
@@ -23,7 +25,7 @@ Headings are Inter: module title 40px/700/−0.03em, `h1` 34px, `h2` 22px/650 (5
 | `--ok` `--bad` `--warn` (+`-soft`) | #147a4a #b42318 #9a6200 | #5fcf93 #ff8f84 #e6b45a | right / wrong / caution |
 | `--hl` | #fff1a8 | #5b4c08 | highlighted text in documents |
 | `--us` `--uae` `--trap` `--law` | soft blue, green, amber, violet | dark tints | callout backgrounds |
-Radius `--radius` 10px; cards 12px; hero/stat cards 14–16px; pills 20px. Shadow `--shadow`: soft two layers (`0 1px 2px`, `0 4px 14px` at 5%). Sidebar width `--side` 288px.
+Radius: **0 everywhere** (`--radius:0`, global override). Shadow: **none** (`--shadow:none`); use borders and, for hover affordance, `3px 3px 0 var(--ink)`. Left rules carry meaning: ink on questions (accent once answered), accent/green/amber/violet on callouts. Sidebar width `--side` 288px.
 
 ## Light / dark
 System default via `prefers-color-scheme`; user override with `html[data-theme=light|dark]`. Load `shared/theme.js` in `<head>` before the stylesheet so there is no flash. Any `[data-themebtn]` or `#themebtn` cycles Auto → Light → Dark (◐ ☀ ☾). New tokens must be defined in all three blocks (`:root`, `html[data-theme=dark]`, the media query). Check every page in both themes.
@@ -49,7 +51,15 @@ System default via `prefers-color-scheme`; user override with `html[data-theme=l
 - `dl.terms` two-column glossary.
 - `.widget` calculator card with a 3px accent top border and uppercase accent `h4`; `.big` for the headline number; `.wf` waterfall bars.
 - Buttons: primary filled accent; `.sec` outline; `.iconbtn` for the top bar. Inputs get an accent focus ring (`0 0 0 3px --acc-soft`).
-- `.pill`, `.tag.ok/.bad`, `.chips`, `.kicker`, `.bar` progress.
+- `.pill`, `.tag.ok/.bad`, `.chips`, `.kicker`, `.bar` progress (6px, square).
+- **`figure.diagram`**: hand-authored inline SVG explaining a mechanism (timeline, waterfall, decision tree, funnel, stack, band chart, matrix). Markup:
+  ```html
+  <figure class="diagram"><svg viewBox="0 0 680 260" role="img" aria-labelledby="m08f1-t m08f1-d">
+    <title id="m08f1-t">Claim pipeline</title><desc id="m08f1-d">What the diagram shows, in words</desc>
+    <rect class="box" x="10" y="20" width="120" height="44"/><text x="70" y="47" text-anchor="middle">De minimis</text> ...
+  </svg><figcaption><b>Figure 2.</b> One sentence on what to notice.</figcaption></figure>
+  ```
+  Rules: no external libraries, no hard-coded colours or `style` attributes; use only the SVG vocabulary classes in `shared/style.css` (shapes `box box2 fa fas fok foks fbad fbads fwarn fwarns fmut fink`, lines `ln lnm lna lnd lnok lnbad`, arrowheads as polygons with `arr`, text `tm ts tb tn tl ta tok tbad twarn`) so light and dark both work; square corners (no `rx`); text ≥11px at a ~680 viewBox width; unique id prefix per figure; place the figure right after the paragraph it explains, never inside a question. Every number in a figure must match the text (recompute). Reuse the same figures, smaller, in the handbook and cheatsheet.
 
 ## Rules
 - One accent colour; meaning colours only for state (right/wrong/caution) and callouts.

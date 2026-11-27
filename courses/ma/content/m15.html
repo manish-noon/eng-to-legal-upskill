@@ -27,6 +27,26 @@
 <li>With a specific indemnity for VAT: R = 1.2m regardless of the general limits. Kept = <b>0</b>.</li>
 </ul>
 <p>So for this buyer, six more months on the time limit is worth AED 360k, and so is a VAT indemnity. Those are now tradeable quantities.</p>
+<figure class="diagram"><svg viewBox="0 0 680 188" role="img" aria-labelledby="m15f1-t m15f1-d"><title id="m15f1-t">Kept risk for one VAT risk under three sets of terms</title><desc id="m15f1-d">Expected loss of 360 thousand dirhams. Under an 18 month time limit all of it is kept; with a 24 month limit or a specific VAT indemnity none of it is kept.</desc>
+<text x="10" y="18" class="tb">Expected loss p × L = 0.3 × AED 1.2m = AED 360k</text>
+<text x="10" y="48" class="ts tb">General warranty, 18-month limit</text>
+<text x="10" y="62" class="ts tm">claim at month 20 is out of time</text>
+<rect x="250" y="38" width="300" height="22" class="fbads"/>
+<text x="560" y="54" class="tn tbad">kept AED 360k</text>
+<text x="10" y="92" class="ts tb">Time limit extended to 24 months</text>
+<text x="10" y="106" class="ts tm">in time, clears basket, under cap</text>
+<rect x="250" y="82" width="300" height="22" class="foks"/>
+<text x="560" y="98" class="tn tok">kept AED 0</text>
+<text x="10" y="136" class="ts tb">Specific VAT indemnity</text>
+<text x="10" y="150" class="ts tm">outside the general limits</text>
+<rect x="250" y="126" width="300" height="22" class="foks"/>
+<text x="560" y="142" class="tn tok">kept AED 0</text>
+<rect x="250" y="168" width="10" height="10" class="foks"/>
+<text x="266" y="177" class="ts tm">recovered (weighted by p)</text>
+<rect x="440" y="168" width="10" height="10" class="fbads"/>
+<text x="456" y="177" class="ts tm">kept by the buyer</text>
+</svg><figcaption><b>Figure 1.</b> The worked example: price AED 76m, VAT risk p = 30%, L = AED 1.2m, surfacing at month 20. Six more months on the time limit, or a VAT indemnity, each move AED 360k of expected loss from the buyer to the seller.</figcaption></figure>
+
 <div class="note trap">Risks interact through the basket. One claim of AED 500k does not clear a AED 760k basket; two of them do. So you cannot compute R for each risk alone and add up. The simulator handles this by weighing every combination of risks occurring together. With ten risks that is 1,024 combinations: trivial for a computer, impossible by intuition.</div>
 
 <div class="num" data-id="m15n1" data-answer="200000" data-tol="0.01">
@@ -45,6 +65,30 @@
 <blockquote class="clause">effective price = headline price + expected kept risk + deal costs</blockquote>
 <p><b>Deal costs</b> include advisers' fees, any W&amp;I premium the buyer pays, filing fees, and the cost of delay if approvals hold up closing.</p>
 <p>Compare the result with <b>value to the buyer</b>: what the business is worth standing alone, plus <b>synergies</b> (extra profit the combination creates), minus the cost of integrating it. Value is the client's number and the client's responsibility. Your job is to make sure it is compared with the right price.</p>
+<figure class="diagram"><svg viewBox="0 0 700 260" role="img" aria-labelledby="m15f2-t m15f2-d"><title id="m15f2-t">Effective price compared with value to the buyer</title><desc id="m15f2-d">Left column: headline price plus expected kept risk plus deal costs gives effective price. Right column: standalone value plus synergies minus integration cost gives value to the buyer. The gap between the two tops is the margin; break even is where it is zero.</desc>
+<rect x="60" y="90" width="150" height="140" class="box2"/>
+<text x="135" y="214" class="ts" text-anchor="middle">Headline price</text>
+<rect x="60" y="60" width="150" height="30" class="fbads"/>
+<text x="135" y="79" class="ts" text-anchor="middle">Expected kept risk</text>
+<rect x="60" y="38" width="150" height="22" class="fwarns"/>
+<text x="135" y="53" class="ts" text-anchor="middle">Deal costs</text>
+<text x="135" y="248" class="tb" text-anchor="middle">Effective price</text>
+<rect x="300" y="80" width="150" height="150" class="box2"/>
+<text x="375" y="214" class="ts" text-anchor="middle">Standalone value</text>
+<rect x="300" y="4" width="150" height="76" class="foks"/>
+<text x="375" y="64" class="ts" text-anchor="middle">Synergies</text>
+<text x="375" y="248" class="tb" text-anchor="middle">Value to the buyer</text>
+<rect x="300" y="4" width="150" height="20" class="lnd"/>
+<text x="375" y="18" class="ts" text-anchor="middle">− integration cost</text>
+<line x1="40" y1="38" x2="505" y2="38" class="lnd"/>
+<line x1="40" y1="24" x2="505" y2="24" class="lnd"/>
+<line x1="500" y1="38" x2="500" y2="24" class="lna"/>
+<polygon points="500,24 496,17 504,17" class="arr"/>
+<text x="514" y="35" class="ts tb">gap = value − effective price</text>
+<text x="514" y="51" class="ts tm">break-even: gap = 0</text>
+<line x1="40" y1="230" x2="560" y2="230" class="ln"/>
+</svg><figcaption><b>Figure 2.</b> Effective price = headline price + expected kept risk + deal costs. Value = standalone value + synergies − integration cost. The advice turns on the gap between the two (schematic, not to scale).</figcaption></figure>
+
 <div data-widget="exposure"></div>
 <p>The simulator above holds two packages of terms side by side. Package A starts as a seller-friendly draft and B as a landing. Change B until the verdict flips, and note which inputs it took. Those inputs are the deal's real issues.</p>
 
@@ -60,6 +104,35 @@
 <tr><td>Effective price is below value only if certain protections are obtained</td><td><b>Pursue with conditions</b></td><td>The two or three protections, each with a fallback of equal value (usually a price reduction)</td></tr>
 <tr><td>Effective price exceeds value on any realistic landing, or a trigger is hit</td><td><b>Walk, or re-price</b></td><td>The price reduction that would restore the deal, and the facts that would change the answer</td></tr>
 </table>
+<figure class="diagram"><svg viewBox="0 0 680 218" role="img" aria-labelledby="m15f3-t m15f3-d"><title id="m15f3-t">Verdict matrix: pursue, pursue with conditions, or walk</title><desc id="m15f3-d">Rows compare effective price with value. Without a trigger: pursue, pursue with conditions, or walk or re-price. If a walk-away trigger is hit, the answer is walk in every row.</desc>
+<text x="355" y="26" class="tl" text-anchor="middle">No walk-away trigger hit</text>
+<text x="575" y="26" class="tl" text-anchor="middle">A trigger is hit</text>
+<text x="10" y="62" class="ts tb">Effective price ≤ value</text>
+<text x="10" y="78" class="ts tm">on the predicted landing</text>
+<rect x="250" y="40" width="210" height="52" class="foks"/>
+<text x="355" y="63" class="tb" text-anchor="middle">Pursue</text>
+<text x="355" y="80" class="ts" text-anchor="middle">concede cheap terms</text>
+<rect x="470" y="40" width="210" height="52" class="fbads"/>
+<text x="575" y="63" class="tb" text-anchor="middle">Walk</text>
+<text x="575" y="80" class="ts" text-anchor="middle">whatever else is offered</text>
+<text x="10" y="120" class="ts tb">Effective price ≤ value</text>
+<text x="10" y="136" class="ts tm">only with named protections</text>
+<rect x="250" y="98" width="210" height="52" class="fwarns"/>
+<text x="355" y="121" class="tb" text-anchor="middle">Pursue with conditions</text>
+<text x="355" y="138" class="ts" text-anchor="middle">2 to 3 protections + fallbacks</text>
+<rect x="470" y="98" width="210" height="52" class="fbads"/>
+<text x="575" y="121" class="tb" text-anchor="middle">Walk</text>
+<text x="575" y="138" class="ts" text-anchor="middle">whatever else is offered</text>
+<text x="10" y="178" class="ts tb">Effective price > value</text>
+<text x="10" y="194" class="ts tm">on any realistic landing</text>
+<rect x="250" y="156" width="210" height="52" class="fbads"/>
+<text x="355" y="179" class="tb" text-anchor="middle">Walk, or re-price</text>
+<text x="355" y="196" class="ts" text-anchor="middle">state the price cut needed</text>
+<rect x="470" y="156" width="210" height="52" class="fbads"/>
+<text x="575" y="179" class="tb" text-anchor="middle">Walk</text>
+<text x="575" y="196" class="ts" text-anchor="middle">whatever else is offered</text>
+</svg><figcaption><b>Figure 3.</b> The three verdicts. A walk-away trigger, fixed before negotiating, overrides the arithmetic in every row.</figcaption></figure>
+
 <p>A <b>walk-away trigger</b> is a condition, fixed in advance, under which the buyer will not sign whatever else is offered. Set triggers before negotiating. During a negotiation, money and months already spent pull people toward closing: the <b>sunk-cost effect</b>. A trigger written down early is the defence.</p>
 <p>Typical triggers:</p>
 <ul>

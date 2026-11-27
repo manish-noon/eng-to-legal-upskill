@@ -219,3 +219,63 @@ input[type=checkbox]{width:16px;height:16px;accent-color:var(--acc)}
 .limits{margin-top:20px}
 @media (max-width:1280px){.modgrid{grid-template-columns:minmax(0,72ch)}.tocwrap{display:none}}
 @media (max-width:900px){.modhead h1{font-size:30px}.dash-hero h1{font-size:34px}.dash-top{grid-template-columns:1fr}.pn{grid-template-columns:1fr}.pn .nx{grid-column:1}.curr{grid-template-columns:1fr}}
+
+/* ===== v3: blocky editorial system (zero radius, rules not shadows) ===== */
+:root{--radius:0;--shadow:none;--rule:var(--ink)}
+html[data-theme=dark],html:not([data-theme=light]){--rule:var(--ink)}
+*,*:before,*:after{border-radius:0!important}
+.quiz,.num,.card,.widget,.cards a,.continue,.dash-stats,.cg,.status,.pn a,.note,table,.doc,details.think,.ep,.player,.b{box-shadow:none!important}
+.quiz,.num,.card{border-color:var(--line-2);border-left:3px solid var(--ink)}
+.quiz.done,.num.done{border-left-color:var(--acc)}
+.widget{border:1px solid var(--line-2);border-top:4px solid var(--acc)}
+.cards a:hover,.pn a:hover,.continue:hover{transform:none;box-shadow:3px 3px 0 var(--ink)!important;border-color:var(--ink)}
+.continue{background:var(--surface);border:1px solid var(--ink);border-left:6px solid var(--acc)}
+.continue .go{background:var(--acc)}
+th{text-transform:uppercase;font-size:11px;letter-spacing:.06em;border-bottom:1px solid var(--ink)}
+table{border-color:var(--line-2)}
+.note{border:1px solid var(--line-2);border-left:4px solid var(--mut)}
+.note.us{border-left-color:var(--acc)}.note.uae{border-left-color:var(--ok)}.note.trap{border-left-color:var(--warn)}.note.lawyer{border-left-color:#7a5cc7}
+blockquote.clause{border-left:4px solid var(--ink)}
+.modhead{border-bottom:2px solid var(--ink)}
+.sec-h{border-top:2px solid var(--ink);padding-top:10px}
+.cg{border-color:var(--line-2);border-top:3px solid var(--ink)}
+.cgh{border-bottom:1px solid var(--line)}
+.ci .dot{width:10px;height:10px}
+#side{border-right:1px solid var(--line-2)}#side a.on{box-shadow:inset 3px 0 0 var(--acc)}
+#top{border-bottom:1px solid var(--line-2)}
+.bar{height:6px;border:0}
+/* progress meter: square block filling bottom-up (replaces the old ring) */
+.ring{background:linear-gradient(to top,var(--acc) calc(var(--p)*1%),var(--surface-2) 0)!important;border:1px solid var(--ink);position:relative}
+.ring>div{width:auto;height:auto;background:var(--surface);padding:6px 8px;border:1px solid var(--line-2)}
+.chips span{border:1px solid var(--line-2);background:transparent}
+.quiz li:before{border:1px solid var(--line-2)}
+button.sec,.iconbtn{border-color:var(--line-2)}
+.toc{border-left:1px solid var(--line-2)}
+
+/* ===== figures: hand-authored inline SVG diagrams ===== */
+figure.diagram{margin:30px 0;padding:18px 18px 12px;border:1px solid var(--line-2);border-top:3px solid var(--ink);background:var(--surface);max-width:none}
+figure.diagram svg{display:block;width:100%;height:auto;color:var(--ink);font-family:var(--ui);overflow:visible}
+figure.diagram figcaption{margin-top:10px;padding-top:8px;border-top:1px solid var(--line);font:13.5px/1.5 var(--ui);color:var(--mut)}
+figure.diagram figcaption b{color:var(--ink);font-weight:650;margin-right:6px}
+/* svg vocabulary: use classes, never hard-coded colours, so themes work */
+.diagram text{fill:var(--ink);font-size:13px}
+.diagram .tm{fill:var(--mut)}.diagram .ts{font-size:11px}.diagram .tb{font-weight:650}.diagram .tn{font-family:var(--mono);font-size:12px}
+.diagram .tl{font-size:10.5px;font-weight:650;letter-spacing:.08em;text-transform:uppercase;fill:var(--mut)}
+.diagram .ta{fill:var(--acc)}.diagram .tok{fill:var(--ok)}.diagram .tbad{fill:var(--bad)}.diagram .twarn{fill:var(--warn)}
+.diagram .box{fill:var(--surface);stroke:var(--ink);stroke-width:1.2}
+.diagram .box2{fill:var(--surface-2);stroke:var(--line-2);stroke-width:1}
+.diagram .fa{fill:var(--acc)}.diagram .fas{fill:var(--acc-soft);stroke:var(--acc);stroke-width:1}
+.diagram .fok{fill:var(--ok)}.diagram .foks{fill:var(--ok-soft);stroke:var(--ok)}
+.diagram .fbad{fill:var(--bad)}.diagram .fbads{fill:var(--bad-soft);stroke:var(--bad)}
+.diagram .fwarn{fill:var(--warn)}.diagram .fwarns{fill:var(--warn-soft);stroke:var(--warn)}
+.diagram .fmut{fill:var(--line-2)}.diagram .fink{fill:var(--ink)}
+.diagram .ln{stroke:var(--ink);stroke-width:1.4;fill:none}.diagram .lnm{stroke:var(--line-2);stroke-width:1;fill:none}
+.diagram .lna{stroke:var(--acc);stroke-width:2;fill:none}.diagram .lnd{stroke:var(--mut);stroke-width:1;stroke-dasharray:4 3;fill:none}
+.diagram .lnbad{stroke:var(--bad);stroke-width:2;fill:none}.diagram .lnok{stroke:var(--ok);stroke-width:2;fill:none}
+.diagram .arr{fill:var(--ink)}
+@media print{figure.diagram{break-inside:avoid;border-color:#999}}
+/* print is always light, whatever the screen theme */
+@media print{html,html[data-theme=dark],html:not([data-theme=light]){
+  --bg:#fff; --surface:#fff; --surface-2:#f1efea; --ink:#1b1b1f; --ink-2:#3d3d45; --mut:#6e6d76; --line:#e5e2db; --line-2:#d6d2c8;
+  --acc:#2d55c9; --acc-ink:#fff; --acc-soft:#e8edfb; --ok:#147a4a; --ok-soft:#e5f3ec; --bad:#b42318; --bad-soft:#fbeae8; --warn:#9a6200; --warn-soft:#fbf1dd;
+  --hl:#fff1a8; --us:#eaf0fb; --uae:#e7f3ec; --trap:#fbefe1; --law:#efeaf8; color-scheme:light}}
