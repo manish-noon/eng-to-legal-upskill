@@ -24,5 +24,6 @@ const EDITION = {
   "image": "assets/apron.webp",
   "alt": "An airliner parked nose-on at an airport gate",
   "exhibits": 21,
+  "podcast": true,
   "limits": "<h2>Using the course</h2><p>Take the diagnostic cold. Modules and the final exam use an 80% first-try pass mark. Read the closing set after module 5 and the marked lease after module 8. Practise on four public filings, then take the client call on a fresh agreement.</p><p>The library includes historical contracts and common terms. Check the original filing for redactions, schedules and later amendments. Verify current terms, local procedures and enforcement with qualified counsel for a live transaction.</p>"
 };

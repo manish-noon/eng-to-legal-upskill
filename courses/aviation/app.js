@@ -21,12 +21,12 @@ function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.inn
   s.append(link('../../','←','All courses'),link('#/home','⌂','Dashboard'));
   let grp='';MODS.forEach(([id,t,g])=>{if(g!==grp){grp=g;s.append(el('h3',{},g))}const m=modScore(id);s.append(link('#/m/'+id,MLABEL(id),t,m.n?(m.complete?`${m.pct}%`:`${m.ans}/${m.n}`):'',m.complete))});
   s.append(el('h3',{},'Labs on real documents'));LABS.forEach(([id,t])=>s.append(link('#/lab/'+id,'▸',t.replace(/^Lab \d+ · /,''),P.labs[id]||'',EDITION.isLabComplete(id,P.labs[id]))));
-  s.append(el('h3',{},'Reference'));s.append(link('#/drill','↻','Flashcard drill'),link('handbook.html','▤','Handbook',null,0,1),link('cheatsheet.html','▤','Cheatsheet',null,0,1),link('docs/index.html','▤','Documents',null,0,1));
+  s.append(el('h3',{},'Reference'));s.append(link('#/drill','↻','Flashcard drill'),link('podcast.html','♪','Podcast',null,0,1),link('handbook.html','▤','Handbook',null,0,1),link('cheatsheet.html','▤','Cheatsheet',null,0,1),link('docs/index.html','▤','Documents',null,0,1));
   s.append(el('h3',{},'Your progress'),el('div',{class:'mut',style:'font-size:12px;margin:0 8px'},'Stored in this browser only.'),el('div',{class:'tools'},
-    el('button',{class:'sec',onclick:exportProgress},'Export'),el('button',{class:'sec',onclick:importProgress},'Import'),el('button',{class:'sec',onclick:()=>{if(confirm('Erase all progress in this browser?')){['av_progress','av_graded','av_saved'].forEach(k=>localStorage.removeItem(k));location.reload()}}},'Reset')));
+    el('button',{class:'sec',onclick:exportProgress},'Export'),el('button',{class:'sec',onclick:importProgress},'Import'),el('button',{class:'sec',onclick:()=>{if(confirm('Erase all progress in this browser?')){PKEYS.forEach(k=>localStorage.removeItem(k));location.reload()}}},'Reset')));
   const crumb=$('#crumb');if(crumb){const [,a,b]=cur.split('/');let t='Dashboard',g='';if(a==='m'){const m=MODS.find(x=>x[0]===b);if(m){g=m[2];t=m[1]}}else if(a==='lab'){const l=LABS.find(x=>x[0]===b);if(l){g='Labs';t=l[1].replace(/^Lab \d+ · /,'')}}else if(a==='drill'){g='Reference';t='Flashcard drill'}crumb.innerHTML='';crumb.append(g?el('span',{},g+'  /  '):'',el('b',{},t))}
 }
-const PKEYS=['av_progress','av_graded','av_saved'];
+const PKEYS=['av_progress','av_graded','av_saved','av_pod'];
 function exportProgress(){const o={};PKEYS.forEach(k=>{const v=localStorage.getItem(k);if(v!=null)o[k]=v});const a=el('a',{href:URL.createObjectURL(new Blob([JSON.stringify(o)],{type:'application/json'})),download:'aviation-progress.json'});document.body.append(a);a.click();a.remove()}
 function importProgress(){const i=el('input',{type:'file',accept:'.json,application/json'});i.onchange=async()=>{try{const o=JSON.parse(await i.files[0].text());PKEYS.forEach(k=>{if(k in o)localStorage.setItem(k,o[k])});location.reload()}catch(e){alert('That file is not a progress export.')}};i.click()}
 // ---------- quizzes ----------
@@ -65,6 +65,7 @@ async function showModule(mid){curMod=mid;const main=$('#main');main.innerHTML='
   const h1=$('h1',box),lede=$('.lede',box);const words=box.textContent.split(/\s+/).length;const nq=$$('.quiz,.num',box).length;
   const head=el('header',{class:'modhead'},el('div',{class:'kicker'},`${meta[2]}  ·  ${mid==='d00'?'Diagnostic':mid==='x14'?'Final exam':'Module '+MLABEL(mid)}`),el('h1',{},h1?h1.textContent:meta[1]),lede?el('p',{class:'lede'},lede.textContent):null,
     el('div',{class:'chips'},el('span',{},`${Math.max(5,Math.round(words/230))} min`),el('span',{},`${nq} questions`),$$('[data-widget]',box).length?el('span',{},`${$$('[data-widget]',box).length} interactive tool`):null),el('div',{class:'modprog',id:'modprog'}));
+  if (mid.startsWith('m')) $('.chips',head).append(el('a',{href:'podcast.html#'+mid},'Listen to this lesson'));
   h1&&h1.remove();lede&&lede.remove();
   const hs=$$('h2',box);hs.forEach((h,k)=>{h.id='s'+(k+1)});
   const toc=el('nav',{class:'toc'},el('div',{class:'tt'},'On this page'),...hs.map(h=>el('a',{href:'#',onclick:e=>{e.preventDefault();h.scrollIntoView({behavior:'smooth',block:'start'})},'data-for':h.id},h.textContent)));

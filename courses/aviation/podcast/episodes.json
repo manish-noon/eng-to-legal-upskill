@@ -1,0 +1,155 @@
+[
+ {
+  "num": "01",
+  "title": "Who owns the aircraft?",
+  "file": "ep01.mp3",
+  "transcript": "ep01.md",
+  "seconds": 1134,
+  "bytes": 9072786,
+  "lesson": "#/m/m01"
+ },
+ {
+  "num": "02",
+  "title": "What exactly did you buy, and at what price?",
+  "file": "ep02.mp3",
+  "transcript": "ep02.md",
+  "seconds": 1105,
+  "bytes": 8838952,
+  "lesson": "#/m/m02"
+ },
+ {
+  "num": "03",
+  "title": "From the first advance to the delivery signature",
+  "file": "ep03.mp3",
+  "transcript": "ep03.md",
+  "seconds": 1006,
+  "bytes": 8048876,
+  "lesson": "#/m/m03"
+ },
+ {
+  "num": "04",
+  "title": "When the aircraft is late or defective",
+  "file": "ep04.mp3",
+  "transcript": "ep04.md",
+  "seconds": 1057,
+  "bytes": 8454370,
+  "lesson": "#/m/m04"
+ },
+ {
+  "num": "05",
+  "title": "Buy the used aircraft that is actually there",
+  "file": "ep05.mp3",
+  "transcript": "ep05.md",
+  "seconds": 1002,
+  "bytes": 8019304,
+  "lesson": "#/m/m05"
+ },
+ {
+  "num": "06",
+  "title": "Reading the closing set",
+  "file": "ep06.mp3",
+  "transcript": "ep06.md",
+  "seconds": 1076,
+  "bytes": 8607571,
+  "lesson": "#/m/m05b"
+ },
+ {
+  "num": "07",
+  "title": "Rent and security",
+  "file": "ep07.mp3",
+  "transcript": "ep07.md",
+  "seconds": 984,
+  "bytes": 7876237,
+  "lesson": "#/m/m06"
+ },
+ {
+  "num": "08",
+  "title": "Maintenance and return",
+  "file": "ep08.mp3",
+  "transcript": "ep08.md",
+  "seconds": 961,
+  "bytes": 7686546,
+  "lesson": "#/m/m07"
+ },
+ {
+  "num": "09",
+  "title": "Running the aircraft under lease",
+  "file": "ep09.mp3",
+  "transcript": "ep09.md",
+  "seconds": 1033,
+  "bytes": 8262556,
+  "lesson": "#/m/m07b"
+ },
+ {
+  "num": "10",
+  "title": "Casualty and default",
+  "file": "ep10.mp3",
+  "transcript": "ep10.md",
+  "seconds": 1011,
+  "bytes": 8085714,
+  "lesson": "#/m/m08"
+ },
+ {
+  "num": "11",
+  "title": "Reading a marked lease",
+  "file": "ep11.mp3",
+  "transcript": "ep11.md",
+  "seconds": 935,
+  "bytes": 7479764,
+  "lesson": "#/m/m08b"
+ },
+ {
+  "num": "12",
+  "title": "Financing structures",
+  "file": "ep12.mp3",
+  "transcript": "ep12.md",
+  "seconds": 1007,
+  "bytes": 8054994,
+  "lesson": "#/m/m09"
+ },
+ {
+  "num": "13",
+  "title": "Priority, de-registration and export",
+  "file": "ep13.mp3",
+  "transcript": "ep13.md",
+  "seconds": 1092,
+  "bytes": 8739298,
+  "lesson": "#/m/m10"
+ },
+ {
+  "num": "14",
+  "title": "Tax, governing law and the place of recovery",
+  "file": "ep14.mp3",
+  "transcript": "ep14.md",
+  "seconds": 1008,
+  "bytes": 8065578,
+  "lesson": "#/m/m11"
+ },
+ {
+  "num": "15",
+  "title": "Predict where a disputed term will land",
+  "file": "ep15.mp3",
+  "transcript": "ep15.md",
+  "seconds": 1016,
+  "bytes": 8127397,
+  "lesson": "#/m/m12"
+ },
+ {
+  "num": "16",
+  "title": "Make the sign, negotiate or walk call",
+  "file": "ep16.mp3",
+  "transcript": "ep16.md",
+  "seconds": 1071,
+  "bytes": 8569379,
+  "lesson": "#/m/m13"
+ },
+ {
+  "num": "17",
+  "title": "Three mandates at the deal desk",
+  "file": "ep17.mp3",
+  "transcript": "ep17.md",
+  "seconds": 1141,
+  "bytes": 9128093,
+  "lesson": "#/lab/dealdesk"
+ }
+]

@@ -1,0 +1,56 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Clearing the Aircraft Deal · Podcast</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script src="../../shared/theme.js" data-storage-key="av_theme"></script><link rel="stylesheet" href="../../shared/style.css"><link rel="alternate" type="application/rss+xml" href="podcast/feed.xml">
+<style>
+body{display:block}
+.pc{max-width:1060px;margin:0 auto;padding:22px 22px 200px}
+.nav{display:flex;align-items:center;gap:10px;font-size:13px;margin-bottom:28px;padding-bottom:16px;border-bottom:2px solid var(--ink)}.nav a{color:var(--mut);text-decoration:none}.nav a:hover{color:var(--ink)}.nav .sp{flex:1}
+.show{display:grid;grid-template-columns:minmax(170px,26%) 1fr;gap:clamp(20px,4vw,46px);align-items:center;margin-bottom:30px;padding-bottom:25px;border-bottom:1px solid var(--ink)}
+.art{width:100%;aspect-ratio:1;display:flex;flex-direction:column;justify-content:flex-end;padding:clamp(15px,2vw,27px);overflow:hidden;color:#fff;border:1px solid var(--ink);box-shadow:6px 6px 0 var(--acc);background:linear-gradient(0deg,#231811ed 5%,#38241330 95%),url(assets/apron.webp) center/cover}
+.art b{font:500 clamp(32px,3.2vw,49px)/.95 var(--display);letter-spacing:-.06em}.art span{font:500 11px/1.3 var(--ui);opacity:.75;letter-spacing:.06em;text-transform:uppercase;margin-top:6px}
+.show h1{font:500 clamp(40px,5.6vw,78px)/1.05 var(--display);letter-spacing:-.065em;margin:4px 0 10px}.show p{margin:0;color:var(--mut);font:16.5px/1.55 var(--read)}
+.meta{display:flex;gap:16px;flex-wrap:wrap;margin-top:14px;font-size:12.5px;color:var(--mut)}.meta b{color:var(--ink);font-weight:600}
+.actions .feed{align-self:center;color:var(--acc);font-weight:600}.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.ov{display:flex;align-items:center;gap:12px;margin:0 0 10px;font-size:12.5px;color:var(--mut)}.ov .bar{flex:1}
+.ep{display:grid;grid-template-columns:40px 1fr auto;gap:14px;align-items:center;padding:15px 4px;border-top:1px solid var(--line-2);cursor:pointer;transition:border-color .12s}
+.ep:hover{border-color:var(--ink)}.ep:target{border-left:4px solid var(--acc);padding-left:12px}.ep.on{padding-left:12px;border-left:4px solid var(--acc);background:var(--acc-soft)}
+.pb{width:40px;height:40px;border-radius:50%;background:var(--acc-soft);color:var(--acc);display:flex;align-items:center;justify-content:center;font-size:14px;border:0;padding:0}
+.ep.on .pb{background:var(--acc);color:var(--acc-ink)}
+.ep .t{font:600 15px/1.35 var(--ui);color:var(--ink)}.ep .no{font:500 11.5px var(--mono);color:var(--mut);margin-right:6px}
+.ep .s{font-size:12.5px;color:var(--mut);margin-top:3px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.ep .s a{color:var(--mut)}.ep .s a:hover{color:var(--acc)}
+.ep .pr{height:3px;background:var(--surface-2);border-radius:3px;overflow:hidden;margin-top:8px;max-width:240px}.ep .pr i{display:block;height:100%;background:var(--acc)}
+.ep .d{font:500 12.5px var(--mono);color:var(--mut)}.ep .ck{color:var(--ok);font-weight:700}
+.player{position:fixed;left:0;right:0;bottom:0;z-index:30;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:2px solid var(--acc);padding:12px 20px calc(12px + env(safe-area-inset-bottom))}
+.pi{max-width:880px;margin:0 auto;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center}
+.ctl{display:flex;gap:6px;align-items:center}.ctl button{background:transparent;border:1px solid var(--line);color:var(--ink);width:38px;height:38px;padding:0;border-radius:50%;font-size:12px;font-weight:600}
+.ctl button.main{width:48px;height:48px;background:var(--acc);border-color:var(--acc);color:var(--acc-ink);font-size:17px}
+.now{min-width:0}.now .t{font:600 14px/1.3 var(--ui);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.now .t span{color:var(--mut);font-weight:500}
+.scrub{display:flex;align-items:center;gap:10px;margin-top:6px;font:500 11.5px var(--mono);color:var(--mut)}.scrub input{flex:1;width:auto;padding:0;accent-color:var(--acc);height:4px;border:0;box-shadow:none}
+.rate{background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:20px;padding:6px 12px;font:600 12px var(--mono)}
+.tr{margin-top:34px}.episode-heading,.tr h2{font:500 34px var(--display);margin:20px 0 8px;letter-spacing:-.035em}
+.trbody{font:17px/1.75 var(--read);color:var(--ink-2);max-width:70ch}.trbody p{margin:0 0 14px}.trbody b{font:650 12px/1 var(--ui);text-transform:uppercase;letter-spacing:.08em;color:var(--acc);display:block;margin-bottom:3px}.trbody p.leo b{color:var(--warn)}
+@media(max-width:640px){
+ .pc{padding-left:18px;padding-right:18px}.show{grid-template-columns:1fr;gap:16px}.art{width:150px}.show h1{font-size:42px}
+ .pi{grid-template-columns:1fr;gap:8px}.ctl{justify-content:center}.ep{grid-template-columns:40px 1fr}.ep .d{display:none}
+}
+</style></head>
+<body><div class="pc">
+<div class="nav"><a href="./">← Course</a><span class="mut">/</span><span>Podcast</span><span class="sp"></span><a href="docs/index.html">Documents</a><button class="iconbtn" data-themebtn></button></div>
+<section class="show"><div class="art"><b>Clearing the<br><i>Aircraft Deal</i></b><span>Aircraft agreements</span></div>
+<div><span class="kicker">Aircraft sales &amp; leasing · Podcast</span><h1>Clearing the Aircraft Deal</h1><p>An aviation lawyer and a former CTO follow disputed terms from the markup to the closing table. Listen alongside each module, then work three mandates to a sign, negotiate or walk decision.</p>
+<div class="meta" id="meta"></div>
+<div class="actions"><button id="playall" disabled>▶ Play series</button><button class="sec" id="copyfeed">Copy RSS feed</button><a class="feed" href="podcast/feed.xml">RSS feed</a></div></div></section>
+<div class="ov"><span id="ovt"></span><div class="bar"><i id="ovb"></i></div></div>
+<h2 class="episode-heading">Episodes</h2><div id="list"><p class="mut">Loading…</p></div>
+<section class="tr" id="tr" hidden><h2 id="trh" tabindex="-1"></h2><div class="trbody" id="trb"></div></section>
+<p class="mut" style="font-size:13px;margin-top:30px">Fictional hosts. Generated with Gemini from the published course. Numbers and statistics follow the course, with the same caveats. To subscribe in Apple Podcasts, open Library, choose “Follow a Show by URL” and paste the RSS feed.</p>
+</div>
+<p id="notice" role="status"></p>
+<div class="player" id="player" hidden><div class="pi">
+<div class="ctl"><button id="b15" title="Back 15 s">−15</button><button class="main" id="bp" aria-label="Play">▶</button><button id="f30" title="Forward 30 s">+30</button></div>
+<div class="now"><div class="t" id="nt"></div><div class="scrub"><span id="tc">0:00</span><input type="range" id="sk" aria-label="Playback position" min="0" max="1000" value="0"><span id="td">0:00</span></div></div>
+<button class="rate" id="rt" title="Playback speed">1×</button></div><audio id="au" preload="metadata"></audio></div>
+<script src="podcast-player.js"></script>
+</body></html>

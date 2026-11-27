@@ -220,8 +220,14 @@ def index(c):
         wpm = words / (dur / 60) if dur else 0
         flag = "" if 140 <= wpm <= 200 else "   <-- CHECK (truncated or garbled audio?)"
         print("ep%s %5.1f min %5d words %4.0f wpm%s" % (num, dur / 60, words, wpm, flag))
-        eps.append({"num": num, "title": ep["title"], "file": "ep%s.mp3" % num, "transcript": "ep%s.md" % num,
-                    "seconds": round(dur), "bytes": os.path.getsize(mp3)})
+        item = {"num": num, "title": ep["title"], "file": "ep%s.mp3" % num, "transcript": "ep%s.md" % num,
+                "seconds": round(dur), "bytes": os.path.getsize(mp3)}
+        source = ep["sources"][0]
+        if isinstance(source, str):
+            item["lesson"] = "#/m/" + source
+        elif "lesson" in ep:
+            item["lesson"] = ep["lesson"]
+        eps.append(item)
     json.dump(eps, open(os.path.join(c["out"], "episodes.json"), "w"), indent=1)
     return eps
 

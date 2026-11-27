@@ -1,0 +1,152 @@
+{
+  "show": "Clearing the Aircraft Deal",
+  "album": "Clearing the Aircraft Deal · Aircraft agreements for engineers",
+  "topic": "reading, negotiating and valuing aircraft purchases and leases",
+  "guid_prefix": "clearing-the-aircraft-deal",
+  "feed_description": "An aviation lawyer and an operator read the paper, trace the money and make the sign, negotiate or walk call.",
+  "listener": "A fast Dubai-based CTO with 17 years in technology, building an AI legal-services company, new to law. Help them find the controlling clause and give a concrete commercial instruction.",
+  "hosts": {
+    "Mira": {
+      "voice": "Kore",
+      "role": "Fictional aviation transactions lawyer who follows an edit through the operative clause, schedules and release instructions."
+    },
+    "Leo": {
+      "voice": "Charon",
+      "role": "Fictional former CTO and fleet operator who challenges timing, cash assumptions and whether a concession works on the day."
+    }
+  },
+  "words": "2,800 to 3,400",
+  "pace": "brisk conversational pace, clear figures",
+  "extra_rules": "7. Label hypothetical exercises as hypothetical. Distinguish observations in a filed clause from estimates of leverage. Give precise commercial instructions. Preserve the difference between approval, obligation and evidence. Only speak financial amounts and time limits from the supplied course text. Make both voices sound natural. Finish at the three takeaways. Do not forecast next week’s topic or read quiz options aloud.",
+  "episodes": [
+    {
+      "num": "01",
+      "title": "Who owns the aircraft?",
+      "sources": [
+        "m01"
+      ]
+    },
+    {
+      "num": "02",
+      "title": "What exactly did you buy, and at what price?",
+      "sources": [
+        "m02"
+      ]
+    },
+    {
+      "num": "03",
+      "title": "From the first advance to the delivery signature",
+      "sources": [
+        "m03"
+      ]
+    },
+    {
+      "num": "04",
+      "title": "When the aircraft is late or defective",
+      "sources": [
+        "m04"
+      ]
+    },
+    {
+      "num": "05",
+      "title": "Buy the used aircraft that is actually there",
+      "sources": [
+        "m05"
+      ]
+    },
+    {
+      "num": "06",
+      "title": "Reading the closing set",
+      "sources": [
+        "m05b"
+      ]
+    },
+    {
+      "num": "07",
+      "title": "Rent and security",
+      "sources": [
+        "m06"
+      ]
+    },
+    {
+      "num": "08",
+      "title": "Maintenance and return",
+      "sources": [
+        "m07"
+      ]
+    },
+    {
+      "num": "09",
+      "title": "Running the aircraft under lease",
+      "sources": [
+        "m07b"
+      ]
+    },
+    {
+      "num": "10",
+      "title": "Casualty and default",
+      "sources": [
+        "m08"
+      ]
+    },
+    {
+      "num": "11",
+      "title": "Reading a marked lease",
+      "sources": [
+        "m08b"
+      ]
+    },
+    {
+      "num": "12",
+      "title": "Financing structures",
+      "sources": [
+        "m09"
+      ]
+    },
+    {
+      "num": "13",
+      "title": "Priority, de-registration and export",
+      "sources": [
+        "m10"
+      ]
+    },
+    {
+      "num": "14",
+      "title": "Tax, governing law and the place of recovery",
+      "sources": [
+        "m11"
+      ]
+    },
+    {
+      "num": "15",
+      "title": "Predict where a disputed term will land",
+      "sources": [
+        "m12"
+      ]
+    },
+    {
+      "num": "16",
+      "title": "Make the sign, negotiate or walk call",
+      "sources": [
+        "m13"
+      ]
+    },
+    {
+      "num": "17",
+      "title": "Three mandates at the deal desk",
+      "lesson": "#/lab/dealdesk",
+      "words": "3,200 to 3,800",
+      "sources": [
+        {
+          "file": "labs.js",
+          "from": "const MANDATES=",
+          "to": "LAB.dealdesk",
+          "label": "Three fictional client mandates and calculations:"
+        },
+        "m13"
+      ]
+    }
+  ],
+  "artwork": "podcast/cover.jpg",
+  "release_date": "2026-11-27"
+}

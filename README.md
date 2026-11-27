@@ -6,7 +6,7 @@ Static, self-paced courses that teach legal practice to engineers. No backend: e
 | Course | Path | What's in it |
 |---|---|---|
 | Calling the Deal: private M&A from zero | `courses/ma/` | 16 modules + diagnostic + final exam, 7 labs on 22 real SEC-filed share purchase agreements, 17-episode podcast (5h 17m), handbook, cheatsheet |
-| Clearing the aircraft deal | `courses/aviation/` | 16 modules + diagnostic + final exam, 10 labs, 21 filed exhibits, flashcards, handbook and cheatsheet |
+| Clearing the aircraft deal | `courses/aviation/` | 16 modules + diagnostic + final exam, 10 labs, 21 filed exhibits, [17-episode podcast](courses/aviation/podcast.html) (4h 54m), flashcards, handbook and cheatsheet |
 
 ## Layout
 ```
@@ -47,6 +47,8 @@ python3 tools/podcast.py ma            # all episodes, skips existing mp3s (conf
 python3 tools/podcast.py ma 05         # one episode (delete its mp3 first)
 python3 tools/podcast.py ma --index    # episodes.json + words-per-minute check
 ```
+Use `aviation` as the course ID for the aircraft series. Its final episode follows the three fictional deal-desk mandates.
+
 Scripts: Gemini Pro, from the module text. Voices: Gemini TTS, two speakers. Reads `.env`.
 
 ## Caveats
@@ -55,4 +57,4 @@ Scripts: Gemini Pro, from the module text. Voices: Gemini TTS, two speakers. Rea
 
 ### Aviation course
 
-[Clearing the aircraft deal](courses/aviation/) includes 16 modules, a diagnostic, a final exam, ten labs, flashcards and printable references. The [source manifest](build/aviation/sources/manifest.json) records the historical SEC exhibit URLs and filing dates. The [public marking key](courses/aviation/data/precedents.json) includes a question, short quotation and section for each graded field. The negotiation desk uses fictional markups and later documents. The open-file desk tests a reader on four public filings, including evidence selection and a written client instruction. A final cold read asks for a written recommendation before revealing any model answer. A filed form can demonstrate drafting without establishing an executed outcome. The four-clause rent comparison is a teaching sample. Local counsel must verify current rules, declarations and procedures for a live transaction.
+[Clearing the aircraft deal](courses/aviation/) includes 16 modules, a diagnostic, a final exam, ten labs, flashcards and printable references. The [audio series](courses/aviation/podcast.html) pairs each lesson with a two-host episode and closes with three sign, negotiate or walk decisions. Each episode includes its transcript and a link back to the lesson or lab. Subscribe using the [RSS feed](https://manish-noon.github.io/eng-to-legal-upskill/courses/aviation/podcast/feed.xml). The [source manifest](build/aviation/sources/manifest.json) records the historical SEC exhibit URLs and filing dates. The [public marking key](courses/aviation/data/precedents.json) includes a question, short quotation and section for each graded field. The negotiation desk uses fictional markups and later documents. The open-file desk tests a reader on four public filings, including evidence selection and a written client instruction. A final cold read asks for a written recommendation before revealing any model answer. A filed form can demonstrate drafting without establishing an executed outcome. The four-clause rent comparison is a teaching sample. Local counsel must verify current rules, declarations and procedures for a live transaction.

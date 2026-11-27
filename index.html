@@ -10,7 +10,7 @@
 </head>
 <body>
   <main class="catalog">
-    <nav class="catalog-nav" aria-label="Site navigation"><b>Engineer to Legal</b><a href="courses/ma/podcast.html">Podcast</a><button class="iconbtn" data-themebtn title="Theme"></button></nav>
+    <nav class="catalog-nav" aria-label="Site navigation"><b>Engineer to Legal</b><a href="#list">Courses</a><button class="iconbtn" data-themebtn title="Theme"></button></nav>
     <header class="catalog-head"><h1>Legal practice<br><em>for engineers</em></h1><p>Learn to read the agreement, trace the money, and make the call. Self-paced courses built around real transaction documents.</p></header>
     <h2>Courses</h2>
     <div id="list"></div>
@@ -45,6 +45,14 @@
         copy.append(topic,title,description,meta);
         link.append(copy);
         article.append(link);
+        if (course.podcast) {
+          const audio = document.createElement('a');
+          audio.className = 'edition-audio';
+          audio.href = course.podcast;
+          audio.textContent = 'Listen to the podcast →';
+          audio.setAttribute('aria-label', course.title + ' podcast');
+          article.append(audio);
+        }
         document.getElementById('list').append(article);
       }
     }

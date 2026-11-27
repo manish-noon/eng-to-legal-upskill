@@ -13,3 +13,4 @@ body{display:block}
 .edition a:hover h3{color:var(--acc)}.edition p{margin:0 0 12px;max-width:54ch;color:var(--ink-2);font:17px/1.45 var(--read)}
 .edition small{font:11px var(--mono);color:var(--mut)}
 @media(max-width:650px){.catalog-head,#list{grid-template-columns:1fr}.catalog-head{gap:16px}.catalog-head p{font-size:18px}.edition img{height:170px}}
+.edition>a.edition-audio{display:inline-block;margin-bottom:16px;color:var(--acc);font-weight:600}.edition-audio:hover{text-decoration:underline}

@@ -17,10 +17,10 @@
     "subtitle": "Aircraft sales and leasing",
     "description": "Read aircraft agreements from draft to delivery. Trace edits through the closing documents, price the remaining risk, and advise on real public filings.",
     "path": "courses/aviation/",
-    "podcast": null,
+    "podcast": "courses/aviation/podcast.html",
     "status": "live",
     "modules": 16,
-    "hours": "16–21h estimated",
+    "hours": "16–21h study + 4h 54m audio",
     "cover": "courses/aviation/assets/apron.webp"
   }
 ]

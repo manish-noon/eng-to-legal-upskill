@@ -21,3 +21,4 @@
 .later-file{scroll-margin-top:64px}
 .reading-desk [aria-live] label:has(input[type=checkbox]){display:flex;align-items:baseline;gap:.65em;margin:.65em 0;cursor:pointer}
 .reading-desk input[type=checkbox]{flex:none}
+.modhead .chips a{align-self:center;color:var(--acc);font:600 13px var(--ui)}
