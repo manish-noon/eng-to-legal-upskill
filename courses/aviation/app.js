@@ -25,7 +25,29 @@ function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.inn
 const PKEYS=['av_progress','av_graded','av_saved'];
 function exportProgress(){const o={};PKEYS.forEach(k=>{const v=localStorage.getItem(k);if(v!=null)o[k]=v});const a=el('a',{href:URL.createObjectURL(new Blob([JSON.stringify(o)],{type:'application/json'})),download:'aviation-progress.json'});document.body.append(a);a.click();a.remove()}
 function importProgress(){const i=el('input',{type:'file',accept:'.json,application/json'});i.onchange=async()=>{try{const o=JSON.parse(await i.files[0].text());PKEYS.forEach(k=>{if(k in o)localStorage.setItem(k,o[k])});location.reload()}catch(e){alert('That file is not a progress export.')}};i.click()}
-document.addEventListener('click',e=>{if(e.target.closest('#menu')){document.body.classList.toggle('nav');return}if(document.body.classList.contains('nav')&&(e.target.closest('#side a')||!e.target.closest('#side')))document.body.classList.remove('nav')});
+function setNavigation(open) {
+  document.body.classList.toggle('nav',open);
+  $('#menu').setAttribute('aria-expanded',String(open));
+}
+document.addEventListener('click',event=>{
+  if(event.target.closest('#menu')){
+    const open=!document.body.classList.contains('nav');
+    setNavigation(open);
+    if(open) $('#side a').focus();
+    return;
+  }
+  const anchor=event.target.closest('a');
+  if(anchor && anchor.getAttribute('href')===location.hash && location.hash.startsWith('#/home/')){
+    document.getElementById(location.hash.split('/')[2])?.scrollIntoView();
+  }
+  if(document.body.classList.contains('nav') && (event.target.closest('#side a') || !event.target.closest('#side'))) setNavigation(false);
+});
+document.addEventListener('keydown',event=>{
+  if(event.key==='Escape' && document.body.classList.contains('nav')){
+    setNavigation(false);
+    $('#menu').focus();
+  }
+});
 
 // ---------- quizzes ----------
 function rec(id,correct){const v=P.items[id]||(P.items[id]={first:null,done:false});if(v.first===null)v.first=correct;if(correct)v.done=true;saveP();renderSide();updateFoot()}
@@ -82,22 +104,8 @@ async function showDrill(){const main=$('#main');main.innerHTML='<h1>Flashcard d
   const grade=ok=>{const c=P.cards[cur.k]||{box:0};c.box=ok?Math.min(c.box+1,5):0;c.due=Date.now()+[1,10,60,360,1440,4320][c.box]*60000;P.cards[cur.k]=c;saveP();pick()};
   document.onkeydown=e=>{if(location.hash!=='#/drill')return;if(e.key===' '&&!flipped){e.preventDefault();flipped=true;draw()}else if(flipped&&e.key==='1')grade(true);else if(flipped&&e.key==='2')grade(false)};pick()}
 
-// ---------- home ----------
-function showHome(){const main=$('#main');main.innerHTML='';const nextM=MODS.find(([id])=>!modScore(id).complete)||MODS[MODS.length-1];
-  const tot=MODS.reduce((a,[id])=>{const m=modScore(id);a.n+=m.n||10;a.a+=m.ans;a.c+=m.complete?1:0;return a},{n:0,a:0,c:0});const pct=Math.round(100*tot.a/tot.n);const nm=modScore(nextM[0]);
-  main.append(el('section',{class:'dash-hero'},el('div',{class:'kicker'},'Aircraft purchase and leasing'),el('h1',{},'Clearing the aircraft deal'),
-    el('p',{class:'lede'},'An aircraft can be ready to fly and still be impossible to deliver. Learn to read the paper, predict what each side will concede, and price the risk before you sign.')));
-  const cont=el('a',{href:'#/m/'+nextM[0],class:'continue'},el('div',{class:'cl'},el('span',{class:'kicker'},nm.ans?'Continue where you left off':'Start here'),el('b',{},nextM[1]),el('span',{class:'mut'},`${nextM[2]} · ${nm.n?`${nm.ans} of ${nm.n} answered`:'not started'}`),el('div',{class:'bar',style:'margin-top:12px;max-width:340px'},el('i',{style:`width:${nm.n?100*nm.ans/nm.n:0}%`}))),el('span',{class:'go'},'→'));
-  const ring=el('div',{class:'ring',style:`--p:${pct}`},el('div',{},el('b',{},pct+'%'),el('span',{},'complete')));
-  main.append(el('div',{class:'dash-top'},cont,el('div',{class:'dash-stats'},ring,el('div',{class:'sl'},el('div',{},el('b',{},`${tot.c}/${MODS.length}`),' course sections'),el('div',{},el('b',{},`${Object.keys(P.labs).length}/${LABS.length}`),' labs'),el('div',{},el('a',{href:'docs/index.html'},'Browse the exhibits →'))))));
-  const cur=el('div',{class:'curr'});let g='',grp;MODS.forEach(([id,t,gg])=>{if(gg!==g){g=gg;grp=el('div',{class:'cg'},el('div',{class:'cgh'},gg));cur.append(grp)}const m=modScore(id);const st=m.complete?(id==='d00'||m.pct>=80?'pass':'low'):m.ans?'prog':'';
-    grp.append(el('a',{href:'#/m/'+id,class:'ci '+st},el('span',{class:'dot'}),el('span',{class:'cn'},MLABEL(id)),el('span',{class:'ct'},t),el('span',{class:'cs'},m.complete?`${m.pct}%`:m.ans?`${m.ans}/${m.n}`:'')))});
-  main.append(el('h2',{class:'sec-h'},'Curriculum'),cur);
-  main.append(el('h2',{class:'sec-h'},'Labs on real documents'),el('div',{class:'cards'},LABS.map(([id,t,d])=>el('a',{href:'#/lab/'+id},el('span',{class:'kicker'},t.split(' · ')[0]),el('b',{},t.split(' · ')[1]||t),el('span',{},d),P.labs[id]?el('span',{class:'ok',style:'font-weight:600'},P.labs[id]):null))));
-  main.append(el('h2',{class:'sec-h'},'Reference'),el('div',{class:'cards ref'},[['handbook.html','▤','Handbook','Everything in the course, compressed, with glossary'],['cheatsheet.html','▦','Cheatsheet','One printable page for the meeting'],['docs/index.html','❐','Documents','SEC exhibits, readable copies and PDFs'],['#/drill','↻','Flashcards','Every key term, spaced repetition']].map(([h,i,t,d])=>el('a',{href:h},el('span',{class:'ico'},i),el('b',{},t),el('span',{},d)))));
-  main.append(el('div',{class:'prose limits',html:`<h2>How to use this course</h2><p>Take the diagnostic before opening the handbook. Work through a purchase and a lease in the clause hunt, then test your judgment at the deal desk. Modules and the final exam use an 80% first-try pass mark.</p><h2>What the filings can tell you</h2><p>The library includes historic filed contracts and common terms. Redactions, omitted schedules and later amendments limit what each exhibit establishes. Check the original layout before relying on a table. For a live transaction, verify current terms, local procedures and enforcement with qualified counsel.</p>`}))}
-
-function route(){const h=location.hash||'#/home';curMod=null;document.onkeydown=null;renderSide();const[, a, b]=h.split('/');
-  if(a==='m'&&MODS.some(m=>m[0]===b))return showModule(b);if(a==='lab'&&LAB[b]){$('#main').innerHTML='';window.scrollTo(0,0);const view=el('div');$('#main').append(view);return Promise.resolve(LAB[b](view)).catch(e=>{view.textContent='Could not load this lab. Reload to try again.';console.error(e)})}if(a==='drill')return showDrill();showHome();window.scrollTo(0,0)}
+function route(){const h=location.hash||'#/home';curMod=null;document.onkeydown=null;const[, a, b]=h.split('/');
+  document.body.classList.toggle('journal-home',a==='home');setNavigation(false);renderSide();
+  if(a==='m'&&MODS.some(m=>m[0]===b))return showModule(b);if(a==='lab'&&LAB[b]){$('#main').innerHTML='';window.scrollTo(0,0);const view=el('div');$('#main').append(view);return Promise.resolve(LAB[b](view)).catch(e=>{view.textContent='Could not load this lab. Reload to try again.';console.error(e)})}if(a==='drill')return showDrill();showHome(b)}
 window.addEventListener('scroll',()=>{const b=$('#rp');if(!b)return;const h=document.documentElement;b.style.width=(curMod?100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight):0)+'%'},{passive:true});
 window.addEventListener('hashchange',route);loadP().then(route);
