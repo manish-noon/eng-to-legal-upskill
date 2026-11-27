@@ -1,17 +1,54 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Engineer to Legal · Courses</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<script src="shared/theme.js"></script><link rel="stylesheet" href="shared/style.css">
-<style>body{display:block}.w{max-width:980px;margin:0 auto;padding:28px 22px 100px}.nav{display:flex;align-items:center;margin-bottom:40px}.nav .sp{flex:1}.nav b{font:700 15px var(--ui)}
-.course{display:grid;grid-template-columns:1fr auto;gap:20px;align-items:center;padding:26px 28px;border:1px solid var(--line);border-radius:16px;background:var(--surface);text-decoration:none;color:var(--ink);margin:14px 0;transition:border-color .12s,box-shadow .12s}
-.course:hover{border-color:var(--acc);box-shadow:var(--shadow)}.course h2{margin:6px 0 8px;font-size:26px}.course p{margin:0;color:var(--mut);font:16.5px/1.55 var(--read)}
-.course .m{display:flex;gap:14px;margin-top:12px;font-size:12.5px;color:var(--mut)}.course .go{width:48px;height:48px;border-radius:50%;background:var(--acc);color:var(--acc-ink);display:flex;align-items:center;justify-content:center;font-size:20px}
-.course .sub{display:flex;gap:14px;margin-top:14px}.course .sub a{font-size:13px}</style></head>
-<body><div class="w"><div class="nav"><b>Engineer to Legal</b><span class="sp"></span><button class="iconbtn" data-themebtn></button></div>
-<div class="kicker">Courses</div><h1 style="font-size:44px;margin:8px 0 12px">Legal practice for engineers</h1>
-<p class="lede" style="max-width:62ch">Self-paced courses that teach the mechanisms behind legal work, tested on real documents. Progress is stored in your browser only.</p>
-<div id="list"></div></div>
-<script>
-fetch('courses.json').then(r=>r.json()).then(cs=>{const L=document.getElementById('list');cs.forEach(c=>{const a=document.createElement('a');a.className='course';a.href=c.path;
-a.innerHTML=`<div><div class="kicker">${c.subtitle}</div><h2>${c.title}</h2><p>${c.description}</p><div class="m"><span>${c.modules} modules</span><span>${c.hours}</span><span>${c.status}</span></div>${c.podcast?`<div class="sub"><a href="${c.podcast}" onclick="event.stopPropagation()">♪ Podcast</a></div>`:''}</div><span class="go">→</span>`;L.append(a)})});
-</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>Engineer to Legal · Courses</title>
+  <script src="shared/theme.js"></script>
+  <link rel="stylesheet" href="shared/style.css">
+  <link rel="stylesheet" href="shared/catalog.css">
+</head>
+<body>
+  <main class="catalog">
+    <nav class="catalog-nav" aria-label="Site navigation"><b>Engineer to Legal</b><a href="courses/ma/podcast.html">Podcast</a><button class="iconbtn" data-themebtn title="Theme"></button></nav>
+    <header class="catalog-head"><h1>Legal practice<br><em>for engineers</em></h1><p>Learn to read the agreement, trace the money, and make the call. Self-paced courses built around real transaction documents.</p></header>
+    <h2>Courses</h2>
+    <div id="list"></div>
+  </main>
+  <script>
+    async function listCourses() {
+      const response = await fetch('courses.json');
+      if (!response.ok) throw new Error('Course list unavailable.');
+      const courses = await response.json();
+      for (const course of courses) {
+        const article = document.createElement('article');
+        article.className = 'edition';
+        const link = document.createElement('a');
+        link.href = course.path;
+        if (course.cover) {
+          const photo = document.createElement('img');
+          photo.alt = '';
+          photo.src = course.cover;
+          link.append(photo);
+        }
+        const copy = document.createElement('div');
+        copy.className = 'edition-copy';
+        const topic = document.createElement('span');
+        topic.className = 'kicker';
+        topic.textContent = course.subtitle;
+        const title = document.createElement('h3');
+        title.textContent = course.title;
+        const description = document.createElement('p');
+        description.textContent = course.description;
+        const meta = document.createElement('small');
+        meta.textContent = course.modules + ' modules · ' + course.hours;
+        copy.append(topic,title,description,meta);
+        link.append(copy);
+        article.append(link);
+        document.getElementById('list').append(article);
+      }
+    }
+    listCourses().catch(()=>document.getElementById('list').textContent='The course catalog could not load. Refresh to try again.');
+  </script>
+</body>
+</html>

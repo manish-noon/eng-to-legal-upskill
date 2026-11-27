@@ -25,30 +25,6 @@ function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.inn
 const PKEYS=['av_progress','av_graded','av_saved'];
 function exportProgress(){const o={};PKEYS.forEach(k=>{const v=localStorage.getItem(k);if(v!=null)o[k]=v});const a=el('a',{href:URL.createObjectURL(new Blob([JSON.stringify(o)],{type:'application/json'})),download:'aviation-progress.json'});document.body.append(a);a.click();a.remove()}
 function importProgress(){const i=el('input',{type:'file',accept:'.json,application/json'});i.onchange=async()=>{try{const o=JSON.parse(await i.files[0].text());PKEYS.forEach(k=>{if(k in o)localStorage.setItem(k,o[k])});location.reload()}catch(e){alert('That file is not a progress export.')}};i.click()}
-function setNavigation(open) {
-  document.body.classList.toggle('nav',open);
-  $('#menu').setAttribute('aria-expanded',String(open));
-}
-document.addEventListener('click',event=>{
-  if(event.target.closest('#menu')){
-    const open=!document.body.classList.contains('nav');
-    setNavigation(open);
-    if(open) $('#side a').focus();
-    return;
-  }
-  const anchor=event.target.closest('a');
-  if(anchor && anchor.getAttribute('href')===location.hash && location.hash.startsWith('#/home/')){
-    document.getElementById(location.hash.split('/')[2])?.scrollIntoView();
-  }
-  if(document.body.classList.contains('nav') && (event.target.closest('#side a') || !event.target.closest('#side'))) setNavigation(false);
-});
-document.addEventListener('keydown',event=>{
-  if(event.key==='Escape' && document.body.classList.contains('nav')){
-    setNavigation(false);
-    $('#menu').focus();
-  }
-});
-
 // ---------- quizzes ----------
 function rec(id,correct){const v=P.items[id]||(P.items[id]={first:null,done:false});if(v.first===null)v.first=correct;if(correct)v.done=true;saveP();renderSide();updateFoot()}
 function wireQuiz(q){const id=q.dataset.id,ul=$('ul',q);if(!ul)return;const lis=$$('li',ul);for(let i=lis.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));ul.append(lis[j]);lis.splice(j,1)}

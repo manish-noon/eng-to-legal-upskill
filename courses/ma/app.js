@@ -25,8 +25,6 @@ function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.inn
 const PKEYS=['ma_progress','ma_graded','ma_saved','ma_pod','ma_unlock'];
 function exportProgress(){const o={};PKEYS.forEach(k=>{const v=localStorage.getItem(k);if(v!=null)o[k]=v});const a=el('a',{href:URL.createObjectURL(new Blob([JSON.stringify(o)],{type:'application/json'})),download:'calling-the-deal-progress.json'});document.body.append(a);a.click();a.remove()}
 function importProgress(){const i=el('input',{type:'file',accept:'.json,application/json'});i.onchange=async()=>{try{const o=JSON.parse(await i.files[0].text());PKEYS.forEach(k=>{if(k in o)localStorage.setItem(k,o[k])});location.reload()}catch(e){alert('That file is not a progress export.')}};i.click()}
-document.addEventListener('click',e=>{if(e.target.closest('#menu')){document.body.classList.toggle('nav');return}if(document.body.classList.contains('nav')&&(e.target.closest('#side a')||!e.target.closest('#side')))document.body.classList.remove('nav')});
-
 // ---------- quizzes ----------
 function rec(id,correct){const v=P.items[id]||(P.items[id]={first:null,done:false});if(v.first===null)v.first=correct;if(correct)v.done=true;saveP();renderSide();updateFoot()}
 function wireQuiz(q){const id=q.dataset.id,ul=$('ul',q);if(!ul)return;const lis=$$('li',ul);for(let i=lis.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));ul.append(lis[j]);lis.splice(j,1)}
@@ -77,22 +75,8 @@ async function showDrill(){const main=$('#main');main.innerHTML='<h1>Flashcard d
   const grade=ok=>{const c=P.cards[cur.k]||{box:0};c.box=ok?Math.min(c.box+1,5):0;c.due=Date.now()+[1,10,60,360,1440,4320][c.box]*60000;P.cards[cur.k]=c;saveP();pick()};
   document.onkeydown=e=>{if(location.hash!=='#/drill')return;if(e.key===' '&&!flipped){e.preventDefault();flipped=true;draw()}else if(flipped&&e.key==='1')grade(true);else if(flipped&&e.key==='2')grade(false)};pick()}
 
-// ---------- home ----------
-function showHome(){const main=$('#main');main.innerHTML='';const nextM=MODS.find(([id])=>!modScore(id).complete)||MODS[MODS.length-1];
-  const tot=MODS.reduce((a,[id])=>{const m=modScore(id);a.n+=m.n||10;a.a+=m.ans;a.c+=m.complete?1:0;return a},{n:0,a:0,c:0});const pct=Math.round(100*tot.a/tot.n);const nm=modScore(nextM[0]);
-  main.append(el('section',{class:'dash-hero'},el('div',{class:'kicker'},'Private M&A, from zero'),el('h1',{},'Calling the Deal'),
-    el('p',{class:'lede'},'Start knowing nothing about lawyers or deals. Finish able to take an issues list, show from precedent where each term will land, price the risk left with the buyer, and say whether the deal is worth doing.')));
-  const cont=el('a',{href:'#/m/'+nextM[0],class:'continue'},el('div',{class:'cl'},el('span',{class:'kicker'},nm.ans?'Continue where you left off':'Start here'),el('b',{},nextM[1]),el('span',{class:'mut'},`${nextM[2]} · ${nm.n?`${nm.ans} of ${nm.n} answered`:'not started'}`),el('div',{class:'bar',style:'margin-top:12px;max-width:340px'},el('i',{style:`width:${nm.n?100*nm.ans/nm.n:0}%`}))),el('span',{class:'go'},'→'));
-  const ring=el('div',{class:'ring',style:`--p:${pct}`},el('div',{},el('b',{},pct+'%'),el('span',{},'complete')));
-  main.append(el('div',{class:'dash-top'},cont,el('div',{class:'dash-stats'},ring,el('div',{class:'sl'},el('div',{},el('b',{},`${tot.c}/${MODS.length}`),' modules'),el('div',{},el('b',{},`${Object.keys(P.labs).length}/${LABS.length}`),' labs'),el('div',{},el('a',{href:'podcast.html'},'♪ 17 episodes, 5h 17m'))))));
-  const cur=el('div',{class:'curr'});let g='',grp;MODS.forEach(([id,t,gg])=>{if(gg!==g){g=gg;grp=el('div',{class:'cg'},el('div',{class:'cgh'},gg));cur.append(grp)}const m=modScore(id);const st=m.complete?(m.pct>=80?'pass':'low'):m.ans?'prog':'';
-    grp.append(el('a',{href:'#/m/'+id,class:'ci '+st},el('span',{class:'dot'}),el('span',{class:'cn'},MLABEL(id)),el('span',{class:'ct'},t),el('span',{class:'cs'},m.complete?`${m.pct}%`:m.ans?`${m.ans}/${m.n}`:'')))});
-  main.append(el('h2',{class:'sec-h'},'Curriculum'),cur);
-  main.append(el('h2',{class:'sec-h'},'Labs on real documents'),el('div',{class:'cards'},LABS.map(([id,t,d])=>el('a',{href:'#/lab/'+id},el('span',{class:'kicker'},t.split(' · ')[0]),el('b',{},t.split(' · ')[1]||t),el('span',{},d),P.labs[id]?el('span',{class:'ok',style:'font-weight:600'},P.labs[id]):null))));
-  main.append(el('h2',{class:'sec-h'},'Reference'),el('div',{class:'cards ref'},[['podcast.html','♪','Podcast','Seventeen episodes, two hosts, one per module'],['handbook.html','▤','Handbook','Everything in the course, compressed, with glossary'],['cheatsheet.html','▦','Cheatsheet','One printable page for the meeting'],['docs/index.html','❐','Documents','The 22 signed agreements and PDFs'],['#/drill','↻','Flashcards','Every key term, spaced repetition']].map(([h,i,t,d])=>el('a',{href:h},el('span',{class:'ico'},i),el('b',{},t),el('span',{},d)))));
-  main.append(el('div',{class:'prose limits',html:`<h2>How to use it</h2><p>Take the diagnostic cold, then work the modules in order: 0 to 11 build on each other. Budget about 45 minutes a module and an hour a lab. A module counts as passed at 80 percent right first time. Short on time before a meeting: modules 0, 4, 7, 8, 9 and 13.</p><h2>Limits</h2><ul><li>The precedent set is 22 agreements that US-listed buyers had to file. Private UAE deals are rarely public, so confirm local practice with a practising lawyer.</li><li>Market statistics name their study and come from secondary summaries. Verify before repeating them in writing.</li><li>This teaches reading, reasoning and commercial advice. Legal sign-off stays with a qualified lawyer.</li></ul>`}))}
-
-function route(){const h=location.hash||'#/home';curMod=null;document.onkeydown=null;renderSide();const[, a, b]=h.split('/');
-  if(a==='m'&&MODS.some(m=>m[0]===b))return showModule(b);if(a==='lab'&&LAB[b]){$('#main').innerHTML='';window.scrollTo(0,0);return LAB[b]($('#main'))}if(a==='drill')return showDrill();showHome();window.scrollTo(0,0)}
+function route(){const h=location.hash||'#/home';curMod=null;document.onkeydown=null;const[, a, b]=h.split('/');
+  document.body.classList.toggle('journal-home',a==='home');setNavigation(false);renderSide();
+  if(a==='m'&&MODS.some(m=>m[0]===b))return showModule(b);if(a==='lab'&&LAB[b]){$('#main').innerHTML='';window.scrollTo(0,0);return LAB[b]($('#main'))}if(a==='drill')return showDrill();showHome(b)}
 window.addEventListener('scroll',()=>{const b=$('#rp');if(!b)return;const h=document.documentElement;b.style.width=(curMod?100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight):0)+'%'},{passive:true});
 window.addEventListener('hashchange',route);loadP().then(route);

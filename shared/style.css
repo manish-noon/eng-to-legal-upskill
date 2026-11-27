@@ -4,26 +4,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..600&family=JetBrains+Mono:wght@400;600&display=swap');
 
 :root{
-  --bg:#f7f6f3; --surface:#ffffff; --surface-2:#f1efea; --ink:#1b1b1f; --ink-2:#3d3d45; --mut:#6e6d76; --line:#e5e2db; --line-2:#d6d2c8;
-  --acc:#2d55c9; --acc-ink:#ffffff; --acc-soft:#e8edfb;
+  --atlas:#eee6d4; --atlas-ink:#483520; --atlas-line:#9b8263;
+  --display:Georgia,'Source Serif 4',serif;
+  --bg:#faf8f2; --surface:#fffdf8; --surface-2:#f1ece1; --ink:#261f19; --ink-2:#423831; --mut:#675d52; --line:#e2dccc; --line-2:#c9bfad;
+  --acc:#a13c20; --acc-ink:#ffffff; --acc-soft:#f7e7da;
   --ok:#147a4a; --ok-soft:#e5f3ec; --bad:#b42318; --bad-soft:#fbeae8; --warn:#9a6200; --warn-soft:#fbf1dd;
-  --hl:#fff1a8; --us:#eaf0fb; --uae:#e7f3ec; --trap:#fbefe1; --law:#efeaf8;
+  --hl:#fff1a8; --us:#f5ecdc; --uae:#e7f3ec; --trap:#fbefe1; --law:#eee6db;
   --shadow:0 1px 2px rgba(20,20,30,.05),0 4px 14px rgba(20,20,30,.05);
   --ui:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; --read:'Source Serif 4',Charter,'Iowan Old Style',Georgia,serif; --mono:'JetBrains Mono',ui-monospace,Menlo,monospace;
   --radius:10px; --side:288px; color-scheme:light; --card:var(--surface); --fg:var(--ink);
 }
 html[data-theme=dark]{
-  --bg:#0e1014; --surface:#15181e; --surface-2:#1b1f26; --ink:#e7e6e2; --ink-2:#c4c3be; --mut:#8f9099; --line:#252a32; --line-2:#323843;
-  --acc:#8fb0ff; --acc-ink:#0e1014; --acc-soft:#1c2740;
+  --atlas:#372e24; --atlas-ink:#f5e7cd; --atlas-line:#ae9576;
+  --bg:#201c18; --surface:#28231e; --surface-2:#302a24; --ink:#f7f2e8; --ink-2:#ded5c7; --mut:#b9afa0; --line:#403931; --line-2:#51483c;
+  --acc:#ffab82; --acc-ink:#201c18; --acc-soft:#4c3328;
   --ok:#5fcf93; --ok-soft:#14281e; --bad:#ff8f84; --bad-soft:#331a18; --warn:#e6b45a; --warn-soft:#2e2414;
-  --hl:#5b4c08; --us:#18212f; --uae:#15261d; --trap:#2c2216; --law:#221d31;
+  --hl:#5b4c08; --us:#383025; --uae:#15261d; --trap:#2c2216; --law:#352d24;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25); color-scheme:dark;
 }
 @media (prefers-color-scheme:dark){html:not([data-theme=light]){
-  --bg:#0e1014; --surface:#15181e; --surface-2:#1b1f26; --ink:#e7e6e2; --ink-2:#c4c3be; --mut:#8f9099; --line:#252a32; --line-2:#323843;
-  --acc:#8fb0ff; --acc-ink:#0e1014; --acc-soft:#1c2740;
+  --atlas:#372e24; --atlas-ink:#f5e7cd; --atlas-line:#ae9576;
+  --bg:#201c18; --surface:#28231e; --surface-2:#302a24; --ink:#f7f2e8; --ink-2:#ded5c7; --mut:#b9afa0; --line:#403931; --line-2:#51483c;
+  --acc:#ffab82; --acc-ink:#201c18; --acc-soft:#4c3328;
   --ok:#5fcf93; --ok-soft:#14281e; --bad:#ff8f84; --bad-soft:#331a18; --warn:#e6b45a; --warn-soft:#2e2414;
-  --hl:#5b4c08; --us:#18212f; --uae:#15261d; --trap:#2c2216; --law:#221d31;
+  --hl:#5b4c08; --us:#383025; --uae:#15261d; --trap:#2c2216; --law:#352d24;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 20px rgba(0,0,0,.25); color-scheme:dark}}
 
 *{box-sizing:border-box}
@@ -234,7 +238,7 @@ html[data-theme=dark],html:not([data-theme=light]){--rule:var(--ink)}
 th{text-transform:uppercase;font-size:11px;letter-spacing:.06em;border-bottom:1px solid var(--ink)}
 table{border-color:var(--line-2)}
 .note{border:1px solid var(--line-2);border-left:4px solid var(--mut)}
-.note.us{border-left-color:var(--acc)}.note.uae{border-left-color:var(--ok)}.note.trap{border-left-color:var(--warn)}.note.lawyer{border-left-color:#7a5cc7}
+.note.us{border-left-color:var(--acc)}.note.uae{border-left-color:var(--ok)}.note.trap{border-left-color:var(--warn)}.note.lawyer{border-left-color:#8d6b49}
 blockquote.clause{border-left:4px solid var(--ink)}
 .modhead{border-bottom:2px solid var(--ink)}
 .sec-h{border-top:2px solid var(--ink);padding-top:10px}
@@ -276,6 +280,24 @@ figure.diagram figcaption b{color:var(--ink);font-weight:650;margin-right:6px}
 @media print{figure.diagram{break-inside:avoid;border-color:#999}}
 /* print is always light, whatever the screen theme */
 @media print{html,html[data-theme=dark],html:not([data-theme=light]){
-  --bg:#fff; --surface:#fff; --surface-2:#f1efea; --ink:#1b1b1f; --ink-2:#3d3d45; --mut:#6e6d76; --line:#e5e2db; --line-2:#d6d2c8;
-  --acc:#2d55c9; --acc-ink:#fff; --acc-soft:#e8edfb; --ok:#147a4a; --ok-soft:#e5f3ec; --bad:#b42318; --bad-soft:#fbeae8; --warn:#9a6200; --warn-soft:#fbf1dd;
-  --hl:#fff1a8; --us:#eaf0fb; --uae:#e7f3ec; --trap:#fbefe1; --law:#efeaf8; color-scheme:light}}
+  --bg:#fff; --surface:#fff; --surface-2:#f1ece1; --ink:#261f19; --ink-2:#423831; --mut:#675d52; --line:#e2dccc; --line-2:#c9bfad;
+  --acc:#a13c20; --acc-ink:#fff; --acc-soft:#f7e7da; --ok:#147a4a; --ok-soft:#e5f3ec; --bad:#b42318; --bad-soft:#fbeae8; --warn:#9a6200; --warn-soft:#fbf1dd;
+  --hl:#fff1a8; --us:#f5ecdc; --uae:#e7f3ec; --trap:#fbefe1; --law:#eee6db; color-scheme:light}}
+
+:root{accent-color:var(--acc)}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+
+@media screen {
+  .modhead h1,#main>h1,#main>div>h1,.reference h1,.chapter h2,#side h1 {
+    font-family:var(--display);font-weight:500;letter-spacing:-.035em;
+  }
+  .modhead h1{font-size:clamp(37px,4.6vw,65px);max-width:19ch}
+  #side h1{font-size:24px;line-height:1.02;margin:8px 6px}
+  .reference h1{font-size:clamp(35px,5vw,65px)}
+  .refnav{border-bottom:2px solid var(--ink)}
+  .prose>h2,.journal-section>h2{font-family:var(--display);font-weight:500}
+  .toc{border-left-color:var(--atlas-line)}
+}
+@media screen and (max-width:700px){
+  #hb table,.chapter>table{display:block;overflow-x:auto;max-width:100%}
+}

@@ -4,18 +4,17 @@
 <script src="../../shared/theme.js"></script><link rel="stylesheet" href="../../shared/style.css"><link rel="alternate" type="application/rss+xml" href="podcast/feed.xml">
 <style>
 body{display:block}
-.pc{max-width:880px;margin:0 auto;padding:22px 22px 200px}
-.nav{display:flex;align-items:center;gap:10px;font-size:13px;margin-bottom:28px}.nav a{color:var(--mut);text-decoration:none}.nav a:hover{color:var(--ink)}.nav .sp{flex:1}
-.show{display:grid;grid-template-columns:168px 1fr;gap:26px;align-items:center;margin-bottom:30px}
-.art{width:168px;height:168px;border-radius:18px;background:#14233f;border:1px solid var(--ink);position:relative;overflow:hidden;box-shadow:6px 6px 0 var(--acc);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;color:#fff}
-.art:before{content:"";position:absolute;left:16px;right:16px;top:16px;height:6px;background:#2d55c9;box-shadow:0 14px 0 rgba(255,255,255,.14),0 28px 0 rgba(255,255,255,.08)}
-.art b{font:700 21px/1.05 var(--ui);letter-spacing:-.02em;position:relative}.art span{font:500 11px/1.3 var(--ui);opacity:.75;letter-spacing:.06em;text-transform:uppercase;position:relative;margin-top:6px}
-.show h1{margin:0 0 8px;font-size:32px}.show p{margin:0;color:var(--mut);font:16.5px/1.55 var(--read)}
+.pc{max-width:1060px;margin:0 auto;padding:22px 22px 200px}
+.nav{display:flex;align-items:center;gap:10px;font-size:13px;margin-bottom:28px;padding-bottom:16px;border-bottom:2px solid var(--ink)}.nav a{color:var(--mut);text-decoration:none}.nav a:hover{color:var(--ink)}.nav .sp{flex:1}
+.show{display:grid;grid-template-columns:minmax(170px,26%) 1fr;gap:clamp(20px,4vw,46px);align-items:center;margin-bottom:30px;padding-bottom:25px;border-bottom:1px solid var(--ink)}
+.art{width:100%;aspect-ratio:1;display:flex;flex-direction:column;justify-content:flex-end;padding:clamp(15px,2vw,27px);overflow:hidden;color:#fff;border:1px solid var(--ink);box-shadow:6px 6px 0 var(--acc);background:repeating-radial-gradient(ellipse at 100% 0%,transparent 0 11px,#ffffff12 12px 13px,transparent 14px 19px),#66361f}
+.art b{font:500 clamp(32px,3.2vw,49px)/.95 var(--display);letter-spacing:-.06em}.art span{font:500 11px/1.3 var(--ui);opacity:.75;letter-spacing:.06em;text-transform:uppercase;margin-top:6px}
+.show h1{font:500 clamp(40px,5.6vw,78px)/1.05 var(--display);letter-spacing:-.065em;margin:4px 0 10px}.show p{margin:0;color:var(--mut);font:16.5px/1.55 var(--read)}
 .meta{display:flex;gap:16px;flex-wrap:wrap;margin-top:14px;font-size:12.5px;color:var(--mut)}.meta b{color:var(--ink);font-weight:600}
 .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .ov{display:flex;align-items:center;gap:12px;margin:0 0 10px;font-size:12.5px;color:var(--mut)}.ov .bar{flex:1}
-.ep{display:grid;grid-template-columns:40px 1fr auto;gap:14px;align-items:center;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:var(--surface);margin:8px 0;cursor:pointer;transition:border-color .12s,box-shadow .12s}
-.ep:hover{border-color:var(--line-2);box-shadow:var(--shadow)}.ep.on{border-color:var(--ink);border-left:4px solid var(--acc)}
+.ep{display:grid;grid-template-columns:40px 1fr auto;gap:14px;align-items:center;padding:15px 4px;border-top:1px solid var(--line-2);cursor:pointer;transition:border-color .12s}
+.ep:hover{border-color:var(--ink)}.ep.on{padding-left:12px;border-left:4px solid var(--acc);background:var(--acc-soft)}
 .pb{width:40px;height:40px;border-radius:50%;background:var(--acc-soft);color:var(--acc);display:flex;align-items:center;justify-content:center;font-size:14px;border:0;padding:0}
 .ep.on .pb{background:var(--acc);color:var(--acc-ink)}
 .ep .t{font:600 15px/1.35 var(--ui);color:var(--ink)}.ep .no{font:500 11.5px var(--mono);color:var(--mut);margin-right:6px}
@@ -23,32 +22,35 @@ body{display:block}
 .ep .s a{color:var(--mut)}.ep .s a:hover{color:var(--acc)}
 .ep .pr{height:3px;background:var(--surface-2);border-radius:3px;overflow:hidden;margin-top:8px;max-width:240px}.ep .pr i{display:block;height:100%;background:var(--acc)}
 .ep .d{font:500 12.5px var(--mono);color:var(--mut)}.ep .ck{color:var(--ok);font-weight:700}
-.player{position:fixed;left:0;right:0;bottom:0;z-index:30;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:1px solid var(--line);padding:12px 20px calc(12px + env(safe-area-inset-bottom))}
+.player{position:fixed;left:0;right:0;bottom:0;z-index:30;background:color-mix(in srgb,var(--surface) 92%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-top:2px solid var(--acc);padding:12px 20px calc(12px + env(safe-area-inset-bottom))}
 .pi{max-width:880px;margin:0 auto;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center}
 .ctl{display:flex;gap:6px;align-items:center}.ctl button{background:transparent;border:1px solid var(--line);color:var(--ink);width:38px;height:38px;padding:0;border-radius:50%;font-size:12px;font-weight:600}
 .ctl button.main{width:48px;height:48px;background:var(--acc);border-color:var(--acc);color:var(--acc-ink);font-size:17px}
 .now{min-width:0}.now .t{font:600 14px/1.3 var(--ui);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.now .t span{color:var(--mut);font-weight:500}
 .scrub{display:flex;align-items:center;gap:10px;margin-top:6px;font:500 11.5px var(--mono);color:var(--mut)}.scrub input{flex:1;width:auto;padding:0;accent-color:var(--acc);height:4px;border:0;box-shadow:none}
 .rate{background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:20px;padding:6px 12px;font:600 12px var(--mono)}
-.tr{margin-top:34px}.tr h2{margin-top:0}
+.tr{margin-top:34px}.episode-heading,.tr h2{font:500 34px var(--display);margin:20px 0 8px;letter-spacing:-.035em}
 .trbody{font:17px/1.75 var(--read);color:var(--ink-2);max-width:70ch}.trbody p{margin:0 0 14px}.trbody b{font:650 12px/1 var(--ui);text-transform:uppercase;letter-spacing:.08em;color:var(--acc);display:block;margin-bottom:3px}.trbody p.sam b{color:var(--warn)}
-@media(max-width:640px){.show{grid-template-columns:1fr;gap:16px}.art{width:120px;height:120px}.pi{grid-template-columns:1fr;gap:8px}.ctl{justify-content:center}.ep{grid-template-columns:36px 1fr}.ep .d{display:none}}
+@media(max-width:640px){
+ .pc{padding-left:18px;padding-right:18px}.show{grid-template-columns:1fr;gap:16px}.art{width:120px}.show h1{font-size:42px}
+ .pi{grid-template-columns:1fr;gap:8px}.ctl{justify-content:center}.ep{grid-template-columns:40px 1fr}.ep .d{display:none}
+}
 </style></head>
 <body><div class="pc">
 <div class="nav"><a href="./">← Course</a><span class="mut">/</span><span>Podcast</span><span class="sp"></span><a href="docs/index.html">Documents</a><button class="iconbtn" data-themebtn></button></div>
-<section class="show"><div class="art"><b>Calling<br>the Deal</b><span>M&A for builders</span></div>
-<div><h1>Calling the Deal</h1><p>A senior M&A partner and a former CTO turned deal investor argue through private M&A, one course module per episode, ending with three deals worked to a verdict.</p>
+<section class="show"><div class="art"><b>Calling<br><i>the Deal</i></b><span>M&A for builders</span></div>
+<div><span class="kicker">Private M&amp;A · Podcast</span><h1>Calling the Deal</h1><p>A senior M&A partner and a former CTO turned deal investor argue through private M&A, one course module per episode, ending with three deals worked to a verdict.</p>
 <div class="meta" id="meta"></div>
 <div class="actions"><button id="playall">▶ Play from where you left off</button><button class="sec" id="copyfeed">Copy podcast feed URL</button></div></div></section>
 <div class="ov"><span id="ovt"></span><div class="bar"><i id="ovb"></i></div></div>
-<div id="list"><p class="mut">Loading…</p></div>
+<h2 class="episode-heading">Episodes</h2><div id="list"><p class="mut">Loading…</p></div>
 <section class="tr" id="tr" hidden><h2 id="trh"></h2><div class="trbody" id="trb"></div></section>
 <p class="mut" style="font-size:13px;margin-top:30px">Generated with Gemini from the course content. Numbers and statistics follow the course, with the same caveats. Apple Podcasts: Library → ⋯ → Follow a Show by URL, then paste the feed URL.</p>
 </div>
 <div class="player" id="player" hidden><div class="pi">
-<div class="ctl"><button id="b15" title="Back 15 s">−15</button><button class="main" id="bp">▶</button><button id="f30" title="Forward 30 s">+30</button></div>
-<div class="now"><div class="t" id="nt"></div><div class="scrub"><span id="tc">0:00</span><input type="range" id="sk" min="0" max="1000" value="0"><span id="td">0:00</span></div></div>
-<button class="rate" id="rt">1×</button></div><audio id="au" preload="metadata"></audio></div>
+<div class="ctl"><button id="b15" title="Back 15 s">−15</button><button class="main" id="bp" aria-label="Play">▶</button><button id="f30" title="Forward 30 s">+30</button></div>
+<div class="now"><div class="t" id="nt"></div><div class="scrub"><span id="tc">0:00</span><input type="range" id="sk" aria-label="Playback position" min="0" max="1000" value="0"><span id="td">0:00</span></div></div>
+<button class="rate" id="rt" title="Playback speed">1×</button></div><audio id="au" preload="metadata"></audio></div>
 <script>
 const $=s=>document.querySelector(s),au=$('#au');
 const st=JSON.parse(localStorage.getItem('ma_pod')||'{"pos":{},"done":{},"rate":1}');const save=()=>localStorage.setItem('ma_pod',JSON.stringify(st));
@@ -59,7 +61,7 @@ function overall(){const tot=eps.reduce((a,e)=>a+e.seconds,0),done=eps.reduce((a
  $('#meta').innerHTML=`<span><b>${eps.length}</b> episodes</span><span><b>${mm(tot)}</b> total</span><span>Hosts <b>Nadia</b> (partner) and <b>Sam</b> (ex-CTO)</span>`}
 function draw(){const L=$('#list');L.innerHTML='';eps.forEach((e,i)=>{const p=st.pos[e.num]||0,d=st.done[e.num],on=i===cur;const playing=on&&!au.paused;
  const row=document.createElement('div');row.className='ep'+(on?' on':'');
- row.innerHTML=`<button class="pb" aria-label="Play">${playing?'❚❚':'▶'}</button><div><div class="t"><span class="no">${e.num}</span>${e.title}${d?' <span class="ck">✓</span>':''}</div>
+ row.innerHTML=`<button class="pb" aria-label="${playing?'Pause':'Play'} episode ${+e.num}">${playing?'❚❚':'▶'}</button><div><div class="t"><span class="no">${e.num}</span>${e.title}${d?' <span class="ck">✓</span>':''}</div>
  <div class="s"><span>${p>5&&!d?'Resume at '+mm(p)+' of '+mm(e.seconds):mm(e.seconds)}</span><a href="#" data-tr="${i}">Transcript</a><a href="podcast/${e.file}" download>MP3</a></div>
  ${p>5&&!d?`<div class="pr"><i style="width:${100*p/e.seconds}%"></i></div>`:''}</div><span class="d">${mm(e.seconds)}</span>`;
  row.onclick=ev=>{if(ev.target.closest('a'))return;on?toggle():play(i)};L.append(row)});
@@ -74,7 +76,7 @@ function play(i){cur=i;const e=eps[i];$('#player').hidden=false;au.src='podcast/
   navigator.mediaSession.setActionHandler('nexttrack',()=>cur+1<eps.length&&play(cur+1));navigator.mediaSession.setActionHandler('previoustrack',()=>cur>0&&play(cur-1))}draw()}
 function toggle(){if(cur<0)return play(nextIdx());au.paused?au.play():au.pause()}
 const nextIdx=()=>{const i=eps.findIndex(e=>!st.done[e.num]);return i<0?0:i};
-au.onplay=au.onpause=()=>{$('#bp').textContent=au.paused?'▶':'❚❚';draw()};
+au.onplay=au.onpause=()=>{$('#bp').textContent=au.paused?'▶':'❚❚';$('#bp').setAttribute('aria-label',au.paused?'Play':'Pause');draw()};
 let last=0;au.ontimeupdate=()=>{if(cur<0)return;$('#tc').textContent=mm(au.currentTime);if(!sk.dragging)$('#sk').value=1000*au.currentTime/(au.duration||1);const n=Date.now();if(n-last>5000){last=n;st.pos[eps[cur].num]=au.currentTime;save();overall()}};
 au.onended=()=>{st.done[eps[cur].num]=true;st.pos[eps[cur].num]=0;save();cur+1<eps.length?play(cur+1):draw()};
 const sk=$('#sk');sk.oninput=()=>{sk.dragging=true;$('#tc').textContent=mm(sk.value/1000*(au.duration||0))};sk.onchange=()=>{au.currentTime=sk.value/1000*(au.duration||0);sk.dragging=false};
