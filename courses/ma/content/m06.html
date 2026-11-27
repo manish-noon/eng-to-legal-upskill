@@ -1,0 +1,196 @@
+<h1>Anatomy of an SPA and how to read 80,000 words in an hour</h1>
+<p class="lede">After this module you can open an unfamiliar SPA, English-style or US-style, find the clauses that move money in the right order, and write a summary of each that a senior lawyer would accept.</p>
+
+<h2>The SPA as a state machine</h2>
+<p>An SPA is long because it specifies what happens in every state the deal can be in: signed but not closed, closed, closed with a problem, never closed. Read it as a state machine. Each part either defines a state, a transition, or who pays when a transition goes wrong.</p>
+<table>
+<tr><th>Part</th><th>What it does in one line</th><th>Carries money?</th></tr>
+<tr><td>Definitions</td><td>Gives capitalised words their meaning for the whole document</td><td>Yes, indirectly: most of it</td></tr>
+<tr><td>Sale and purchase</td><td>Seller agrees to sell the shares with full title, free of third-party rights; buyer agrees to buy</td><td>No</td></tr>
+<tr><td>Price and adjustments</td><td>States the price, how it is adjusted and how it is paid (Module 4)</td><td>Yes</td></tr>
+<tr><td>Conditions</td><td>Lists what must happen before either side must close, who must procure it, and the long-stop date</td><td>Deal certainty</td></tr>
+<tr><td>Pre-closing covenants</td><td>Controls how the seller runs the business in the gap</td><td>Protects value</td></tr>
+<tr><td>Closing</td><td>Lists what each side delivers on the day</td><td>No</td></tr>
+<tr><td>Warranties</td><td>Seller's statements of fact about the target, usually set out in a schedule</td><td>Yes: the basis of claims</td></tr>
+<tr><td>Limitations</td><td>Financial and time limits on the seller's liability for those statements</td><td>Yes: decides how much of a claim is actually paid</td></tr>
+<tr><td>Indemnities and tax</td><td>One-for-one reimbursement for identified risks and for pre-closing tax (in English deals, a <strong>tax covenant</strong>)</td><td>Yes</td></tr>
+<tr><td>Restrictive covenants</td><td>Stops the seller competing with, or poaching from, the business it just sold, usually for one to three years</td><td>Protects goodwill</td></tr>
+<tr><td>Termination</td><td>States when the SPA can be ended before closing and with what consequences</td><td>Deal certainty</td></tr>
+<tr><td>Boilerplate</td><td>Standard closing provisions: notices, assignment, entire agreement, governing law, disputes</td><td>Occasionally decisive</td></tr>
+<tr><td>Schedules</td><td>The detail: warranties, limitations, closing lists, accounting policies, property, IP</td><td>Yes</td></tr>
+</table>
+<p>The money sits in four places: price, warranties, limitations and indemnities, plus the definitions those four rely on. Conditions and termination decide whether there is a deal at all. The rest is machinery.</p>
+<p>The limitation terms you will meet everywhere:</p>
+<ul>
+<li><strong>De minimis</strong>: a single claim below this amount is ignored entirely.</li>
+<li><strong>Basket</strong>: the seller pays nothing until qualifying claims in total exceed this amount. A <strong>tipping basket</strong> (first dollar) then pays the whole amount. A <strong>deductible</strong> pays only the excess. CMS 2026 found 87% of European baskets were tipping. Deductibles are reported at 49% of US baskets against 13% in Europe.</li>
+<li><strong>Cap</strong>: the maximum the seller pays in total.</li>
+<li><strong>Time limit</strong>: the date after which no new claim can be notified.</li>
+</ul>
+
+<h2>Definitions are where deals are won</h2>
+<p>A definition is a function called from many places. Change it once and every clause that calls it changes. Negotiators who lose an argument in the operative clause often win it back in the definition, where fewer people are looking.</p>
+<table>
+<tr><th>Defined term</th><th>What it controls</th><th>Buyer drafts it</th><th>Seller drafts it</th></tr>
+<tr><td>Indebtedness (Debt)</td><td>Deductions from price</td><td>Long list including tax, leases, bonuses, deal costs, "any other debt-like item"</td><td>Borrowed money only</td></tr>
+<tr><td>Losses</td><td>What can be recovered on a claim</td><td>All losses, costs and legal fees, including loss of profit and diminution in value</td><td>Excludes indirect and consequential loss, loss of profit, and damages calculated on a multiple</td></tr>
+<tr><td>Knowledge</td><td>Scope of every warranty qualified by "so far as the Seller is aware"</td><td><strong>Constructive</strong>: what a wide group knew or should have known after due enquiry</td><td><strong>Actual</strong>: what two named people in fact knew, no duty to enquire</td></tr>
+<tr><td>Material Adverse Effect (MAE)</td><td>A serious deterioration in the business; used in conditions (buyer may refuse to close), and as a qualifier on warranties</td><td>Any material adverse change, including in "prospects"</td><td>Long list of exclusions: market, industry, law, war, pandemic, the deal itself</td></tr>
+<tr><td>Fundamental Warranties</td><td>The warranties (title to shares, capacity, authority) carved out of the ordinary limits: longer time limit, cap at the full price</td><td>Adds tax, IP, compliance to the list</td><td>Title and capacity only</td></tr>
+</table>
+<blockquote class="clause">"Knowledge of the Seller" means the actual knowledge, without any duty of inquiry or investigation, of Karim Haddad and Lina Farouk.</blockquote>
+<p>Decode: every knowledge-qualified warranty is now true unless one of two people consciously knew otherwise. If the head of compliance knew of a problem and told nobody, the warranty is not breached. For comparison, ABA 2025 reports that 90% of US deals in its sample used a constructive knowledge standard.</p>
+<div class="quiz" data-id="m06q1">
+  <p class="q">A warranty reads: "To the Knowledge of the Seller, the Company is not in breach of any Data Protection Law." Knowledge is defined as in the clause above. After closing it emerges that the target's IT manager knew of an unreported data breach a year before signing and never escalated it. Is the warranty breached?</p>
+  <ul><li>Yes: the Company was in breach of data protection law</li><li>Yes: an employee's knowledge is the Company's knowledge</li><li data-correct>No: neither named individual actually knew, and they had no duty to enquire</li><li>It depends on whether the breach was material</li></ul>
+  <p class="explain">The warranty is not "the Company complies". It is "two named people do not actually know of non-compliance". That statement was true. The definition, not the warranty, decided the outcome, and it favours the seller on both axes: a narrow group and no duty to enquire. A buyer would have asked for constructive knowledge of a group including the relevant function heads, or no knowledge qualifier at all on a compliance warranty.</p>
+</div>
+<div class="quiz" data-id="m06q2">
+  <p class="q">"Losses" means "all losses, liabilities, costs and expenses, but excluding any punitive damages, loss of profit, and any damages calculated by reference to a multiple of earnings or diminution in value". A warranty breach permanently reduces the target's annual profit by AED 1.5m. The buyer paid 8 × EBITDA. Roughly what is the buyer's claim worth before any limits?</p>
+  <ul><li>AED 12m: the price it overpaid</li><li data-correct>Far less than AED 12m: only direct costs actually incurred, since both the lost profit and the multiple are excluded</li><li>AED 1.5m a year for the life of the business</li><li>AED 12m, because exclusions of loss do not apply to warranty claims</li></ul>
+  <p class="explain">The buyer's real loss is that it paid 12m too much. That is a diminution in value calculated on a multiple, which this definition excludes, and the annual shortfall is loss of profit, also excluded. What survives is out-of-pocket cost. This single definition can remove most of the value of the warranties for earnings-related breaches, and it favours the seller. It is among the first definitions a buyer's lawyer reads.</p>
+</div>
+<details class="think"><summary>Before reading on: why would a skilled negotiator prefer to win a point in a definition and not in the clause everyone is arguing about?</summary><p>Attention and reuse. The operative clause (the cap, the price) is on every issues list and gets partner-level scrutiny. A definition 40 pages earlier is read by fewer people, and one change propagates to every clause that uses the term. Conceding the visible clause while adjusting the definition can produce a better result than winning the clause. The defence is procedural: whenever an operative clause is agreed, re-read every defined term inside it.</p></details>
+
+<h2>Schedules and the disclosure letter</h2>
+<p>Schedules are part of the contract with the same force as the clauses. English-style SPAs push most substance into them: the warranties, the limitations on liability, the completion accounts rules, the tax covenant. A reader who stops at the end of the clauses has missed most of the money.</p>
+<p>The disclosure letter is separate from the SPA but modifies it: it lists the facts that qualify the warranties. To know what a warranty is really worth you need both documents. The warranty says "no litigation". The disclosure letter may list three lawsuits.</p>
+
+<h2>English-style and US-style: a translation table</h2>
+<p>The real agreements you will practise on were filed with the US securities regulator and are US-style. The concepts map across, but the labels and some mechanics differ.</p>
+<table>
+<tr><th>Concept</th><th>English-style (UAE, DIFC, ADGM practice)</th><th>US-style</th></tr>
+<tr><td>Seller's statements</td><td>"Warranties", in a schedule</td><td>"Representations and warranties", in an article of the main body</td></tr>
+<tr><td>Remedy for a false statement</td><td>Claim for damages for breach of contract: the buyer must prove loss, broadly the fall in the value of the shares, and must mitigate</td><td>"Indemnification": a contractual promise to reimburse defined "Losses", claimed under an indemnification article</td></tr>
+<tr><td>"Indemnity"</td><td>Reserved for specific identified risks, and tax</td><td>The general remedy for any breach of a representation or covenant</td></tr>
+<tr><td>Limits on liability</td><td>Limitations schedule: de minimis, basket, cap, time limits</td><td>Inside the indemnification article: "Deductible" or "Basket", "Cap", "survival"</td></tr>
+<tr><td>Time limit</td><td>Claims must be notified within a stated period after completion</td><td><strong>Survival clause</strong>: representations "survive" closing for a stated period, after which claims are barred</td></tr>
+<tr><td>Exceptions to the statements</td><td>Disclosure letter; general disclosure common</td><td><strong>Disclosure schedules</strong>, numbered to match each representation; specific disclosure the norm</td></tr>
+<tr><td>Closing</td><td>"Completion"</td><td>"Closing"</td></tr>
+<tr><td>Loss definition</td><td>Often undefined for warranty claims: general law of damages applies</td><td>"Losses" or "Damages", a negotiated definition</td></tr>
+<tr><td>Exclusivity of remedy</td><td>Rescission (unwinding the deal) excluded after completion</td><td><strong>Exclusive remedy</strong> clause: indemnification is the only remedy, except for fraud</td></tr>
+<tr><td>Insurance</td><td>W&amp;I (warranty and indemnity) insurance</td><td>RWI, or "R&amp;W Insurance Policy"</td></tr>
+<tr><td>Walk right for deterioration</td><td>Uncommon</td><td>Standard: a "no MAE" closing condition. CMS 2026: MAC clauses in 14% of European deals against 96% in the US</td></tr>
+</table>
+<div class="note us">US documents also repeat the representations at closing through a <strong>bring-down</strong> condition: the buyer need not close unless the representations are still true at closing, often "except where the failure to be true would not have a Material Adverse Effect". English-style deals more often give warranties at signing only and resist repetition.</div>
+<blockquote class="clause">Section 9.1 Survival. The representations and warranties of the Seller shall survive the Closing until the date that is fifteen (15) months after the Closing Date; provided that the Fundamental Representations shall survive until sixty (60) days following the expiration of the applicable statute of limitations. Any claim asserted in writing with reasonable specificity prior to the expiration of the applicable survival period shall survive until finally resolved.</blockquote>
+<p>Decode: this is the time limit. Ordinary claims must be notified within 15 months; title-type claims have years. A claim notified in time stays alive while it is being resolved.</p>
+<div class="quiz" data-id="m06q3">
+  <p class="q">Under Section 9.1 above, the buyer discovers a breach of an ordinary representation in month 13, sends a detailed written claim in month 14, and starts arbitration in month 20. The seller says the claim is out of time. Who is right?</p>
+  <ul><li>The seller: the representation expired at month 15, before proceedings began</li><li data-correct>The buyer: a claim asserted in writing with reasonable specificity before month 15 survives until resolved</li><li>The seller: discovery in month 13 left too little time</li><li>The buyer: survival clauses do not bind arbitrators</li></ul>
+  <p class="explain">The last sentence of the clause is the saver: what must happen inside the period is written assertion, not commencement of proceedings. Without that sentence the answer could differ, and some agreements do require proceedings to be started within a further period. Read the survival clause to its end, and note "reasonable specificity": a vague protective notice may not count.</p>
+</div>
+<div class="quiz" data-id="m06q4">
+  <p class="q">An English-style SPA has no general indemnity for warranty breach. A warranty that "all employees have written contracts" turns out to be false for 40 staff, but nothing has gone wrong as a result and the shares are worth what the buyer paid. What can the buyer recover?</p>
+  <ul><li>The cost of putting 40 contracts in place, as a debt</li><li data-correct>Little or nothing: breach is established but damages require proof of loss</li><li>A proportion of the price reflecting the breach</li><li>The cap amount, since breach is proven</li></ul>
+  <p class="explain">Under English-style drafting a warranty claim is a damages claim. Breach alone is not enough: the buyer must show that the shares were worth less than they would have been had the warranty been true. No loss, no recovery. This is the practical difference from an indemnity, and why buyers want indemnities for the risks they care about. Under a US-style indemnification article the buyer must still show "Losses", but those are defined by the contract and commonly include costs incurred.</p>
+</div>
+
+<h2>A reading protocol</h2>
+<p>You will not read 80,000 words in an hour. You will read about 8,000, chosen in dependency order.</p>
+<ol>
+<li><strong>Parties and recitals</strong> (2 minutes). Who is selling what to whom. Is there a guarantor standing behind either side? Recitals are the background paragraphs before the operative clauses.</li>
+<li><strong>Price definitions and price clause</strong> (12 minutes). Purchase price, the adjustment or locked box, escrow, earn-out. Follow each defined term once.</li>
+<li><strong>Conditions and termination</strong> (10 minutes). What can stop closing, who controls it, the long-stop date, and what is payable if the deal dies.</li>
+<li><strong>Indemnification or limitations</strong> (15 minutes). Basket type and size, cap, time limits, exclusive remedy, fraud carve-out, insurance.</li>
+<li><strong>The definitions those sections depend on</strong> (10 minutes). Indebtedness, Losses, Knowledge, MAE, Fundamental Warranties, Fraud.</li>
+<li><strong>Everything else</strong>, by skim, noting anything unusual: restrictive covenants, pre-closing covenants, boilerplate.</li>
+</ol>
+<p>The warranties themselves come last. They are long and mostly standard; their value is set by the limitations and definitions you have already read.</p>
+<p>Search strings find the key clauses fast. Search the exact string, including capitals.</p>
+<table>
+<tr><th>Search for</th><th>Finds</th></tr>
+<tr><td>"Deductible", "Basket", "Threshold"</td><td>The basket, and by its wording whether it tips</td></tr>
+<tr><td>"Cap", "shall not exceed", "aggregate liability"</td><td>The cap or caps</td></tr>
+<tr><td>"survive"</td><td>Time limits (US-style)</td></tr>
+<tr><td>"exclusive remedy", "sole and exclusive"</td><td>Whether the limits are the whole story</td></tr>
+<tr><td>"Knowledge"</td><td>The definition, then every warranty it weakens</td></tr>
+<tr><td>"Fraud"</td><td>The carve-out from every limit, and whether Fraud is narrowly defined</td></tr>
+<tr><td>"R&amp;W Insurance Policy", "W&amp;I"</td><td>Whether an insurer, not the seller, is the real source of recovery</td></tr>
+<tr><td>"Leakage"</td><td>A locked box</td></tr>
+<tr><td>"Material Adverse Effect"</td><td>The definition and every condition and warranty that uses it</td></tr>
+<tr><td>"notwithstanding"</td><td>Overrides: clauses that defeat other clauses</td></tr>
+</table>
+<div class="quiz" data-id="m06q5">
+  <p class="q">You have ten minutes with a US-style SPA and one question from the partner: "If we find a breach after closing, what is our realistic recovery from the seller?" Which searches answer it fastest?</p>
+  <ul><li>"Purchase Price", then "Closing Date"</li><li>"represents and warrants", then read each representation</li><li data-correct>"R&amp;W Insurance Policy", "Cap", "exclusive remedy", "Fraud"</li><li>"Material Adverse Effect", then "termination"</li></ul>
+  <p class="explain">Recovery from the seller is set by the limits, not by the breadth of the representations. If there is an insurance policy, the seller's cap is often a small fraction of price or nil, and the exclusive remedy clause makes that the whole answer except for fraud. Reading the representations tells you what could be breached, not what is paid. MAE and termination concern the period before closing.</p>
+</div>
+<div class="num" data-id="m06n1" data-answer="900000" data-tol="0.01">
+  <p class="q">"The Seller shall not be liable for any Claim unless (a) the Losses in respect of that Claim exceed $50,000, and (b) the aggregate of all Losses for Claims not excluded by (a) exceeds $750,000, in which case the Seller shall be liable for the full amount of such Losses and not merely the excess." Three claims arise with Losses of $40,000, $300,000 and $600,000. How much is the seller liable for? Answer in $.</p>
+  <p class="explain">Limb (a) is a de minimis: the $40,000 claim is ignored completely. Qualifying claims: 300,000 + 600,000 = 900,000, which exceeds 750,000. "The full amount and not merely the excess" makes this a tipping basket, so the seller pays 900,000. Had the words been "only to the extent of the excess", the answer would be 150,000. A few words, $750,000.</p>
+</div>
+
+<h2>Traps</h2>
+<ul>
+<li><strong>Cross-references.</strong> "Subject to Section 9.4" means you have not finished reading the sentence. Follow every one in the money clauses. Also check that the reference points where it should: numbering drifts between drafts.</li>
+<li><strong>"Notwithstanding anything to the contrary in this Agreement".</strong> This phrase makes its clause override everything else. Two such clauses in conflict is a drafting failure that ends in dispute. Search for the phrase and list each override.</li>
+<li><strong>Carve-outs from carve-outs.</strong> An MAE definition excludes industry-wide changes (carve-out), "except to the extent they disproportionately affect the Company" (carve-out from the carve-out). Each layer flips who is favoured. Count the layers.</li>
+<li><strong>Definitions that hide substance.</strong> A definition that contains an obligation, a cap or an exclusion. "Fraud" defined as "actual and intentional fraud in the making of the representations in Article III" silently excludes recklessness and anything said outside the contract.</li>
+<li><strong>Redactions.</strong> In public filings, "[***]" marks text omitted as commercially sensitive. If the cap is "[***]", you do not know the cap. Say so; do not estimate.</li>
+<li><strong>Schedules not filed.</strong> Public filings usually omit the disclosure schedules. You can read every representation and still not know what was excepted from it.</li>
+</ul>
+<blockquote class="clause">"Material Adverse Effect" means any event or change that is, or would reasonably be expected to be, materially adverse to the business, financial condition or results of operations of the Company; provided that none of the following shall be taken into account: (a) changes in general economic conditions; (b) changes affecting the industry in which the Company operates; (c) changes in Law; except, in the case of (a) to (c), to the extent such changes have a disproportionate adverse effect on the Company relative to other participants in its industry.</blockquote>
+<div class="quiz" data-id="m06q6">
+  <p class="q">Under the MAE definition above, a new regulation cuts margins across the target's industry. Competitors' profits fall about 10%; the target's fall 40% because of its product mix. "No MAE" is a closing condition. What can the buyer argue?</p>
+  <ul><li>Nothing: a change in Law is excluded by (c)</li><li>The full 40% decline is an MAE</li><li data-correct>The disproportionate part of the decline counts, and the question is whether that part alone is materially adverse</li><li>Nothing: the definition protects only the seller</li></ul>
+  <p class="explain">Layer one: materially adverse changes count (buyer). Layer two: changes in law do not (seller). Layer three: except to the extent disproportionate (buyer). "To the extent" means only the excess over the industry effect is counted, not the whole decline. Whether that excess is "materially adverse" is then a high bar. Stopping at (c) is the skim-reader's error.</p>
+</div>
+<div class="quiz" data-id="m06q7">
+  <p class="q">Section 9.3: "The aggregate liability of the Seller under this Article IX shall not exceed $12,000,000." Section 9.6: "Notwithstanding anything to the contrary in this Agreement, nothing shall limit any Person's liability for Fraud." "Fraud" is defined as "actual and intentional common law fraud by the Seller with respect to the making of the representations and warranties in Article III". The target's CFO, who is not the seller, recklessly gave false figures in a management presentation. Which statement is right?</p>
+  <ul><li>The cap does not apply: Section 9.6 overrides it for any fraud</li><li data-correct>The cap very likely applies: the conduct falls outside the defined term on three counts</li><li>The cap does not apply: recklessness is fraud at common law</li><li>Section 9.3 and Section 9.6 conflict, so neither applies</li></ul>
+  <p class="explain">The override is real but it is only as wide as the capitalised term. The definition requires intent (recklessness fails), by the Seller (the CFO is not the seller), in the making of the Article III representations (a presentation is not). The "notwithstanding" clause draws the eye and the definition quietly takes the substance back: this favours the seller. When you see a fraud carve-out, the next thing to read is the definition of Fraud.</p>
+</div>
+<div class="num" data-id="m06n2" data-answer="15" data-tol="0.01">
+  <p class="q">An SPA provides: a Deductible of $1.5m ("the Seller is liable only for Losses in excess of the Deductible"); a Cap of $12m on claims for breach of representations; and "the Deductible and the Cap shall not apply to breaches of Fundamental Representations, for which the Seller's liability shall not exceed the Purchase Price" of $150m. The buyer proves Losses of $15m from breaches of ordinary representations and $3m from a breach of a Fundamental Representation. What is the total recovery? Answer in $m.</p>
+  <p class="explain">Ordinary claims: 15 − 1.5 = 13.5, limited by the Cap to 12. Fundamental claim: no Deductible, no $12m Cap, well under the price: 3 in full. Total 12 + 3 = 15. Slips: applying the Cap to everything (12), or forgetting the Cap on the ordinary claims (13.5 + 3 = 16.5).</p>
+</div>
+<div class="quiz" data-id="m06q8">
+  <p class="q">"Indebtedness" means, without duplication: (a) borrowed money; (b) obligations under leases required to be capitalised; (c) all unpaid Taxes of the Company for any Pre-Closing Tax Period; (d) deferred revenue; and (e) all Transaction Expenses. Who does this definition favour, and what is the most contestable limb?</p>
+  <ul><li>The seller; limb (a)</li><li>The buyer; limb (b)</li><li data-correct>The buyer; limb (d)</li><li>Neutral: "without duplication" protects both sides equally</li></ul>
+  <p class="explain">Every limb beyond (a) is a deduction from price, so the list favours the buyer. Deferred revenue (cash received for services not yet delivered) is the hard one: the buyer says it must perform the service without being paid; the seller says the cost of performing is a fraction of the revenue and it is an ordinary working capital item. Treating all of it as debt overstates the burden. "Without duplication" prevents an item being counted twice but does not decide which bucket it belongs in.</p>
+</div>
+<div class="quiz" data-id="m06q9">
+  <p class="q">A publicly filed SPA says: "The aggregate amount recoverable by the Buyer Indemnified Parties shall not exceed [***]." A colleague suggests writing "cap approximately 10% of price, consistent with market" in the summary. What should the summary say?</p>
+  <ul><li>"Cap: approximately 10% of price (market)"</li><li>"No cap"</li><li data-correct>"Cap exists; amount redacted in the filed version; not determinable from this document"</li><li>Leave the cap out, since it cannot be confirmed</li></ul>
+  <p class="explain">A summary reports what the document says. The document says a cap exists and withholds the number. Guessing a "market" figure invents a fact and a statistic at once. "No cap" is false. Omitting it hides something the reader needs to know, including that it is unknown. The same discipline applies to schedules that were not filed: say what is missing.</p>
+</div>
+<div class="quiz" data-id="m06q10">
+  <p class="q">"Section 9.8. From and after the Closing, the indemnification provisions of this Article IX shall be the sole and exclusive remedy of the Buyer for any breach of any representation, warranty or covenant in this Agreement, except in the case of Fraud. The Buyer's sole source of recovery for breaches of representations (other than Fundamental Representations) shall be the R&amp;W Insurance Policy." A non-fundamental representation is false and the insurer denies the claim under a policy exclusion. What is the buyer's position against the seller?</p>
+  <ul><li>It can claim against the seller up to the cap, because the insurer has refused</li><li>It can sue for breach of contract outside Article IX</li><li data-correct>It has no recourse against the seller unless it can prove Fraud as defined</li><li>It can rescind the purchase</li></ul>
+  <p class="explain">Two sentences close two doors. The first makes Article IX the only route, removing ordinary contract claims and rescission. The second makes the policy the only source of recovery for ordinary representations, so the seller's liability for them is nil whether or not the insurer pays. Policy exclusions therefore fall on the buyer. This structure strongly favours the seller and is common where there is insurance; the buyer's diligence on the policy exclusions is part of reading the SPA.</p>
+</div>
+
+<h2>How to write a clause summary</h2>
+<p>A usable summary has four fields per clause.</p>
+<table>
+<tr><th>Clause</th><th>What it says</th><th>Favours</th><th>Quote</th></tr>
+<tr><td>9.2(b)</td><td>Deductible basket of $1.5m: seller pays only the excess</td><td>Seller</td><td>"only for Losses in excess of the Deductible"</td></tr>
+<tr><td>9.6 and "Fraud"</td><td>Fraud carve-out from all limits, but Fraud is limited to intentional fraud by the Seller in the Article III representations</td><td>Seller</td><td>"actual and intentional common law fraud by the Seller"</td></tr>
+<tr><td>1.1 "Knowledge"</td><td>Constructive knowledge of five named officers after reasonable enquiry</td><td>Buyer</td><td>"after reasonable inquiry of their direct reports"</td></tr>
+</table>
+<p>Rules. Use the document's exact clause number. State the effect, not a paraphrase of the words. Say who it favours and, where the answer turns on a definition, cite the definition as part of the entry. Quote the operative words so the reader can verify without opening the document. If something is absent, write "not found"; if redacted or in an unfiled schedule, say so. Never fill a gap with what is usual.</p>
+<div class="note lawyer">"I have read price, conditions and Article IX, and the definitions they rely on. Three points favour the seller more than I would expect, and each one is in a definition, not in the clause itself."</div>
+<div class="note trap">Summarising the heading instead of the clause. A section headed "Indemnification by Seller" may, read with its definitions and overrides, provide almost no indemnification at all.</div>
+<details class="think"><summary>Before reading on: why does the protocol put the warranties last, when they are the longest part and the basis of every claim?</summary><p>Because their value is determined elsewhere. A broad warranty with a tiny cap, a narrow Losses definition and a 12-month time limit is worth less than a narrow warranty with none of those limits. Reading 30 pages of warranties first tells you what could go wrong but not what you could recover. Read the limits, then read only the warranties that matter to your diligence findings.</p></details>
+<details class="think"><summary>Before reading on: you search a US-style SPA for "Cap" and find nothing. What are the possible explanations, and how do you tell them apart?</summary><p>(1) Different label: search "shall not exceed", "maximum", "aggregate liability", "Indemnity Escrow Amount" (recovery may be limited to the escrow). (2) No seller liability at all: representations may not survive closing, with insurance as the only recourse; search "survive" and "R&amp;W Insurance Policy". (3) Genuinely uncapped, which is rare and very buyer-friendly. (4) The limits sit in a schedule or separate agreement that was not filed. A failed search is a question, not a finding: record "not found under these terms" and list what you searched.</p></details>
+<details class="think"><summary>Before reading on: an English-style SPA runs to 40 pages of clauses and 120 pages of schedules. A US-style one has 110 pages of articles and short exhibits. Where is the limitation regime in each?</summary><p>English-style: in a schedule, typically titled "Limitations on Seller's Liability", with the warranties in the schedule before it and the tax covenant in another. US-style: in the indemnification article of the main body, usually near the end, with survival as its first section. Same content, different address. The table of contents is the fastest map: read it before anything else.</p></details>
+
+<h2>Key terms</h2>
+<dl class="terms">
+<dt>De minimis</dt><dd>Per-claim threshold below which an individual claim is disregarded entirely.</dd>
+<dt>Tipping basket</dt><dd>Aggregate threshold which, once exceeded, makes the seller liable for the whole amount from the first dollar.</dd>
+<dt>Deductible</dt><dd>Aggregate threshold above which the seller is liable only for the excess.</dd>
+<dt>Cap</dt><dd>Maximum aggregate amount the seller can be required to pay for a class of claims.</dd>
+<dt>Survival clause</dt><dd>US-style provision stating how long representations last after closing, operating as the time limit for claims.</dd>
+<dt>Exclusive remedy clause</dt><dd>Provision making the contract's indemnification or claims regime the only remedy for breach, usually except for fraud.</dd>
+<dt>Fundamental Warranties</dt><dd>Core warranties on title, capacity and authority that are excluded from the ordinary cap, basket and time limits.</dd>
+<dt>Knowledge (actual and constructive)</dt><dd>Defined standard for awareness-qualified warranties: what named people in fact knew, or what they should have known after enquiry.</dd>
+<dt>Material Adverse Effect</dt><dd>Defined serious deterioration in the target, used as a closing condition and as a qualifier on warranties.</dd>
+<dt>Losses</dt><dd>Defined term setting which kinds of loss are recoverable on a claim.</dd>
+<dt>Disclosure schedules</dt><dd>US-style schedules listing exceptions to each representation, the counterpart of the English disclosure letter.</dd>
+<dt>Bring-down</dt><dd>Condition or requirement that the representations be true again at closing.</dd>
+<dt>Tax covenant</dt><dd>English-style promise by the seller to pay the target's pre-closing tax liabilities one for one.</dd>
+<dt>Carve-out</dt><dd>An exception removed from a general rule or definition; a carve-out from a carve-out restores part of the rule.</dd>
+<dt>Recitals</dt><dd>Introductory paragraphs of a contract setting out background, before the operative clauses.</dd>
+</dl>

@@ -1,0 +1,163 @@
+<h1>Price: from headline number to cash paid</h1>
+<p class="lede">After this module you can take a headline price, walk it down to the cash the seller actually receives, and say which definition in the SPA controls each step and who benefits from each drafting choice.</p>
+
+<h2>Two different numbers: enterprise value and equity value</h2>
+<p>A buyer values the <strong>business</strong>. A seller is paid for the <strong>shares</strong>. These are different things with different prices.</p>
+<p><strong>Enterprise value (EV)</strong> is the value of the operating business regardless of how it is financed. <strong>Equity value</strong> is what the shares are worth: the business, minus what the company owes its lenders, plus the spare cash it holds. The house analogy is exact: a house worth 2m with a 1.5m mortgage has an enterprise value of 2m and an equity value of 0.5m. Whoever buys the company's shares inherits the mortgage.</p>
+<p>EV is usually set as a multiple of <strong>EBITDA</strong> (earnings before interest, tax, depreciation and amortisation: a rough measure of the cash profit the operations generate each year before financing and tax). If comparable businesses sell for 8 times EBITDA and the target earns AED 25m, the buyer offers an EV of AED 200m. This is the <strong>headline price</strong> that appears in the LOI.</p>
+<p>Why a lawyer cares about a valuation formula: every input is a defined term in the SPA, and every definition is price. If the seller persuades the buyer that a AED 2m cost was a one-off and should be added back to EBITDA (a <strong>normalisation</strong>), the price rises by 8 × 2 = AED 16m. The multiple turns every recurring item into a lever.</p>
+<div class="quiz" data-id="m04q1">
+  <p class="q">A buyer has agreed 8 × EBITDA. Diligence finds two things: the founder pays himself AED 1m a year below the market salary for his role, and the company owes AED 1m in unpaid tax from last year. What is the combined effect on a rational buyer's price?</p>
+  <ul><li>AED 2m lower</li><li>AED 16m lower</li><li data-correct>AED 9m lower</li><li>AED 1m lower: the salary is not a liability</li></ul>
+  <p class="explain">The underpaid salary is recurring: a replacement manager costs AED 1m more every year, so true EBITDA is 1m lower and EV falls by 8 × 1 = 8m. The tax is a one-off debt: it reduces price once, by 1m. Total 9m. The mistake is to treat both alike. First ask of any finding: is it a recurring earnings item (multiply it) or a one-off balance sheet item (count it once)?</p>
+</div>
+
+<h2>The bridge, and "cash-free, debt-free"</h2>
+<p>The walk from EV to equity value is the <strong>bridge</strong>:</p>
+<p><strong>Equity value = EV − debt + cash ± working capital adjustment</strong></p>
+<p>Offers are made on a <strong>cash-free, debt-free</strong> basis: the headline price assumes the business is handed over with no debt and no spare cash, and with a normal level of working capital. Nobody literally strips the company. Instead the price is reduced for each unit of debt left in it and increased for each unit of cash. The reason for the convention: debt and cash levels are the seller's financing choices and can change daily, so the buyer prices the operations and lets the bridge handle whatever balance sheet arrives on the day.</p>
+<table>
+<tr><th>Line</th><th>AED m</th><th>Comment</th></tr>
+<tr><td>Enterprise value (8 × EBITDA of 25)</td><td>200.0</td><td>Headline from the LOI</td></tr>
+<tr><td>Less: bank debt</td><td>(45.0)</td><td>Undisputed</td></tr>
+<tr><td>Less: shareholder loan</td><td>(5.0)</td><td>Owed to the seller; repaid at closing</td></tr>
+<tr><td>Less: finance leases</td><td>(4.0)</td><td>Debt-like</td></tr>
+<tr><td>Less: unpaid corporate tax</td><td>(2.0)</td><td>Debt-like</td></tr>
+<tr><td>Less: accrued end-of-service gratuity</td><td>(3.0)</td><td>Debt-like, contested</td></tr>
+<tr><td>Plus: cash (16.0 less 2.0 trapped)</td><td>14.0</td><td>Only free cash counts</td></tr>
+<tr><td>Working capital: actual 28.0 against target 30.0</td><td>(2.0)</td><td>Shortfall reduces price</td></tr>
+<tr><td><strong>Equity value (the purchase price)</strong></td><td><strong>153.0</strong></td><td></td></tr>
+<tr><td>Less: escrow (10%)</td><td>(15.3)</td><td>Paid to a neutral agent as security for claims and released later (explained below)</td></tr>
+<tr><td><strong>Cash to seller at closing</strong></td><td><strong>137.7</strong></td><td></td></tr>
+</table>
+<p>The headline was 200. The seller banks 137.7. Nothing was renegotiated: every step is the mechanical result of a definition.</p>
+<div data-widget="pricebridge"></div>
+<p>Move the inputs in the calculator above and watch which ones move equity value one for one (debt, cash, working capital) and which one is multiplied (EBITDA).</p>
+<div class="num" data-id="m04n1" data-answer="181" data-tol="0.005">
+  <p class="q">EV is AED 240m on a cash-free, debt-free basis. At closing the target has bank debt of 60m, a shareholder loan of 10m, accrued gratuity of 4m agreed to be debt-like, and cash of 22m of which 3m is trapped and agreed not to count. Working capital is 31m against a target of 35m. What is the equity value? Answer in AED m.</p>
+  <p class="explain">240 − 60 − 10 − 4 = 166. Add free cash of 22 − 3 = 19, giving 185. Working capital is 4 below target, so deduct 4: 181. Common slips: adding all 22 of cash (184), or adding the working capital shortfall instead of deducting it (189).</p>
+</div>
+
+<h2>Net debt: what counts as debt and what counts as cash</h2>
+<p><strong>Net debt</strong> is debt minus cash. Bank loans are easy. The negotiation is over <strong>debt-like items</strong>: liabilities that are not borrowings but that the buyer will have to pay in cash for something that benefited the seller's period of ownership. The buyer's test: "Is this a claim on the company's cash that relates to the past and that I did not price into EBITDA?" If yes, it should come off the price.</p>
+<table class="bs">
+<tr><th>Term</th><th>Buyer wants</th><th>Seller wants</th><th>Why</th><th>Typical landing</th></tr>
+<tr><td>Unpaid tax on pre-closing profits</td><td>Debt</td><td>Working capital, or ignored</td><td>Profit was earned by the seller; the tax bill arrives after closing</td><td>Debt-like</td></tr>
+<tr><td>Deferred consideration owed for the target's own past acquisitions</td><td>Debt</td><td>Excluded</td><td>It is the unpaid price of an asset already in the business</td><td>Debt-like</td></tr>
+<tr><td>Finance leases</td><td>Debt</td><td>Operating cost</td><td>Economically a loan to buy equipment</td><td>Debt-like; ordinary property leases are argued case by case</td></tr>
+<tr><td>Unfunded pension or end-of-service obligations</td><td>Debt</td><td>An ordinary operating accrual</td><td>Earned in the past, paid in future cash</td><td>Often debt-like, sometimes discounted or shared</td></tr>
+<tr><td>Deal costs and sale bonuses borne by the target</td><td>Debt</td><td>Excluded</td><td>Seller's costs paid from the company's pocket</td><td>Debt-like</td></tr>
+<tr><td>Cash</td><td>Only cash freely available on day one</td><td>Every balance</td><td>Cash the buyer cannot use is not worth face value</td><td><strong>Trapped cash</strong> is excluded or discounted</td></tr>
+</table>
+<p><strong>Trapped cash</strong> is cash the buyer cannot freely extract: customer deposits, cash securing bank guarantees, cash in countries with exchange controls, minimum regulatory capital. <strong>Cash-like items</strong> run the other way: assets as good as cash, such as a tax refund already approved, which the seller argues should be added.</p>
+<div class="note uae">UAE employees are entitled on leaving to an end-of-service gratuity: 21 days' basic pay per year of service for the first five years and 30 days per year thereafter, capped at two years' pay. Most companies do not fund it: it is a book accrual with no cash set aside. Buyers treat the accrual as debt-like. Sellers reply that staff leave gradually, so the liability is paid out over many years as a running cost. Expect this argument on every UAE deal.</div>
+<div class="quiz" data-id="m04q2">
+  <p class="q">The target has an accrued gratuity liability of AED 6m, stable all year. The seller proposes to treat it as part of working capital, with the working capital target calculated on the same basis. The buyer wants it as debt. How much better off is the seller under its own proposal?</p>
+  <ul><li>No difference: the liability is counted either way</li><li data-correct>AED 6m better off</li><li>AED 12m better off</li><li>AED 6m worse off</li></ul>
+  <p class="explain">As debt, the 6m is deducted from price in full. As working capital, it reduces actual working capital by 6m and reduces the target by the same 6m, so the adjustment (actual minus target) is zero and the liability passes to the buyer free. That is the general rule: anything inside working capital at its normal level has no price effect. Classification between "debt" and "working capital" is therefore a price negotiation disguised as accounting.</p>
+</div>
+
+<h2>Working capital and the peg</h2>
+<p><strong>Net working capital (NWC)</strong> is receivables plus inventory minus payables: the money tied up in running the business day to day. A business needs a certain level of it to operate, as an engine needs oil. The buyer has paid, in the EV, for a business that runs, so it expects a normal level to be delivered.</p>
+<p>The <strong>peg</strong> (or target working capital) is the agreed normal level. If actual NWC at closing is above the peg, the price goes up by the difference. If below, down. The peg is usually an average of the last 12 months of <strong>normalised</strong> NWC (stripped of one-offs), because month-end balances swing with the seasons.</p>
+<p>Why it exists: without it, a cash-free, debt-free deal can be gamed. The seller is paid for every dirham of cash. In the last month it can collect receivables hard, run down stock and delay paying suppliers. Cash rises, the price rises, and the buyer inherits a business that needs an immediate cash injection. The peg makes that manoeuvre neutral: the extra cash is matched by an equal working capital shortfall.</p>
+<div class="quiz" data-id="m04q3">
+  <p class="q">A deal is cash-free, debt-free with cash paid for one for one, but the SPA has no working capital adjustment. In the month before closing the seller stops paying suppliers, building AED 4m of extra cash and AED 4m of overdue payables. What is the effect?</p>
+  <ul><li>None: the extra cash and the extra payables offset</li><li data-correct>The buyer overpays by AED 4m</li><li>The seller loses AED 4m because payables are debt</li><li>The buyer gains because it receives more cash</li></ul>
+  <p class="explain">They offset inside the company, but not in the price. The price rises 4m for the cash; the overdue payables are not "debt" and there is no peg to catch them, so nothing comes off. The buyer then pays the suppliers: 4m out of pocket. The cash the buyer "receives" is cash it paid for. This is why the three definitions (debt, cash, working capital) must be read as one system: every balance sheet item should fall into exactly one of them.</p>
+</div>
+<details class="think"><summary>Before reading on: a toy retailer's NWC peaks in October (stock built for the holidays) and is lowest in January, AED 10m below the 12-month average. Closing is 31 January. The seller proposes a peg equal to last January's level, "because that is what NWC normally is at closing". Who benefits, and by how much?</summary><p>The seller, by about AED 10m. In January the stock has been sold and turned into cash, and cash is paid for one for one. With an average peg, the 10m of extra cash is matched by a 10m working capital shortfall and the price is neutral. With a January peg there is no shortfall, so the seller is paid for the cash and the buyer must find 10m to rebuild stock next autumn. The EV priced a business that carries its average working capital across the cycle. Lawyers ask the accountants to model the whole bridge (cash and NWC together) on the expected closing date before agreeing any peg.</p></details>
+
+<h2>Two price mechanisms: completion accounts and locked box</h2>
+<p>The bridge needs balance sheet figures at a date. There are two ways to choose it.</p>
+<p><strong>Completion accounts</strong> (closing accounts; US: a <strong>purchase price adjustment</strong>): the price is calculated from a balance sheet drawn up as at closing. Since that cannot exist on the day, the buyer pays an estimate at closing. Afterwards one side (usually the buyer, who now controls the books) prepares the accounts within a set period, often 60 to 90 days. The other side reviews and objects. Unresolved items go to an <strong>independent expert</strong>, an accountant whose decision is final except for obvious error. The difference from the estimate is paid one way or the other: the <strong>true-up</strong>. Whoever drafts first sets the anchor and chooses which judgments to press, so sellers sometimes negotiate to draft first. The SPA also fixes the accounting rules in a hierarchy: specific policies listed in the SPA, then the target's past practice, then general accounting standards. SRS Acquiom 2026 reports that 39% of working capital adjustments use an agreed worksheet methodology, not a generic reference to accounting standards: parties are closing the room for argument.</p>
+<p><strong>Locked box</strong>: the price is fixed at signing from a historical balance sheet (the <strong>locked box accounts</strong>) at a date before signing (the <strong>locked box date</strong>). There is no true-up. Economic risk and reward pass to the buyer from that date, though it does not own the shares until closing. The danger is obvious: the seller still controls a company whose value now belongs to the buyer. So the seller promises there has been, and will be, no <strong>leakage</strong>: no value moving from the target to the seller or its associates (dividends, management fees, bonuses tied to the sale, waived debts, non-arm's-length deals). <strong>Permitted leakage</strong> is a closed list of agreed exceptions, such as normal salaries. Any other leakage is repaid one for one, usually under a claim period of 6 to 12 months after closing.</p>
+<blockquote class="clause">The Seller undertakes that since the Locked Box Date there has been no Leakage other than Permitted Leakage. If there has been any Leakage, the Seller shall pay to the Buyer on demand an amount equal to that Leakage.</blockquote>
+<p>Decode: an indemnity-style promise. The buyer need not prove loss, only that value left the box.</p>
+<p>Because the buyer gets the profits earned since the locked box date, the seller asks to be paid for them through a <strong>ticker</strong>: a daily amount, or interest on the price, from the locked box date to closing.</p>
+<table class="bs">
+<tr><th>Term</th><th>Buyer wants</th><th>Seller wants</th><th>Why</th><th>Typical landing</th></tr>
+<tr><td>Mechanism</td><td>Completion accounts</td><td>Locked box</td><td>Buyer wants to pay for what it actually receives; seller wants a certain price and no post-closing dispute</td><td>CMS 2026: a purchase price adjustment in 48% of European deals against 92% in the US; of European deals without one, 54% used a locked box</td></tr>
+<tr><td>Ticker</td><td>None, or a low interest rate</td><td>Daily rate equal to expected profit</td><td>It is the price of the period between the two dates</td><td>Negotiated rate, often below forecast cash profit</td></tr>
+<tr><td>Permitted leakage</td><td>Short, quantified list</td><td>Wide categories</td><td>Every item is a price reduction the buyer cannot claim back</td><td>Itemised list with amounts</td></tr>
+</table>
+<p>PE sellers love the locked box because the fund can distribute the proceeds to its investors on day one with no risk of paying some back. Auction sellers love it because bids become directly comparable. Buyers accept it when the locked box accounts are audited and recent, the business is stable, and they have diligenced that balance sheet properly. They should resist when the target is being carved out of a larger group and has no standalone accounts, when working capital is volatile, or when the gap to closing is long.</p>
+<div class="num" data-id="m04n2" data-answer="1.7" data-tol="0.01">
+  <p class="q">Completion accounts deal. At closing the buyer paid on the seller's estimates: net debt of 50.0m and working capital equal to the peg of 35.0m. The final completion accounts show net debt of 53.2m and working capital of 36.5m. How much does the seller pay the buyer in the true-up? Answer in AED m.</p>
+  <p class="explain">Net debt is 3.2 higher than estimated: price falls 3.2. Working capital is 1.5 above the peg, where the estimate assumed zero excess: price rises 1.5. Net: 3.2 − 1.5 = 1.7 payable by the seller to the buyer. Each component is computed separately and then netted.</p>
+</div>
+<div class="num" data-id="m04n3" data-answer="200.4" data-tol="0.0005">
+  <p class="q">Locked box deal. Equity price AED 200m. Ticker: 5% a year on the equity price, accruing daily on a 365-day basis, for the 146 days from the locked box date to closing. Before closing the buyer learns that since the locked box date the target paid the seller a dividend of 3.0m, paid a 0.6m management fee to the seller's parent, and paid the seller's nominee director his normal salary of 0.4m. Only ordinary-course salaries are permitted leakage. The parties deduct leakage from the closing payment. What does the buyer pay at closing? Answer in AED m to one decimal place.</p>
+  <p class="explain">Ticker: 200 × 5% × 146/365 = 200 × 0.05 × 0.4 = 4.0. Leakage: dividend 3.0 + management fee 0.6 = 3.6. The salary is permitted leakage and is ignored. Payment: 200 + 4.0 − 3.6 = 200.4.</p>
+</div>
+<div class="quiz" data-id="m04q4">
+  <p class="q">Locked box deal, locked box date 31 December, closing 30 June. Between those dates the target loses a major contract and makes a trading loss of AED 5m. The seller extracted nothing. What can the buyer recover under the leakage clause?</p>
+  <ul><li>AED 5m, because value has left the box</li><li>AED 5m less the ticker</li><li data-correct>Nothing</li><li>Half, because the risk is shared in the gap</li></ul>
+  <p class="explain">Leakage is value transferred to the seller or its associates. A trading loss is value lost to the outside world, and in a locked box the buyer took trading risk and reward from the locked box date. Worse, the buyer still pays the ticker. Its only possible routes are warranties or a breach of the seller's covenants on how the business was run. This is the hidden cost of a locked box for buyers: you own the downside before you own the company.</p>
+</div>
+<div class="quiz" data-id="m04q5">
+  <p class="q">A conglomerate is selling a division that shares bank accounts, staff and IT with the group. The division has never had its own audited accounts. The seller proposes a locked box at last year end. What should the buyer's lawyer advise?</p>
+  <ul><li>Accept, with a higher ticker to compensate</li><li>Accept, with a longer leakage claim period</li><li data-correct>Resist: insist on completion accounts, because there is no reliable balance sheet to lock and the division's boundary with the group is porous</li><li>Accept, because locked box is the European norm</li></ul>
+  <p class="explain">A locked box is only as good as the accounts it locks. Here they are constructed, unaudited, and the business trades daily with the seller's group, so leakage is hard even to define. A longer claim period does not help if you cannot identify the leakage. The ticker runs in the seller's favour, not the buyer's. "It is market" is not a reason: the mechanism has preconditions, and they are not met.</p>
+</div>
+
+<h2>Earn-outs</h2>
+<p>An <strong>earn-out</strong> makes part of the price depend on the target's performance after closing. It bridges a valuation gap: the seller believes in next year's forecast, the buyer does not, so the buyer says "I will pay for it if it happens". CMS 2026 found earn-outs in a record 27% of European deals, with an EBIT or EBITDA metric in 55% of them; US figures are 18% (ABA 2025) and 24% excluding life sciences (SRS Acquiom 2026).</p>
+<p>The structural problem: after closing the buyer controls the thing being measured. It decides costs, pricing, staffing, and what gets booked where.</p>
+<table class="bs">
+<tr><th>Term</th><th>Buyer wants</th><th>Seller wants</th><th>Why</th><th>Typical landing</th></tr>
+<tr><td>Metric</td><td>EBITDA or net profit</td><td>Revenue or a milestone</td><td>The lower down the income statement, the more the buyer's decisions affect it</td><td>EBITDA with a tightly defined calculation, or revenue with a margin floor</td></tr>
+<tr><td>Control</td><td>Freedom to run the business "in its sole discretion"</td><td><strong>Operating covenants</strong>: run it consistently with past practice, keep separate accounts, do not divert customers, fund the budget</td><td>Seller's price depends on a business it no longer controls</td><td>A limited list of covenants plus a promise not to act with the purpose of reducing the earn-out</td></tr>
+<tr><td>Acceleration</td><td>None</td><td>Maximum earn-out payable at once if the buyer sells the target, breaches the covenants or dismisses the founder without cause</td><td>These events destroy the seller's ability to earn it</td><td>Acceleration on a sale and on material breach</td></tr>
+<tr><td>Set-off</td><td>Right to deduct warranty claims from earn-out payments</td><td>No set-off, or only for agreed or decided claims</td><td>Possession of the cash decides who must sue</td><td>Set-off for finally determined claims</td></tr>
+</table>
+<p>Earn-outs breed disputes because the price is set by an accounting definition applied to a business run by the paying party, usually while the seller's founder is still an employee. Every integration decision becomes arguable.</p>
+<div class="note us">US courts, Delaware in particular, tend to enforce the earn-out as written and are reluctant to imply a duty on the buyer to maximise it. A seller who wants protection must get it into the operating covenants.</div>
+<div class="num" data-id="m04n4" data-answer="12" data-tol="0.01">
+  <p class="q">Earn-out: the buyer pays 3 times the amount by which Year 1 EBITDA exceeds AED 20m, capped at AED 15m. The SPA says earn-out EBITDA is calculated "before any management charges levied by the Buyer's group". The buyer's accounts show Year 1 EBITDA of 22.0m after a 2.0m group management charge. What is the earn-out payment? Answer in AED m.</p>
+  <p class="explain">Add back the charge: 22.0 + 2.0 = 24.0. Excess over 20 is 4.0. Payment 3 × 4.0 = 12.0, below the 15 cap. Without the add-back the payment would be 3 × 2.0 = 6.0. One line in the definition is worth 6m.</p>
+</div>
+<div class="quiz" data-id="m04q6">
+  <p class="q">A founder sells her software company with an earn-out on Year 2 EBITDA. Six months after closing the buyer moves the target's sales team into its own group sales force, which sells the target's product bundled with its own at a discount. The SPA lets the buyer run the business "in its sole discretion" and has no operating covenants. Which clause, had she negotiated it, would protect her best?</p>
+  <ul><li>A higher cap on the earn-out</li><li>A right to audit the earn-out calculation</li><li data-correct>Acceleration of the maximum earn-out if the business ceases to be run as a separate unit with separate accounts</li><li>A longer earn-out period</li></ul>
+  <p class="explain">Once the business is merged, standalone EBITDA can no longer be measured in any agreed way, so the metric itself is destroyed. An audit right verifies a number that no longer means anything. A higher cap or longer period increases exposure to the same problem. Acceleration on loss of separateness converts an unmeasurable contingent price into a fixed one and makes the buyer price the integration decision.</p>
+</div>
+<details class="think"><summary>Before reading on: why might a buyer, not only a seller, dislike an EBITDA earn-out?</summary><p>It constrains integration: to keep the metric measurable the buyer must keep the target separate, forgoing synergies it paid for. It also gives the seller's managers a reason to cut investment, marketing and hiring in the earn-out year to inflate EBITDA, harming the business the buyer keeps. And it guarantees a relationship dispute with the people the buyer most needs to retain.</p></details>
+
+<h2>Other ways the price can be paid, and funds flow</h2>
+<ul>
+<li><strong>Deferred consideration</strong>: a fixed amount payable at a later date, unconditional. Unlike an earn-out it does not depend on performance. The seller is lending to the buyer and bears the buyer's credit risk, so it asks for a guarantee or security.</li>
+<li><strong>Vendor loan note</strong>: the same idea in formal dress: the buyer issues the seller a debt instrument carrying interest, usually ranking behind the buyer's bank debt.</li>
+<li><strong>Share consideration</strong>: the seller is paid in the buyer's shares. The seller is now an investor in the buyer, so it needs diligence and warranties about the buyer, and will usually be restricted from selling the shares for a period.</li>
+<li><strong>Rollover</strong>: the seller, typically a founder or management, reinvests part of the proceeds in the buyer's holding company. PE buyers require it to align incentives.</li>
+<li><strong>Escrow</strong>: part of the price is paid at closing to a neutral agent, usually a bank, and released to the seller on a set date if the buyer has made no claims. A <strong>holdback</strong> or <strong>retention</strong> is the same economics with the buyer keeping the money itself. In both, the money is price that has been earned but not released. The difference is credit risk and control: with a holdback the seller is exposed to the buyer's solvency and willingness to pay.</li>
+</ul>
+<p>Per DealLawyers.com's summary of the SRS Acquiom 2026 study, 88% of 2025 deals in that sample had an escrow or holdback, with a median of 10.0% of deal value where there was no warranty insurance and 2.8% where there was. (Warranty insurance, a policy that pays the buyer's warranty claims in place of the seller, is covered later.)</p>
+<p>The <strong>funds flow</strong> turns all of this into bank transfers. In the worked example the buyer sends out 203.0 at closing: 45.0 directly to the bank to repay the loan, 5.0 to repay the shareholder loan, 15.3 to the escrow agent and 137.7 to the seller. The leases, tax and gratuity (9.0) stay in the company for the buyer to settle later, which is why they came off the price. The funds flow memo must reconcile to the price clause to the dirham. If it does not, a definition is wrong.</p>
+<div class="quiz" data-id="m04q7">
+  <p class="q">A seller is offered two structures for the same AED 15m: (A) paid into escrow with a bank for 18 months; (B) retained by the buyer, a newly formed company funded with bank debt, for 18 months. No warranty claims are expected. Which is better for the seller, and why?</p>
+  <ul><li>Equal: the amount, period and release conditions are the same</li><li>B, because no escrow fees are payable</li><li data-correct>A, because under B the seller is an unsecured creditor of a leveraged company that also decides whether to pay</li><li>B, because the buyer cannot dispute a retention it holds itself</li></ul>
+  <p class="explain">Under escrow the money sits outside both parties and is released under agreed instructions. Under a retention the seller holds only a promise from a thinly capitalised borrower whose bank ranks first, and who can simply not pay, forcing the seller to sue. Identical headline terms, different risk. Sellers accepting a retention ask for a parent guarantee.</p>
+</div>
+<div class="note lawyer">"The headline is agreed. What I need to see is the debt definition, the peg and how it was built, and who prepares the completion accounts, because that is where the 200 becomes 150."</div>
+<div class="note trap">Double counting. An item must sit in exactly one of debt, cash or working capital. Accrued tax deducted as debt and also left inside working capital hits the seller twice. An item in neither is given away free.</div>
+<details class="think"><summary>Before reading on: a seller is offered AED 100m on completion accounts or AED 98m on a locked box with no ticker. What does it need to know to choose?</summary><p>The expected profit between the locked box date and closing (which it gives up without a ticker), the likely direction of the completion accounts true-up (does it expect working capital and net debt to be better or worse than estimated at closing), and how much it values certainty and the absence of a post-closing dispute. If the business generates AED 1m of cash a month and closing is six months after the locked box date, the locked box costs it 2m in price plus 6m in forgone profit. Certainty has a price; here it is too high.</p></details>
+
+<h2>Key terms</h2>
+<dl class="terms">
+<dt>Enterprise value (EV)</dt><dd>Value of the operating business independent of how it is financed.</dd>
+<dt>Equity value</dt><dd>Value of the shares: EV minus debt plus cash, adjusted for working capital.</dd>
+<dt>EBITDA</dt><dd>Earnings before interest, tax, depreciation and amortisation, used as the base for valuation multiples.</dd>
+<dt>Cash-free, debt-free</dt><dd>Pricing convention under which the headline price assumes no debt, no surplus cash and normal working capital.</dd>
+<dt>Debt-like item</dt><dd>A non-borrowing liability relating to the past that the buyer will settle in cash and so deducts from price.</dd>
+<dt>Trapped cash</dt><dd>Cash the buyer cannot freely use or extract, excluded or discounted in the cash definition.</dd>
+<dt>Net working capital</dt><dd>Receivables plus inventory minus payables.</dd>
+<dt>Peg (target working capital)</dt><dd>Agreed normal level of working capital against which the actual closing level is compared.</dd>
+<dt>Completion accounts</dt><dd>Price mechanism using a balance sheet drawn up at closing, with a post-closing true-up.</dd>
+<dt>Locked box</dt><dd>Price mechanism fixing the price from a historical balance sheet with no true-up, protected by a no-leakage promise.</dd>
+<dt>Leakage</dt><dd>Value transferred from the target to the seller or its associates after the locked box date.</dd>
+<dt>Ticker</dt><dd>Daily amount or interest paid to the seller for the period from the locked box date to closing.</dd>
+<dt>Earn-out</dt><dd>Part of the price that is payable only if the target meets performance measures after closing.</dd>
+<dt>Deferred consideration</dt><dd>A fixed part of the price payable unconditionally at a later date.</dd>
+<dt>Escrow</dt><dd>Part of the price held by a neutral agent as security for the buyer's claims and released later.</dd>
+</dl>

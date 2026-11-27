@@ -1,0 +1,1564 @@
+[
+  {
+    "deal_id": {
+      "value": "01-arena-aviation",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Crestone Air Partners, Inc.",
+      "section": "Cover",
+      "quote": "CRESTONE AIR PARTNERS, INC. as Purchaser"
+    },
+    "target": {
+      "value": "Arena Aviation Partners B.V.",
+      "section": "Cover",
+      "quote": "ARENA AVIATION PARTNERS B.V. as the Company"
+    },
+    "seller_type": {
+      "value": "Founders/management shareholders (Class A/P shareholders + depositary-receipt foundation; key employees) - inferred",
+      "section": "Cover; 1.4",
+      "quote": "THE SHAREHOLDERS OF ARENA AVIATION PARTNERS B.V., as Sellers"
+    },
+    "date": {
+      "value": "2026-03-08",
+      "section": "Cover",
+      "quote": "Dated as of March 8, 2026"
+    },
+    "target_jurisdiction": {
+      "value": "Netherlands",
+      "section": "2.4/2.1; Closing",
+      "quote": "the transfer of the Outstanding Company Shares shall be completed in accordance with applicable Dutch law"
+    },
+    "governing_law": {
+      "value": "New York",
+      "section": "11 (Governing Law)",
+      "quote": "shall be governed by and construed and interpreted in accordance with the laws of the state of New York"
+    },
+    "dispute_forum": {
+      "value": "NY state/federal courts, Borough of Manhattan (exclusive)",
+      "section": "11 (Jurisdiction)",
+      "quote": "submits to the exclusive jurisdiction of each such state and federal court located in the State of New York"
+    },
+    "headline_price": {
+      "value": "USD 21,750,000 (transaction value before debt/expenses/leakage adjustments)",
+      "section": "Definitions - Closing Adjusted Transaction Value",
+      "quote": "“Closing Adjusted Transaction Value” means an amount equal to (a) $21,750,000, minus (b) the Closing Debt Amount"
+    },
+    "price_mechanism": {
+      "value": "Locked box (leakage-based)",
+      "section": "Definitions - Leakage; 10.2(a)(iv)",
+      "quote": "“Leakage” means, without duplication, any of the following occurring between the Locked Box Date and the Closing Date"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "USD 750,000 indemnity escrow; 3.4% of USD 21.75M (computed); duration not found in extracted text (likely tied to General Expiration Date, 15 months)",
+      "section": "Definitions - Escrow Amount; 1.7",
+      "quote": "“Escrow Amount” means $750,000."
+    },
+    "rwi": {
+      "value": "No R&W insurance found; a separate Tax Liability Insurance Policy is referenced (carved out of exclusive remedy)",
+      "section": "10.10",
+      "quote": "except for equitable remedies and the Tax Liability Insurance Policy"
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Deductible USD 251,750; 1.16% of USD 21.75M (computed)",
+      "section": "10.3(a)",
+      "quote": "exceeds $251,750 (the “Deductible”) in the aggregate ... indemnified ... for any amount of Damages in excess of the Deductible"
+    },
+    "general_cap": {
+      "value": "USD 3,785,000; 17.4% of USD 21.75M (computed)",
+      "section": "10.3(c)",
+      "quote": "shall be capped at $3,785,000 (the “Cap”)"
+    },
+    "fundamental_cap": {
+      "value": "Per seller: consideration actually paid to such Seller Indemnitor",
+      "section": "10.3(e)",
+      "quote": "shall be limited to an amount equal to the aggregate amount of consideration actually paid to such Seller"
+    },
+    "tax_indemnity": {
+      "value": "Line-item tax indemnity: pre-Locked Box Date taxes; non-ordinary-course taxes Locked Box Date to Closing; Dutch Tax Collection Act ss.39/43 liability; 50% transfer taxes; deal withholding taxes; no liability for post-Closing changes in law",
+      "section": "10.2(a)(iv); 10.3(f)",
+      "quote": "any Tax imposed on any Acquired Company on or prior to the Locked Box Date"
+    },
+    "survival_general": {
+      "value": "15 months",
+      "section": "10.1(a)",
+      "quote": "shall survive the Closing until 11:59 p.m. (New York Time) on the date that is 15 months after the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental: 5 years; Tax reps (2.8): statute of limitations + 60 days",
+      "section": "10.1(b)",
+      "quote": "shall survive the Closing until 11:59 p.m. (New York Time) on the fifth anniversary of the Closing Date"
+    },
+    "specific_indemnities": {
+      "value": "Consideration Spreadsheet errors; pre-closing taxes; securityholder claims; D&O indemnification claims; fraud; Other Indemnifiable Matters / Specific Tax Matters",
+      "section": "10.2(a)(ii),(iv)-(viii); 6.x",
+      "quote": "any inaccuracy in, or omission of, any information required to be included in, the Consideration Spreadsheet"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "10.3(c); 10.10",
+      "quote": "Except in the event of Fraud, and except for equitable remedies"
+    },
+    "sandbagging": {
+      "value": "silent",
+      "section": "Section 10",
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "Single-style scrape for indemnity (applies to determining inaccuracy/breach; Damages not separately addressed); excludes 2.1(a)(iii) and 2.5",
+      "section": "10.2(a)(i)",
+      "quote": "without giving effect to any materiality or similar qualification limiting the scope of such representation or warranty, except for Sections 2.1(a)(iii) and 2.5"
+    },
+    "knowledge_definition": {
+      "value": "Constructive (actual awareness or what a prudent individual would discover after reasonable investigation)",
+      "section": "Definitions - Knowledge",
+      "quote": "a prudent individual would reasonably be expected to h[ave discovered] ... by virtue of conducting a reasonable investigation"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "7.4",
+      "quote": "7.4 No Material Adverse Effect. There shall not have occurred any Material Adverse Effect."
+    },
+    "non_compete": {
+      "value": "Separate Noncompetition Agreements with Key Employees; length not stated in SPA",
+      "section": "Recital C",
+      "quote": "each of the Key Employees will enter into (1) a noncompetition and nonsolicitation agreement in favor of Purchaser"
+    },
+    "exclusive_remedy": {
+      "value": "Y",
+      "section": "10.10",
+      "quote": "the rights to indemnification ... set forth in this Section 10 shall be the sole and exclusive post-Closing monetary remedy"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "02-cat-pumps",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Franklin Electric Co., Inc. (with FE Force, LLC as Acquisition Company)",
+      "section": "Cover/Preamble",
+      "quote": "FE FORCE, LLC, AND FRANKLIN ELECTRIC CO., INC."
+    },
+    "target": {
+      "value": "Cat Pumps Corporation (Minnesota)",
+      "section": "Preamble",
+      "quote": "Cat Pumps Corporation, a Minnesota corporation (the “ Company ”)"
+    },
+    "seller_type": {
+      "value": "Founders/family shareholders (Bruggeman family, with guarantors) - inferred",
+      "section": "Preamble; Knowledge definition",
+      "quote": "each of the Persons listed on the signature page attached hereto under the heading “Shareholders”"
+    },
+    "date": {
+      "value": "2026-09-04",
+      "section": "Cover",
+      "quote": "September 4, 2026"
+    },
+    "target_jurisdiction": {
+      "value": "USA - Minnesota",
+      "section": "Preamble",
+      "quote": "Cat Pumps Corporation, a Minnesota corporation"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "10.x Governing Law",
+      "quote": "shall be governed by, and construed in accordance with, the Laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Federal court sitting in Hennepin County, Minnesota (exclusive)",
+      "section": "10.x Jurisdiction",
+      "quote": "consent to be subject to the exclusive jurisdiction of any federal court sitting in Hennepin County in the State of Minnesota"
+    },
+    "headline_price": {
+      "value": "USD 350,000,000",
+      "section": "1.1 Closing Payment definition",
+      "quote": "(a) Three Hundred Fifty Million Dollars ($350,000,000), minus (b) the Working Capital Holdback Amount"
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (working capital adjustment vs Target Working Capital, with WC holdback)",
+      "section": "2.4; Closing Payment definition",
+      "quote": "plus (d) the amount, if any, by which the Working Capital exceeds the Target Working Capital"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "Indemnity Holdback USD 8,750,000 (2.5% of USD 350M, computed), retained by Acquisition Company; released at end of General Survival Period (15 months) less pending claims; separate Working Capital Holdback",
+      "section": "1.1 Indemnity Holdback Amount; 9.4.4",
+      "quote": "“ Indemnity Holdback Amount ” means $8,750,000 plus any amounts added pursuant to Section 2.5."
+    },
+    "rwi": {
+      "value": "not found (no R&W insurance referenced)",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Deductible USD 1,750,000; 0.5% of USD 350M (computed)",
+      "section": "9.10.1",
+      "quote": "unless all such Losses in the aggregate exceed $1,750,000 (the “ Deductible ”) ... indemnification ... in excess of the Deductible"
+    },
+    "general_cap": {
+      "value": "USD 52,500,000; 15% of USD 350M (computed)",
+      "section": "9.10.1",
+      "quote": "(ii) in excess of $52,500,000 (the “ Cap ”), except in the case of Losses relating to (1) fraud or (2) ... Fundamental Representations"
+    },
+    "fundamental_cap": {
+      "value": "Purchase Price (fraud uncapped)",
+      "section": "9.10.2",
+      "quote": "in no event shall a Buyer Indemnitee be entitled to recover Losses under Section 9.2(a) in excess of the Purchase Price"
+    },
+    "tax_indemnity": {
+      "value": "Indemnified Taxes: all pre-Closing Period taxes, deal withholding taxes, Seller share of transfer taxes, etc.; tax reps survive later of 6 years or SOL+60 days",
+      "section": "9.2(d); Indemnified Taxes definition",
+      "quote": "“ Indemnified Taxes ” means (a) any Taxes of any Acquired Company for (or with respect to) any Pre-Closing Period"
+    },
+    "survival_general": {
+      "value": "15 months",
+      "section": "9.1.1",
+      "quote": "shall survive the Closing until the fifteen (15)-month anniversary of the Closing Date (the “ General Survival Period ”)"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental: shorter of 6 years or SOL+60 days; Tax reps (4.5): later of 6 years or SOL+60 days; fraud: indefinitely",
+      "section": "9.1.1; 9.1.3",
+      "quote": "the Fundamental Representations shall survive the Closing until the shorter of (i) the sixth anniversary of the Closing Date and (ii) ..."
+    },
+    "specific_indemnities": {
+      "value": "Allocation Schedule errors; Indemnified Taxes; Special Indemnity Matters (Tariff Refunds; contractor misclassification / FLSA exempt misclassification; Houlihan Lokey Agreements); M. Co. LOC Amount excess",
+      "section": "9.2(c)-(f); Special Indemnity Matters definition",
+      "quote": "(a) the Tariff Refunds and all fees, costs and expenses relating to the Tariff Refunds"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "9.10.1; 9.10.2; 9.1.3",
+      "quote": "such Losses shall not be subject to the Deductible or the Cap"
+    },
+    "sandbagging": {
+      "value": "Pro-sandbagging",
+      "section": "9.8",
+      "quote": "right to indemnification ... shall not be affected by any investigation or knowledge of the Indemnitee"
+    },
+    "materiality_scrape": {
+      "value": "Double (breach and Losses), also scrapes Knowledge qualifiers",
+      "section": "9.2",
+      "quote": "and the amount of Losses associated therewith, shall be determined without regard and without giving effect to any “materiality”"
+    },
+    "knowledge_definition": {
+      "value": "Constructive (actual knowledge plus knowledge reasonably obtainable)",
+      "section": "1.1 Knowledge of the Company",
+      "quote": "the actual knowledge of Steven S. Bruggeman ... and the knowledge that each such person could reasonably be expected to obtai[n]"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "7.2.3",
+      "quote": "no event or events shall have occurred that ... have had, or could reasonably be expected to have ... a Material Adverse Effect"
+    },
+    "non_compete": {
+      "value": "5 years from Closing (Seller Parties and Guarantors)",
+      "section": "6.9.1",
+      "quote": "commencing on the Closing Date and ending on the fifth (5 th ) anniversary of the Closing Date (the “ Restricted Period ”)"
+    },
+    "exclusive_remedy": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    }
+  },
+  {
+    "deal_id": {
+      "value": "03-bird-canada",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "1393631 B.C. Unlimited Liability Company (Purchaser) and Bird Global, Inc. (Parent)",
+      "section": "Preamble",
+      "quote": "1393631 B.C. Unlimited Liability Company, a British Columbia ULC (“Purchaser”), Bird Global, Inc., a Delaware corporation (“Parent”"
+    },
+    "target": {
+      "value": "Bird Canada Inc. (Ontario)",
+      "section": "Preamble",
+      "quote": "Bird Canada Inc., an Ontario corporation (the “Company”)"
+    },
+    "seller_type": {
+      "value": "VC/PE funds plus founders/individuals (MKB, Relay Ventures, Alate, Obelysk, Lyons, Bitove, etc.)",
+      "section": "Preamble",
+      "quote": "MKB Partners Fund II, Limited Partnership ... Relay Ventures Fund III L.P."
+    },
+    "date": {
+      "value": "2022-12-30",
+      "section": "Preamble",
+      "quote": "dated as of December 30, 2022"
+    },
+    "target_jurisdiction": {
+      "value": "Canada - Ontario",
+      "section": "Preamble",
+      "quote": "Bird Canada Inc., an Ontario corporation"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "9.5",
+      "quote": "governed by and construed in accordance with the internal Laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Delaware Court of Chancery (exclusive), fallback Delaware Superior Court / D. Del.",
+      "section": "9.2(a)",
+      "quote": "irrevocably submit to the exclusive jurisdiction of the Chancery Court of the State of Delaware"
+    },
+    "headline_price": {
+      "value": "USD 32,000,000 (paid in Notes and Parent Class A stock)",
+      "section": "1.1 Purchase Price",
+      "quote": "“Purchase Price” means $32,000,000."
+    },
+    "price_mechanism": {
+      "value": "Closing adjustment for debt, cash and option value (estimated closing statement); no post-closing true-up located",
+      "section": "1.1 Closing Consideration; 2.3",
+      "quote": "(a) the Purchase Price minus (b) the amount of Company Debt plus (c) the amount of Company Cash minus (d) the Company Option Value"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "rwi": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Deductible (named 'Basket'; recovery only in excess) USD 1,000,000; 3.1% of USD 32M (computed)",
+      "section": "8.2(c)",
+      "quote": "liable for the entire amount of all such Losses in excess of the Basket"
+    },
+    "general_cap": {
+      "value": "USD 3,200,000; 10% of USD 32M (computed)",
+      "section": "8.2(d)",
+      "quote": "shall not exceed $3,200,000 (the “Cap”)"
+    },
+    "fundamental_cap": {
+      "value": "Purchase Price (USD 32M); fraud uncapped",
+      "section": "8.2(d)",
+      "quote": "which shall not exceed the Purchase Price"
+    },
+    "tax_indemnity": {
+      "value": "not found (no standalone tax indemnity; tax reps 5.8/5.10 covered by general indemnity; pre-closing accrued taxes treated as Company Debt)",
+      "section": "5.10; Company Debt definition",
+      "quote": "any accrued, unpaid Taxes of the Company with respect to any Pre-Closing Tax Period"
+    },
+    "survival_general": {
+      "value": "18 months",
+      "section": "8.1",
+      "quote": "until 11:59 p.m. Pacific Standard Time on the date that is eighteen (18) months after the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental: 24 months; Tax: no separate period found (general 18 months)",
+      "section": "8.1",
+      "quote": "which shall survive the Closing and remain in full force and effect until the date that is twenty-four (24) months following the Closing"
+    },
+    "specific_indemnities": {
+      "value": "not found (only reps and post-closing covenants)",
+      "section": "8.2",
+      "quote": null
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "8.2(c),(d); 8.1",
+      "quote": "the limitations on indemnification included in this Section 8.2(d) shall not apply in the case of Fraud"
+    },
+    "sandbagging": {
+      "value": "silent",
+      "section": "Article VIII",
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "none",
+      "section": "Article VIII",
+      "quote": null
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after reasonable inquiry (hybrid; leans constructive)",
+      "section": "1.1 Knowledge",
+      "quote": "the actual knowledge, after reasonable inquiry with respect to the relevant subject matter, of Stewart Lyons and JJ Bitove"
+    },
+    "mae_cp": {
+      "value": "N - no closing-conditions article located (appears simultaneous sign-and-close)",
+      "section": "Table of Contents",
+      "quote": "not found"
+    },
+    "non_compete": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "exclusive_remedy": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    }
+  },
+  {
+    "deal_id": {
+      "value": "04-century-casinos-austria",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Racing Entertainment Centre Holdings Inc. (with Highfield Investment Group Inc. as co-indemnitor)",
+      "section": "Preamble",
+      "quote": "Racing Entertainment Centre Holdings Inc. (\" Purchaser \") and Highfield Investment Group Inc."
+    },
+    "target": {
+      "value": "United Horsemen of Alberta Inc. (Century Downs, 75%) and Century Mile Inc. (100%)",
+      "section": "Recitals",
+      "quote": "Vendor owns 75% of the issued and outstanding shares ... of United Horsemen of Alberta Inc. (\" Century Downs \")"
+    },
+    "seller_type": {
+      "value": "Corporate carve-out (Century Resorts Management GmbH, subsidiary of Century Casinos, Inc. as Covenantor)",
+      "section": "Preamble",
+      "quote": "Century Resorts Management GmbH (“ Vendor ”), Century Casinos, Inc. (“ Covenantor ”)"
+    },
+    "date": {
+      "value": "2026-09-24",
+      "section": "Preamble",
+      "quote": "This Share Purchase Agreement, dated as of September 24, 2026"
+    },
+    "target_jurisdiction": {
+      "value": "Canada - Alberta (vendor is Austrian GmbH)",
+      "section": "3.03",
+      "quote": "incorporated and validly existing and in good standing under the Laws of the Province of Alberta"
+    },
+    "governing_law": {
+      "value": "Alberta and federal laws of Canada",
+      "section": "9.x Governing Law; Forum (body numbered 1.83)",
+      "quote": "governed by and construed in accordance with the Laws of the Province of Alberta and the federal Laws of Canada applicable therein"
+    },
+    "dispute_forum": {
+      "value": "Courts of the City of Edmonton, Alberta (exclusive)",
+      "section": "9.x Governing Law; Forum (b)",
+      "quote": "shall be brought in the courts of the City of Edmonton, in the Province of Alberta"
+    },
+    "headline_price": {
+      "value": "Aggregate not stated; per-share Base Price: $90.50 per Century Downs share and $12,212.77 per Century Mile share (currency symbol $ only)",
+      "section": "2.02(a)",
+      "quote": "the amount equal to $90.50 per Century Downs Share multiplied by the number of Century Downs Shares"
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (working capital adjustment vs Closing Date Working Capital Target; estimated and final Closing Date Statements)",
+      "section": "2.07; definitions",
+      "quote": "“Closing Date Working Capital Target” means: (a) with respect to Century Downs, in aggregate, $701,984.00"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "No indemnity escrow; Chip Escrow Amount (outstanding casino chips/slot tickets) and Non-Resident (s.116) tax holdback only; % not computable",
+      "section": "2.08; 2.06(c); definitions",
+      "quote": "“ Chip Escrow Amount ” means the outstanding Vendor Chip and Slot Amount as set out in the Estimated Closing Date Statement."
+    },
+    "rwi": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Tipping basket (first dollar) $50,000; % not computable (aggregate price not stated)",
+      "section": "7.04(a)",
+      "quote": "exceeds $50,000.00 (the “ Basket ”), in which case the Indemnified Party shall be entitled to indemnification in respect of the first dollar of Losses"
+    },
+    "general_cap": {
+      "value": "35% of the Purchase Price",
+      "section": "7.04(b)",
+      "quote": "shall not exceed 35% of the Purchase Price (the “ Breach of Rep Cap ”)"
+    },
+    "fundamental_cap": {
+      "value": "No separate fundamental category; Basket and Cap do not apply to Tax rep (3.22) claims or fraud (no stated cap)",
+      "section": "7.04(h)",
+      "quote": "the Basket and the Breach of Rep Cap shall not apply ... pursuant to: (i) ... Sections 3.22 [Taxes]"
+    },
+    "tax_indemnity": {
+      "value": "Indemnity for pre-Closing Taxes (Tax Act deemed events, pre-Closing income) not reflected as Current Liabilities; tax reps survive until 90 days after reassessment period; uncapped",
+      "section": "7.02(a)(iii); 7.01(a)",
+      "quote": "any and all Taxes which the Purchaser, the Corporation ... has or becomes liable to pay arising in respect of ... on or before Closing"
+    },
+    "survival_general": {
+      "value": "15 months",
+      "section": "7.01(a)",
+      "quote": "shall survive the Closing and shall remain in full force and effect until the date that is 15 months from the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Tax (3.22): 90 days after last reassessment date; no separate fundamental survival found",
+      "section": "7.01(a)",
+      "quote": "until ninety (90) days from the last date on which an assessment or reassessment for Taxes ... can be made"
+    },
+    "specific_indemnities": {
+      "value": "Pre-Closing Taxes; Goldman Sachs Indebtedness/other debt & Transaction Costs; Gaming Liabilities; Excluded Employees severance & Unpaid Tips; Excluded/Affiliate Contract termination costs; Pre-Closing Transaction; listed litigation (3.17(a)); VICI Master Lease claims",
+      "section": "7.02(a)(iii)-(v)",
+      "quote": "any liabilities of the Corporation that arose on or prior to Closing with respect to: (4) the Gaming Liabilities"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "7.04(h)(j); 7.07",
+      "quote": "other than claims arising from fraud on the part of a party hereto"
+    },
+    "sandbagging": {
+      "value": "Anti-sandbagging",
+      "section": "7.04(g)",
+      "quote": "shall not be liable ... if Purchaser had knowledge of such inaccuracy or breach before the date hereof"
+    },
+    "materiality_scrape": {
+      "value": "Single (for calculating Losses only)",
+      "section": "7.02(c)",
+      "quote": "For the purposes of determining the amount of any Losses ... read without regard and without giving effect to the term “material”"
+    },
+    "knowledge_definition": {
+      "value": "Constructive (actual knowledge after due and diligent inquiry)",
+      "section": "1.01 Knowledge of Vendor",
+      "quote": "means the actual knowledge of Ken Maheden after having made due and diligent inquiry with the responsible personnel"
+    },
+    "mae_cp": {
+      "value": "N (Purchaser conditions are gaming approvals, VICI lease letters, no illegality, ROFR; no MAE condition found)",
+      "section": "6.01",
+      "quote": "not found"
+    },
+    "non_compete": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "exclusive_remedy": {
+      "value": "Y (fraud carved out)",
+      "section": "7.07",
+      "quote": "their sole and exclusive remedy with respect to any and all claims (other than claims arising from fraud"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "05-ionq-oxford-ionics",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "IonQ, Inc. (Delaware)",
+      "section": "Preamble",
+      "quote": "by and among IonQ, Inc., a Delaware corporation (“ Buyer ”)"
+    },
+    "target": {
+      "value": "Oxford Ionics Limited (England & Wales)",
+      "section": "Preamble",
+      "quote": "Oxford Ionics Limited, a private limited company incorporated in England and Wales"
+    },
+    "seller_type": {
+      "value": "Founders + investors + Oxford University (VC-backed startup) - inferred",
+      "section": "Preamble; Recitals",
+      "quote": "with respect to the undersigned Sellers (other than Oxford University), has been executed as a deed"
+    },
+    "date": {
+      "value": "2025-06-07",
+      "section": "Preamble",
+      "quote": "made and entered into as of June 7, 2025 (the “ Agreement Date ”)"
+    },
+    "target_jurisdiction": {
+      "value": "England and Wales",
+      "section": "3.1(a)",
+      "quote": "duly and validly incorporated and in good standing under the laws of England and Wales"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "11.9",
+      "quote": "shall be governed by and construed in accordance with the Laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Delaware Court of Chancery (exclusive), fallback D. Del.",
+      "section": "11.11",
+      "quote": "irrevocably submit to the exclusive jurisdiction of the Delaware Court of Chancery"
+    },
+    "headline_price": {
+      "value": "USD 1,075,000,000 (computed: USD 1,065,000,000 in Buyer stock less Leakage + USD 10,000,000 cash)",
+      "section": "2.1",
+      "quote": "(x) $1,065,000,000 minus (y) the Leakage divided by (ii) the Final Buyer Stock Price plus (b) an amount in cash equal to $10,000,000"
+    },
+    "price_mechanism": {
+      "value": "Locked box (Leakage deduction; Leakage Claims within 9 months)",
+      "section": "2.1; 6.9; Annex A Leakage",
+      "quote": "“ Leakage ” means, without duplication and to the extent that such activity is not Permitted Leakage"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "not found (no indemnity escrow; walk-away structure)",
+      "section": null,
+      "quote": null
+    },
+    "rwi": {
+      "value": "Y - buy-side R&W Policy bound at signing; premium/costs split 50/50 (Sellers bear 50% as Third Party Expense); retention not stated in SPA",
+      "section": "6.24",
+      "quote": "Fifty percent (50%) of all costs and expenses related to the binding of the R&W Policy ... shall be borne by Sellers"
+    },
+    "de_minimis": {
+      "value": "not found (no seller indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "not found (no seller indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "general_cap": {
+      "value": "No warranty indemnity: reps terminate at Closing (recourse via R&W Policy only); overall per-Seller liability cap = Closing Consideration received",
+      "section": "9.1",
+      "quote": "shall terminate at Closing, and thereafter none of the parties hereto ... shall have any Liability whatsoever"
+    },
+    "fundamental_cap": {
+      "value": "Per-Seller: value of Closing Consideration actually received (fraud excluded)",
+      "section": "9.1",
+      "quote": "in an amount that exceeds the full amount of value of the Closing Consideration actually received by such Seller"
+    },
+    "tax_indemnity": {
+      "value": "not found (no tax indemnity/covenant from Sellers; Employment Tax Charge mechanics in 2.10)",
+      "section": null,
+      "quote": null
+    },
+    "survival_general": {
+      "value": "0 - reps terminate at Closing",
+      "section": "9.1",
+      "quote": "shall terminate at Closing"
+    },
+    "survival_fundamental_tax": {
+      "value": "0 - no separate survival; listed covenants survive per Disclosure Schedule 9.1",
+      "section": "9.1",
+      "quote": "shall survive on the terms set forth on Section 9.1 of the Company Disclosure Schedule"
+    },
+    "specific_indemnities": {
+      "value": "not found (only Leakage claim under 6.9)",
+      "section": "6.9(h)",
+      "quote": "Buyer’s sole and exclusive remedy in respect of any Leakage Claim (other than in the case of Fraud) is a claim under this Section 6.9"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "9.1",
+      "quote": "nothing in this Agreement or any Related Agreement shall preclude or limit a claim by any person for Fraud"
+    },
+    "sandbagging": {
+      "value": "silent (n/a - no indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "none for indemnity (scrape only in closing-condition bring-down)",
+      "section": "7.1",
+      "quote": "without giving effect to any materiality or Company Material Adverse Effect or similar qualification contained therein"
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after due inquiry of direct reports (hybrid/constructive)",
+      "section": "Annex A Knowledge",
+      "quote": "the actual knowledge of Dr. Chris Ballance, Dr. Tom Harty, and Dylan Murphy, after due inquiry of their direct reports"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "7.1(b)(iii)",
+      "quote": "No Company Material Adverse Effect shall have occurred since the Agreement Date that is continuing."
+    },
+    "non_compete": {
+      "value": "Separate Restrictive Covenant Agreement (Exhibit A); length not stated in SPA",
+      "section": "Exhibit A; 9.1",
+      "quote": "(other than the Restrictive Covenant Agreement, if applicable)"
+    },
+    "exclusive_remedy": {
+      "value": "Y (effectively: no Seller liability except as set forth in 9.1; Leakage claim exclusive)",
+      "section": "9.1; 6.9(h)",
+      "quote": "no Seller shall have any Liability whatsoever arising out of this Agreement ... except as set forth in this Section 9.1"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "06-playtika-innplay",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Playtika Ltd.",
+      "section": "Cover",
+      "quote": "PLAYTIKA LTD. (as the Purchaser)"
+    },
+    "target": {
+      "value": "G.S Innplay Labs Ltd. (Israel)",
+      "section": "Cover",
+      "quote": "G.S INNPLAY LABS LTD. (as the Company)"
+    },
+    "seller_type": {
+      "value": "Founders + VC/investor shareholders (e.g., Kaedan Capital) - inferred",
+      "section": "Signature page; 6.2",
+      "quote": "SELLERS : KAEDAN CAPITAL LTD. ... O.L. GROUP LTD. ... ZEP FUND LTD."
+    },
+    "date": {
+      "value": "2023-09-14",
+      "section": "Cover",
+      "quote": "Dated as of September 14, 2023"
+    },
+    "target_jurisdiction": {
+      "value": "Israel",
+      "section": "Cover; 2.12",
+      "quote": "G.S INNPLAY LABS LTD. (as the Company)"
+    },
+    "governing_law": {
+      "value": "Israel",
+      "section": "12.7(a)",
+      "quote": "governed by and construed and enforced in accordance with the laws of the State of Israel"
+    },
+    "dispute_forum": {
+      "value": "Competent courts in Tel Aviv, Israel (exclusive)",
+      "section": "12.7(b)",
+      "quote": "irrevocably submit to the exclusive jurisdiction of any competent court sitting in Tel-Aviv, Israel"
+    },
+    "headline_price": {
+      "value": "USD 80,000,000 Base Amount (plus up to USD 220,000,000 earnout)",
+      "section": "1.1 Base Amount",
+      "quote": "“ Base Amount ” equals $80,000,000."
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (cash, working capital vs target, debt, expenses; post-closing adjustment; USD 750,000 Adjustment Holdback)",
+      "section": "1.1 Closing Date Purchase Price; 2.8",
+      "quote": "the amount, if any, by which the Estimated Closing Date Working Capital exceeds the Target Working Capital"
+    },
+    "earn_out": {
+      "value": "Y - up to USD 220,000,000 over 2 years, based on multiple of incremental Gross Revenues",
+      "section": "2.9; Earnout Period definition",
+      "quote": "an additional aggregate amount of up to Two Hundred and Twenty Million Dollars ($220,000,000) will be paid"
+    },
+    "escrow_holdback": {
+      "value": "No indemnity escrow found; Adjustment Holdback USD 750,000 (0.94% of USD 80M, computed); set-off right against earnout",
+      "section": "1.1; 8.3(d)",
+      "quote": "“ Adjustment Holdback Amount ” means $750,000."
+    },
+    "rwi": {
+      "value": "Y - Purchaser-bound R&W policy, USD 24,000,000 limit (30% of USD 80M, computed); premium paid by Sellers as Transaction Expense; retention not stated; RWI first recourse",
+      "section": "7.6(a); 8.8",
+      "quote": "with an aggregate coverage limit of $24,000,000. The cost of the premium ... will be paid by Sellers"
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Tipping basket (named 'Deductible') USD 200,000; 0.25% of USD 80M (computed)",
+      "section": "8.3(a)",
+      "quote": "exceeds $200,000 (the “ Deductible ”), whereupon the Purchaser Indemnified Parties shall be indemnified from the first dollar of Losses"
+    },
+    "general_cap": {
+      "value": "USD 30,000,000; 37.5% of USD 80M base (computed)",
+      "section": "8.3(b)(ii)",
+      "quote": "with respect to breaches of all other representations and warranties set forth in Article 3 , an amount equal to $30,000,000"
+    },
+    "fundamental_cap": {
+      "value": "Total Consideration (Final Closing Date Purchase Price + earnout paid); also applies to IP reps",
+      "section": "8.3(b)(i)",
+      "quote": "the Final Closing Date Purchase Price plus the Earnout Consideration actually paid to such Equityholders (the “ Total Consideration ”)"
+    },
+    "tax_indemnity": {
+      "value": "Pre-Closing Taxes indemnity; Section 102 Israeli tax qualification failures; uncapped by Deductible (only 8.2(a) subject to Deductible)",
+      "section": "8.2(d),(i)",
+      "quote": "(d) any Pre-Closing Taxes"
+    },
+    "survival_general": {
+      "value": "24 months",
+      "section": "8.1(a)(iii)",
+      "quote": "shall terminate at 11:59 p.m. Israel Time on the date that is the 24-month anniversary of the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental: statute of limitations; IP & Data Privacy reps: 60 months; fraud: unlimited",
+      "section": "8.1(a)(i)-(ii); 8.1(b)",
+      "quote": "shall terminate ... on the date on which the statute of limitations applicable to the liability ... expires"
+    },
+    "specific_indemnities": {
+      "value": "Unpaid Transaction Expenses/Indebtedness; Pre-Closing Taxes; Allocation Schedule/equityholder claims; fraud; D&O indemnification claims; Section 102 tax failures; Schedule 8.2(j) matters",
+      "section": "8.2(c)-(j)",
+      "quote": "(j) each matter set forth in Schedule 8.2(j) attached hereto"
+    },
+    "fraud_carveout": {
+      "value": "Yes (fraud, intentional misrepresentation, intentional misconduct)",
+      "section": "8.3(b); 8.9; 8.1(b)",
+      "quote": "no such limitations shall apply to claims based on fraud, intentional misrepresentation or intentional misconduct"
+    },
+    "sandbagging": {
+      "value": "silent",
+      "section": "Article 8",
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "Double (breach and Losses)",
+      "section": "8.3(e)",
+      "quote": "shall be disregarded for purposes of determining whether there has been a breach ... and for purposes of calculating the amount of Losses"
+    },
+    "knowledge_definition": {
+      "value": "Constructive (actual or reasonably expected via duties and due inquiry of direct reports)",
+      "section": "1.1 Knowledge",
+      "quote": "would reasonably be expected to have such knowledge as a result of the reasonable performance of their duties ... and due inquiry"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "10.2(d)",
+      "quote": "Since the date hereof, there shall not have occurred a Material Adverse Effect."
+    },
+    "non_compete": {
+      "value": "3 years from Closing (Founders and Specified Employees)",
+      "section": "6.2(a)",
+      "quote": "For a period of three (3) years from and after the Closing Date (the “ Restricted Period ”)"
+    },
+    "exclusive_remedy": {
+      "value": "Y (fraud/intentional misconduct excluded)",
+      "section": "8.9",
+      "quote": "shall be the sole and exclusive remedy of the Indemnitees from and after the Closing Date"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "07-inari-limflow",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Lombardi Sub, LLC (Purchaser), with Inari Medical, Inc. as parent guarantor (13.16)",
+      "section": "Cover",
+      "quote": "Inari Medical, Inc., solely for the purposes of Section 13.16, and Lombardi Sub, LLC"
+    },
+    "target": {
+      "value": "LimFlow S.A. (France)",
+      "section": "Preamble",
+      "quote": "LimFlow S.A., a French limited company ( société anonyme )"
+    },
+    "seller_type": {
+      "value": "VC/investor-backed shareholders + option holders (medtech startup) - inferred; seller rep is SRS",
+      "section": "Cover",
+      "quote": "Shareholder Representative Services LLC, solely in its capacity as the Seller Representative"
+    },
+    "date": {
+      "value": "2023-10-31",
+      "section": "Cover",
+      "quote": "DATED AS OF OCTOBER 31, 2023"
+    },
+    "target_jurisdiction": {
+      "value": "France",
+      "section": "Preamble",
+      "quote": "LimFlow S.A., a French limited company ( société anonyme )"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "13.x(a) Governing Law",
+      "quote": "shall be exclusively governed by, and construed in accordance with, the Laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Delaware Court of Chancery (exclusive), fallback Delaware state/federal courts",
+      "section": "13.x(b)",
+      "quote": "shall be resolved exclusively in the Delaware Court of Chancery"
+    },
+    "headline_price": {
+      "value": "USD 250,000,000 upfront (before adjustments) plus contingent payments",
+      "section": "12.1 Closing Purchase Price",
+      "quote": "“ Closing Purchase Price ” means (i) $250,000,000, plus or minus (ii) the Estimated Working Capital Adjustment"
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (working capital, debt, cash, expenses; post-closing true-up)",
+      "section": "1.4; 12.1",
+      "quote": "plus or minus (ii) the Estimated Working Capital Adjustment, if any, minus (iii) the amount of the Estimated Closing Indebtedness"
+    },
+    "earn_out": {
+      "value": "Y - Sales Contingent Payments up to USD 140,000,000 (multiple of Net Revenue of Eligible Product) plus NTAP and New Technology APC milestone payments (amounts not extracted)",
+      "section": "1.6",
+      "quote": "(i) up to $140,000,000 in the aggregate (the “ Sales Contingent Payments ”), to be paid incrementally in annual installments, based upon the Net Revenue"
+    },
+    "escrow_holdback": {
+      "value": "General Escrow USD 7,500,000 (3.0% of USD 250M, computed), released ~18 months post-Closing; Special Escrow USD 5,000,000 (2.0%, computed); plus set-off against contingent payments",
+      "section": "12.1; 1.5(b); 10.6",
+      "quote": "“ General Escrow Amount ” means $7,500,000."
+    },
+    "rwi": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Hybrid/partial tipping: threshold USD 2,000,000 (0.8%, computed), then recovery of Losses above USD 1,000,000 (0.4%, computed)",
+      "section": "10.3(a)(i)",
+      "quote": "exceeds $2,000,000 (the “ Basket Threshold ”) ... recovery ... equal to the amount of such Losses above $1,000,000"
+    },
+    "general_cap": {
+      "value": "USD 25,000,000; 10% of USD 250M (computed)",
+      "section": "12.1; 10.3(a)(i)",
+      "quote": "“ General Representation Indemnity Cap ” means $25,000,000."
+    },
+    "fundamental_cap": {
+      "value": "Per Seller: Purchase Price received by such Seller (applies to 10.2(a)(ii)-(ix))",
+      "section": "10.3(a)(ii)",
+      "quote": "in excess of the Purchase Price received by such Seller (each Seller’s “ Fundamental Indemnity Cap ”)"
+    },
+    "tax_indemnity": {
+      "value": "Full pre-Closing Tax indemnity incl. Seller capital gains taxes, consolidated-group, third-party indemnified taxes, deal withholding, 280G Taxes; tax reps survive SOL + 90 days",
+      "section": "10.2(a)(vi),(viii); 10.1(b)",
+      "quote": "any Taxes of any Company Entity with respect to any Pre-Closing Tax Period"
+    },
+    "survival_general": {
+      "value": "18 months",
+      "section": "10.1(b)",
+      "quote": "shall survive until the date that is eighteen (18) months after the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental and Tax (3.19): SOL + 90 days; pre-closing covenants 3 months; fraud indefinitely",
+      "section": "10.1(b)",
+      "quote": "shall survive until the date that is ninety (90) days following the expiration of the applicable statute of limitations"
+    },
+    "specific_indemnities": {
+      "value": "Unpaid Indebtedness/Seller Transaction Expenses; fraud; pre-Closing Taxes; purchase price allocation claims; 280G Taxes; Schedule 10.2(a)(ix) and (x) matters; IP infringement claims re Current Company Offerings until April 1, 2027 (IP Claim Percentage)",
+      "section": "10.2(a)(iv)-(x); 10.2(b)",
+      "quote": "indemnify ... from the IP Claim Percentage of any and all Losses ... resulting or arising from, regardless of any disclosure"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "10.3(a)(i); 10.7; 10.1(b)",
+      "quote": "the limitations set forth herein shall not apply with respect to Fraud"
+    },
+    "sandbagging": {
+      "value": "Pro-sandbagging (reps survive regardless of investigation; deemed relied upon)",
+      "section": "10.1(a)",
+      "quote": "shall be deemed to have been relied upon ... and shall survive the Closing regardless of any investigation on the part of such Party"
+    },
+    "materiality_scrape": {
+      "value": "Double (breach and Losses) for general reps; Losses-only for fundamental",
+      "section": "10.2(a)(i)-(ii)",
+      "quote": "for purposes of determining (A) whether there has been a breach ... or (B) the amount of any Losses ... “materiality” ... shall be disregarded"
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after reasonable inquiry of direct reports (hybrid/constructive)",
+      "section": "12.1 Knowledge",
+      "quote": "the actual knowledge of Daniel Rose, Paul Limmer Sophie Humbert ... after reasonable inquiry of their direct reports"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "8.1(g)",
+      "quote": "Since the date of this Agreement, there shall have been no Material Adverse Effect with respect to the Company Entities."
+    },
+    "non_compete": {
+      "value": "Separate Non-Competition and Non-Solicitation Agreements (Exhibit F-2) for certain Sellers; length not stated in SPA",
+      "section": "Recitals; Exhibit F-2",
+      "quote": "a non-competition and non-solicitation agreement, attached hereto as Exhibit F-2"
+    },
+    "exclusive_remedy": {
+      "value": "Y (Fraud excluded)",
+      "section": "10.7",
+      "quote": "the Parties’ sole and exclusive remedy for any and all claims (other than claims arising from Fraud)"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "08-dti-casing-tech",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Drilling Tools International, Inc. (Louisiana)",
+      "section": "Preamble",
+      "quote": "Drilling Tools International, Inc., a Louisiana corp[oration] (“ Buyer ”)"
+    },
+    "target": {
+      "value": "Casing Technologies Group Limited (Scotland, SC328867)",
+      "section": "Preamble",
+      "quote": "Casing Technologies Group Limited, a private company limited by shares registered under the laws of Scotland"
+    },
+    "seller_type": {
+      "value": "Founders/management individual shareholders (with Family Members) - inferred",
+      "section": "Preamble; 2.2",
+      "quote": "each of the shareholders of the Company listed on the signatures pages hereto"
+    },
+    "date": {
+      "value": "2024-03-15",
+      "section": "Preamble",
+      "quote": "is dated as of March 15, 2024"
+    },
+    "target_jurisdiction": {
+      "value": "Scotland (UK)",
+      "section": "Preamble",
+      "quote": "registered under the laws of Scotland under company registration number SC328867"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "11.12",
+      "quote": "governed by, interpreted under and construed and enforced in accordance with the laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Delaware state or federal courts (exclusive)",
+      "section": "11.12",
+      "quote": "submits to the exclusive jurisdiction of the aforesaid courts sitting in Delaware"
+    },
+    "headline_price": {
+      "value": "GBP 16,187,614.64 cash Completion Proceeds (per-seller amounts in Consideration Schedule; EV-to-equity bridge in Exhibit F)",
+      "section": "2.4(a)",
+      "quote": "an amount equal to £16,187,614.64 (the “ Completion Proceeds ”)"
+    },
+    "price_mechanism": {
+      "value": "Locked box (Locked Box Accounts; Leakage claims within 120 days)",
+      "section": "2.2; Exhibit E",
+      "quote": "Buyer becomes aware of any Leakage in the period between (but excluding) the Locked Box Date and Closing"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "rwi": {
+      "value": "Y - buy-side R&W policy; Buyer pays all premiums/costs; anti-subrogation; retention not stated",
+      "section": "7.5",
+      "quote": "At the Closing, Buyer will pay all premiums, taxes, commissions, fees, costs and other payments ... to bind Buyer’s coverage"
+    },
+    "de_minimis": {
+      "value": "not found (no seller indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "not found (no seller indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "general_cap": {
+      "value": "Nil seller liability - no survival; RWI sole recourse",
+      "section": "9.1; 9.2",
+      "quote": "the sole recourse of Buyer ... shall be to make claims under the R&W Insurance Policy"
+    },
+    "fundamental_cap": {
+      "value": "Nil (no survival), except Fraud",
+      "section": "9.1; 11.20",
+      "quote": "not found"
+    },
+    "tax_indemnity": {
+      "value": "not found (tax covenants in Article X only; no indemnity found)",
+      "section": null,
+      "quote": null
+    },
+    "survival_general": {
+      "value": "0 - reps do not survive Closing",
+      "section": "9.1",
+      "quote": "the representations, warranties, covenants and agreements contained in this Agreement shall not survive the Closing"
+    },
+    "survival_fundamental_tax": {
+      "value": "0 - no survival",
+      "section": "9.1",
+      "quote": "shall terminate as of the Closing and be of no further force and effect"
+    },
+    "specific_indemnities": {
+      "value": "Leakage undertaking by Seller Leakage Payors only",
+      "section": "2.2(a)",
+      "quote": "undertakes to Buyer ... to pay to Buyer, on demand, an amount in cash equal to (i) the Leakage Amount"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "11.20",
+      "quote": "nothing herein shall limit the right of any party hereto ... with respect to claims related to Fraud"
+    },
+    "sandbagging": {
+      "value": "silent (n/a - no indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "none for indemnity (scrape only in closing bring-down, 8.2(a))",
+      "section": "8.2(a)",
+      "quote": "without giving effect to any “Material Adverse Effect”, “material”, “materiality” or other qualifications"
+    },
+    "knowledge_definition": {
+      "value": "Actual",
+      "section": "Exhibit B Company’s Knowledge",
+      "quote": "“ Company’s Knowledge ” means the actual knowledge of Steve Kent, David Stephenson and Donna Laing."
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "8.2(c)",
+      "quote": "there shall not have occurred, since the date of this Agreement, a Material Adverse Effect in respect of the Acquired Companies"
+    },
+    "non_compete": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "exclusive_remedy": {
+      "value": "Y (RWI is sole recourse for rep breaches; fraud excepted)",
+      "section": "9.2",
+      "quote": "Buyer shall have no recourse against the Company, Sellers or any other Party for such claims"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "09-frontdoor-2-10",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Frontdoor, Inc. (Delaware)",
+      "section": "Preamble",
+      "quote": "and Frontdoor, Inc., a Delaware corporation (“ Buyer ”)"
+    },
+    "target": {
+      "value": "2-10 Holdco, Inc. (Delaware) - 2-10 Home Buyers Warranty group",
+      "section": "Preamble",
+      "quote": "2-10 Holdco, Inc., a Delaware corporation (the “ Company ”)"
+    },
+    "seller_type": {
+      "value": "PE / financial sponsor holding vehicle (2-10 HBW Acquisition, L.P.) - inferred from LP structure",
+      "section": "Preamble",
+      "quote": "2-10 HBW Acquisition, L.P., a Delaware limited partnership (“ Seller ”)"
+    },
+    "date": {
+      "value": "2024-06-03",
+      "section": "Preamble",
+      "quote": "is made as of June 3, 2024"
+    },
+    "target_jurisdiction": {
+      "value": "USA - Delaware",
+      "section": "Preamble",
+      "quote": "2-10 Holdco, Inc., a Delaware corporation"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "10.x Governing Law",
+      "quote": "will be governed by and construed in accordance with the Laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Delaware Court of Chancery (exclusive); debt-financing claims in SDNY/NY courts",
+      "section": "10.x Consent to Jurisdiction",
+      "quote": "irrevocably submits to the exclusive jurisdiction of the Delaware Court of Chancery in Wilmington Delaware"
+    },
+    "headline_price": {
+      "value": "USD 585,000,000",
+      "section": "1.2 Base Purchase Price",
+      "quote": "“ Base Purchase Price ” means five hundred eighty five million dollars ($585,000,000)."
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (cash, debt, net working capital, regulatory capital adjustments; post-closing true-up via escrow; Adjustment Cap)",
+      "section": "2.5",
+      "quote": "Buyer shall cause to be paid to Seller ... an amount equal to the lesser of the Excess Amount and the Adjustment Cap"
+    },
+    "earn_out": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "escrow_holdback": {
+      "value": "USD 10,000,000 adjustment escrow (1.7% of USD 585M, computed) - purchase price adjustment only, released on final determination",
+      "section": "1.2 Escrow Amount; 2.5.5",
+      "quote": "“ Escrow Amount ” means ten million dollars ($10,000,000)."
+    },
+    "rwi": {
+      "value": "not found in SPA text",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found (no indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "not found (no indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "general_cap": {
+      "value": "Nil - public-style no-survival deal",
+      "section": "10.1",
+      "quote": "there will be no liability in respect thereof"
+    },
+    "fundamental_cap": {
+      "value": "Nil (no survival), except Actual Fraud",
+      "section": "10.1",
+      "quote": "not found"
+    },
+    "tax_indemnity": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "survival_general": {
+      "value": "0 - reps terminate at Closing",
+      "section": "10.1",
+      "quote": "shall terminate at the Closing such that no claim for breach of any representation ... may be brought after the Closing"
+    },
+    "survival_fundamental_tax": {
+      "value": "0 - none; Actual Fraud actions survive until resolved",
+      "section": "10.1(b)",
+      "quote": "the survival of any Action based upon Actual Fraud"
+    },
+    "specific_indemnities": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "fraud_carveout": {
+      "value": "Yes - Actual Fraud (knowing and intentional)",
+      "section": "10.1(b); 1.2 Actual Fraud",
+      "quote": "“ Actual Fraud ” means an actual fraud ... which involves a knowing and intentional misrepresentation"
+    },
+    "sandbagging": {
+      "value": "silent (n/a - no indemnity)",
+      "section": null,
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "none",
+      "section": null,
+      "quote": null
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after reasonable inquiry (hybrid)",
+      "section": "1.2 Knowledge of the Company",
+      "quote": "means the actual knowledge, after reasonable inquiry, of Ryan O’Hara, Richard Stanek, Michael Fletcher and Kevin Miller"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "6.7",
+      "quote": "Since the date hereof, there will not have occurred, nor shall there be, a Material Adverse Effect."
+    },
+    "non_compete": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "exclusive_remedy": {
+      "value": "not found as such (no-survival clause bars post-Closing claims; termination fee exclusive for pre-closing failure)",
+      "section": "10.1; 9.2.2",
+      "quote": "not found"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "10-quinstreet-siren",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "QuinStreet, Inc.",
+      "section": "Cover",
+      "quote": "by and among QUINSTREET, INC. , SIREN GROUP AG"
+    },
+    "target": {
+      "value": "Siren Group AG d/b/a HomeBuddy (Switzerland)",
+      "section": "Preamble",
+      "quote": "SIREN GROUP AG d/b/a HomeBuddy, a company limited by shares ( Aktiengesellschaft ) organized under the laws of Switzerland"
+    },
+    "seller_type": {
+      "value": "Founders/management shareholders (founder Maxym Entin as Shareholders' Representative) - inferred",
+      "section": "Preamble; Recitals (RCA Parties)",
+      "quote": "Maxym Entin, solely in his capacity as the representative of the Shareholders"
+    },
+    "date": {
+      "value": "2025-11-30",
+      "section": "Cover",
+      "quote": "SHARE PURCHASE AGREEMENT dated as of November 30, 2025"
+    },
+    "target_jurisdiction": {
+      "value": "Switzerland",
+      "section": "Preamble",
+      "quote": "organized under the laws of Switzerland"
+    },
+    "governing_law": {
+      "value": "Delaware",
+      "section": "12.06",
+      "quote": "shall be governed by and construed in accordance with the laws of the State of Delaware"
+    },
+    "dispute_forum": {
+      "value": "Binding JAMS arbitration, 3 arbitrators, seated London, England (courts of London for enforcement/injunctive relief)",
+      "section": "12.08(a); 12.07",
+      "quote": "finally settled by binding arbitration in accordance with the JAMS Comprehensive Arbitration Rules ... in London, England"
+    },
+    "headline_price": {
+      "value": "USD 190,000,000 Base Enterprise Value (USD 115,000,000 Closing Cash Payment; balance deferred)",
+      "section": "1.01 Base Enterprise Value; Closing Cash Payment Amount",
+      "quote": "“ Base Enterprise Value ” means $190,000,000."
+    },
+    "price_mechanism": {
+      "value": "Completion accounts (working capital vs Base Working Capital of -USD 1.5M, cash, debt, expenses; USD 1M Adjustment Holdback)",
+      "section": "1.01 Aggregate Consideration; 2.05-2.06",
+      "quote": "the amount, if any, by which Closing Working Capital exceeds Base Working Capital"
+    },
+    "earn_out": {
+      "value": "N (deferred, not performance-based): Anniversary Payments = 4 annual instalments of 25% of (Aggregate Consideration - Closing Cash Payment - Final Adjustment), subject to set-off",
+      "section": "2.07; 1.01 Anniversary Payment Amount",
+      "quote": "“ Anniversary Payment Amount ” means an amount equal to (i) twenty-five percent (25%), multiplied by (ii) the Aggregate Consideration, minus the Closing Cash Payment"
+    },
+    "escrow_holdback": {
+      "value": "No indemnity escrow; Adjustment Holdback USD 1,000,000 (0.53% of USD 190M, computed); deferred Anniversary Payments (~USD 75M, computed approx.) over 4 years subject to Anniversary Set-Off",
+      "section": "1.01; 2.07(f)",
+      "quote": "“ Adjustment Holdback Amount ” means $1,000,000."
+    },
+    "rwi": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "USD 145,000 per claim (incl. related claims); 0.076% of USD 190M (computed); once exceeded, full amount counts to Deductible",
+      "section": "9.03(b)(i)",
+      "quote": "exceed $145,000 (such amount, the “ De Minimis Amount ”)"
+    },
+    "basket": {
+      "value": "Deductible USD 1,425,000; 0.75% of USD 190M (computed)",
+      "section": "9.03(b)(ii)",
+      "quote": "exceeds $1,425,000 (such amount, the “ Deductible ”), in which case the Indemnifying Party will be responsible for Damages in excess of the Deductible"
+    },
+    "general_cap": {
+      "value": "15% of Aggregate Consideration actually received by all Shareholders (~USD 28.5M on USD 190M, computed)",
+      "section": "9.03(b)",
+      "quote": "in excess of fifteen percent (15%) of the Aggregate Consideration actually received by all Shareholders"
+    },
+    "fundamental_cap": {
+      "value": "Aggregate Consideration actually received (per seller: Pro Rata Portion)",
+      "section": "9.03(c)",
+      "quote": "in excess of the Aggregate Consideration actually received by all Shareholders"
+    },
+    "tax_indemnity": {
+      "value": "Covered Taxes indemnity (not in Final Indebtedness/Expenses) + Swiss withholding tax on post-Closing distributions (old reserves practice / Altreservenpraxis); tax reps (3.14) survive SOL + 60 days",
+      "section": "9.02(b)(ii); 9.01",
+      "quote": "any Swiss withholding Tax on distributions ... due to the so-called old reserves practice ( Altreservenpraxis )"
+    },
+    "survival_general": {
+      "value": "18 months",
+      "section": "9.01",
+      "quote": "shall survive the Closing until the date that is 18 months after the Closing Date"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental: 4 years; Tax (3.14): SOL + 60 days; Covered Taxes covenant: latest date permitted by law",
+      "section": "9.01",
+      "quote": "the Fundamental Representations shall survive the Closing until the date that is four (4) years after the Closing Date"
+    },
+    "specific_indemnities": {
+      "value": "Covered Taxes / Swiss WHT; Allocation Schedule & option treatment claims; unpaid Transaction Expenses & Indebtedness; Section 9.02(b) Disclosure Schedule items",
+      "section": "9.02(b)(ii)-(vi)",
+      "quote": "(vi) any items set forth on ‎ Section 9.02(b) of the Disclosure Schedule"
+    },
+    "fraud_carveout": {
+      "value": "Yes",
+      "section": "9.03; 9.08",
+      "quote": "Except in respect of claims of Fraud"
+    },
+    "sandbagging": {
+      "value": "silent",
+      "section": "Article 9",
+      "quote": null
+    },
+    "materiality_scrape": {
+      "value": "Double (breach and Damages), except 'Company Material Contract' defined term and 3.08(a)(ii)",
+      "section": "9.02(a); 9.02(b)(i)",
+      "quote": "the existence of such inaccuracy or breach and the amount of Damages resulting therefrom determined ... without regard to any qualification ... relating to materiality"
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after reasonable inquiry (hybrid)",
+      "section": "1.01 Knowledge",
+      "quote": "the actual knowledge, after reasonable inquiry, of any of the individuals set forth in ‎‎Section 1.01(a)‎(vii) of the Company Disclosure Schedule"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "10.02(c)",
+      "quote": "There shall not have occurred any event ... that ... has had or would reasonably be expected to have a Material Adverse Effect."
+    },
+    "non_compete": {
+      "value": "Separate Restrictive Covenant Agreements (Exhibit C) with RCA Parties; length not stated in SPA",
+      "section": "Recitals; Exhibit C",
+      "quote": "Buyer is entering into Restrictive Covenant Agreements (each, an “ RCA ”) with certain Shareholders"
+    },
+    "exclusive_remedy": {
+      "value": "Y (Fraud excluded)",
+      "section": "9.08",
+      "quote": "the indemnification provisions in this ‎ Article 9 shall be the sole and exclusive monetary remedy"
+    }
+  },
+  {
+    "deal_id": {
+      "value": "11-ondas-apeiro",
+      "section": "file stem",
+      "quote": null
+    },
+    "buyer": {
+      "value": "Ondas Holdings Inc. (Nevada)",
+      "section": "Preamble",
+      "quote": "Ondas Holdings Inc., a Nevada corporation (“ Buyer ”)"
+    },
+    "target": {
+      "value": "Apeiro Motion Ltd. (Israel)",
+      "section": "Preamble",
+      "quote": "Apeiro Motion Ltd., a company organized under the laws of the State of Israel"
+    },
+    "seller_type": {
+      "value": "Founders + investors + optionholders (startup) - from Founders/Investors Consideration split",
+      "section": "1 Aggregate Consideration",
+      "quote": "the sum of (i) the Founders Consideration, plus (ii) the Investors Consideration, plus (iii) the Optionholders Consideration"
+    },
+    "date": {
+      "value": "2025-08-18",
+      "section": "Preamble",
+      "quote": "Dated as of August 18, 2025"
+    },
+    "target_jurisdiction": {
+      "value": "Israel",
+      "section": "4.1",
+      "quote": "a corporation duly organized and validly existing under the laws of the State of Israel"
+    },
+    "governing_law": {
+      "value": "Israel",
+      "section": "11.10",
+      "quote": "governed by and construed in accordance with the laws of the State of Israel"
+    },
+    "dispute_forum": {
+      "value": "Competent courts of Tel Aviv, Israel (exclusive)",
+      "section": "11.10",
+      "quote": "the competent courts located in Tel Aviv, Israel, shall have exclusive jurisdiction"
+    },
+    "headline_price": {
+      "value": "USD 12,000,000 (cash and/or Ondas stock at Buyer election)",
+      "section": "1 Aggregate Consideration",
+      "quote": "“ Aggregate Consideration ” means the amount of US $12,000,000"
+    },
+    "price_mechanism": {
+      "value": "Fixed price (fully-diluted valuation; Closing Financial Certificate backed by indemnity, no adjustment mechanism found)",
+      "section": "1 Aggregate Consideration; 9.2(a)(iii)",
+      "quote": "based on Company’s aggregate valuation on a Fully Diluted Basis of $12,000,000"
+    },
+    "earn_out": {
+      "value": "N - but Buyer post-closing funding up to USD 3,000,000 to the Company on achieving 2025 Work Plan milestones (not paid to sellers)",
+      "section": "2.x(b) Work Plan",
+      "quote": "Buyer will provide the Company with additional funding in the amount of up to $3,000,000"
+    },
+    "escrow_holdback": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "rwi": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "de_minimis": {
+      "value": "not found",
+      "section": null,
+      "quote": null
+    },
+    "basket": {
+      "value": "Deductible USD 1,000,000; 8.3% of USD 12M (computed)",
+      "section": "9.2(d)(i)",
+      "quote": "exceeds $1,000,000 (the “ Basket ”) ... (i.e., the Basket shall operate as a deductible, not merely as a threshold"
+    },
+    "general_cap": {
+      "value": "USD 2,000,000; 16.7% of USD 12M (computed); IP & Compliance reps cap USD 4,000,000 (33.3%, computed), inclusive",
+      "section": "9.2(d)(ii),(iv)",
+      "quote": "exceeding, in the aggregate, $2,000,000 (the “ Rep Indemnification Cap ”)"
+    },
+    "fundamental_cap": {
+      "value": "Aggregate Consideration (USD 12M); overall absolute cap = Aggregate Consideration except fraud/intentional misrepresentation",
+      "section": "9.2(d)(iii),(v)",
+      "quote": "shall not be liable for Damages exceeding, in the aggregate, the Aggregate Consideration"
+    },
+    "tax_indemnity": {
+      "value": "No standalone pre-closing tax indemnity found; Taxes rep (4.13) is Fundamental (SOL survival); Section 102 Israeli tax qualification indemnity",
+      "section": "9.1(i); 9.2(a)(v)",
+      "quote": "Taxes imposed on any holder of Company Options and Company Shares ... resulting from the failure ... under Section 102(b)(2)"
+    },
+    "survival_general": {
+      "value": "12 months",
+      "section": "9.1",
+      "quote": "will survive the Closing for 12 months thereafter (“ Rep Indemnifications Period ”)"
+    },
+    "survival_fundamental_tax": {
+      "value": "Fundamental incl. Taxes (4.13): statute of limitations; IP & Compliance: 36 months",
+      "section": "9.1(i)-(ii)",
+      "quote": "shall survive the Closing Date until the expiration of the statute of limitations applicable to the subject matter"
+    },
+    "specific_indemnities": {
+      "value": "Closing Financial Certificate inaccuracies; Spreadsheet inaccuracies; Section 102 tax failures",
+      "section": "9.2(a)(iii)-(v)",
+      "quote": "(iv) any inaccuracies in the Spreadsheet"
+    },
+    "fraud_carveout": {
+      "value": "Yes (limitations other than Basket do not apply to fraud)",
+      "section": "9.2(d); 9.2(d)(v)",
+      "quote": "no such limitation (except for the limitation under Section 9.2(d) (i) below) shall apply to fraud"
+    },
+    "sandbagging": {
+      "value": "Pro-sandbagging",
+      "section": "9.1",
+      "quote": "The right to indemnification hereunder shall not be limited or affected by any diligence conducted or knowledge acquired by any Party"
+    },
+    "materiality_scrape": {
+      "value": "Single (Damages only; not breach determination)",
+      "section": "9.2(c)",
+      "quote": "For the sole purpose of determining Damages (and not for determining whether a breach ... has occurred)"
+    },
+    "knowledge_definition": {
+      "value": "Actual knowledge after reasonable inquiry by Founders (hybrid)",
+      "section": "1 knowledge",
+      "quote": "the actual knowledge of such fact ... after reasonable inquiry by the Founders"
+    },
+    "mae_cp": {
+      "value": "Y",
+      "section": "3.x(e) No Company Material Adverse Effect",
+      "quote": "There shall not have occurred a Material Adverse Effect with respect to the Company since the date hereof."
+    },
+    "non_compete": {
+      "value": "not found in SPA (Founders Engagement Agreement / Key Employee Agreements are closing deliverables)",
+      "section": "3.x(f)",
+      "quote": "The Founders and the Key Employees shall have signed the Founders Engagement Agreement and Key Employees Agreements"
+    },
+    "exclusive_remedy": {
+      "value": "Y",
+      "section": "9.2(d)(vii)",
+      "quote": "the rights of any Indemnified Party to recover any amounts pursuant to this ‎ ARTICLE 9 shall be the sole and exclusive remedy"
+    }
+  }
+]

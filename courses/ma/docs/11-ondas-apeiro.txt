@@ -1,0 +1,2444 @@
+ 
+ EX-2.1
+ 2
+ ea025420201ex2-1_ondas.htm
+ SHARE PURCHASE AGREEMENT, BY AND AMOUNT THE COMPANY, APEIRO MOTION LTD., AND MR. ROTEM LESHER, SOLELY IN HIS CAPACITY AS THE REPRESENTATIVES, AGENTS AND ATTORNEYS-IN-FACT OF THE INDEMNIFYING PARTIES, DATED AUGUST 18, 2025
+
+ Exhibit 2.1 
+
+ Execution Copy 
+
+ SHARE PURCHASE AGREEMENT 
+
+ by and among
+
+ Ondas
+Holdings Inc., 
+
+ a Nevada corporation,
+
+ Apeiro
+Motion Ltd., 
+
+ a company organized under the laws of the State
+of Israel,
+
+ the Company
+Shareholders 
+
+ and
+
+ Mr. Rotem
+Lesher, 
+
+ the Shareholders’ Agent
+
+ Dated as of August 18, 2025
+
+ Share
+Purchase Agreement 
+
+ This
+Share Purchase Agreement (the “ Agreement ”) is made and entered into as of August 18, 2025 (the “ Agreement
+Date ”), by and among Ondas Holdings Inc., a Nevada corporation (“ Buyer ”), Apeiro Motion Ltd., a company organized
+under the laws of the State of Israel (the “ Company ”), the Company shareholders listed on Exhibit A (the
+“ Company Shareholders ”), and Mr. Rotem Lesher, solely in his/its capacity as the representatives, agents and attorneys-in-fact
+of the Indemnifying Parties (acting as a group, the “ Shareholders’ Agent ”).
+
+ A. The Company Shareholders collectively are the holders and the legal and beneficial owners of all of the
+Company Shares. 
+
+ B. Buyer desires to, subject to the terms and conditions set forth in this Agreement, purchase from the Company
+Shareholders, and each Company Shareholder will sell to Buyer, all of the Company Shares owned by such Company Shareholders free from
+any Liens and subject to the terms and conditions set forth in this Agreement (the “ Share Purchase ”). 
+
+ C. The Company, the Company Shareholders, and Buyer desire to make certain representations, warranties, covenants
+and other agreements in connection with the Share Purchases as set forth herein. 
+
+ D. The
+ board of directors of the Company (the “ Board ”) has carefully considered
+ the terms of this Agreement and the other Transaction Documents 1 and
+ have unanimously determined that this Agreement and the transactions contemplated by this
+ Agreement and the other Transaction Documents (collectively, the “ Transactions ”),
+ are in the best interests of, and are advisable to, the Company and the Company Shareholders
+ and recommended that all of the Company Shareholders enter into this Agreement. 
+
+ E. Concurrently with the execution and delivery of this Agreement (X) all of Company Shareholders representing
+100% of the issued and outstanding share capital of the Company as of the date hereof have delivered a duly executed counterpart to a
+unanimous written consent in the form attached hereto as Exhibit ‎E (the “ Shareholder Consent ”), pursuant
+to which all of the Company Shareholders irrevocably (i) approved this Agreement, the other Transaction Documents, the Share Purchase
+and the Transactions, and (ii) waived all of their respective Acquisition Rights (if any), and (Y) the Founders have executed and delivered
+their Founders Engagement Agreement. 
+
+ Now, Therefore ,
+in consideration of the representations, warranties, covenants, agreements and obligations contained herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ ARTICLE
+1 - DEFINITIONS 
+
+ In addition to terms defined elsewhere in this
+Agreement, as used herein, the following terms shall have the indicated meanings, unless the context otherwise requires:
+
+ “ $ ” shall
+mean US Dollar.
+
+ “ 102
+Trustee ” means Altshare Trusts Ltd., being the trustee appointed by the Company in accordance with the provisions of the Israeli
+Income Tax Ordinance, and approved by the ITA, with respect to Company 102 Securities .
+
+ 2 
+
+ “ 2025 Accrued Profits ”
+mean all of the Company accrued profits as of December 31, 2025 available for distribution as dividend according to Israeli law, provided 
+however that the calculation thereof should be adjusted by disregarding the following:
+
+ (i) any investment or other
+infusion of funds by Buyer into Company following Closing;
+
+ (ii) any increase of liabilities
+and/or expenditures in a manner not consistent with the 12 months immediately preceding the Closing Date, or related to expansion, modification,
+or deviation from operations prior to the Closing (such as any post-Closing salary adjustments or exceeding the Company’s regular
+practices in the 12 months prior to Closing in terms of credit and loans).
+
+ “ Affiliate ”,
+with respect to any Person, means any other Person that is Controlled by, Controls, or is under common Control with such Person.
+
+ “ Aggregate Consideration ”
+means the amount of US $12,000,000 comprising of the sum of (i) the Founders Consideration, plus (ii) the Investors Consideration,
+ plus (iii) the Optionholders Consideration, in each case based on Company’s aggregate valuation on a Fully Diluted Basis
+of $12,000,000.
+
+ “ Aggregate Exercise
+Price ” means the aggregate exercise price of all Vested Company Options.
+
+ “ BIRD Approval ”
+means any approval, consent, notice, waiver, or other action required from or by the BIRD Foundation in connection with the transactions
+contemplated by this Agreement, including, without limitation, any approval for the change of control or ownership of the Company, or
+any assignment of rights or obligations related to grants or funding received from the BIRD Foundation.
+
+ “ BIRD Obligations ”
+means any and all financial or other obligations, including but not limited to repayment obligations, royalties, and reporting requirements,
+arising from any grants, funding, or agreements with the BIRD Foundation, including those triggered by a change of control or ownership
+of the Company or any assignment of rights or obligations related to such grants or funding.
+
+ “ BIRD Obligation Amount ”
+means the actual amount paid by the Company to satisfy all BIRD Obligations arising from or triggered by the transactions contemplated
+hereby, less any amounts received from Hellbender Inc. (or anyone on its behalf) in connection with the BIRD Obligations.
+
+ “ Business Day ”
+shall mean any day other than a Friday, a Saturday, a Sunday or any other day on which banking institutions in the United States or in
+the State of Israel are not open for the transaction of normal banking business.
+
+ “ Company 102 Options ”
+means the Company Options granted and intended to qualify under the capital gains track described in Section 102(b)(2) of the Israeli
+Income Tax Ordinance.
+
+ “ Company 102 Securities ”
+means, collectively, Company 102 Options and Company 102 Shares.
+
+ “ Company 102 Shares ”
+means Company Ordinary Shares issued upon the exercise of any Company 102 Options and held by the 102 Trustee pursuant to the Israeli
+Income Tax Ordinance.
+
+ “ Company 3(i) Options ”
+means the Company Options granted under Section 3(i) of the Israeli Income Tax Ordinance.
+
+ “ Company
+Business ” means manufacturing, development and sale of land based military mobile robots. 
+
+ 3 
+
+ “ Company Cash ”
+means, without duplication, the aggregate amount of unrestricted cash and cash equivalents of the Company, determined in accordance with
+GAAP.
+
+ “ Company Debt ”
+means, without duplication, in accordance with GAAP: (i) all obligations (including the principal amount thereof or, if applicable, the
+accreted amount thereof and the amount of accrued and unpaid interest thereon) of the Company, whether or not represented by bonds, debentures,
+notes or other securities (whether or not convertible into any other security), for the repayment of money borrowed, whether owing to
+banks, financial institutions, on equipment leases or otherwise, (ii) all amounts owing as deferred purchase price for property, services
+or assets purchased, including seller notes, holdbacks, any earn-outs (at the maximum amount) or deferred or contingent consideration
+for the acquisition of any business, (iii) all outstanding reimbursement obligations of the Company with respect to letters of credit,
+bankers’ acceptances or similar facilities issued for the account of the Company, (iv) all obligations of the Company under any
+interest rate swap agreement, forward rate agreement, interest rate cap or collar agreement or other financial agreement or arrangement
+entered into for the purpose of limiting or managing interest rate risks, (v) all obligations secured by any Liens existing on property
+owned by the Company, whether or not indebtedness secured thereby will have been assumed, (vi) all premiums, penalties, fees, expenses,
+breakage costs and change of control payments required to be paid in respect of any of the foregoing on prepayment as a result of the
+consummation of the transactions contemplated hereunder or in connection with any lender consent in connection therewith, (vii) all unpaid
+Pre-Closing Taxes (unless included in Company Net Working Capital), (viii) all defined benefit or defined contribution pension, multiemployer
+pension, post-retirement health and welfare benefit, accrued annual or other bonus obligations, any unpaid severance liabilities currently
+being paid or payable in respect of employees and service providers of the Company who terminated employment or whose services to the
+Company have ceased (as applicable) prior to the Closing and deferred compensation liabilities of the Company, together, in each case,
+with any associated employer payroll taxes, (ix) all obligations of the Company as lessee or lessees under leases that have been or should
+be, in accordance with GAAP, recorded as capital or finance leases; and (x) all guaranties, endorsements, assumptions and other contingent
+obligations of the Company in respect of, or to purchase or to otherwise acquire, any of the obligations and other matters of the kind
+described in any of the clauses (i) through (ix) appertaining to third parties, and (xi) any Transaction Expenses.
+
+ “ Company Net Working
+Capital ” means, without duplication, in accordance with GAAP, the current assets of the Company (excluding Company Cash) minus 
+the current liabilities of the Company, and specifically including all liabilities for deferred revenue (current and long-term), payroll
+obligations, accrued or accruable by or for the Company’s employees and specifically excluding any Transaction Expenses or infusion
+of funds by Buyer.
+
+ “ Company Option Plan ”
+means, collectively, each share option plan, program or arrangement of the Company, including the Company’s 2022 Incentive Share
+Option Plan, as amended, and any appendixes thereto.
+
+ “ Company Options ”
+means options to purchase Company Ordinary Shares.
+
+ “ Company Optionholders ”
+means, collectively, the holders of Company Options.
+
+ “ Company Ordinary Shares ”
+means the Ordinary Shares of the Company, of par value NIS 0.01.
+
+ “ Company Securities ”
+means, collectively, Company Shares and Company Options.
+
+ “ Company Securityholders ”
+means, collectively, the Company Shareholders and the Company Optionholders.
+
+ “ Company Shares ”
+means the Company Ordinary Shares.
+
+ “ Company Revenues ”
+means the Company’s revenues as reflected in Buyer’s consolidated reviewed or audited financial statements, as applicable,
+for the relevant period, calculated in accordance with such financial statements’ accounting principles.
+
+ 4 
+
+ “ Confidential Information ”
+means all technology, know-how and technical information of or related to the Company, whether communicated orally or in writing, as well
+as data, processes, records, scientific or technical data, research results, business plans, programs, manuals, designs, sketches, photographs,
+plans, drawings, specifications, reports, studies, findings, inventions, marketing information (including customers' list, prices and
+terms of sale) and other information, whether of a technical, engineering, operational, business or economic nature, of or related to
+the Company, including without limitations, related to the research, development, manufacture, production, use, marketing or sale of the
+existing or future products of the Company, except for information that (i) is generally available to the public on the date of this
+Agreement; or (ii) becomes generally available to the public other than as a result of a disclosure not otherwise permissible hereunder.
+
+ “ Contract ”
+means any written or oral agreement, contract, lease, sublease, policy, purchase and sale order, quotation, commitment or similar understanding
+instrument, guaranty, obligation, including any amendments, modifications and supplements thereto.
+
+ “ Control ”
+of a Person shall mean (i) the direct and/or indirect ownership or power to direct the voting (whether by a shareholders’ agreement,
+voting agreement or otherwise) of (a) in the case of corporate entities, securities authorized to cast more than fifty percent (50%) of
+(y) the votes in any election for directors of such Person and/or (z) if applicable, the voting power of the shareholders’ assembly,
+(b) in the case of non-corporate entities, more than fifty percent (50%) ownership interest with the power to direct the management and
+policies of such Person, or (c) such lesser percentage of the equity having the power to vote and resolve in the election of directors
+or to direct the management and policies of such Person or (ii) the possession, directly or indirectly, of the power to direct or cause
+the direction of the management and policies of such Person, whether through the ownership of voting securities, by Contract or otherwise.
+
+ “ Exchange Act ”
+means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+ “ Founders ”
+means Rotem Lesher (“ Rotem ”) and Shmuel Rosenmann (“ Shmuel ”), holding as of the date of this Agreement
+and as of the Closing, collectively, 45.83% of the share capital of the Company on a Fully Diluted Basis.
+
+ “ Founders Consideration ”
+means the amount of the Founders’ aggregate holdings in the share capital of the Company on a Fully Diluted Basis multiplied by
+the Per Share Consideration, as demonstrated and divided between the Founders in the Spreadsheet.
+
+ "Founders Engagement
+Agreements ” means such employment/service agreements between the Company and each of the Founders in the form attached as Schedule
+ 1(c)(i) and 1(c)(ii) hereto.
+
+ “ Fully Diluted Basis ”
+means including all issued and outstanding share capital of the Company, including all securities issuable upon the conversion of any
+existing convertible securities or loans, and assuming the exercise of all outstanding warrants, Company Options and any other right granted
+to any third party to receive Shares of the Company, the issuance of all Shares allocated and/or reserved for allocation under any share
+option plan of the Company and the issuance of securities pursuant to any anti-dilution rights of existing shareholders (if any).
+
+ “ GAAP ” means
+the Israeli generally accepted accounting principles.
+
+ “ Governmental Authority ”
+means any: (i) county, municipality, district or other jurisdiction of any nature; (ii) state, local, municipal or other government; (iii)
+governmental or quasi-governmental authority of any nature (including any governmental division, department, agency, commission, instrumentality,
+official, organization, unit, body or entity and any court or other tribunal); or (iv) body exercising, or entitled to exercise, any administrative,
+executive, judicial, legislative, police, regulatory or taxing authority or power of any nature, including any governmental entity which
+is involved in the decision making or the assessment of the price of any Company Product.
+
+ 5 
+
+ “ Intellectual Property ”
+means patents, patent applications, patent rights, trademarks, trademark applications, trade names, service marks, service mark applications,
+copyright, copyright applications, franchises, licenses, know-how (such as trade secrets, proprietary processes, formulae, designs, concepts,
+techniques and methods), systems, software, source and object code, algorithms, architectures, structures, display screens, layouts, inventions,
+databases, development tools and all documentation and media constituting, describing or relating to any of the foregoing (including manuals,
+memoranda and records in any format, whether hard copy or machine-readable copy).
+
+ “ Investors ”
+means the Company Shareholders other than the Founders.
+
+ “ Investors Consideration ”
+means the amount of the Investor’s aggregate holdings in the share capital of the Company on a Fully Diluted Basis multiplied by
+the Per Share Consideration, as demonstrated and divided between the Investors in the Spreadsheet.
+
+ “ Key Employees ”
+means the key employees of the Company specified under Schedule ‎ 0(a) hereto.
+
+ “ Key Employees Agreements ”
+means such employment agreements to be executed between the Company and each Key Employee prior to the Closing, in such form acceptable
+to Buyer.
+
+ “ knowledge ”
+ means, with respect to the Company, in connection with any fact, circumstance, event or other matter in
+question, the actual knowledge of such fact, circumstance, event or other matter after reasonable inquiry by the Founders, and with respect
+to the Buyer, in connection with any fact, circumstance, event or other matter in question, the knowledge of such fact, circumstance,
+event or other matter after reasonable inquiry of the Founders. 
+
+ “ Law ” means
+any federal, state, county, city, municipal, foreign, or other governmental statute, law, rule, regulation, ordinance, order, code, or
+requirement (including pursuant to any settlement agreement or consent decree) and any permit or license granted under any of the foregoing,
+or any requirement under the common law.
+
+ “ Lien ” means
+any charge, claim, community property interest, equitable interest, lien, encumbrance, option, proxy, pledge, security interest, mortgage,
+right of first refusal, right of preemption, retention of title agreement, or restriction by way of security of any kind or nature, including
+any restriction on voting, receipt of income or exercise of any other attribute of ownership.
+
+ “ Material Adverse Effect ”
+with respect to any Person means any change, event, violation, inaccuracy, circumstance or effect (each, an “ Effect ”)
+that, individually or taken together with all other Effects, and regardless of whether such Effect constitutes an inaccuracy in the representations
+or warranties made by, or a breach of the covenants, agreements or obligations of, such Person herein, (i) is, or would reasonably be
+likely to be or become, materially adverse in relation to the condition (financial or otherwise), assets (including intangible assets),
+liabilities, business, capitalization, employees, operations or results of operations of such Person, taken as a whole, except to the
+extent that any such Effect directly results from: (A) changes in general business, financial, political, capital market or economic conditions
+or resulting from any, (B) changes affecting the industry generally in which such Person operates, (C) changes in applicable Law, and
+(D) natural disasters, war, hostilities, and/or acts of terrorism and/or any pandemics, epidemics, disease outbreaks or other public health
+conditions or any escalation or worsening of any of the foregoing, (except in each case to the extent that such changes or events do not
+affect such Person disproportionately as compared to such Person’s competitors) or (ii) materially adversely affects, or would reasonably
+be likely to adversely affect, such Person’s ability to perform or comply with the covenants, agreements or obligations of such
+Person herein or to consummate the Share Purchase and the other transactions contemplated hereunder in accordance with this Agreement
+and applicable Law.
+
+ 6 
+
+ “ Minimal Runway Cash
+Deficiency ” means, as of the date that is three (3) months following the Closing Date, the amount, if any, by which the Company
+Net Working Capital plus Company Cash calculated in accordance with GAAP and consistent with the Company’s historical accounting
+practices, is less than the amount that would have been required to fund the Company’s ordinary course operations (as conducted
+during the 12 months immediately preceding the Closing Date, without material expansion or deviation, and excluding any post-Closing changes
+initiated or required by Buyer) for such three-month period. For the avoidance of doubt, (i) any increase in liabilities, expenditures,
+or reduction in cash resulting from actions taken at the direction of, or with the approval of, Buyer, or due to changes in Law or force
+majeure events, shall be disregarded in this calculation; and (ii) each of the Buyer and Company Shareholders shall have the right to
+review and comment on the calculation of Minimum Runway Cash Deficiency, and any dispute regarding such calculation shall be resolved
+by an independent accounting firm mutually selected by Buyer and the Shareholders’ Agent, with the costs of such determination to
+be borne by the non-prevailing party.
+
+ “ Ministry of Defense ”
+means the Israeli Ministry of Defense, including any and all of its agencies, divisions, units, authorities, instrumentalities, subsidiaries,
+corporations, or other entities directly or indirectly controlled by, affiliated with, or acting on behalf of the Ministry of Defense,
+whether existing now or in the future.
+
+ “ Ministry of Defense
+Approval ” or “ MOD Approval ” means any approval, consent, notice, waiver, or other action required from or
+by the Israeli Ministry of Defense, including any of its agencies, divisions, units, authorities, instrumentalities, or other entities,
+in connection with the transactions contemplated by this Agreement, or any other matter related to the Company's business, operations,
+or intellectual property that is subject to the jurisdiction or regulation of the Israeli Ministry of Defense or any applicable Israeli
+defense export control laws or regulations (the bureau regulating the latter, “Export Controls”).
+
+ “ Nasdaq " means
+The Nasdaq Stock Market.
+
+ “ Ondas Closing Shares ”
+means the shares of Ondas Stock issued and delivered to Rotem pursuant to an effective registration statement under the Securities Act
+at Closing pursuant to this Agreement (if any), which shall be fully paid, non-assessable, and freely tradable by Rotem from the time
+of issuance, without any restrictions, legends or lockup periods.
+
+ “ Ondas Stock ”
+means shares of common stock, $0.0001 par value per share, of Buyer.
+
+ “ Open Source Software ”
+means any software, library, or other code that is licensed under a license that complies with the Open Source Definition set forth by
+the Open Source Initiative (OSI), or that is otherwise made available to the general public in source code form without a fee (other than
+media or distribution cost), which may include without limitation, the GNU General Public License (GPL), Affero GPL, Lesser GPL (LGPL),
+Mozilla Public License (MPL), Apache License, BSD License, MIT License, and any other license approved by the OSI.
+
+ “ Paying Agent ”
+means Altshare Trusts Ltd.
+
+ “ Paying Agent Agreement ”
+means the paying agent agreement between Buyer, the Company and the Shareholders' Agent, in such form reasonably acceptable to all of
+the parties thereto and reflecting the provisions hereof.
+
+ “ Per Share Consideration ”
+means, without duplication, the sum of (i) the Aggregate Consideration plus the Aggregate Exercise Price, divided by (ii) the number
+of outstanding Company Shares and the number of Company Shares underlying outstanding Company Vested Options.
+
+ “ Person ”
+means any natural person, corporation, limited liability company, general partnership, limited partnership, proprietorship, other business
+organization, trust, union, association or Authority.
+
+ “ Pre-Closing Tax Period ”
+means any taxable period ending on or before the Closing Date and the portion of any Straddle Period through the end of the Closing Date.
+
+ 7 
+
+ “ Pre-Closing Taxes ”
+means any (i) Taxes of the Company with respect to any Pre-Closing Tax Period, (ii) Taxes imposed on the Company, of any member of an
+affiliated, consolidated, combined or unitary group of which the Company (or any predecessor thereof) was a member on or prior to the
+Closing Date, (iii) Taxes of any Person (other than the Company) imposed on the Company as a transferee or successor, by Contract, pursuant
+to any applicable Law or otherwise, which Taxes relate to an event or transaction occurring before the Closing, and (iv) any payroll or
+other withholding Taxes arising in connection with any payment by the Company required pursuant to, or arising as a result of, this Agreement
+or the transactions contemplated hereunder; . In the case of any Taxes of the Company that are imposed on a periodic basis and
+that are payable for a Taxable period that includes Straddle Period, such Taxes shall (i) in the case of property, ad valorem or other
+Taxes that accrue based upon the passage of time, be deemed to be Pre-Closing Taxes in an amount equal to the amount of such Taxes for
+the entire Taxable period multiplied by a fraction, the numerator of which is the number of days in the Taxable period through and including
+the Closing Date and the denominator of which is the number of days in the entire Taxable period, and (ii) in the case of any other Taxes,
+be deemed to be Pre-Closing Taxes in an amount equal to the amount of Taxes that would be payable if the relevant Taxable period ended
+on the Closing Date.
+
+ “ Pro Rata Share ”
+means, with respect to a particular Company Securityholder, a fraction, the numerator of which is the aggregate amount of such Company
+Securityholder’s portion of the Aggregate Consideration and the denominator of which is the aggregate amount of the Aggregate Consideration
+excluding any portion paid to Optionholders, as set forth on the Spreadsheet. For the avoidance of doubt, the total of all Pro Rata Shares
+shall equal one hundred percent (100%).
+
+ “ Registration Statement ”
+means an effective registration statement with SEC, including all information, documents and exhibits filed with or incorporated by reference
+into such registration statement, which registers the offer and sale of the Ondas Closing Shares to Rotem.
+
+ “ SEC ” means
+the Securities and Exchange Commission.
+
+ “ Securities Act ”
+means the Securities Act of 1933, as amended and the rules and regulations promulgated thereunder.
+
+ “ Spreadsheet ”
+means the spreadsheet attached as Schedule 1(b ) hereto, including the following information which
+is true as of the date of this Agreement and shall be true as of the Closing: (a) the names of all Company Securityholders and their respective
+e-mail addresses and country and state of residence; (b) the number of outstanding Company Shares held by such Persons; (c) the number
+of Company Shares subject to each Company Option held by such Persons and the exercise price for each Company Option, as well as the vesting
+status thereof; (d) for each Company Option that was early exercised, the date of such exercise and the applicable exercise price and
+whether each such exercised Company Option was granted and is subject to Tax pursuant to Section 3(i) of the Israeli Income Tax Ordinance
+or Section 102 of the Israeli Income Tax Ordinance and the applicable sub-section of Section 102 of the Israeli Income Tax Ordinance;
+and (e) with respect to each Company Securityholder, the Per Share Consideration and the Pro Rata Share of such Company Securityholder. 
+
+ “ Straddle Period ”
+means any taxable period that includes (but does not end on) the Closing Date.
+
+ “ Taxes ” means
+all taxes and other governmental charges, including on income, gross receipts, value added, profits, payroll, social security, employment,
+stamp, occupational, premium, property, use, sales, license, excise, franchise, employment, withholding or similar taxes, assessed by
+any governmental authority, together with any interest, additions or penalties with respect thereto, and any interest in respect of such
+additions or penalties.
+
+ “ Trading Day ”
+means a day on which the principal Trading Market is open for trading.
+
+ “ Trading Market ”
+means the Nasdaq and/or any other trading market or exchange upon which the Ondas Stock are traded or listed or quoted for trading on
+the date in question (or any successors to any of the foregoing).
+
+ “ Transaction Documents ”
+means this Agreement, and all exhibits and schedules thereto and hereto and any other documents or agreements executed in connection with
+the transactions contemplated hereunder, including (without limitation) the Paying Agent Agreement, the Founders Engagement Agreements
+and the Key Employee Agreements.
+
+ 8 
+
+ “ Transaction Expenses ”
+means, without double counting and to the extent not paid prior to Closing, all third-party fees, costs, expenses, payments and expenditures
+incurred by or on behalf of the Company in connection with the transactions contemplated hereunder, whether or not incurred, billed or
+accrued (including (i) any fees, costs expenses, payments and expenditures of legal counsel and accountants, (ii) the maximum amount of
+fees, costs, expenses, payments and expenditures payable to brokers, finders, financial advisors, investment bankers or similar Persons,
+(iii) all sale, change-of-control, “stay around,” retention, termination, severance or similar bonus or payment obligations
+or compensatory amounts owed or incurred by the Company to the Company’s directors, employees and/or consultants and any employment
+Taxes payable by the Company in connection therewith whether paid or payable at or following the Closing, all except any amount payable
+to any such persons by the virtue of this Agreement (iv) any such fees, costs, expenses, payments and expenditures incurred by Company
+Securityholders paid for or to be paid for by the Company, (v) the costs of the D&O Tail Policy and (vii) 50% of the costs of the
+Paying Agent.
+
+ “ Vested Company Option ”
+means each Company Option that is outstanding and vested immediately prior to the Closing (including as a result of acceleration).
+
+ “ VWAP ” means
+the average of the daily volume weighted average price of the Ondas Stock for each of the seven (7) consecutive full Trading Days on the
+Trading Market on which the Ondas Stock are then listed or quoted, as reported by Bloomberg (or, if Bloomberg ceases to publish such price,
+any successor service) (based on a Trading Day from 9:30 a.m. (New York City time) to 4:02 p.m. (New York City time)).
+
+ ARTICLE
+2 - SHARE PURCHASE 
+
+ 2.1 
+ The Share Purchase . 
+
+ (a) 
+ Sale of Company Shares .
+
+ On the terms and subject to
+the conditions of this Agreement, each Company Shareholders shall sell, transfer and deliver to Buyer at the Closing, and Buyer shall,
+at the Closing, purchase from each Company Shareholder, all of the Company Shares owned by such Company Shareholder as of immediately
+prior to the Closing (as set forth opposite each Company Shareholder’s name on the Spreadsheet) free and clear of all Liens.
+
+ (b) 
+ Consideration for Company Shares .
+
+ (i) 
+ At the Closing, in consideration of the sale, transfer, assignment, and delivery of the Company Shares, according to this Agreement,
+upon the terms and subject to the conditions set forth herein, the Buyer shall pay the Aggregate Consideration to the Paying Agent, for
+further distribution to the Company Shareholders in accordance with the Spreadsheet, as follows:
+
+ (ii) 
+ The Investors Consideration, in the amount set forth in the Spreadsheet, shall be paid in cash.
+
+ (iii) 
+ The Founders Consideration, in the amount set forth in the Spreadsheet, shall be paid as follows: (i) to Shmuel, fully in cash;
+and (ii) to Rotem, (A) up to 50% of his respective Founders Consideration will be paid, at Buyer’s discretion, in Ondas Closing
+Shares, with the number of Ondas Closing Shares calculated by dividing the applicable portion of such Founders Consideration by the VWAP
+of the Ondas Stock as reported immediately preceding the Closing Date; and (B) the remainder of his Founders Consideration shall be paid
+in cash; provided, however, that if, at the time of the Closing, there exists any material non-public information concerning the Buyer
+or the Transactions, Buyer shall not be entitled to exercise the option to issue Ondas Closing Shares and will pay to Rotem his respective
+Founders Consideration entirely in cash.
+
+ 9 
+
+ (iv) 
+ Notwithstanding anything to the contrary herein, any portion of the consideration payable or otherwise deliverable pursuant to
+this Agreement in respect of Company 102 Securities and Company 3(i) Options, shall be deposited with the Paying Agent, and shall be delivered
+by the Paying Agent to the 102 Trustee, which will hold and release such payment in accordance with the provisions of Sections 102 and
+3(i) of the Israeli Income Tax Ordinance and in accordance with the provisions of the 102 Tax Ruling (or the 102 Interim Ruling).
+
+ (c) 
+ Company Options and Optionholders Consideration .
+
+ (i) 
+ No Company Options shall be assumed by, continued in effect or replaced by Buyer in the Share Purchase. At the Closing, each Company
+Option which is not a Vested Company Option and the Company Options of Mr. Matan Cohen which are vested in part but have not met the two
+year holding period shall, by virtue of the Share Purchase, and without any further action on the part of Buyer, the Company or any holder
+thereof, be cancelled and extinguished without the payment of any consideration therefor, and each holder thereof shall cease to have
+any rights with respect thereto, including any present or future right to receive any portion of the Aggregate Consideration. Buyer shall
+pay each of Matan Cohen and Alon Sade, a retention bonus at the Closing in the amounts of $37,346 (the “ Bonus of Matan and Alon ”),
+of which the total amount of $24,896 (the " Grossup Portion ") is paid in excess of the Aggregate Consideration.
+
+ (ii) 
+ At the Closing, each Vested Company Option shall be cancelled and extinguished in exchange for the right of the holder of such
+Vested Company Option to receive (in each case, without interest and subject to withholding in accordance with the provisions hereof)
+(the “ Optionholders Consideration ”), an amount in cash equal to the Per Share Consideration minus the per share
+exercise price of such Vested Company Option, all in accordance with the Spreadsheet.
+
+ (iii) 
+ The payments to each holder of a Vested Company Option shall be subject to such holder executing and delivering to Buyer an Option
+Surrender Agreement. Notwithstanding anything to the contrary herein, any portion of the consideration payable or otherwise deliverable
+pursuant to this Agreement in respect of Vested Company Options that are Company 102 Options or Company 3(i) Options, shall be deposited
+with the Paying Agent, and shall be delivered by the Paying Agent to the 102 Trustee, which will hold and release such payment in accordance
+with the provisions of Sections 102 and 3(i) of the Israeli Income Tax Ordinance and in accordance with the provisions of the 102 Tax
+Ruling (or the 102 Interim Ruling). . 
+
+ (iv) 
+ Prior to the Closing, the Company shall take or cause to be taken such actions and obtain all such consents as may be required
+to effect the foregoing provisions and to terminate the Company Option Plan, in each case after consultation with, and subject to the
+reasonable approval of, Buyer.
+
+ (d) 
+ Withholding; Certain Tax Matters. 
+
+ (i) 
+ Each of Buyer, the Paying Agent, the 102 Trustee and the Company (each, a “ Payor ”) shall be entitled to deduct
+and withhold (without duplication) from any consideration in cash or by issuance of Ondas Stock payable or otherwise deliverable to any
+Person pursuant to this Agreement (each, a “ Payee ”), including without limitation, the Earn Out Consideration and Retention
+Bonuses, to the extent applicable such amounts as Payor determines are required to be deducted or withheld therefrom in connection therewith
+under the provision of state, local or foreign Tax law or under any other applicable Law, including Israeli Income Tax Ordinance (New
+Version) 1961 and any regulations promulgated thereunder (as amended) (the “ Israeli Income Tax Ordinance ”), provided,
+however, that in respect of non-Israeli Tax deduction or withholding, the Payor shall provide the applicable Payees with written notice
+of its intent to deduct or withhold at least ten (10) Business Days prior to deducting or withholding, as applicable, and the parties
+shall cooperate in good faith to mitigate or eliminate any such deduction and withholding (including through the request and provision
+of any statements, forms or other documents to reduce or eliminate any such deduction or withholding) to the maximum extent permitted
+by applicable Tax Law. To the extent such amounts were so deducted or withheld and timely remitted to the applicable Tax Authority, such
+amounts shall be treated for all purposes under this Agreement as having been paid to the Person to whom such amounts would otherwise
+have been paid. To the extent such amounts are deducted and withheld, the Payor shall timely furnish the payee with documentation evidencing
+such Tax withholding.
+
+ 10 
+
+ (ii) 
+ Notwithstanding the foregoing, , the Paying Agent shall provide Buyer, prior to the Closing Date, with an undertaking as required
+under Section 6.2.4.3 of the Income Tax Circular 19/2018 ( Transaction for Sale of Rights in a Corporation that includes Consideration
+that will be transferred to the Seller at Future Dates ) (“Circular”), with respect to Israeli Tax, any payments payable
+or otherwise deliverable in cash (other than consideration payable in respect of Company 102 Securities and Company 3(i) Options) pursuant
+to this Agreement shall be retained by the Paying Agent for the benefit of each such Payee for a period of up to 180 days from the
+date of such payment or an earlier date required in writing by such Payee or as otherwise requested by the ITA (the “ Withholding
+Drop Date ”) (during which time, unless otherwise required by the ITA, no amount shall be paid by the Paying Agent to
+such Payee and no amounts for Israeli Taxes shall be withheld from amounts paid to the Paying Agent), and during which time each Payee
+may obtain a valid certification or ruling, issued by the ITA and applicable to the payments to be made to the Payee pursuant to this
+Agreement, in form and substance reasonably acceptable to Paying Agent and Buyer (x) exempting the Payor from the duty to withhold
+Israeli Taxes with respect to payment to such Payee, (y) determining the applicable rate of Israeli Tax to be withheld from the
+payment to such Payee, or (z) providing any other written instructions with respect to withholding of Israeli Taxes, including a
+valid certification pursuant to Israeli Income Tax Regulations (Withholding from Payments for Services or Assets), 5737-1977 2 
+ (the “ Valid Tax Certificate ”).
+In the event that no later than five (5) Business Days before the Withholding Drop Date, a Payee submits a Valid Tax Certificate to the
+Paying Agent, the Paying Agent shall act in accordance with the provisions of such Valid Tax Certificate subject to any deduction and
+withholding as may be required to be deducted and withheld under any provision of foreign Tax Law (other than Israeli Law), and the balance
+of the payment that is not withheld shall be promptly paid to such Payee. If any Payee (A) does not provide the Paying Agent with a Valid
+Tax Certificate, no later than five (5) Business Days before the Withholding Drop Date, or (B) submits a written request with the Paying
+Agent to release its portion of the applicable payment payable in cash or in Ondas Stock prior to the Withholding Drop Date and fails
+to submit a Valid Tax Certificate at or before such time, then Israeli Taxes will be withheld from such Payee’s portion of the
+applicable payment under this Agreement as determined by the Paying Agent, in consultation with Buyer and/or its advisors at its reasonable
+discretion, according to the applicable withholding rate in accordance with the Israeli Income Tax Ordinance and the Circular, which
+amount shall be delivered, or caused to be delivered, to the ITA by the Paying Agent, and the Paying Agent shall deliver to such Payee
+the balance of the applicable payment due to such Payee that is not so withheld. Any currency conversion commissions will be borne by
+the applicable Payee and deducted from payments to be made to such Payee. 
+
+ (iii) 
+ Notwithstanding anything to the contrary herein, any payments made to any Shareholders and holders of Company 102 Shares and holders
+of Vested Company Options will be subject to deduction or withholding of Israeli Tax under the Israeli Income
+ Tax Ordinance on the sixteenth (16 th ) day of the calendar month following the month during which the Closing occurs.
+
+ 2.2 
+ Closing . Upon the terms and subject to the conditions set forth herein, the closing of the Share Purchase and the other
+transactions contemplated hereunder (the “ Closing ”), shall take place remotely via the exchange of documents and electronic
+signatures, within 3 Business Days from the satisfaction or waiver all of the conditions set forth in ‎ ARTICLE 3 of this Agreement
+(other than those conditions that, by their terms, are intended to be satisfied at the Closing, but subject to the satisfaction or waiver
+of those conditions) or at such other location, date and time to be agreed by Buyer and the Company in writing. The date on which the
+Closing occurs is referred to herein as the “ Closing Date ”.
+
+ 2 Shibolet note: this general approval is N/A for consideration
+which is not in cash. Now it is relevant as the consideration is in cash only. 
+
+ 11 
+
+ 2.3 
+ Closing Deliveries .
+
+ (a) 
+ Buyer Deliveries . Buyer shall take the following actions and deliver the following documents to the Company at or prior
+to the Closing, except as otherwise indicated:
+
+ (i) 
+ pay the Aggregate Consideration to the Paying Agent;
+
+ (ii) 
+ a certificate dated as of the Closing Date and executed on behalf of the Buyer by a member of its board of directors, to the effect
+that each of the conditions set forth in Section ‎ 3.3(a) have been satisfied (the “ Buyer's Closing Certificate ”);
+
+ (iii) 
+ a certificate, dated as of the Closing Date and executed on behalf of the Buyer by the Secretary of the Buyer, certifying (A) that
+the unanimous written consent or resolutions of the board of directors of the Buyer in the form attached hereto as Schedule 2.3(a)(iv) ,
+approving the execution, delivery and performance by the Buyer of this Agreement and the other Transaction Documents and the transactions
+contemplated hereby and thereby, including, without limitation, the payment of the Aggregate Consideration to the Company Securityholders,
+the issuance of the Ondas Closing Shares to Rotem pursuant to the Registration Statement at Closing (if any), remain in full force and
+effect and have not been amended, rescinded or modified, and (B) the incumbency and signatures of the officers of the Buyer executing
+this Agreement or any other Transaction Document;
+
+ (iv) 
+ the Paying Agent Agreement, duly executed by the Buyer and the Paying Agent; and
+
+ (v) 
+ if the Buyer has elected to pay any portion of Rotem’s Founders Consideration in Ondas Closing Shares, the Buyer shall issue
+and deliver, or cause to be issued and delivered to Rotem, via the Deposit or Withdrawal at Custodian (DWAC) system of The Depository
+Trust Company, the number of Ondas Closing Shares determined in accordance with Section ‎ 2.1(b)(iii)
+hereof, registered in book-entry form (without any restrictive legends) in the name of Rotem by the Company’s transfer agent. 
+
+ (vi) 
+ Pay the Grossup Portion.
+
+ (b) 
+ Company Deliveries . The Company or the Company Shareholders, as applicable, shall deliver to Buyer, at or prior to the Closing:
+
+ (i) 
+ duly executed share transfer deeds signed by all Company Shareholders with respect to all of the Company Shares held by each such
+Company Shareholder as of the Closing Date;
+
+ (ii) 
+ a certificate dated as of the Closing Date and executed on behalf of the Company by its Chief Executive Officer, to the effect
+that each of the conditions set forth in Section 3.3(a) have been satisfied;
+
+ (iii) 
+ a certificate, dated as of the Closing Date and executed on behalf of the Company by its Chief Executive Officer, certifying (A) the
+Company’s Articles of Association as in effect immediately prior to the Closing and (B) the unanimous approvals of the board
+of directors of the Company and of the shareholders of the Company in the form attached hereto as Schedule 2.3(b)(iii) remain in
+full force and effect and have not been amended, rescinded or modified), and (C) the incumbency and signatures of the officers of the
+Company executing this Agreement or any other Transaction Document;
+
+ (iv) 
+ the Founders Engagement Agreements and Key Employees Agreements and executed by the Company and the relevant Person, that have
+remained in full force and effect and have not been terminated or rescinded;
+
+ 12 
+
+ (v) 
+ a resignation letter in the form attached as Schedule ‎ 2.3 ‎ (b) ‎ (v) executed by each director and
+statutory officer of the Company in office immediately prior to the Closing, effective no later than immediately prior to the Closing;
+
+ (vi) 
+ a certificate from the Israeli Registrar of Companies certifying that the Company is registered under Israeli Law since its date
+of incorporation and dated as of not earlier than seven (7) Business Days prior to the Closing Date;
+
+ (vii) 
+ evidence reasonably satisfactory to Buyer of the termination or waiver of any rights of first refusal, redemption rights, conversion
+rights and rights of notice of any Company Securityholder with respect to any of the transactions contemplated hereunder, effective as
+of, and contingent upon the Closing;
+
+ (viii) 
+ the Spreadsheet, and a certificate executed by the Chief Executive Officer of the Company, dated as of the Closing Date, certifying
+on behalf of the Company that the Spreadsheet is true, correct and complete;
+
+ (ix) 
+ a certificate executed by the Chief Executive Officer of the Company, dated as of the Closing Date, certifying on behalf of the
+Company in reasonable details the balances of the Company Cash, Company Debt and Company Net Working Capital as of immediately prior to
+the Closing (the “ Closing Financial Certificate ”) and such other information as required below in Section ‎ 3.3(g);
+
+ (x) 
+ IP assignment in the form attached as Schedule ‎ 2.3(x) ‎‎ (b) ‎ (x)A 
+from the parties identified on Schedule ‎ 2.3(x) ‎ (b) ‎ (x)B; 
+
+ (xi) 
+ evidence that the Company has purchased the D&O Tail Policy;
+
+ (xii) 
+ the Paying Agent Agreement, duly executed by the Shareholders’ Agent;
+
+ (xiii) 
+ BIRD Approval (if not waived as a condition to Closing)
+
+ (xiv) 
+ MoD Approval (if not waived as a condition to Closing)
+
+ (xv) 
+ Export Control Approval (if not waived as a condition to Closing)
+
+ (xvi) 
+ an Option Surrender Agreement, in the form attached as Exhibit ‎ 2.3 ‎ (xvi) (the “ Option Surrender
+Agreement ”), in respect of each Vested Company Option, duly executed by each holder of any Vested Company Options and evidence
+reasonably satisfactory to Buyer that all other Company Options were terminated and cancelled without any further right prior to Closing; 3 
+
+ (xvii) 
+ A form of the disclosure schedules corresponding to the representations and warranties provided by the Company hereunder in form
+and substance acceptable to Buyer.
+
+ (xviii) 
+ The Work Plan in form and substance acceptable to the Buyer.
+
+ (xix) 
+ the shareholders registry of the Company, duly executed by an authorized officer or director of the Company, evidencing the transfer
+and ownership of all of the Company Shares to Buyer; and
+
+ 13 
+
+ (xx) 
+ Confirmation, Amendment and Waiver by Polygon T.R. Ltd in the form attached as Exhibit ‎ 2.3 ‎ (b) ‎ (xx) 
+“Polygon Waiver”.
+
+ Receipt by Buyer of any of the
+agreements, instruments, certificates or documents delivered pursuant to Section 2.3(b) shall not be deemed to be an agreement
+by Buyer that the information or statements contained therein are true, correct or complete, and shall not diminish Buyer’s remedies
+hereunder if any of the foregoing agreements, instruments, certificates or documents are not true, correct or complete.
+
+ 2.4 
+ Surrender of Certificates (i) . At the Closing and upon
+the effectiveness of the Share Purchase, Buyer, the Company and the Shareholders' Agent shall enter with the Paying Agent into a Paying
+Agent Agreement, which shall provide for the payment to the Paying Agent of any portion of the Aggregate Consideration to be paid in cash
+to the Company Securityholders, subject to the withholding provisions as set forth herein and therein, all as set forth in the Spreadsheet.
+To the extent not previously delivered, as soon as reasonably practicable after the Closing, Paying Agent shall deliver to each Company
+Shareholder a letter of transmittal in the Paying Agent’s standard form (the “ Letter of Transmittal ”), and each
+Company Shareholder shall fill in its applicable Letter of Transmittal and shall return such document to the Paying Agent signed, and
+shall surrender to the Paying Agent all of the certificates or instruments which immediately prior to the Closing represented issued and
+outstanding Company Shares held by the Company Shareholder (or written declaration of loss or destruction in lieu thereof in the form
+attached to the Letter of Transmittal), together with duly executed share transfer deeds, in a form attached to the Letter of Transmittal. 
+
+ 2.5 
+ Buyer’s Operational Undertakings .
+
+ (a) 
+ At the Closing, Buyer shall provide the Company with funding in the amount of $2,000,000 in immediately available funds, in order
+to fund the Company’s operations following the Closing in accordance with the business plan and budget in such form to be agreed
+between Buyer and the Company prior to the Closing (jointly and as may be amended following the Closing in the ordinary course only, subject
+to Section ‎ 8.9 hereunder, the “ Work Plan ”).
+
+ (b) 
+ In addition, to the extent that the Company shall successfully achieve the 2025 milestones set forth under the Work Plan, Buyer
+will provide the Company with additional funding in the amount of up to $3,000,000, to the extent required to fund the activities and
+operations of the Company pursuant to the Work Plan.
+
+ ARTICLE
+3 - CONDITIONS TO CLOSING 
+
+ 3.1 
+ Conditions to the Obligations of each Party to Effect the Share Purchase . The respective obligations
+of each party hereto to consummate the Share Purchase and the other transactions contemplated hereunder are subject to the satisfaction
+or waiver in writing (by each of Buyer and the Shareholders’ Agent, as applicable) at or prior to the Closing of each of the following
+conditions: 
+
+ (a) 
+ Illegality . No Order issued by any court of competent jurisdiction or other legal or regulatory restraint or prohibition
+preventing the consummation of the Share Purchase and, if the Buyer has elected to pay any portion of Rotem’s Founders Consideration
+in Ondas Closing Shares, restricting Rotem’s ownership and/or tradability of the Ondas Closing Shares, shall be in effect, and no
+action shall have been taken by any Governmental Authority seeking any of the foregoing, and no applicable Law or Order shall have been
+enacted, entered, enforced or deemed applicable to the Share Purchase (and not rescinded or repealed) that makes the consummation of the
+Share Purchase and the other transactions contemplated hereby and by the other Transaction Documents illegal.
+
+ (b) 
+ No Legal Proceedings . No Governmental Authority or other Person shall have commenced or threatened to commence any legal
+proceeding challenging or seeking to prohibit or limit the consummation of the Share Purchase and the other transactions contemplated
+hereby and by the other Transaction Documents.
+
+ 14 
+
+ (c) 
+ Governmental Approvals . Buyer and the Company shall have timely obtained from each Governmental Authority all approvals,
+waivers and consents, if any, necessary for consummation of, or in connection with, the Share Purchase and the other transactions contemplated
+hereunder, including, without limitation, the MOD Approval.
+
+ (d) 
+ Any conditions precedent determined following the completion of the Disclosure Schedule (as defined in ‎ ARTICLE 4 below)
+prior to Closing.
+
+ (e) 
+ The MOD will have approved the transfer of all Company Purchase Orders to the “Green Track” and corresponding ownership
+of all underlying IP by the Company in form and substance acceptable to the Buyer.
+
+ (f) 
+ BIRD Approval.
+
+ (g) 
+ Export Control Approval.
+
+ (h) 
+ Paying Agent Agreements . The Paying Agent shall have executed and delivered to the Buyer and the Shareholders’ Agent
+the Paying Agent Agreement.
+
+ (i) 
+ E ffectiveness of Registration Statement; Listing .
+If the Buyer has elected to pay any portion of the Founders Consideration in Ondas Closing Shares, (i) the Registration Statement shall
+be effective in accordance with the provisions of the Securities Act, and shall not be subject to any stop order or proceeding (or threatened
+proceeding by the SEC) seeking a stop order with respect to the Registration Statement that has not been withdrawn; and (ii) the Ondas
+Closing Shares to be issued and sold at Closing pursuant to the Registration Statement and this Agreement shall have been approved for
+listing on the Trading Market. 
+
+ (j) 
+ Polygon Waiver and Waivers from employees and consultants to be agreed.
+
+ (k) 
+ Company Shareholders and Buyer have agreed on the final form of all exhibits, schedules and certificates referenced in this Agreement
+(collectively, the “ Ancillaries ”), as well as any amendments to be made to this Agreement related to such Ancillaries
+or any financial representations or certificates.
+
+ (l) 
+ All Company deliverables pursuant to Section 2.3(b) shall have been delivered to Buyer (or waived in writing by Buyer) in form
+and substance acceptable to Buyer.
+
+ 3.2 
+ Additional Conditions to Obligations of the Company and the Company Shareholders . The obligations
+of the Company and the Company Shareholders to consummate the Share Purchase and the other transactions contemplated hereunder shall be
+subject to the satisfaction or waiver at or prior to the Closing of each of the following conditions at the sole discretion of the Shareholders
+Agent: 
+
+ (a) 
+ Representations, Warranties and Covenants of the Buyer . The representations and warranties made by Buyer herein shall be
+true and correct in all material respects (except for such representations and warranties that are qualified by their terms by a reference
+to materiality or Material Adverse Effect, which representations and warranties as so qualified shall be true and correct in all respects)
+on and as of the date of this Agreement and on and as of the Closing Date as though such representations and warranties were made on and
+as of such dates, all subject to the Ancillaries and the amendments made pursuant to Section 3.1(i). Buyer shall have performed and complied
+in all material respects with all covenants, agreements and obligations herein required to be performed and complied with by it at or
+prior to the Closing.
+
+ 15 
+
+ (b) 
+ Paying Agent Agreements . Buyer shall have executed and delivered the Paying Agent Agreement.
+
+ (c) 
+ Receipt of Closing Deliveries . The Company Shareholders shall have received each of the agreements, instruments, certificates
+and other documents set forth in Section ‎ 2.3(a)(a) .
+
+ (d) 
+ No Legal Proceedings . No Governmental Authority or other Person shall have commenced or threatened to commence any legal
+proceeding challenging or seeking the recovery of a material amount of damages in connection with transaction hereunder or seeking to
+prohibit or limit the execution of the transaction hereunder or any part thereof.
+
+ (e) 
+ No Buyer Material Adverse Effect . There shall not have occurred a Material Adverse Effect with respect to the Buyer since
+the date hereof.
+
+ (f) 
+ No Market Adverse Events . Solely if Ondas elects to pay the consideration to Rotem in Ondas Stock then from the date hereof
+to the Closing Date, trading in the Ondas Stock shall not have been suspended by the SEC or the Company’s principal Trading Market,
+and, at any time prior to the Closing Date, trading in securities generally as reported by Bloomberg L.P. shall not have been suspended
+or limited, or minimum prices shall not have been established on securities whose trades are reported by such service, or on any Trading
+Market, nor shall a banking moratorium have been declared either by the United States or New York State authorities nor shall there have
+occurred any material outbreak or escalation of hostilities or other national or international calamity of such magnitude in its effect
+on, or any material adverse change in, any financial market which, in each case, in the reasonable judgment of such Company Shareholder,
+makes it impracticable or inadvisable to purchase Ondas Closing Shares at the Closing.
+
+ 3.3 
+ Additional Conditions to the Obligations of Buyer . The obligations of Buyer to consummate
+the Share Purchase and the other transactions contemplated hereunder shall be subject to the satisfaction or waiver at or prior to the
+Closing of each of the following conditions at Buyer’s sole discretion: 
+
+ (a) 
+ Representations, Warranties and Covenants . The representations and warranties made by the Company and the Company Shareholders
+herein and by the Company Optionholders under the Option Surrender Agreement shall be true and correct in all material respects (except
+for such representations and warranties that are qualified by their terms by a reference to materiality or Material Adverse Effect, or
+representations and warranties concerning title to Company Shares and Company Options and with respect to the Company’s capital
+structure, which representations and warranties as so qualified shall be true and correct in all respects) on and as of the date of this
+Agreement and on and as of the Closing Date as though such representations and warranties were made on and as of such dates. The Company
+and each of the Company Securityholders shall have performed and complied in all material respects with all covenants, agreements and
+obligations herein required to be performed and complied with by the Company and the Company Securityholders (as applicable) at or prior
+to the Closing.
+
+ (b) 
+ Receipt of Closing Deliveries . Buyer shall have received each of the agreements, instruments, certificates and other documents
+set forth in Section ‎ 2.3(b) , which shall be in full force and effect.
+
+ (c) 
+ Injunctions or Restraints on Conduct of Company Business . No Order issued by any court of competent jurisdiction or other
+legal or regulatory restraint or prohibition limiting or restricting Buyer’s ownership, conduct or operation of the Company Business
+following the Closing shall be in effect, and no legal proceeding seeking any of the foregoing, in connection with the Share Purchase
+or prohibiting or limiting the consummation of the Share Purchase shall be pending or threatened.
+
+ (d) 
+ No Legal Proceedings . No Governmental Authority or other Person shall have commenced or threatened to commence any legal
+proceeding challenging or seeking the recovery of a material amount of damages in connection with Share Purchase or seeking to prohibit
+or limit the exercise by Buyer of any material right pertaining to ownership of the entire equity interests of the Company.
+
+ (e) 
+ No Company Material Adverse Effect . There shall not have occurred a Material Adverse Effect with respect to the Company
+since the date hereof.
+
+ 16 
+
+ (f) 
+ Employees . The Founders and the Key Employees shall have signed the Founders Engagement Agreement and Key Employees Agreements,
+as applicable, and no action shall have been taken to rescind or terminate any such agreement, and shall have remained continuously engaged
+with the Company through the Closing with no action taken to terminate such engagement.
+
+ (g) 
+ Closing Financial Certificate . The Company shall have delivered the Closing Financial Certificate, which, in all material
+respects, is in compliance with the applicable representations and warranties provided by the Company hereunder, and, in addition, a confirmation
+that Transaction Expenses are not greater than $[--] and that the Company Net Working Capital and Company Cash following Closing are both
+in the amounts to be set forth therein and sufficient for the Company to continue operations in its ordinary course of business (i.e.,
+business operations as conducted by the Company during the 12 months immediately preceding the Closing Date, without material expansion,
+modification, or deviation from such historical operations) for a period of three months following Closing (without taking into account
+any post-Closing salary adjustments and without exceeding its regular practices in the previous 12 months in terms of credit and loans
+(“ Minimal Runway Cash ”);
+
+ (h) 
+ Shareholders’ Register . The Company shall have delivered (i) a copy of the Company’s updated shareholders’
+register evidencing the holdings in the Company immediately following the Closing certified by an authorized director of the Company and
+(ii) a share certificate registered in the name of Buyer, representing ownership of one hundred percent (100%) of the Company Shares.
+
+ (i) 
+ D&O Insurance Policy . The Company shall, on or prior to the Closing Date, purchase tail insurance coverage for the D&O
+Indemnitees (“ D&O Tail Policy ”), the cost of which shall constitute a Transaction Expense, to become effective
+at the Closing, which shall provide the D&O Indemnitees with coverage for seven (7) years following the Closing Date for acts and
+omissions occurring prior to the Closing, including in connection with the Share Purchase, on terms not materially less favorable (including
+the amount of coverage) as in effect for the Company as of immediately prior to the Closing Date and reasonably satisfactory to Buyer.
+
+ ARTICLE
+4 - REPRESENTATIONS AND WARRANTIES OF the company 
+
+ In connection with the Share
+Purchase, the Company and the Company Shareholders, represent and warrant to Buyer, except as disclosed in the disclosure schedules to
+be delivered by the Company to Buyer as of Closing (“ Disclosure Schedule ”), as set forth in this Article 4. The Buyer
+shall be entitled to rely on all such representations and warranties regardless of any investigation by it or on its behalf.
+
+ 4.1 
+ Existence . The Company (i) is a corporation duly organized and validly existing under the laws of the State of Israel, (ii)
+has the requisite power and authority to own, lease and operate its properties and to carry on its business as now being conducted, and
+(iii) is duly qualified or licensed to do business in each jurisdiction in which it conducts business, in which the nature of its business
+or the ownership or leasing of its properties makes such qualification or licensing necessary.
+
+ 4.2 
+ Corporate Authority . The Company has all requisite power and authority to execute and deliver this Agreement, and each other
+instrument and agreement to be executed and delivered by it hereunder or thereby, to perform its obligations hereunder and thereunder
+and to consummate the transactions contemplated hereby and thereby. Such execution and delivery by the Company has been duly and validly
+authorized and approved by all required action of the Company, and no other corporate proceeding on the part of the Company is necessary
+to authorize this Agreement and the transactions contemplated hereby. This Agreement and each other instrument and agreement to be executed
+and delivered by it hereunder or thereby constitutes the valid and legally binding obligations of the Company, enforceable against the
+Company in accordance with its respective terms and conditions, except as enforceability thereof may be limited by any applicable bankruptcy,
+reorganization, insolvency or other laws affecting creditors' rights. Complete and correct copies as of the date hereof of the organizational
+documents of the Company (the “ Organizational Documents ”), as amended or restated as of the date hereof are attached
+hereto as Schedule ‎4.2 . The Company has not materially breached or violated, and is not in breach or violation of, any of
+the provisions of the applicable Organizational Documents. True, correct, and complete copies of the Organizational Documents have been
+made available to Buyer, each as amended to date, and each such Organizational Documents are in full force and effect.
+
+ 17 
+
+ 4.3 
+ Consents and Approvals; No Violations . Except as set forth on Schedule ‎ 4.3 , the execution and delivery
+by the Company of this Agreement and each other instrument to be executed and delivered by it hereunder, the performance by the Company
+of its obligations hereunder and thereunder and the consummation by the Company of the transactions contemplated hereby and thereby, do
+not and will not, with or without the giving of notice or the lapse of time or both (i) violate, conflict with or result in a breach of
+or default by the Company under any provision of the Organizational Documents or of any Contract to which the Company is a party or by
+which it or any of the Company's assets or properties, is bound, (ii) require the Company to obtain any consent, approval or action of,
+make any filing with, or give any notice to, any Person, including any consent, license, permit, grant or other authorization of, or filing
+with, any Governmental Authority, (iii) to Company’s knowledge, contravene any law or judgment applicable to the Company or any
+of the Company's assets or properties, or (iv) violate, conflict with, result in a breach of or default by the Company under, or result
+in the creation or imposition of any Lien upon any part of the Company's assets or properties under any provision of any debt note, bond,
+mortgage, indenture or Contract to which the Company is a party or by which it or any of the Company's assets or properties, is bound.
+
+ 4.4 
+ Capitalization .
+
+ (a) 
+ The authorized share capital of the Company consists solely of 10,000,000 Company Ordinary Shares, par value NIS 0.01 each (the
+“ Ordinary Shares ”), of which 25,865 are issued and outstanding as of the date of this Agreement, all of which have
+been duly authorized, validly issued, fully paid, and are nonassessable, free and clear of any Lien or any other limitation or restriction
+on the right to vote or sell the same, other than restrictions on transfer under applicable securities Laws and/or under the Organizational
+Documents. The Company Shareholders are the sole record and beneficial owners of all issued and outstanding ordinary shares of the Company,
+in such allocations as set forth on Schedule ‎ 4.4(a) . No claim has been received or, to the Company's knowledge, threatened,
+nor, to the Company's knowledge, is there any factual or legal basis for any such claim, asserting that any Person other than the Company
+Shareholders is the record holder or beneficial owner of, or has the right to acquire record or beneficial ownership of, any shares or
+other securities of the Company.
+
+ (b) 
+ The only outstanding rights to acquire shares of the Company are Company Options granted under the duly adopted Company Option
+Plan, as set forth on Schedule ‎ 4.4(a)(b) , which schedule sets forth a true, correct, and complete list of all outstanding
+options, including the name of each holder, the number of options held, the exercise price, and the vesting status. Other than such Company
+Options, there are no outstanding options, warrants, calls, rights, commitments, convertible loans, convertible securities, or other Contracts
+of any character, written or oral, to which the Company is a party or by which it is bound, to purchase or otherwise acquire any interest
+in the Company’s share capital. No Person has any right to subscribe for or to purchase, or any agreements providing for the issuance
+(contingent or otherwise) of, any shares or any securities convertible into or exchangeable for any shares of the Company, except for
+the options described above.
+
+ (c) 
+ All Company 102 Securities which were issued under the Company Option Plan attached hereto as Schedule ‎‎‎4.2 ,
+pursuant to Section 102 of the Israeli Income Tax Ordinance have been granted and issued, as applicable, in compliance and are currently
+in compliance, with the applicable requirements of Section 102 of the Israeli Income Tax Ordinance and the written requirements and guidance
+of the ITA, including the filing of the necessary documents with the ITA, the appointment of an authorized trustee to hold the Company
+102 Securities, the receipt of all applicable tax rulings from the ITA, and the due deposit of such Company 102 Securities with such trustee
+pursuant to the terms of Section 102 of the Israeli Income Tax Ordinance and the guidance published by the ITA. All written tax rulings,
+opinions, significant filings with the ITA relating to the Company Option Plan and any award thereunder have been provided to Buyer.
+
+ 18 
+
+ (d) 
+ There is no outstanding or authorized share appreciation, phantom shares profit participation, or other similar rights with respect
+to the Company. Except as set forth in the Company's Organizational Documents, there are no registration rights, preemptive rights, anti-dilution
+rights, redemption rights, rights of first refusal or offer, co-sale or tag-along rights, drag-along rights, put or call rights, and there
+is no voting trust, proxy, rights plan, antitakeover plan or other agreements or understandings to which the Company is a party or by
+which the Company is bound with respect to any equity security of any class of the Company.
+
+ 4.5 
+ Subsidiaries . The Company does not have and has never had any subsidiaries and does not otherwise own or control, directly
+or indirectly, or have the right or obligation to acquire, any debt or equity interest in any other Person.
+
+ 4.6 
+ Real Property . The Company owns no real property, and, except as set forth under Schedule ‎ 4.6 , has no
+real property leases or subleases.
+
+ 4.7 
+ Tangible Personal Property . Except as specified in Schedule ‎ 4.7 , the Company owns no material tangible
+personal property and has no tangible personal property leases or subleases (the “ Tangible Personal Property ”). The
+Tangible Personal Property owned, leased or subleased, as the case may be, by the Company is in operating condition and repair, reasonable
+tear and wear excepted (taking into account depreciation value as recognized in the Company's Financial Statements), and is suitable and
+adequate for use in the ordinary course of business as currently conducted. The Tangible Personal Property owned by the Company is free
+of any Lien of any kind and the Company has valid and marketable title to such Tangible Personal Property.
+
+ 4.8 
+ Material Contracts .
+
+ (a) 
+ Schedule ‎ 4.8 (a) sets forth a correct and complete list and the Company has provided the Buyer with correct and
+complete copies of all material Contracts to which the Company is a party or by which it or any of its properties or assets is bound,
+including without limitation, that (i) are material to the conduct and operations of the Company Business as currently conducted, assets
+and properties, (ii) involve the Shareholders (or any of their respective Affiliates), or any of the officers, consultants, directors
+or employees of the Company, (iii) require the Company to provide non-cash consideration (including to employees), (iv) are not in the
+ordinary course of business, (v) involve real property, (vi) involve a joint venture, partnership, or formation of a limited liability
+company or similar relationship, (vii) restrict the ability of the Company to engage in any business or activity in any manner or in any
+geographic area, (viii) govern or relate to bond, indenture, note, loan or credit agreement or other agreement relating to the borrowing
+of money, other indebtedness or to the direct or indirect guarantee or assumption of the obligations of any other Person for borrowed
+money , (ix) are customer or supplier agreements of the Company involving aggregate consideration or obligations in excess of $20,000
+or that are otherwise material to the business, financial condition, operations, or prospects of the Company, (x) contain any exclusive
+rights or any so-called “most favored nation” provision or similar provision requiring the Company to offer to a Person any
+terms or conditions that are at least as favorable as those offered to one or more other Persons, or which grants exclusive rights, rights
+of first refusal, rights of first negotiation or offer or similar rights to any third Person, (xi) relate to the Company’s Intellectual
+Property or material Company Permits, (xii) relate to the acquisition or divestiture of shares or securities of the Company, or the acquisition
+or sale of any material assets of the Company, other than the acquisition or sale of inventory in the ordinary course of business consistent
+with past practice, (xiii) entered with any court, administrative agency or commission or other, Israeli, national, provincial, state,
+local, foreign or other Governmental Authority, instrumentality, agency, commission or other entity, (xiv) entitle any Person to commissions,
+royalties, or broker’s or finder’s fees, (xv) involve any acquisition, merger or similar agreement (xvi) obligate the Company
+to develop any product or technology (xvii) under the terms of which any of the rights or obligations of a party thereto will be modified
+or altered or which provide for any increased payment or benefit or accelerated vesting, in any such case as a result of the execution
+of this Agreement and the consummation of the transactions contemplated hereby or which contain change in control provisions and that
+is material to the Company, (xiii) materially limit or restrict the Company or any successor or Affiliate thereto from engaging or competing
+in any manner or in any business or from conducting any activity in any geographic area or from soliciting any Person to enter into a
+business or employment relationship or to enter into a commercial relationship with any Person, (xix) all powers of attorney or other
+similar agreements or grant of agency by the Company, (xx) all Contracts involving the settlement of any actual or threated action,
+suit, proceeding at law or in equity, arbitration or administrative or other proceeding (collectively, the “ Material Contracts ”).
+
+ 19 
+
+ (b) 
+ Each Material Contract, except as set forth in Schedule 4.8 (b) : (i) is in full force and effect and is the valid and binding
+obligation of, and enforceable against, the Company and any other party thereto , except as limited by applicable bankruptcy, insolvency,
+reorganization, moratorium or other laws of general application affecting enforcement of creditors’ rights; (ii) neither the Company
+is, nor, to the Company's knowledge, is any other party to a Material Contract, in material breach or default thereof, nor has the Company
+received notice that the Company is in breach or default thereof; and (iii) to the Company’s knowledge no event has occurred which,
+with notice, or lapse of time or both, would constitute a material breach or default thereof by the Company or to the Company's knowledge
+by any other party thereto or would permit termination, modification, or acceleration thereof by any other party thereto.
+
+ (c) 
+ Except as set forth in Schedule 4.8 (c), this Agreement or the transactions contemplated hereby will not result in the material
+breach or other violation of any Material Contract or allow any counterparty thereto or other Person to charge additional amounts, cancel,
+terminate or otherwise suspend the operation thereof.
+
+ 4.9 
+ Compliance with Legal Requirements; Permits .
+
+ (a) 
+ Compliance . The Company is not and has not been at any time, in any material respect in conflict with, or in default or
+in violation of, any requirement under any Law applicable to the Company Business, the Company, or by which the Company is bound (“ Legal
+Requirement ”). There is no judgment, injunction, order or decree binding upon the Company which has or, to the knowledge of
+the Company, would reasonably be expected to have, the effect of prohibiting or materially impairing the Company Business. The Company
+has not received any notice or other communication from any Governmental Authority or other Person regarding any actual or possible violation
+of, or failure to comply with any provision of, any applicable Legal Requirement in any material respect. The Company has made and filed
+all material particulars, resolutions and documents required by the Israeli Companies Law–1999, as amended and the regulations promulgated
+thereunder or any other applicable Law required to be filed with the Israeli Registrar of Companies or any other Governmental Authority.
+
+ (b) 
+ Permits . The Company holds all authorizations and licenses, permits and registrations, required by any Governmental Authority
+(“ Permits ”), to allow the Company to perform the services provided by the Company as part of the Company Business,
+(collectively, “ Company Permits ”). Schedule ‎ 4.9(b) sets forth a true, correct, and complete list
+of all Company Permits. As of the date hereof, no violation, suspension, withdrawal, revocation, or cancellation of any of the Company
+Permits is pending or, to the knowledge of the Company, threatened, and the Company is, and has been, in compliance in all material respects
+with the terms of all Company Permits. Schedule ‎ 4.9(b) identifies any such Company Permit which, according to its terms,
+is about to expire within 12 months following the Closing. All of the Company Permits are in full force and effect and none of the Company
+Permits will be terminated or impaired or become terminable, in whole or in part, as a result of Closing.
+
+ (c) 
+ Anti-Bribery . Without derogating from the provisions of Section ‎ 4.9(a) above, the Company is in compliance with
+all applicable anti-corruption or anti-bribery Laws in any jurisdiction in which the Company has conducted its business (collectively,
+“ Anti-Bribery Laws ”). Neither the Company nor any of its directors, officers or to the Company's knowledge its employees
+or representatives has received any written communication from any Governmental Authority that alleges that the Company, or any current
+or former representatives thereof, is or may be in violation of, or has, or may have, any liability under, any Anti-Bribery Laws, in connection
+with business of the Company and no such potential violation of Anti-Bribery Laws has been discovered by or brought to the attention of
+the Company. To the Company's knowledge, none of the Company’s directors, officers, or employees is currently an officer, agent,
+or employee of a Governmental Authority. Neither the Company, nor, to the Company's knowledge, any of its current or former directors,
+officers, employees, or representatives (in their capacity as such) has, directly or indirectly, contrary to Anti-Bribery Laws, offered,
+given, reimbursed, paid or promised to pay, or authorized the payment of, any money or other thing of value to (a) any person who is an
+official, officer, agent, employee or representative of any governmental authority (“ Government Official ”), (b) any
+political party or official thereof, (c) any candidate for political or political party office or (d) any other Person affiliated with
+any customer of the Company, in each case while knowing or having reason to believe that all or any portion of such money or thing of
+value would be offered, given, reimbursed, paid or promised, directly or indirectly, for the purpose of: (i) influencing any act, decision
+or failure to act by a Government Official in his or her official capacity, (ii) inducing a Government Official to use his or her influence
+with a government or instrumentality to affect any act or decision of such government or entity, (iii) securing an improper advantage;
+in order to obtain, retain, or direct business; or (iv) for purposes not allowable under the Anti-Bribery Laws.
+
+ 20 
+
+ 4.10 
+ Company’s Intellectual Property. 
+
+ (a) 
+ Intellectual Property . Schedule ‎ 4.10(a) of the Disclosure Schedule lists as of the date hereof (i) all
+registered Intellectual Property owned or used by the Company (“ Company Registered Intellectual Property ”), identifying
+the owner (including any co-owners), the title or mark, application and/or registration number, application and/or registration dates,
+status, and the jurisdiction; (ii) any opposition, reexamination, interference proceeding, nullity action, reissue proceeding, cancellation
+or other equivalent proceeding or action pending or threatened, to the knowledge of the Company, asserted with respect to any Company
+Registered Intellectual Property.
+
+ (b) 
+ Ownership . The Company owns all right, title, and interest in and to the Company Registered Intellectual Property, free
+and clear of all Liens or exclusive licenses.
+
+ (c) 
+ Inventorship . With respect to each Patent that is part of the Company Registered Intellectual Property, all individuals
+named as inventors in any Patent are the appropriate, sole and only inventors of the invention covered by such Patent.
+
+ (d) 
+ Validity . All Company Registered Intellectual Property is valid, enforceable (other than pending applications) and subsisting.
+No challenges were made to the Company with respect to the validity or enforceability of any Company Registered Intellectual Property
+and to the Company’s knowledge there is no basis therefor. The Company has not received any written claims or, to the knowledge
+of the Company, other (including oral) claims, alleging that the Company Registered Intellectual Property is not valid, subsisting or
+enforceable.
+
+ (e) 
+ Registration . All necessary application, registration, maintenance, renewal and recordation fees due or owed in connection
+with the Company Registered Intellectual Property as of the date hereof have been paid, and all necessary documents, recordations and
+certificates in connection with such Company Registered Intellectual Property have been filed with the relevant Governmental Authority
+for the purposes of prosecuting, registering, maintaining, licensing, or perfecting the Company Registered Intellectual Property.
+
+ (f) 
+ Sufficiency . Except as set forth in Schedule , the Intellectual Property owned by, or licensed to, the Company includes
+to the Company’s knowledge, all Intellectual Property necessary to the operation of the Company Business, as currently conducted.
+
+ (g) 
+ Royalty Obligations . Except as set forth in Schedule ‎ 4.10(g) and except off-the-shelf products (e.g.,
+Windows, Office, Solid Works) and except for Open Source Software, the Company is not obligated to pay any Person any royalties, fees,
+commissions or other amounts for the use by the Company of any Intellectual Property owned or used by the Company. No event has occurred,
+and to the knowledge of the Company, no claim or dispute exists that gives rise to any obligation to pay or repay any Person (including
+any Governmental Authority) royalties, fees, commissions or other amounts for the use by the Company of any Intellectual Property.
+
+ 21 
+
+ (h) 
+ Company IP Contracts .
+
+ (i) 
+ Schedule ‎4.10(h)(i)(A) of the Disclosure Schedule lists as of the date hereof all Company's Contracts relating to the
+use by the Company of third party Intellectual Property or the use by Third Parties of Company’s Intellectual Property, excluding
+(aa) “shrink wrap” and similar of-the-shelf computer software end-user licenses (including any Open Source Software Licenses)
+purchased or contained in software products used by the Company (“ Licensed Intellectual Property ”), (bb) non-disclosure
+agreements entered into in the ordinary course of business that contain any limitations or restrictions on the use or exploitation of
+any Intellectual Property owned or used by the Company, (cc) non-exclusive rights granted to contractors or vendors to use any Intellectual
+Property owned or used by the Company, (dd) Open Source Software (each, a “ Company IP Contract ”). For the avoidance
+of doubt, the Company uses Open Source Software. To the Company’s knowledge, except as set forth in Schedule (4.10(h)(B) ,
+the Company's use of Open Source Software, as specified to the best of the Company’s knowledge under Schedule (4.10(h)(B), is
+in compliance with all applicable licenses, and no such use obligates the Company to disclose, license, or distribute any proprietary
+source code of the Company. All Open Source Software used by the Company can be replaced by commercially licensed software or Open Source
+Software under permissive licenses without unreasonable cost or adverse impact on the Company's products or services or developed by the
+Company internally or through third party.
+
+ (ii) 
+ Except as set forth in Schedule ‎4.10(h)(ii) hereto, the Company has valid licenses to use the Licensed Intellectual
+Property in connection with the Company Business.
+
+ (iii) 
+ Except as set forth in Schedule ‎4.10(h)(ii) the consummation of the transactions contemplated pursuant to this Agreement
+will not result in the material breach or other violation of any Company IP Contract that would allow any counterparty or other Person
+thereto to modify, cancel, terminate or otherwise suspend the operation thereof. Following the Closing, the Company will be permitted
+to exercise all of the Company’s rights under all Company IP Contracts (including, without limitation, the right to receive royalties,
+if any), to the same extent the Company has been able to, had the transactions contemplated pursuant to this Agreement not occurred and
+without being required to pay any material additional amounts or consideration to the same extent, other than fees, royalties or payments
+which the Company would otherwise be required to pay had the transactions contemplated pursuant to this Agreement not occurred
+
+ (iv) 
+ Except as set forth in Schedule 4.10(h) ‎(iv) , and except as may be limited or restricted under the Israeli Defense
+Export Control Law, 5766-2007, the Company is not bound by any Contract containing any covenant or other provision that licenses, conveys,
+or assigns (whether or not currently exercisable), or limits, encumbers or otherwise restricts the ability of the Company to use, exploit,
+assert or enforce any Intellectual Property owned or used by the Company anywhere in the world or otherwise limits or restricts the operations
+of the Company Business. To the knowledge of the Company, the transactions contemplated pursuant to this Agreement will not result in
+any Company's Intellectual Property or the Company Business being subject to any non-compete or exclusivity restriction.
+
+ (i) 
+ No Infringement of Third Person Intellectual Property . The Company has not received written notice, or, to the knowledge
+of the Company, other (including oral) notice, alleging that the Company is infringing or misappropriating or otherwise violating any
+Intellectual Property of any third Person. Except as set forth in Schedule ‎ 4.10 ‎ (i) hereto , the Company
+Business or any Intellectual Property owned or used by the Company (“ Company's Intellectual Property ”) to the knowledge
+of the Company, have not and do not infringe, misappropriate or otherwise make unlawful use of any Intellectual Property of any third
+Person. There are no claims, suits, actions, or other equivalent proceedings that have been instituted, are pending or, to the knowledge
+of the Company, asserted or threatened with respect to any Company's owned or used Intellectual Property, and to the knowledge of the
+Company none of such Intellectual Property is subject to any outstanding order, writ, judgment, decree, ruling, injunction, stipulation,
+determination or award of any Governmental Authority.
+
+ (j) 
+ No Third Person Infringement of Company Intellectual Property . To the knowledge of the Company, no Person has infringed,
+misappropriated or otherwise violated any Company's Intellectual Property, nor to the knowledge of the Company any Person is currently
+infringing, misappropriating or otherwise violating any Company's Intellectual Property.
+
+ 22 
+
+ (k) 
+ Proprietary Agreements . Except for as set forth in Schedule ‎ 4.10 ‎ (k) all current and former consultants
+and contractors involved in the research, development or commercialization of Company's Intellectual Property or otherwise contributed
+to Company's Intellectual Property and all current and former employees, in each case, have executed and delivered, and, to the knowledge
+of the Company, are in compliance with, agreements regarding the ownership, protection and confidentiality of confidential information
+and that include work for hire language and/or valid written assignments that include a waiver of any rights, including, an express and
+irrevocable waiver of the right to receive compensation in connection with “Service Inventions” under Section 134 of the Israeli
+Patent Law-1967 and an express and irrevocable waiver of any moral rights, as appropriate, of all such Company's Intellectual Property
+conceived or developed by such employees, consultants or contractors in connection with their services for the Company. All amounts payable
+by the Company to all Persons involved in the research, development, conception or reduction to practice of any Company's Intellectual
+Property have been paid in full and no remuneration, compensation or other amounts remain outstanding or may become due and payable under
+any circumstance, except for amounts paid or payable to employees or contractors in connection with employment or services rendered or
+to be rendered in the ordinary course and not in the nature of a royalty. No current or former employee, and to the Company’s knowledge,
+no consultant or contractor or any other Person has any right, claim or interest in or to any of the Company's Intellectual Property.
+Except as set forth in Schedule ‎ 4.10(k) ‎ , no funding, facilities or personnel of any Governmental Authority
+were used in the creation or development of any Company product or Company's Intellectual Property.
+
+ (l) 
+ Protection of Confidentiality . The Company has taken reasonable steps to protect and prevent the disclosure of its trade
+secrets. To the knowledge of the Company, any receipt or use by, or disclosure to, a third Person of know-how constituting part of the
+Company's Intellectual Property has been pursuant to the terms of a binding written Contract between the Company and such third Person.
+
+ (m) 
+ Computer Software and Information Technology . Except as set forth in Schedule ‎ 4.10(m) hereto, all computer
+software used in the Company Business is owned by the Company, or used pursuant to a valid license. The Company possesses full and complete
+source and object code versions of all such company software owned by the Company, none of which is subject to any escrow release, custody
+or similar provision.
+
+ (n) 
+ Government Funding . Except as set forth on Schedule ‎ 4.10(n) , no government funding, facilities of a university,
+college, other educational institution, military or research center (“ R&D Sponsor ”), was used in the creation or
+development of Company’s Intellectual Property, and, to the knowledge of the Company, no employee, faculty, independent contractor
+or students of a R&D Sponsor contributed to the creation or development Company's Intellectual Property. Except as set forth on ‎ 4.10(n)(b) ,
+no R&D Sponsor has any claim of right to, ownership of or other Lien on any Company's Intellectual Property. Except as set forth on
+ Schedule ‎ 4.10(n) , in the event that any such funds, grants, subsidies, facilities, employees, faculty, independent
+contractors, or students were used, such use will not materially preclude or restrict the sale, transfer, alienation and/or license of
+any such Company's Intellectual Property to Buyer free and clear of all Liens. Except as set forth on ‎ 4.10(n)(d) 
+of the Disclosure Schedule, the Company is not (i) party to any Contract or license with any Governmental Authority that grants to such
+Governmental Authority any right or license with respect to Company's Intellectual Property, or (ii) has received any written notice from
+any Israeli Governmental Authority, claiming any rights under Section 55, Chapter 6 or Chapter 8 of the Israeli Patent Law-1967.
+
+ 23 
+
+ 4.10A. AI. 
+
+ (i) 
+ Except as set forth in Schedule 4.10A , to the knowledge of the Company: (a) the Company has complied with all licenses,
+terms, conditions, written instructions and permissions applicable to the use of each AI Technology; (b) the development, training, operation,
+improvement, marketing, provision, deployment, or use of any Company AI Products (including all AI Technology and Training Data processed
+thereby), and the use or employment of any other AI Technology, in each case, comply with AI Commitments; and (c) the Company has not
+used or employed any AI Technology in a manner that limits or impairs the Company’s ownership of any Company Intellectual Property
+or Company Products that the Company intended to maintain as proprietary. No Person has claimed in writing to own any material Company
+AI Product and the Company have not had any formal dispute or written communication with any Person with respect to the Company’s
+use of Training Data, use of AI Technologies, or ownership or distribution or selling of the Company AI Products.
+
+ (ii) 
+ The Company has a valid and enforceable right to use each Training Data as currently used (if used) in the operation, development
+and validation of the Company AI Product. The Company has a valid and enforceable right to use each Training Dataset as currently used
+(if used) in the operation, development and validation of the Company AI Product.
+
+ (iii) 
+ Schedule 4.10A(iii) sets forth a complete and accurate list in all material respects of all Generative AI Tools used by
+the Company as of the date of this Agreement. Except as set out in Schedule 4.10A(i), the Company uses all Generative AI Tools
+in compliance with such Generative AI Tools’ applicable license terms and applicable laws.
+
+ (iv) 
+ In this Section 4.10(o), the following terms shall have the indicated meanings: “ AI Commitments ” means the Company’s
+obligations under (a) applicable obligations under licenses, , terms, conditions, and permissions , terms, conditions, and permissions
+relating to AI Technology to which the Company is subject or bound, (b) applicable Law relating to AI Technology; and (c) public representations
+(including representations on Company websites) made by the Company with regard to the Company’s use of AI Technology, to the extent
+applicable. “ AI Technology ” means deep learning, machine learning or other artificial intelligence technologies that
+use software algorithms, neural networks, tools, and related infrastructure that are developed, owned by Company or used by or licensed
+to the Company. “ AI Prompts ” means any and all information, data, writings, works of authorship, graphics, pictures,
+recordings, any electronic or other information, text or numerals, audio or visual content, or materials of any nature or description,
+queries, files or otherwise, used by the Company as AI inputs to generate AI Outputs, or to train Generative AI Tools, including AI agents,
+to the extent applicable. “ AI Outputs ” means any and all services, products, data, writings, works of authorship, graphics,
+pictures, recordings, any electronic or other information, text or numerals, audio or visual content, or materials of any nature or description
+generated by the Company, from any AI Technology or AI Inputs. “ Company AI Products ” means all products or services
+provided distributed and sold by Company that incorporate AI Technology. “ Generative AI Tools ” means generative artificial
+intelligence technology producing AI Outputs based on supplied AI Prompts, provided by third parties and deployed by Company to analyze
+input data, learn from that data, and then automatically make decisions, execute actions, or provide predictions generate content or output.
+For the avoidance of doubt, a Generative AI Tool includes LLMs. “ Training Data ” means data or databases, text, words,
+computer source code, images, videos, audio, images, landscapes, or other materials, that the Company submitted into the Generative AI
+Tools and/or used via AI Prompts for developing and improving the AI Technology by training, validation, and testing the algorithm(s).
+
+ 4.11 
+ Financial Statements .
+
+ (a) 
+ Schedule ‎ 4.11(c) sets forth the following financial statements of the Company: (i) audited financial statements
+for the years ended December 31, 2023 and 2024 and (ii) unaudited trial balance sheet as of June 30, 2025 the “ Financial Statements ”).
+
+ (b) 
+ The Financial Statements, are complete and correct, in all material respects, are in accordance with the books of account, ledgers
+and records of the Company, have been in conformity with GAAP, and consistently applied and present fairly in all material respects the
+financial position, results of operations and cash flows of the Company, in each case as of the respective dates thereof and for the periods
+indicated therein, subject in the case of the Interim Statements to normal year-end audit adjustments.
+
+ 24 
+
+ (c) 
+ Except as set forth on Schedule ‎ 4.11(c) , on the date hereof and on the Closing Date, the Company does not and
+will not have any obligation, liability, debts, claims or obligations, whether accrued, absolute, contingent or otherwise, whether due
+or to become due, other than (i) as reflected or disclosed in the Financial Statements or in the Closing Certificate, or (ii) which are
+in the ordinary course of business in accordance with past practice taking into account the growth of the Company’s business. Each
+item of income or expense of the Company has been accurately recorded in all material respects on the books and records of the Company
+reflecting in each case the correct amount and description or characterization thereof.
+
+ (d) 
+ Schedule ‎ 4.11(d) is a certificate executed by the Chief Executive Officer of the Company, dated as of the date
+of this Agreement, certifying on behalf of the Company in reasonable details the balances of the Company Cash, Company Debt and Company
+Net Working Capital as of immediately prior to the date of this Agreement.
+
+ 4.12 
+ Liens and Guarantees . Except for Liens listed in Schedule ‎ 4.12(a) , no Liens exist upon the assets of
+the Company. Except for Guarantees listed in Schedule ‎ 4.12(b) , the Company, or any Company Securityholder (on account
+of the Company) has no outstanding guarantees, performance guarantees, letters of credit, performance or bid bonds, or any other guarantees
+or bonds of any kind in favor of any Person.
+
+ 4.13 
+ Taxes; Assessments .
+
+ (a) 
+ All returns, reports, information returns or other similar documents or statements which are required to be filed by the Company
+on account of Taxes (“ Company Tax Documents ”) have been duly and timely filed. All items of income, gain, loss, deduction
+and credit or other items required to be included in such Company Tax Document have been so included and all information provided in each
+such Company Tax Document is true, correct and complete. All Taxes due by the Company until the Closing Date, whether due on the Company
+Tax Documents or otherwise due from the Company, have been or shall be duly paid or properly reserved against on the Company’s financial
+statements serving as the basis for the Closing Financial Certificate. The Company has not been subject to a Tax audit. Any Tax required
+to have been withheld or collected by the Company has been duly withheld and collected on a timely basis, and (to the extent required)
+each such Tax has been paid to the appropriate governmental authority on a timely basis or fully accrued in the Financial Statements.
+The Company has established, in the ordinary course of business and to the extent required by GAAP, reserves adequate for the payment
+of all due Taxes.
+
+ (b) 
+ No extension or waiver of the limitation period applicable to any of the Company Tax Documents nor any waiver or agreement for
+any extension of time for the assessment or payment of any Tax of or with respect to the Company, has been granted (by the Company or
+any other Person), and no such extension, agreement or waiver has been requested from the Company.
+
+ (c) 
+ To the Company’s knowledge, there are no grounds for the assertion or assessment of any Taxes against the Company and there
+is no action or proceeding or unresolved claim for assessment or collection, pending, asserted, or threatened, by, or present or expected
+dispute with, any governmental authority for assessment or collection from the Company of any Taxes of any nature affecting the Company
+or its assets or its business. No claim has been made by any taxing authority where the Company does not file the Company Tax Documents
+such that the Company has been or may be subject to taxation by that jurisdiction. The Company has delivered to the Buyer correct and
+complete copies of all Company Tax Documents for all completed Tax years that remain open for audit or review by the relevant taxing authority,
+and all ruling request, examination reports, statements of deficiencies, closing agreements and settlement agreements assessed against
+or agreed to by the Company.
+
+ (d) 
+ Adequate provision has been made in the Financial Statements, in accordance with GAAP, for all Taxes for which the Company is liable
+for the period covered by such Financial Statements but that have not yet become due.
+
+ 25 
+
+ (e) 
+ Except for Liens for Taxes not yet due and payable, no Liens for Taxes exist upon the assets of the Company.
+
+ (f) 
+ The Company has not entered into any agreement, ruling or arrangement with any taxing authority.
+
+ (g) 
+ The Company has never been a party to any Tax indemnity, Tax sharing or Tax allocation agreement or arrangement.
+
+ (h) 
+ Except as set forth under Schedule ‎ 4.10(h) of the Disclosure Schedule, the unpaid Taxes of the Company will
+not, as of the Closing Date, exceed the reserve for Taxes set forth in financial statement serving as the basis for the Closing Certificate.
+Since the date of the Financial Statements the Company has not incurred any liability for Taxes arising from extraordinary gains or losses,
+as that term is used in GAAP, outside the ordinary course of business consistent with past practice.
+
+ 4.14 
+ Ordinary Course Actions . Except as set forth on Schedule ‎ 4.14 hereto, since January 1, 2025, the Company
+has conducted its businesses only in the ordinary course consistent with past practice, there has not been any event, condition, change,
+action, failure to act or transaction which would be reasonably expected to result, individually or in the aggregate, in a Material Adverse
+Effect, and the Company has not:
+
+ (a) 
+ issued any notes, bonds or other debt securities or any share, capital stock, or similar interest in the Company, any option, purchase
+right, warrant, right or other convertible, exchangeable or exercisable therefor, or any exchange right or other Contract which would
+entitle any other Person to acquire any such interest in the Company or otherwise entitle any other Person to share in the equity, profits,
+earnings losses or gains of the Company, including stock appreciation, phantom stock, profit participation or other similar rights;
+
+ (b) 
+ incurred any Company Debt (except any Taxes);
+
+ (c) 
+ discharged or satisfied any Lien or paid any obligation or liability, other than current liabilities paid in the ordinary course
+of business;
+
+ (d) 
+ mortgaged or pledged any of its properties or assets or subjected them to any Lien;
+
+ (e) 
+ sold, assigned, transferred, leased, licensed or abandoned any of its assets, tangible or intangible, except in the ordinary course
+of business;
+
+ (f) 
+ entered into, materially amended, become subject to or terminated any Contract that would constitute a Material Contract;
+
+ (g) 
+ received notice of any acceleration, termination, material modification to or cancellation of any Material Contract or Permit;
+
+ (h) 
+ (i) made or granted any wage or salary increase, commission, bonus award or severance or incentive pay to any Company Employee
+or group of Company Employees (other than wage or salary increases, commissions, bonus awards or severance or incentive payments in the
+ordinary course of business), (ii) made or granted any increase in any employee benefit plan or arrangement, (iii) adopted, amended or
+terminated any employee benefit plan or arrangement, except as may be required by applicable Law, or (iv) granted any equity or equity-based
+awards;
+
+ (i) 
+ made capital expenditures or commitments therefor in excess of NIS [100,000] individually;
+
+ 26 
+
+ (j) 
+ delayed, postponed or canceled the payment of any accounts payable or any other liability or obligation or agreed or negotiated
+with any party to extend the payment date of any accounts payable or accelerated the collection of any accounts or notes receivable;
+
+ (k) 
+ made any loans or advances to, guarantees for the benefit of, or any investments in, any Persons (other than advances to employees
+in the ordinary course of business);
+
+ (l) 
+ suffered any damage, destruction or casualty loss exceeding $[10,000] in the aggregate, whether or not covered by insurance, or
+experienced any material changes in the amount and scope of insurance coverage;
+
+ (m) 
+ made any change in its cash management practices or in any method of accounting or accounting policies;
+
+ (n) 
+ directly or indirectly engaged in any transaction or entered into any arrangement with any officer, director, relative of any officer
+or partner or other Affiliate of any Company Securityholder;
+
+ (o) 
+ adopted any plan of merger, consolidation, reorganization, liquidation or dissolution or filing of a petition in bankruptcy under
+any provisions of federal or state bankruptcy Law or consented to the filing of any bankruptcy petition against it under any similar Law;
+
+ (p) 
+ amended its Organizational Documents;
+
+ (q) 
+ acquired any business, line of business or Person by merger or consolidation, purchase of substantial assets or equity interests,
+or by any other manner, in a single transaction or a series of related transactions, or entered into any Contract, letter of intent or
+similar arrangement (whether or not enforceable) with respect to the foregoing;
+
+ (r) 
+ settled any action, suit, proceeding at law or in equity, arbitration or administrative or other proceeding; or
+
+ (s) 
+ entered into any Contract or committed or agreed, whether orally or in writing (whether or not such Contract, commitment or agreement
+is legally binding), to do any of the foregoing .
+
+ 4.15 
+ No Affiliate Transactions . Except as set forth on Schedule ‎ 4.15 
+of the Disclosure Schedule, none of the Company Securityholders nor any of their Affiliates (i) is a party to any agreement, lease, loan,
+Contract, commitment or transaction with the Company, or (ii) has any ownership interest (other than through the Company) in any property,
+real or personal or mixed, tangible or intangible, owned or used in the business of the Company, or relating to, the Company Business,
+the Company Permits, asset or properties (including without limitations, the Company's Intellectual Property), or otherwise affecting
+this Agreement and/or the transactions contemplated hereby and thereby. 
+
+ 4.16 
+ Litigation . There is no judgment against the Company, no action, suit, proceeding at law or in equity, arbitration or administrative
+or other proceeding by or before (or to the Company’s knowledge any investigation by) any governmental authority pending or, to
+the Company's knowledge, threatened against or affecting either the Company or the Company Assets, or the Company's Intellectual Property
+or the ability of the Company to conduct the Company Business or to carry out its obligations under this Agreement or any related instrument,
+or, to the Company's knowledge, threatened against any present or former officer, director, or employee of the Company in his or her capacity
+as such, and there is no action, suit, proceeding at law or in equity, arbitration or administrative or other proceeding by the Company
+currently pending or which the Company intend to initiate.
+
+ 27 
+
+ 4.17 
+ Insurance . Schedule ‎ 4.17 sets forth a complete and true description of all insurance policies which the
+Company holds. Such policies shall not, pursuant to their terms, in any way be materially and adversely affected by, or terminate or lapse
+by reason of this Agreement or the transactions contemplated hereby. All such policies are in full force and effect, all premiums due
+and payable thereunder have been paid, and no notice of cancellation or termination of such policy has been received. The Company is in
+compliance in all material respects with all such policies, and the Company is not in material default under any of its obligations under
+any such policies, or has otherwise failed to comply with, in any material respect, any material provision contained in any such policies.
+There are no claims pending by or against the Company under any such insurance policies. Such policies are valid, outstanding and enforceable
+in accordance with their terms, and will remain in full force and effect through the Closing and for a period of six (6) months thereafter.
+No termination of any such policy has been, to the knowledge of Company, threatened.
+
+ 4.18 
+ Employees and Independent Contractors Matters .
+
+ (a) 
+ Employees . Schedule ‎ 4.18(a) of the Disclosure Schedule sets forth a true and complete list of the names
+of all employees engaged in all aspects of the Company Business by the Company as of the date hereof (the “ Company Employees ”).
+ Schedule ‎ 4.18(a) further includes a list containing each such Person’s job title or function, date of employment
+agreement, current salary or hourly wage, benefits and other remunerations, as well as the I.D number or such Person’s identification
+number, and any incentive or bonus arrangement with respect to such Person then in effect. All such data concerning the Company Employees
+is correct as of the date hereof and as of the Closing Date. Except as disclosed in Schedule ‎ 4.18(a) , the Company is
+not a party to any written or unwritten agreements, arrangements or commitments with any Company Employees, or any in effect agreements,
+arrangements or commitments with any former employees of the Company. The Company has not received any information that would reasonably
+lead it to believe that any Company Employee intends to terminate his/her employment with the Company.
+
+ (b) 
+ Independent Contractors . Schedule ‎ 4.18(b) of the Disclosure Schedule sets forth a true and complete list
+of the names of all and independent contractors currently engaged in all aspects of the Company Business by the Company as of the date
+hereof (the “ Independent Contractors ”). Except as disclosed in Schedule ‎ 4.18(b) to the Disclosure
+Schedule, the Company is not a party to any written or unwritten agreements, arrangements or commitments with Independent Contractors
+or any in effect agreements, arrangements or commitments with any former independent contractor of the Company. The Company has not received
+any information that would reasonably lead it to believe that any Independent Contractor intends to terminate his/her service with the
+Company. No employee-employer relationship exist between the Company and any Independent Contractor.
+
+ (c) 
+ Employment Relations . With respect to the Company Employees: (i) the Company is in all material respects in compliance with
+all mandatory applicable laws relating to employment practices, terms and conditions of employment, (ii) Except as set forth in Schedule
+ ‎ 4.18 ‎ (c), no collective bargaining agreement, extension order (tzavei harchava) or other similar collective
+labor contracts is currently in effect or, to the Company’s knowledge being negotiated, the Company is not currently negotiating
+and has no obligation to negotiate any other collective bargaining agreement and, to the knowledge of the Company, there is no indication
+that any Company Employees desire to be covered by a collective bargaining agreement, all other than extension order (tzavei harchava)
+that are generally applicable to employees in the State of Israel, (iii) there is no representation claim or petition pending before the
+any labor agency or court of which the Company has been notified and, to the best knowledge of the Company, no question concerning representation
+has been raised or threatened and (iv) no notice has been received by the Company of any complaint filed against the Company claiming
+that the Company has violated any applicable employment standards, human rights or other labor legislation or of the intent of any governmental
+authority responsible for the enforcement of labor or employment laws to conduct an investigation of the Company or any of the Company
+Employees, and no such investigation is in progress.
+
+ (d) 
+ Schedule 4.18(d) of the Disclosure Schedule sets forth a true and complete list of all Company Plans. For purposes of this Agreement,
+“ Company Plans ” means all employee benefit plans, programs and arrangements and any other bonus, option, equity purchase,
+equity or equity-based, incentive, , maintained or contributed to by any Company and its Affiliates. Each Company Plan has been established,
+operated and administered in compliance with its terms and complies in form and in operation with all applicable Laws.
+
+ 28 
+
+ (e) 
+ Except as set forth on Schedule ‎ 4.18(e) , the consummation of the transactions contemplated by this Agreement
+will not entitle any employee or independent contractor or services provider of the Company to severance pay or accelerate the time of
+payment or trigger any payment of compensation or benefits under, increase the amount payable or trigger any other material obligation
+pursuant to, any Contract between such Person and the Company or Company Plan (except in connection to severance pay with regard to employees
+which the terms of their respective employment agreements entitle them to such payment upon voluntary resignation) .
+
+ (f) 
+ Except for as set forth in Schedule 4.18(f), all current and prior employees and all consultants of the Company are parties to
+undertakings of confidentiality, non-competition and assignment of Intellectual Property in favor of the Company
+
+ (g) 
+ Except as set forth in Schedule ‎ 4.18(g) hereto, all of the employees are subject to termination upon up to thirty
+(30) days prior written notice under the termination notice provisions included in employment/engagement agreements or applicable Law.
+Except as set forth in Schedule ‎ 4.18(g) hereto, all employees are subject to Section 14 Arrangement pursuant to the
+Severance Pay Law (5723-1963) from the commencement date of their employment and on the basis of their entire determining salary.
+
+ (h) 
+ All amounts that the Company is legally or contractually required either: (a) to deduct from its employees’ salaries or to
+transfer to their pension or provident fund, life insurance, incapacity insurance, continuing education fund or other similar funds; or
+(b) to withhold from their salaries and benefits and to pay to any governmental authority as required by the Israeli Income Tax Ordinance
+and/or the National Insurance Law, or otherwise, have, in each case, been duly deducted, transferred, withheld and paid, and the Company
+does not have any outstanding obligation to make any such deduction, transfer, withholding or payment, except in the ordinary course of
+business and in accordance with the provisions of the employment agreements and applicable law. There are no outstanding, pending, or
+to the Company’s knowledge, threatened or anticipated assessments, actions, causes of action, claims, complaints, demands, orders,
+prosecutions or suits against the Company, its directors, officers or agents pursuant to or under any applicable rules, regulations, or
+laws, including, but not limited to pension plans, unemployment insurance, income tax, employer health tax, labor relations, occupational
+health and safety, human rights and workers’ compensation.
+
+ (i) 
+ Provision for severance pay and accrued vacation days due to the employees has been made according to GAAP in the Financial Statements,
+and to the Company’s knowledge, there is no circumstance whereby any employee may have the right to demand any claim for compensation
+on termination of employment beyond the statutory or contractual rights to which such employee is entitled, including severance pay.
+
+ 4.19 
+ Compliance with law . The Company is in compliance in all material respects with all applicable laws, judgments, Permits,
+certificates and other government approvals, related to the conduct of the Company Business.
+
+ 4.20 
+ Accounts Receivable . Since the date of the Financial Statements, the Company has collected its accounts receivable, and
+paid its accounts payable, in the ordinary course, consistent with past practice. A complete and correct list of all outstanding accounts
+receivable of the Company as of the Cutoff Date is set forth on Schedule ‎ 4.20 of the Disclosure Schedule. All accounts
+receivable of the Company (collectively, the “ Accounts Receivable ”) represent bona fide sales actually made or services
+actually performed in the ordinary course of business.
+
+ 4.21 
+ Inventories . All inventories are owned by the Company free and clear of any Liens.
+
+ 4.22 
+ Customer and Suppliers .
+
+ (a) 
+ Schedule ‎ 4.22(a) sets forth a complete and accurate list of the material customers of the Company.
+
+ 29 
+
+ (b) 
+ Schedule ‎ 4.22(b) sets forth complete and accurate list of the material suppliers of the Company. No supplier
+of the Company has, during the twelve (12) months preceding the date hereof, cancelled, suspended or terminated its relationship with
+the Company, or requested the Company to materially change the terms of engagement, or advised the Company of its intention to cancel,
+suspend or terminate its relationship with the Company.
+
+ 4.23 
+ Warranty Matters . The Company has not given or made any warranties to third Persons with respect to any services of the
+Company, except for warranties granted in the ordinary course of business. Any services provided by the Company have been in conformity
+in all material respects with all applicable contractual commitments.
+
+ 4.24 
+ Bank Accounts and Safe Deposit Boxes; Powers of Attorney . Schedule ‎ 4.24 of the Disclosure Schedule sets
+forth a true and complete list of (i) all accounts at banks and other financial institutions maintained by or for the use of the Company,
+together with the names of authorized signatories thereof on each such account; (ii) the location of all safe deposit boxes (and all keys
+thereto) maintained by or for the Company, together with the names of the individuals with authorized access thereto, and (iii) all personal
+guarantees provided by the Company Shareholder(s) of any of this Affiliates in connection with such accounts specified under the foregoing
+clause (i). There are no outstanding powers of attorney executed on behalf of the Company.
+
+ 4.25 
+ Broker, Finder Expenses . No broker, finder, financial advisor, investment banker or similar Person is entitled to any brokerage,
+finder’s or other fee or commission from the Company in connection with the origin, negotiation or execution of this Agreement or
+in connection with the transactions consummated hereunder.
+
+ 4.26 
+ Accuracy of Information; Disclosure . This Agreement (including the Disclosure Schedule attached hereto) nor any certificate
+furnished by or on behalf of the Company or the Company Shareholders to Buyer as expressly provided in this Agreement, contains, any untrue
+statement of a material fact or omits to state a material fact necessary to make the statements contained herein or therein, in light
+of the circumstances in which they are made, not misleading.
+
+ ARTICLE
+5 
+
+ REPRESENTATIONS
+AND WARRANTIES OF THE COMPANY SHAREHOLDERS
+
+ Each Company Shareholder, severally and not jointly,
+represents and warrants to Buyer, with respect to such Company Shareholder (and only such Company Shareholder and for no other Company
+Shareholder), as of the date hereof, as follows. The Buyer shall be entitled to rely on all such representations and warranties regardless
+of any investigation by it or on its behalf. The Buyer acknowledges and agrees that the representations contained in this Article 5 shall
+not modify, amend or affect such Company Shareholder’s right to rely on the Buyer’s representations and warranties contained
+in this Agreement or any representations and warranties contained in any other Transaction Document or any other document or instrument
+executed and/or delivered in connection with this Agreement or the consummation of the transactions contemplated hereby.
+
+ 5.1 
+ Legal Capacity; Authority . The Company Shareholder has all requisite power, authority and legal capacity to execute and
+deliver this Agreement, and any related instrument, and to perform its obligations hereunder and thereunder. This Agreement and each other
+instrument and agreement to be executed and delivered by it hereunder or thereby constitutes the valid and legally binding obligations
+of such Company Shareholder, enforceable against it in accordance with its respective terms and conditions, except as enforceability thereof
+may be limited by any applicable bankruptcy, reorganization, insolvency or other laws affecting creditors' rights. The Company Shareholder
+has sufficient knowledge and experience in financial and business matters so as to be capable of evaluating the merits and risks of the
+transactions contemplated by this Agreement.
+
+ 30 
+
+ 5.2 
+ No conflict . The execution and delivery by the Company Shareholder of this Agreement and the performance by the Company
+Shareholder of its obligations hereunder do not and will not, with or without the giving of notice or the lapse of time or both (i) violate,
+conflict with or result in a breach of or default such Company Shareholder under any Contract to which such Company Shareholder is a party
+or by which it is bound, (ii) require such Company Shareholder to obtain any consent, approval or action of, make any filing with, or
+give any notice to, any Person, including any consent, license, permit, grant or other authorization of any governmental authority, (iii)
+contravene any law or judgment applicable to such Company Shareholder, or (iv) violate, conflict with, result in a breach of or default
+by such Company Shareholder (or give rise to any right of termination, cancellation, payment or acceleration) under, or result in the
+creation of any Lien upon any part of the share capital of the Company under any provision of any Contract or obligation to which such
+Company Shareholder is a party or by which he is bound.
+
+ 5.3 
+ Ownership and Title . The Company Shareholder is the owner of its portion of the issued and outstanding share capital of
+the Company, as set forth opposite its name on the Spreadsheet, free and clear of any Liens, and such Company Shareholder will transfer
+to Buyer at the Closing valid ownership and title to its portion of such share capital, free and clear of any Liens. Such Company Shares
+are duly authorized, validly issued and non assessable and fully paid, and the Company Shareholder has valid and marketable title to its
+portion of the share capital of the Company set forth opposite its name on the Spreadsheet and the sale and transfer of its portion of
+the share capital of the Company to the Buyer hereunder will vest title to such share capital in the Buyer free and clear of any Liens.
+No share certificates were issued to such Company Shareholder in connection with its holding and ownership of any Company Shares.
+
+ 5.4 
+ Litigation . There is no judgment against the Company Shareholder related to the share capital of the Company, and no action,
+suit, proceeding at law or in equity, arbitration or administrative or other proceeding by or before (or, to the knowledge of such Company
+Shareholder, any investigation by) any governmental authority pending or, to the knowledge of such Company Shareholder, threatened, affecting
+the share capital of the Company or the ability of such Company Shareholder to carry out its obligations under this Agreement or any related
+instrument.
+
+ 5.5 
+ Compliance with Law . The Company Shareholder is in compliance in all material respects with all applicable Laws, judgments,
+permits, certificates and other approvals, all to the extent related to its portion of the share capital of the Company as set forth opposite
+its name on the Spreadsheet.
+
+ 5.6 
+ Solvency . The Company Shareholder is not bankrupt or insolvent and has not proposed a voluntary
+arrangement or made or proposed any arrangement or composition with such Company Shareholder’s creditors or any class of such creditors,
+and no petition in respect of any such arrangement or composition has been presented. The consummation of the Share Purchase and the other
+transactions contemplated hereunder shall not constitute a fraudulent transfer by such Company Shareholder under applicable bankruptcy
+and other similar laws relating to bankruptcy and insolvency of such Company Shareholder. 
+
+ 5.7 
+ Broker, Finder Expenses . No broker, finder, financial advisor, investment banker or similar Person is entitled to any brokerage,
+finder’s or other fee or commission from the Company Shareholder in connection with the origin, negotiation or execution of this
+Agreement or in connection with the transactions consummated hereunder.
+
+ 5.8 
+ Withholding Information . All information provided, or to be provided, to Buyer, the Paying Agent or to the ITA, by or on
+behalf of each of the Company Shareholder for purposes of enabling Buyer, the Paying Agent or the ITA to determine the amount of Tax to
+be deducted and withheld, if any, from the consideration payable to such Company Shareholder pursuant to this Agreement and for the ITA
+to issue a Valid Tax Certificate is and will be true, correct and complete in all material respects when provided.
+
+ 31 
+
+ 5.9 
+ Acquisition of Ondas Closing Shares . In the event that the Buyer shall elect to pay any portion of the Aggregate Consideration
+to Rotem in Ondas Closing Shares, Rotem represents and warrants to Buyer, as follows:
+
+ (a) 
+
+ (b) 
+ Rotem is receiving Ondas Closing Shares for investment solely for his own account and not with a view to or for sale in connection
+with any distribution thereof in violation of the federal securities laws, applicable state securities laws or this Agreement (this representation
+and warranty not limiting Rotem’s right to sell the Ondas Closing Shares in compliance with applicable federal and state securities
+laws).
+
+ (c) 
+ At the time Rotem was offered the Ondas Closing Shares, he had, and as of the date hereof, he has, such knowledge and experience
+in financial and business matters that he is capable of evaluating the merits and risks of the acquisition of the Ondas Closing Shares,
+and in each case has consulted with counsel and other advisors prior to entering into this Agreement.
+
+ (d) 
+ Rotem has had an opportunity to ask questions and receive answers concerning the capitalization of Buyer, the terms of this Agreement
+and the financial condition and operations of Buyer and its subsidiaries.
+
+ 5.10 
+ Accuracy of Information; Disclosure . Neither this Agreement nor any schedule, statement, or certificate furnished by or
+on behalf of the Company Shareholders to the Buyer in connection with this Agreement and the other Transaction Document or any of the
+transactions contemplated hereby or thereby, contains any untrue statement of a material fact or omits to state a material fact necessary
+to make the statements contained herein or therein, in light of the circumstances in which they are made, not misleading, as of the date
+hereof or the date of such Transaction Document, respectively.
+
+ ARTICLE
+6 - Representations And warranties of the BUYER 
+
+ In connection with the purchase of the Company
+Shares by Buyer, the Buyer hereby represents and warrants to the Company Shareholders as of the date hereof, as follows. Each Company
+Shareholder shall be entitled to rely on all such representations and warranties regardless of any investigation by it or on its behalf.
+Each of the Company Shareholders acknowledges and agrees that the representations contained in this Article 6 shall not modify, amend
+or affect the Buyer’s right to rely on the Company Shareholders’ representations and warranties contained in this Agreement
+or any representations and warranties contained in any other Transaction Document or any other document or instrument executed and/or
+delivered in connection with this Agreement or the consummation of the transactions contemplated hereby.
+
+ 6.1 
+ Existence and Corporate Authority . The Buyer is a corporation duly organized, validly existing, and in good standing under
+the laws of the State of Nevada. The Buyer has the requisite power and authority to own, lease, and operate its properties and to carry
+on its business as presently being conducted. The Buyer has all requisite power and authority to execute and deliver this Agreement, and
+each other Transaction Document to be executed and delivered by it hereunder or thereby, to perform its obligations hereunder and thereunder
+and to consummate the transactions contemplated hereby and thereby. The execution and delivery of this Agreement and each of the other
+Transaction Documents by the Buyer, the performance and consummation by the Buyer hereof and thereof, have been duly and validly authorized
+and approved by all required action of the Buyer and no other corporate proceedings on the part of the Buyer, the Board of Directors of
+the Buyer or the Buyer’s stockholders in connection herewith or therewith are necessary to authorize this Agreement, each other
+Transaction Document to be executed and delivered by it hereunder or thereby and the transactions contemplated hereby and thereby. This
+Agreement and each other Transaction Document to be executed and delivered by the Buyer hereunder or thereby has been (or upon delivery
+will have been) duly executed by the Buyer and, when delivered in accordance with the terms hereof and thereof, will constitute the valid
+and legally binding obligations of the Buyer, enforceable against the Buyer in accordance with its respective terms and conditions, except
+as enforceability thereof may be limited by any applicable bankruptcy, reorganization, insolvency or other laws affecting creditors' rights.
+
+ 32 
+
+ 6.2 
+ No Violations . Except as set forth on Schedule ‎ 6.2 , the execution and delivery by the Buyer of this Agreement
+and each other Transaction Document to be executed and delivered by it hereunder, the issuance and sale of the Ondas Closing Shares (if
+any), and the performance by the Buyer of its obligations hereunder and thereunder and the consummation by the Buyer of the transactions
+contemplated hereby and thereby, do not and will not, with or without the giving of notice or the lapse of time or both (a) violate, conflict
+with or result in a breach of or default by the Buyer under any provision of its organizational documents; (b) violate, conflict with
+or result in a breach of, or constitute a default by the Buyer under, or give rise to any right of termination, amendment, anti-dilution
+or similar adjustments, acceleration, or cancellation of any Contract to which the Buyer or any subsidiary of the Buyer is a party or
+by which it or any of its or its subsidiaries’ assets or properties are bound or affected; or (c) conflict with or result in a violation
+of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority to which
+the Buyer or any of its subsidiaries is subject (including federal and state securities laws and regulations), or by which any property
+or asset of the Buyer or a subsidiary of the Buyer is bound or affected.
+
+ 6.3 
+ Consents and Approvals . The Buyer is not required to obtain any consent, waiver, authorization or order of, give any notice
+to, or make any filing or registration with, any court or other federal, state, local or other governmental authority or other Person
+in connection with the execution, delivery and performance by the Buyer of the Transaction Documents or the consummation by the Buyer
+of the transactions contemplated hereby and thereby, other than (i) the filings required pursuant to Section ‎ 8.2
+of this Agreement; (ii) the filing with the SEC of a Current Report on Form 8-K, (iii) in the event that the Buyer shall elect to pay
+any portion of the Aggregate Consideration to the Founders and/or Company Optionholders in Ondas Closing Shares, the application(s) to
+the Nasdaq for the listing of the Ondas Closing Shares for trading thereon in the time and manner required thereby. 
+
+ 6.4 
+ Issuance of the Ondas Closing Shares; Registration . The Ondas Closing Shares are duly authorized and, in event that the
+Buyer shall elect to pay to Rotem any portion of the Founders Consideration in Ondas Closing Shares, when issued in accordance with the
+Transaction Documents, will be (i) duly and validly issued, fully paid and nonassessable, free of preemptive rights, free and clear of
+all Liens imposed by the Buyer; and (ii) issued pursuant to the Registration Statement, and the offer and sale of the Ondas Closing Shares
+will have been registered by the Company under the Securities Act; (iii) immediately freely tradable without any restrictions on transfer
+imposed by applicable securities laws, shall be issued free of legends, and will not be subject to any lock-up period or other trading
+restrictions; and (iv) listed for trading on the Trading Market. The Buyer understands and confirms that Rotem will be relying on the
+foregoing representation in effecting transactions in the Ondas Closing Shares (if issued at Closing).
+
+ 6.5 
+ Listing and Maintenance Requirements . The Ondas Stock are registered pursuant to Section 12(b) or 12(g) of the Exchange
+Act, and the Buyer has taken no action designed to, or which to its knowledge is likely to have the effect of, terminating the registration
+of the Ondas Stock under the Exchange Act nor has the Buyer received any notification that the SEC is contemplating terminating such registration.
+The Buyer is in compliance with the provisions of the rules and regulations promulgated by Nasdaq and/or any other Trading Market and
+has no reason to believe that it will not in the foreseeable future continue to be in compliance with all such listing and maintenance
+requirements. There are no proceedings pending or threatened against the Buyer relating to the continued listing of the Ondas Stock on
+Nasdaq, and the Buyer has not received any notice of, nor is there any reasonable basis for, the delisting of the Ondas Stock from Nasdaq.
+
+ 6.6 
+ Investment Representations . Without derogating from the representations and warranties in Article 5 above, Buyer is an experienced
+buyer, and is knowledgeable, sophisticated and experienced in making decisions with respect to purchases of the type contemplated by this
+Agreement. The Buyer acknowledges that it has sufficient experience and knowledge of the Company Business in order to evaluate and bear
+the risks involved in this Agreement. Buyer acknowledges that the Company Shares have not been registered for offer or sale under any
+securities laws, and are not listed for trading on any stock exchange, stock quotation service or other stock market. Buyer understands
+that the Company Shares are being sold to Buyer in reliance on exemptions from the registration requirements of applicable securities
+laws, and may not be sold, transferred or otherwise disposed of unless in compliance with applicable securities laws. The Buyer further
+represents to the Company Shareholders that the Buyer’s decision to enter into this Agreement and each other instrument and agreement
+to be executed and delivered by it hereunder or thereby has been based on the independent evaluation of the transactions contemplated
+hereby and thereby by the Buyer and its representatives without derogating from any representations or warranties made to Buyer by the
+other parties hereto in connection herewith.
+
+ 33 
+
+ 6.7 
+ Broker, Finder Expenses . No broker, finder, financial advisor, investment banker or similar Person is entitled to any brokerage,
+finder’s or other fee or commission from the Buyer in connection with the origin, negotiation or execution of this Agreement or
+in connection with the transactions consummated hereunder.
+
+ 6.8 
+ Accuracy of Information; Disclosure . Neither this Agreement nor any schedule, statement, or certificate furnished by or
+on behalf of the Buyer to the Company or the Company Shareholders in connection with this Agreement and the other Transaction Document
+or any of the transactions contemplated hereby or thereby, contains any untrue statement of a material fact or omits to state a material
+fact necessary to make the statements contained herein or therein, in light of the circumstances in which they are made, not misleading,
+as of the date hereof or the date of such Transaction Document, respectively
+
+ ARTICLE
+7 - COVENANTS AND AGREEMENTS Prior to Closing 
+
+ 7.1 
+ Ordinary Course During the period from the date of this Agreement through the earlier of (x) the termination of this Agreement
+in accordance with its terms, and (y) the Closing Date, except as consented to in writing by Buyer, the Company shall (and the Company
+Shareholders shall cause the Company to) carry on its business in the normal and regular ordinary course in accordance with past practice
+and make its reasonable commercial efforts to preserve its business, assets and goodwill intact, and continue to retain the services of
+its current employees and service providers, and without derogating from the foregoing, the Company shall not (i) except as otherwise
+provided in this Agreement make any deviations from the existing terms of employment/engagement and (ii) take any of the actions set forth
+in Sections 4.14(a) – 4.14(s). All BIRD Obligations shall be satisfied by the Company and shall not reduce the Aggregate Consideration
+but may, if the Company does not have the required Minimal Runway Cash or fails to meet the 2025 Dividend Target otherwise affect the
+Company Shareholders’ rights hereunder.
+
+ 7.2 
+ Further Assurances . Each of the Parties agrees to use its reasonable best efforts to cooperate fully and in good faith in
+order to fulfill, and obtain all required governmental and regulatory, third Person and internal corporate (or equivalent) approvals,
+consents and/or waivers, in connection with, the consummation of the transactions contemplated by this Agreement and any related instruments,
+in order to allow to consummate the transactions contemplated hereunder as soon as possible.
+
+ 7.3 
+ No-Publication . Each Party hereto will not disclose to any Person the existence of this Agreement and the consummation of
+the transactions contemplated hereunder, and any and all press releases and other widely-disseminated public disclosure by a Party hereto
+concerning the existence or terms of this Agreement or the transactions contemplated hereby from and after the date hereof will be subject
+to prior coordination with, review by and approval of the other Parties; except for (i) permitted disclosure to any of the Parties’
+advisors and consultants on a need to know basis (such as accountants and legal counsels), (ii) to the extent a Party is required to make
+an announcement pursuant to any applicable Law or stock exchange rule or court order, or (iii) to competent court, in order to enforce
+the provisions of this Agreement and/or any of the related and ancillary documents hereto; provided that in connection with (ii) and (iii),
+the disclosing Party provides the other party a copy of such proposed disclosure and provides the other Party a reasonable period of time
+to review and provide comments to such disclosure. The provisions of this Section ‎ 7.3 shall survive the termination of this
+Agreement.
+
+ 7.4 
+ Exclusivity . From the date hereof until the earlier of termination or the Closing Date, neither the Company nor any Company
+Securityholder, nor any of their Affiliates or representatives, shall, directly or indirectly, (i) solicit, initiate, facilitate, or continue
+any inquiry, discussion, or negotiation regarding a Restricted Transaction (as defined below); (ii) provide any information to, or enter
+into any agreement or understanding with, any Person (other than Buyer or its Affiliates) concerning a Restricted Transaction; or (iii)
+approve, recommend, or accept any proposal for a Restricted Transaction. “ Restricted Transaction ” means any transaction,
+inquiry, or offer involving the sale or issuance of Company shares or the sale, transfer, license, or disposition of any Company assets,
+except in the ordinary course of business and/or as permitted hereunder; provided, however, that “ordinary course of business”
+excludes any transaction or series of related transactions involving assets valued over $50,000 or the grant of any security interest
+or Lien in any material asset. The Company shall immediately terminate any ongoing discussions with third parties regarding a Restricted
+Transaction and promptly notify Buyer in writing of any inquiry or offer received, including the identity of the third party and material
+terms. Any breach of this Section entitles Buyer to seek specific performance, injunctive relief, and/or termination of this Agreement,
+in addition to any other available remedies.
+
+ 34 
+
+ ARTICLE
+8 COVENANTS AND AGREEMENTS FOLLOWING to Closing 
+
+ 8.1 
+ In the event that the Buyer shall elect to pay any portion of the Aggregate Consideration to Rotem in Ondas Closing Shares:
+
+ (a) 
+ Listing of Ondas Stock . The Buyer hereby agrees to use reasonable best efforts to maintain the listing or quotation of the
+Ondas Stock on the Trading Market on which they are currently listed, and prior to the Closing, the Buyer shall have applied to list or
+quote all of the Ondas Closing Shares on such Trading Market. The Buyer further agrees, if the Buyer applies to have the Ondas Stock traded
+on any other Trading Market, it will then include in such application all of the Shares, and will take such other action as is necessary
+to cause all of the Shares to be listed or quoted on such other Trading Market as promptly as possible. The Buyer will then take all action
+reasonably necessary to continue the listing and trading of its Ondas Stock on a Trading Market and will comply in all respects with the
+Buyer’s reporting, filing and other obligations under the bylaws or rules of the Trading Market. The Buyer agrees to use commercially
+reasonable efforts to maintain the eligibility of the Ondas Stock for electronic transfer through the Depository Trust Company or another
+established clearing corporation, including, without limitation, by timely payment of fees to the Depository Trust Company or such other
+established clearing corporation in connection with such electronic transfer.
+
+ 8.2 
+ The Buyer and each Company Shareholder shall consult with each other in issuing any press releases with respect to the transactions
+contemplated hereby, and neither the Buyer nor any Company Shareholder shall issue any such press release nor otherwise make any such
+public statement without the prior consent of the Buyer, with respect to any press release of any Company Shareholder, or without the
+prior consent of each Company Shareholder, with respect to any press release of the Buyer, which consent shall not unreasonably be withheld
+or delayed, except if such disclosure is required by law, in which case the disclosing party shall promptly provide the other party with
+prior notice of such public statement or communication. Notwithstanding the foregoing, the Buyer shall not publicly disclose the name
+of any Company Shareholder, or include the name of any Company Shareholder in any filing with the SEC or any regulatory agency or Nasdaq
+or any other Trading Market, without the prior written consent of such Company Shareholder, except (a) as required by federal securities
+law in connection with the filing of final Transaction Documents with the SEC and (b) to the extent such disclosure is required by law
+or Trading Market regulations, in which case the Buyer shall provide the Company Shareholders with prior notice of such disclosure permitted
+under this clause (b) and reasonably cooperate with such Company Shareholders regarding such disclosure.
+
+ 8.3 
+ Restrictive Covenants . Without derogating from any of the provisions set forth in this Agreement, and in addition to, and
+without derogating from any undertaking under the Key Employee Employment Agreements and/or Founders Engagement Agreements in effect
+following the Closing (or any former employment agreement of a Shareholder), each of the Company Shareholders undertakes and agrees towards
+the Company with respect to such Company Shareholder (and only such Company Shareholder) and the Buyer, effective commencing as of the
+Closing Date, as follows 4 : 
+
+ (a) 
+ Confidentiality . To keep secret and to treat with confidentiality the Confidential Information and not to disclose any Confidential
+Information to any person or entity whatsoever or to use any Confidential Information for any purpose whatsoever, except for the benefit
+of the Company (if applicable), provided however, that in the event that any of the Securityholder shall be legally required (by formal
+questioning by any Governmental Authority, or, in the written opinion of his/its legal counsel, by applicable Law) to disclose any Confidential
+Information, such Securityholder shall immediately notify the Buyer and the Company of such request or requirement prior to disclosure
+with a copy of such proposed disclosure, if applicable, and provides the Buyer and the Company a reasonable period of time to review and
+provide comments to such disclosure and/or seek an appropriate protective order with the reasonable assistance of such Securityholder.
+If such order is not timely obtained, only such portion of the Confidential Information as specifically required shall be disclosed.
+
+ 4 Shibolet note: the same restrictive provisions shall be undertaken
+by the Optionholders under the Option Surrender Agreement. 
+
+ 35 
+
+ (b) 
+ Non-Compete . Each of the Investors undertakes that during the period commencing on the Closing Date and ending upon the
+second anniversary of the Closing Date, such Investor will not compete in the Company Business anywhere in the world. Each of the Founders
+undertakes that during the period commencing on the Closing Date and ending upon the third anniversary of the Closing Date, such Founder
+will not be a founding shareholder or hold over ten (10) percent of the share capital in a company which engages in the Company Business
+anywhere in the world. For the purposes of this Agreement, the term “compete” shall mean engaging or having any interest,
+directly or indirectly through any Affiliate, partnership, joint venture or agent (other than the Buyer or the Company), for its own account
+or as an owner, shareholder, operator, manager, employee, officer, director, partner, venture partner, investor, advisor, consultant or
+similar capacity of or to any Person, provided however that the mere ownership, directly or indirectly, of less than two percent (2%)
+of the outstanding shares of any class of securities of a company listed on a recognized stock exchange shall not, by itself, be deemed
+to constitute “competing” for purposes of this Agreement.
+
+ (c) 
+ Non-Solicitation . During the period commencing on the date hereof and ending upon expiration of the Restricted Period, each
+of the Company Securityholders covenants and agrees not to: (i) employ, retain the services, solicit, seek to employ or seek to retain
+the services of any Person who is at that time or was within the previous one (1) years providing services to the Company, as an employee,
+consultant or contractor, or employee of such a consultant or contractor (any such Person, a “ Subject Person ”),(ii)
+persuade, induce or attempt to persuade or induce any Subject Person to leave his/her employment or to refrain from providing services
+to such party or (iii) cause or authorize any Person to do any of the foregoing.
+
+ (d) 
+ Enforcement . The Parties intend that the provisions of this Section 8.1 be enforced to the fullest extent permissible under
+applicable Law in each jurisdiction where enforcement may be sought, and that the unenforceability of any provision shall not impair the
+remainder of this Section 8.1. If any court determines that the restrictions are unreasonable, the Parties agree that such court may substitute
+the maximum reasonable period, scope or geographic area and revise the restrictions to cover the maximum extent permitted by law. The
+Company Securityholders acknowledge that these restrictive covenants, including their duration, are necessary to protect the proprietary
+interests and legitimate business interests of the other Parties, and that the Aggregate Consideration constitutes consideration for the
+Company Securityholder's obligations under this Section 8.1.
+
+ (e) 
+ Each of the Company Securityholders expressly acknowledges that the restrictive covenants set forth in this Section ‎ 8.1,
+including the duration of such covenants, are necessary in order to protect and maintain the proprietary interests and other legitimate
+business interests of the other Parties, and that the Aggregate Consideration hereunder, payable to the Company Securityholders, and any
+components thereof, are consideration, inter alia, for the Company Securityholders’ obligations and undertakings under this Section
+ ‎ 8.1.
+
+ 8.4 
+ Waiver of Claims .
+
+ (a) 
+ In consideration of the mutual covenants and agreements contained herein, commencing as of, and subject to, the Closing, each of
+the Company Securityholders (on behalf of himself and any of his successors, heirs, assigns, executors and administrators) hereby irrevocably
+releases and forever discharges the Buyer and the Company, and their respective Affiliates, predecessors, directors, officers, employees
+and agents, and each of their respective successors, heirs, assigns, executors and administrators (collectively, the “ Buyer Released
+Persons ”) of and from any and all manner of action and actions, cause and causes of action, suits, rights, debts, dues, sums
+of money, accounts, bonds, bills, covenants, contracts, controversies, omissions, promises, variances, trespasses, damages, judgments,
+executions, claims and demands whatsoever, in law or in equity (collectively, “ Shareholder Claims ”) which such Company
+Securityholder ever had and now has, or may have in the future in connection with any events or circumstances occurring prior to the Closing
+Date against the Buyer Released Persons, whether known or unknown, suspected or unsuspected, matured or unmatured, fixed or contingent,
+for, upon or by reason of any state of facts or matter relating to the Company Securityholders and the Company (whether in his capacity
+as a shareholder, officer, director or employee, pursuant to the provisions of any Contract or the provisions of applicable Law) or this
+Agreement (other than as specifically provided for herein), all to the extent arising at any time on or prior to the Closing Date, and
+the Buyer Released Persons shall not have liability with respect thereto, provided however the aforementioned shall not apply with respect
+to any Shareholders Claims in any kind whatsoever in connection with, or in relation to the performance (or nonperformance) by Buyer (or
+anyone acting on its behalf) of its obligations, representations and undertakings in accordance with the provisions of this Agreement.
+
+ 36 
+
+ (b) 
+ Each Company Shareholder hereby irrevocably agrees and acknowledges the full and complete termination of his position as a director
+and/or officer and/or manager in the Company, as applicable, effective as of, and subject to, the Closing Date (except as provided with
+the Key Employee Employment Agreements and/or the Founder’s Engagement Agreement).
+
+ ARTICLE
+9 - SURVIVAL; INDEMNITY; LIMITATIONS 
+
+ 9.1 
+ Survival . The representations and warranties of the Parties contained in this Agreement will survive the Closing for 12
+months thereafter (“ Rep Indemnifications Period ”); provided, however , that: (i) the representations and warranties
+of the Company under Sections 4.1 (Existence); ‎ 4.2 (Corporate Authority), ‎ 4.3 (Consents and Approvals; No Violation),
+ ‎ 4.4 (Capitalization), and 4.13 (Taxes; Assessments) and the representations of each of the Company Shareholders under Sections
+5.1 (Legal Capacity; Authority), 5.2 (No Conflict), and 5.3 (Ownership and Title) (the “ Fundamental Representations ”)
+shall survive the Closing Date until the expiration of the statute of limitations applicable to the subject matter underlying such Fundamental
+Representation (after giving effect to the pendency of any litigation or dispute resolution process in relation thereto) (the “ Fundamental
+Representations Indemnification Period ”); and (ii) the representations and warranties of the Company under Sections ‎ 4.9
+(Compliance with Legal Requirements; Permits) and ‎ 4.10(a)- ‎ 4.10(n) (Intellectual Property) (the “ IP and
+Compliance Representations ”) will survive the Closing for 36 months thereafter (“ IP and Compliance Representations
+Indemnification Period ”). All covenants and agreements to be performed in whole or in part after the Closing Date shall survive
+in accordance with their terms. The right to indemnification hereunder shall not be limited or affected by any diligence conducted or
+knowledge acquired by any Party, before or after the execution of this Agreement or the Closing.
+
+ 9.2 
+ Indemnification .
+
+ (a) 
+ Subject to the limitations set forth in this ‎ ARTICLE 9 below, each Company Securityholder (in accordance with its respective
+Pro Rata Share, provided, however that no Company Securityholder shall be required to indemnify more than the amount actually received
+by such person) (“ Indemnifying Party ”) shall indemnify, defend and hold harmless the Buyer and its officers, shareholders,
+directors, employees and Affiliates (“ Indemnified Parties ”) against any and all actual liabilities, damages, losses,
+costs and expenses (including reasonable attorneys’ fees and expenses, provided, however, that the foregoing shall not include any
+punitive damages, unless payable by the Indemnified Parties as a result of a claim made by any third parties and for which such Indemnified
+Parties are entitled to indemnification pursuant to this ‎ ARTICLE 9 (“ Damages ”), incurred or suffered by
+the Indemnified Parties in any way as a result of, relating to or arising out of:
+
+ (i) 
+ any failure of any representation or warranty in this Agreement or in any certificate, Schedule or Exhibit to this Agreement made
+by the Company, to be true and correct;
+
+ 37 
+
+ (ii) 
+ any breach of any covenant or agreement of the Company under this Agreement;
+
+ (iii) 
+ any failure of the Closing Financial Certificate and the other financial confirmations pursuant to Section 3.3(g) above to be true
+and correct;
+
+ (iv) 
+ any inaccuracies in the Spreadsheet ; 
+
+ (v) 
+ Taxes imposed on any holder of Company Options and Company Shares (including interest, fines and gross-up, if any) resulting from
+the failure of Company Options and Company Shares which were originally intended by the Company to be granted under Section 102(b)(2)
+of the Israeli Income Tax Ordinance to be so qualified;
+
+ (b) 
+ Notwithstanding anything to the contrary under this Agreement or applicable law and, subject to the limitations set forth in this
+ ‎ ARTICLE 9, each Indemnifying Party shall indemnify, defend, and hold harmless the Indemnified Parties against any and all
+Damages, incurred or suffered by such Indemnified Parties in any way as a result of, relating to or arising out of:
+
+ (i) 
+ any failure of any representation or warranty in this Agreement or in the Closing Financial Certificate made by such Company Securityholder,
+to be true and;
+
+ (ii) 
+ any breach of any covenant or agreement of such Company Securityholder under this Agreement.
+
+ (c) 
+ For the sole purpose of determining Damages (and not for determining whether a breach of a representation or warranty has occurred),
+the representations and warranties of the Company and each of the Company Securityholders shall be deemed to not be qualified or limited
+by any references to materiality or material adverse effect.
+
+ (d) 
+ The Indemnified Parties shall be entitled to indemnification pursuant to Section 9.2(a) or 9.2(b) only subject to the following
+conditions and limitations, notwithstanding anything to the contrary in this Agreement or applicable law, but in addition to any other
+limitation or condition contained herein, provided, however, that no such limitation (except for the limitation under Section 9.2(d)
+(i) below) shall apply to fraud:
+
+ (i) 
+ The Indemnified Parties shall not be entitled to indemnification pursuant to Sections 9.2(a)(i), ‎ 9.2 ‎ (a) ‎ (a)(iii)
+or 9.2(b)(i) unless and until the aggregate amount of all Damages for which the Indemnifying Parties would otherwise be liable hereunder
+exceeds $1,000,000 (the “ Basket ”), and once the Basket is exceeded, the Indemnified Parties shall be entitled to indemnification
+only for Damages in excess of the Basket amount (i.e., the Basket shall operate as a deductible, not merely as a threshold. For the avoidance
+of doubt, any materiality or similar qualifier in the representations shall be disregarded solely for the purpose of calculating the amount
+of Damages arising from a breach of any representation, but shall be given effect in determining whether a breach of representation has
+occurred.
+
+ (ii) 
+ Except if resulting from claims of breach of Fundamental Representations, the Indemnifying Parties shall not be liable for Damages
+in connection with 9.2(a)(i), ‎ 9.2 ‎ (a)(iii) or 9.2(b)(i) exceeding, in the aggregate, $2,000,000 (the “ Rep
+Indemnification Cap ”) and/or with respect to any specific Indemnifying Party, such Indemnifying Party’s Pro Rata Share
+of the Rep Indemnifications Cap.
+
+ (iii) 
+ for Damages resulting from breach of Fundamental Representations, the Indemnifying Parties shall not be liable for Damages exceeding,
+in the aggregate, the Aggregate Consideration, or with r espect to any specific Indemnifying Party,
+the portion of the Aggregate Consideration due and paid to such Indemnifying Party hereunder. (“ Fundamental Representation Cap ”).
+
+ 38 
+
+ (iv) 
+ for Damages resulting from breach of IP and Compliance Representations, the Indemnifying Parties shall not be liable for Damages
+exceeding, in the aggregate, an amount of $4,000,000, or with r espect to any specific Indemnifying
+Party, 33.33% portion of the Aggregate Consideration due and paid to such Indemnifying Party hereunder (the “ IP and Compliance
+Indemnification Cap ”). For the avoidance of doubt, the IP and Compliance Indemnification Cap is inclusive of, and not in addition
+to, the Rep Indemnification Cap, and any amounts paid in respect of Damages under the Rep Indemnification Cap shall reduce, on a dollar-for-dollar
+basis, the remaining amount available under the IP and Compliance Indemnification Cap. 
+
+ (v) 
+ Notwithstanding anything to the contrary herein, the Rep Indemnification Cap, the IP and Compliance Indemnification Cap, and the
+Fundamental Representations Indemnification Cap (collectively, the “ Indemnification Caps ”) are not cumulative and shall
+not operate as separate or additive limitations, and any amounts paid in respect of Damages under any one of the Indemnification Caps
+shall reduce, on a dollar-for-dollar basis, the remaining amount available under each of the other Indemnification Caps. For the avoidance
+of doubt, in no event whatsoever shall the aggregate liability of the Company Securityholders for indemnification under this Agreement,
+pursuant to breaches of representations and warranties, covenants, or otherwise, exceed the Aggregate Consideration (and with respect
+to each Company Securityholder, the amount actually received), and the Aggregate Consideration shall constitute a single, absolute cap
+on all indemnification obligations of the Company Securityholders hereunder, other than in case of fraud or intentional misrepresentation.
+
+ (vi) 
+ the Indemnifying Parties shall not have any liability under this ‎ ARTICLE 9 for breach of representations and warranties,
+unless a claim is made by Indemnified Party hereunder prior to the expiration of the Fundamental Representations Indemnification Period
+for the breach of the respective Fundamental Representation, the IP and Compliance Representations Indemnification Period for the breach
+of the respective IP and Compliance Representation and the Rep Indemnifications Period in case of breach of any other indemnifiable representation
+or warranty. It is clarified that in event that an Indemnified Party wishes to assert a claim for indemnification hereunder it shall give
+the Indemnitor a prompt written notice thereof, which shall describe in reasonable detail the facts and circumstances upon which the asserted
+claim for indemnification is based and thereafter (to the extent the indemnification claims is made pursuant to any third party claim)
+keep the Indemnifying Party informed, in all material respects, with respect thereto.
+
+ (vii) 
+ Notwithstanding anything to the contrary under this Agreement or applicable law the rights of any Indemnified Party to recover
+any amounts pursuant to this ‎ ARTICLE 9 shall be the sole and exclusive remedy available to the Indemnified Parties under or
+in connection with this Agreement, including without limitation for any Damages and any breaches by either the Company and the Company
+Securityholders of any representation and warranty set forth under this Agreement, except for Damages resulting from their fraud or willful
+misrepresentation and, for the avoidance of doubt, equitable remedies to enforce their obligations under this Agreement.
+
+ (viii) 
+ In no event shall the Indemnifying Party seek contribution or any other financial relief from the Company, Buyer or any of their
+Affiliates, in respect of such Indemnifying Party’s indemnification obligations.
+
+ (ix) 
+ Notwithstanding anything to the contrary contained herein, the survival periods set forth in Section 9.1, the Basket, Rep Indemnification
+Cap, the IP and Compliance Indemnification Cap or any other limitation on Damages or indemnification set forth in this Article 9 shall
+not apply with respect to claims for any Damages resulting from fraud or willful misrepresentation.
+
+ 9.3 
+ Basket Adjustment. 
+
+ (a) 
+ It is agreed that commencing from Closing, the amount of the Basket shall be subject to solely one or more of the following adjustments:
+
+ (i) 
+ In case the BIRD Obligation Amount is lower than $1,200,000 the amount of the Basket shall be increased by an amount equal to the
+result of $1,200,000 minus the actual BIRD Obligation Amount.
+
+ 39 
+
+ (ii) 
+ In case of a Minimum Runway Cash Deficiency, the amount of the Basket shall be reduced by the amount of such Minimum Runway Cash
+Deficiency (without duplication to the provisions of Section 9.2(a)(iii) such that in any case of such adjustment hereunder no Damages
+shall be due in connection with a Minimum Runway Cash Deficiency thereunder).
+
+ (iii) 
+ In case that the 2025 Accrued Profits minus the BIRD Obligation Amount are lower than $1,000,000, the Basket shall be reduced by
+an amount equal to the result of $1,000,000 minus the amount of such shortfall.
+
+ (b) 
+ The Company Shareholders shall have the right to receive from the Company and Buyer all related documents in a timely manner, review
+and comment on the calculation of 2025 Accrued Profits, the Minimum Runway Cash Deficiency and the BIRD Obligation Amount, and any dispute
+regarding such calculation shall be resolved by an independent accounting firm mutually selected by Buyer and the Shareholders' Agent,
+with the costs of such determination to be borne by the non-prevailing party.
+
+ 9.4 
+ Consideration Adjustment . The Parties agree that any indemnification payment made pursuant to this Agreement shall be treated
+as an adjustment to the Aggregate Consideration for any purpose whatsoever, including Tax purposes, unless otherwise required by Law.
+
+ 9.5 
+ Shareholders’ Agent . 
+
+ (a) 
+ By executing this Agreement, each Company Shareholder hereby appoints the Shareholders' Agent as of the date of this Agreement
+for all purposes in connection with this Agreement and the agreements ancillary hereto. Without limiting the foregoing, the Shareholders'
+Agent shall be the representative, agent and attorney-in-fact for and on behalf of the Company Securityholders as of the date of this
+Agreement with the power and authority to: (i) execute, as the Shareholders' Agent, any agreement or instrument entered into or delivered
+in connection with the Transactions, (ii) give and receive notices, instructions and communications permitted or required under this Agreement,
+or any other agreement, document or instrument entered into or executed in connection herewith, for and on behalf of any Company Shareholder,
+to or from Buyer (on behalf of itself or any other Company Shareholder) relating to this Agreement or any of the Transactions and any
+other matters contemplated by this Agreement or by any other Transaction Document, (iii) handle any indemnification claims for or on behalf
+each of the Company Shareholders. The Company Shareholders shall be bound by all actions taken and documents executed by the Shareholders'
+Agent on their behalf, and Buyer and other Company Shareholders shall be entitled to rely exclusively on any action or decision of the
+Shareholders' Agent. Any Person serving as the Shareholders' Agent may be removed or replaced from time to time, or if such Person resigns
+from its position as the Shareholders' Agent (which it may do any time upon 30 days’ prior written notice to the Company Shareholders
+and the other Persons serving as the Shareholders' Agent), then a successor may be appointed, by the Company Shareholders collectively
+having a Pro Rata Share that is greater than 50% upon not less than ten (10) days’ prior written notice to Buyer.
+
+ (b) 
+ The Shareholders' Agent shall not be liable to any Company Shareholder for any act done or omitted hereunder as the Shareholders'
+Agent while acting in good faith and without willful misconduct. The Shareholders' Agent shall serve as the Shareholders' Agent without
+compensation; provided , that the Company Shareholder shall severally but not jointly indemnify the Shareholders' Agent and hold
+him/it harmless against any loss, liability or expense incurred without willful misconduct or bad faith on the part of the Shareholders'
+Agent and arising out of, resulting from or in connection with the acceptance or administration of its duties hereunder, including all
+reasonable out-of-pocket costs and expenses and legal fees and other legal costs reasonably incurred by the Shareholders' Agent. In no
+event will the Shareholders' Agent be required to advance its own funds on behalf of the Company Securityholders or otherwise. The powers,
+immunities and rights to indemnification granted to the Shareholders' Agent herein are coupled with an interest and shall be irrevocable
+and survive the death, incompetence, bankruptcy or liquidation of any Company Shareholder and shall be binding on any successor thereto.
+
+ 40 
+
+ (c) 
+ Any notice or communication given or received by, and any decision, action, failure to act within a designated period of time,
+agreement, consent, settlement, resolution or instruction of, the Shareholders' Agent that is within the scope of the Shareholders' Agent’s
+authority hereunder shall constitute a notice or communication to or by, or a decision, action, failure to act within a designated period
+of time, agreement, consent, settlement, resolution or instruction of all the Company Shareholder and shall be final, binding and conclusive
+upon each such Company Shareholders and its successors as if expressly confirmed and ratified in writing by such Company Shareholders;
+and each [Indemnified Person] shall be entitled to rely exclusively upon any such notice, communication, decision, action, failure to
+act within a designated period of time, agreement, consent, settlement, resolution or instruction as being a notice or communication to
+or by, or a decision, action, failure to act within a designated period of time, agreement, consent, settlement, resolution or instruction
+of, each and every such Company Securityholders. The Company, Buyer and the [Indemnified Persons] are hereby relieved from any liability
+to any Person for any acts done by them in accordance with such notice, communication, decision, action, failure to act within a designated
+period of time, agreement, consent, settlement, resolution or instruction of the Shareholders' Agent.
+
+ ARTICLE
+10 - TERM AND TERMINATION 
+
+ 10.1 
+ This Agreement shall become effective as of the date hereof and thereafter shall remain in full force and effect unless and until
+terminated in accordance with the provisions hereof. This Agreement shall be terminated only prior to the Closing, upon the first to occur
+of the following events: (a) the written agreement of the Shareholders' Agent, the Company and the Buyer, or (b) upon a written notice
+by either the Shareholders' Agent, the Company or the Buyer to the other Parties, provided such Party giving the notice is not in material
+breach of its obligations or representations hereunder, and provided further that such notice can only be given after the date which is
+60 days from the date of this Agreement, if the Closing has not yet been consummated. The termination of this Agreement for any reason
+shall not in any way affect or be deemed to affect (i) any obligation of either party that accrued prior to the termination hereof or
+(ii) any right or obligation which, by its terms, is to survive the termination of this Agreement.
+
+ 10.2 
+ Upon any termination of this Agreement pursuant to Section 10.1, except as otherwise expressly provided in this Agreement, no Party
+(nor any of its Affiliates) shall have any liability or obligation to any other Party in respect of this Agreement or the transactions
+contemplated hereby, except for (i) any liability arising from any breach by such Party of its express pre-Closing obligations under this
+Agreement (if any) occurring prior to such termination, and (ii) those provisions of this Agreement which expressly survive termination.
+
+ ARTICLE
+11 - MISCELLANEOUS 
+
+ 11.1 
+ Communications . All notices or other communications hereunder shall be in writing and shall either be given in person, sent
+by electronic mail, sent by registered mail (or registered international air mail if mailed internationally), or sent by an overnight
+courier service which obtains a receipt to evidence delivery, addressed as set forth below:
+
+ If to the Buyer, to:
+
+ Ondas Holdings Inc.,
+
+ Eric Brock, Chief Executive Officer
+
+ With a copy to (which copy shall not be deemed as a notice for the
+purposes hereof):
+
+ Shibolet & Co.,
+
+ 4 Yitzhak Sadeh St. Tel Aviv 6777504
+
+ Email: [***], [***]
+
+ Attention: Einat Weidberg Adv, Amir S. Iliescu, Adv.
+
+ 41 
+
+ If to the Company, to:
+
+ Apeiro Motion Ltd.
+
+ Rotem Lesher, Chief Executive Officer.,
+
+ With a copy to (which copy shall not be deemed as a notice for the
+purposes hereof):
+
+ Fischer (FBC & Co.)
+
+ 146 Menachem Begin Rd., Tel Aviv
+
+ Email: [***]
+
+ Attention: Sharon Gazit, Adv.
+
+ If to the Shareholders’ Agents, to :
+
+ Rotem Lesher, Chief Executive Officer.,
+
+ With a copy to (which copy shall not be deemed as a notice for the
+purposes hereof):
+
+ Fischer (FBC & Co.)
+
+ 146 Menachem Begin Rd., Tel Aviv
+
+ Email: [***]
+
+ Attention: Sharon Gazit, Adv.
+
+ or such other address as any Party may designate to the others in accordance with the aforesaid procedure. All notices and other communications
+delivered in person or by courier service shall be deemed to have been given as of the date of actual delivery, those given by electronic
+mail shall be deemed given twenty-four (24) hours following transmission, and all notices and other communications sent by registered
+mail (or air mail if the posting is international) shall be deemed given five (5) business days after posting with a proof of delivery.
+
+ 11.2 
+ Successors and Assigns . Except as specifically permitted hereunder, neither Party to this Agreement shall sell, assign,
+transfer, or otherwise convey any of its rights or delegate any of its duties under this Agreement, without the prior written consent
+of the other Parties, except for assignment by Buyer to any Affiliate of Buyer, subject to a written notice to the other Parties hereto.
+For clarity, the provisions of this Section 11.2 shall not limit any Company Securityholder from freely transferring any of its Ondas
+Closing Shares (if any are issued at Closing) to the extent such transfer is in compliance with applicable Law and the provisions of this
+Agreement or any other Transaction Document. This Agreement shall be binding upon and inure to the benefit of and be enforceable the parties
+hereto and their respective successors and assigns.
+
+ 11.3 
+ Fees and Expenses . Except as set forth herein and in any other Transaction Document, as between the Parties hereto, each
+Party shall be responsible for the fees and expenses (including legal, accountants’ and financial advisors’ fees and expenses)
+of itself in connection with the preparation, negotiation, execution and delivery of this Agreement and any other Transaction Document
+and otherwise in connection with the consummation of the transactions contemplated hereby and thereby. The Buyer shall pay all transfer
+agent fees (including, without limitation, any fees required for processing any instruction letter delivered by the Buyer), stamp taxes
+and other similar taxes and duties levied in connection with the delivery of any Ondas Closing Shares to the Founders.
+
+ 11.4 
+ Delays or Omissions; Waiver . No delay or omission to exercise any right, power, or remedy accruing to either Party upon
+any breach or default by the other Party under this Agreement shall impair any such right, or remedy nor shall it be construed to be a
+waiver of any such breach or default, or any acquiescence therein or in any similar breach or default thereafter occurring.
+
+ 42 
+
+ 11.5 
+ Entire Agreement . This Agreement (together with the other Transaction Documents and the schedules and exhibits attached
+hereto and the schedules and exhibits attached thereto) contains the entire understanding of the parties with respect to its subject matter
+and all prior negotiations, discussions, commitments, and understandings heretofore had between them with respect thereto are merged herein.
+
+ 11.6 
+ Amendment . Subject to applicable Law, the parties hereto may amend this Agreement by authorized action at any time prior
+to the Closing pursuant to an instrument in writing signed on behalf of each of the Parties hereto. To the extent permitted by applicable
+Law, Buyer and the Shareholders’ Agent may cause this Agreement to be amended at any time after the Closing by execution of an instrument
+in writing signed on behalf of Buyer and the Shareholders’ Agent.
+
+ 11.7 
+ Third Party Beneficiaries . This Agreement is for the sole benefit of the Parties and their permitted assigns, and nothing
+herein expressed or implied will give or be construed to give to any Person, other than the Parties, , any legal or equitable rights under
+this Agreement.
+
+ 11.8 
+ Headings . All article and section headings herein are inserted for convenience only and shall not modify or affect the construction
+or interpretation of any provision of this Agreement.
+
+ 11.9 
+ Stock Adjustments . Each and every reference to stock prices and Ondas Stock in any Transaction Document shall be subject
+to adjustment for reverse and forward stock splits, stock dividends, stock combinations and other similar transactions of the Ondas Stock
+that occur after the date of this Agreement.
+
+ 11.10 
+ Governing Law; Jurisdiction . This Agreement shall be governed by and construed in accordance with the laws of the State
+of Israel, excluding its choice of law provisions. The Parties hereby irrevocably agreed that the competent courts located in Tel Aviv,
+Israel, shall have exclusive jurisdiction over any action or dispute arising out of or in relation to this Agreement.
+
+ 11.11 
+ Severability . Should any provision of this Agreement be determined to be illegal or unenforceable, such determination shall
+not affect the remaining provisions of this Agreement so long as the economic or legal substance of the transactions contemplated by this
+Agreement is not affected in any manner materially adverse to any Party.
+
+ 11.12 
+ Counterparts . This Agreement may be executed in any number of counterparts, each of which is an original and all of which
+together constitute one and the same instrument. Delivery of signed counterparts by electronic means (including, without limitation, electronic
+delivery in PDF format) shall be effective to bind the parties.
+
+ [Remainder of page intentionally left blank] 
+
+ 43 
+
+ [Signature Page to Share Purchase Agreement] 
+
+ IN WITNESS WHEREOF, the undersigned have caused
+their authorized representatives to execute this Agreement as of the date first above written.
+
+ COMPANY: 
+
+ /s/ Rotem
+ Lesher 
+
+ APEIRO MOTION LTD., 
+
+ By: Rotem Lesher 
+
+ Title: CEO 
+
+ [Signature Page to Share Purchase Agreement] 
+
+ IN WITNESS WHEREOF, the undersigned have caused
+their authorized representatives to execute this Agreement as of the date first above written.
+
+ BUYER: 
+
+ /s/ Eric Brock 
+
+ ONDAS HOLDINGS INC., 
+
+ By: Eric Brock, 
+
+ Title: Chief Executive Officer 
+
+ [Signature Page to Share Purchase Agreement] 
+
+ IN WITNESS WHEREOF, the undersigned have caused
+their authorized representatives to execute this Agreement as of the date first above written.
+
+ SHAREHOLDERS’ AGENT: 
+
+ /s/ Rotem Lesher 
+
+ ROTEM LESHER 
+
+ SHAREHOLDERS: 
+
+ /s/ Rotem Lesher 
+
+ ROTEM LESHER , 
+
+ /s/ Shmuel Rosenmann 
+
+ SHMUEL ROSENMANN , 
+
+ /s/ Omer Einav 
+
+ POLYGON T.R. LTD , 
+
+ By: Omer Einav 
+
+ Title: CEO 
+
+ /s/ Rom Eisenberg 
+
+ AND BY: ROM EISENBERG, 
+
+ TITLE: PARTNER 
+
+ /s/ Tzvi Neta 
+
+ TZVI NETA HOLDINGS LTD 
+
+ By: Tzvi Neta 
+

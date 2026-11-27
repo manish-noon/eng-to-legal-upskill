@@ -1,0 +1,164 @@
+<h1>Kept risk and the pursue / walk decision</h1>
+<p class="lede">After this module you can turn a set of predicted terms and a list of risks into one number, compare it with what the business is worth to the buyer, and give advice a board can act on: pursue, pursue with conditions, or walk.</p>
+
+<h2>Why predicting the landing is not yet advice</h2>
+<p>Module 14 tells you where the cap, basket and time limit will land. It does not tell you whether those terms are good enough, or whether they matter at all. A client does not want "the cap will be 16%". The client wants to know: <b>on the terms I can realistically get, should I do this deal?</b></p>
+<p>To answer, convert terms into money. The link between terms and money is the list of things that could go wrong.</p>
+
+<h2>The risk register</h2>
+<p>A <b>risk register</b> is a table of the specific bad outcomes you know about or reasonably fear, taken mostly from due diligence. Each row needs four things.</p>
+<table>
+<tr><th>Field</th><th>Meaning</th><th>Where it comes from</th></tr>
+<tr><td><b>p</b></td><td>Probability the risk turns into an actual loss</td><td>Advisers' estimates. Rough is fine: 10%, 25%, 50%.</td></tr>
+<tr><td><b>L</b></td><td>Loss to the buyer if it does</td><td>Financial and legal diligence. Remember module 7: a recurring profit hit is worth the hit times the price multiple.</td></tr>
+<tr><td><b>Month</b></td><td>When it would surface after closing</td><td>Audit cycles, tax assessment windows, contract renewal dates</td></tr>
+<tr><td><b>Protection type</b></td><td>Which part of the SPA answers for it</td><td>General warranty, fundamental warranty, specific indemnity, insurance, or nothing</td></tr>
+</table>
+<p>Add one row for <b>unknown unknowns</b>: a general warranty breach nobody has spotted. Without it, the general cap and basket protect against nothing in your model and will look worthless, which is wrong.</p>
+
+<h2>Kept risk</h2>
+<p>For each risk, the SPA at the landed terms lets the buyer recover some amount <b>R</b> (from the seller, from escrow or from an insurer). The rest stays with the buyer.</p>
+<blockquote class="clause">kept risk = p × (L − R)</blockquote>
+<p>R is computed by passing the loss through the limits exactly as in module 8: in time? above de minimis? does the total clear the basket? does the cap bite? Then add what the insurer pays. Sum over the register to get <b>total expected kept risk</b>.</p>
+<p><b>Worked example.</b> Price AED 76m. Landed terms: tipping basket 1% (AED 760k), cap 20%, time limit 18 months. One risk: a VAT reassessment, p = 30%, L = AED 1.2m, surfacing at month 20.</p>
+<ul>
+<li>As a general warranty claim: month 20 is after the 18-month limit, so R = 0. Kept = 0.3 × 1.2m = <b>AED 360k</b>.</li>
+<li>With a time limit of 24 months: in time, clears the basket, under the cap, so R = 1.2m. Kept = <b>0</b>.</li>
+<li>With a specific indemnity for VAT: R = 1.2m regardless of the general limits. Kept = <b>0</b>.</li>
+</ul>
+<p>So for this buyer, six more months on the time limit is worth AED 360k, and so is a VAT indemnity. Those are now tradeable quantities.</p>
+<div class="note trap">Risks interact through the basket. One claim of AED 500k does not clear a AED 760k basket; two of them do. So you cannot compute R for each risk alone and add up. The simulator handles this by weighing every combination of risks occurring together. With ten risks that is 1,024 combinations: trivial for a computer, impossible by intuition.</div>
+
+<div class="num" data-id="m15n1" data-answer="200000" data-tol="0.01">
+<p class="q">Price AED 50m. Landed terms: deductible basket 1%, cap 10%, time limit 18 months, no de minimis. One risk only: p = 40%, L = AED 1.1m, surfacing at month 6, covered by general warranties. What is the expected kept risk, in AED?</p>
+<p class="explain">Basket = AED 500k. Deductible, so the buyer recovers the excess: R = 1.1m − 0.5m = 0.6m, far below the AED 5m cap. Kept if the risk occurs = 1.1m − 0.6m = 0.5m, which is the basket, as always with a deductible that has been cleared. Expected kept risk = 0.4 × 500,000 = AED 200,000.</p>
+</div>
+
+<div class="quiz" data-id="m15q1">
+<p class="q">Same deal. The buyer's lawyer wins a move from a 10% cap to a 30% cap, and concedes six months of time limit to get it. Was that a good trade?</p>
+<ul><li>Yes: tripling the cap triples the protection.</li><li data-correct>No: the only modelled loss is AED 1.1m against a cap of AED 5m, so the higher cap adds nothing, while the shorter time limit could put a later-surfacing claim out of time.</li><li>Yes: a higher cap always signals a stronger negotiating position for later points.</li><li>It cannot be assessed without knowing the seller's finances.</li></ul>
+<p class="explain">A cap only has value in the scenarios where losses exceed it. Here nothing comes close to AED 5m, so 30% protects against events that are not on the register. The buyer paid with something real (time) for something with no expected value. The exception: if you believe there is a tail of unknown large losses, add that row to the register with its probability and then test the cap again.</p>
+</div>
+
+<h2>Effective price</h2>
+<p>Kept risk is a cost of doing the deal. So are the transaction costs. Add them to the headline price to get what the buyer is really paying.</p>
+<blockquote class="clause">effective price = headline price + expected kept risk + deal costs</blockquote>
+<p><b>Deal costs</b> include advisers' fees, any W&amp;I premium the buyer pays, filing fees, and the cost of delay if approvals hold up closing.</p>
+<p>Compare the result with <b>value to the buyer</b>: what the business is worth standing alone, plus <b>synergies</b> (extra profit the combination creates), minus the cost of integrating it. Value is the client's number and the client's responsibility. Your job is to make sure it is compared with the right price.</p>
+<div data-widget="exposure"></div>
+<p>The simulator above holds two packages of terms side by side. Package A starts as a seller-friendly draft and B as a landing. Change B until the verdict flips, and note which inputs it took. Those inputs are the deal's real issues.</p>
+
+<div class="num" data-id="m15n2" data-answer="5400000" data-tol="0.01">
+<p class="q">Headline price USD 120m. Expected kept risk at the predicted landing USD 3.4m. Deal costs USD 2.2m. The buyer values the business at USD 131m. By how much does value exceed effective price, in USD?</p>
+<p class="explain">Effective price = 120 + 3.4 + 2.2 = USD 125.6m. Surplus = 131 − 125.6 = USD 5.4m. That surplus is also the buyer's remaining room: it could concede terms or price worth up to 5.4m in expected value and still be no worse off than walking away.</p>
+</div>
+
+<h2>The three verdicts</h2>
+<table>
+<tr><th>Test</th><th>Verdict</th><th>What the advice must contain</th></tr>
+<tr><td>Effective price is at or below value on the predicted landing, and no walk-away trigger is hit</td><td><b>Pursue</b></td><td>Which terms to concede cheaply, so capital is spent only where kept risk is large</td></tr>
+<tr><td>Effective price is below value only if certain protections are obtained</td><td><b>Pursue with conditions</b></td><td>The two or three protections, each with a fallback of equal value (usually a price reduction)</td></tr>
+<tr><td>Effective price exceeds value on any realistic landing, or a trigger is hit</td><td><b>Walk, or re-price</b></td><td>The price reduction that would restore the deal, and the facts that would change the answer</td></tr>
+</table>
+<p>A <b>walk-away trigger</b> is a condition, fixed in advance, under which the buyer will not sign whatever else is offered. Set triggers before negotiating. During a negotiation, money and months already spent pull people toward closing: the <b>sunk-cost effect</b>. A trigger written down early is the defence.</p>
+<p>Typical triggers:</p>
+<ul>
+<li>A known, material risk that the seller will cover by neither indemnity nor price.</li>
+<li>A loss that would threaten the buyer itself, whatever its probability. Expected value is the wrong tool when one outcome is ruin.</li>
+<li>A required approval or consent that cannot realistically be obtained before the long-stop date.</li>
+<li>A protection that looks adequate on paper but has no money behind it: an indemnity from a seller that will be an empty shell after closing, with no escrow or guarantee.</li>
+<li>Any sign of dishonesty in disclosure. Warranties do not fix a counterparty you cannot trust.</li>
+</ul>
+
+<details class="think"><summary>Before reading on: a target earns 60% of its revenue from one contract that the customer may end when ownership changes. The seller offers an uncapped indemnity for any loss if that happens. Why is that still the wrong protection?</summary><p>Three reasons. First, the loss is the collapse of the business you bought, which is hard to prove and quantify as "loss" years later. Second, the seller would owe a sum close to the whole price and may not have it. Third, you did not want compensation: you wanted the business. Risks that go to whether the deal makes sense at all belong in a <b>condition</b> (customer consent before closing), so that if the risk materialises you never complete. Indemnities are for risks you can live with if paid.</p></details>
+
+<div class="quiz" data-id="m15q2">
+<p class="q">The seller is a special-purpose holding company that will distribute the sale proceeds to its owners the day after closing. It offers the buyer a 100% cap, a tipping basket and a 36-month time limit, with no escrow and no guarantee. For the kept-risk calculation, what should R be for general warranty claims?</p>
+<ul><li>The full loss, because the cap is 100%.</li><li>The full loss less the basket.</li><li data-correct>Close to zero, because there will be nothing to recover from.</li><li>Half the loss, as a prudent estimate.</li></ul>
+<p class="explain">R is what the buyer will actually receive. A legal right against an empty company is worth what the company has. The generous terms cost this seller nothing, which is why it offered them. Module 9's question, "where does the money come from?", comes before any reading of caps and baskets. With an escrow of 10% the answer would be "up to 10%", whatever the stated cap.</p>
+</div>
+
+<h2>Trading: pricing each concession</h2>
+<p>Once each term has a value in money, the negotiation becomes a set of trades. A trade is good for the buyer when what it gets is worth more to it than what it gives, and the best trades are those where the two sides value the item differently.</p>
+<table>
+<tr><th>Item</th><th>Often cheap for the seller, valuable for the buyer</th><th>Often cheap for the buyer, valuable for the seller</th></tr>
+<tr><td>Examples</td><td>Specific indemnity for a risk the seller believes will not happen; a condition the seller is confident of meeting; a longer time limit for tax only</td><td>A lower general cap when losses are small relative to it; a shorter general time limit when risks surface early; no escrow when price is deferred anyway; speed and certainty of closing</td></tr>
+</table>
+<p>Sellers and buyers disagree about probabilities, and that disagreement creates the trade. A seller who is sure there is no VAT problem gives a VAT indemnity at no perceived cost. A buyer who thinks the chance is 30% receives something worth AED 360k.</p>
+
+<div class="num" data-id="m15n3" data-answer="320000" data-tol="0.01">
+<p class="q">The seller offers a swap: the basket (AED 600k) changes from tipping to deductible, and in return the time limit is extended by six months. You estimate a 30% chance that claims will clear the basket. The extension brings one risk into time: p = 25%, L = AED 2m, fully recoverable if in time. What is the net expected value of the swap to the buyer, in AED?</p>
+<p class="explain">Cost of deductible: in the 30% of cases where the basket is cleared, the buyer loses the basket amount: 0.3 × 600k = AED 180k. Value of the extension: 0.25 × 2m = AED 500k. Net = 500k − 180k = +AED 320k. Take the swap. Note the simplification: if the newly covered claim is itself what clears the basket, the two effects interact, which is why the simulator weighs combinations.</p>
+</div>
+
+<div class="quiz" data-id="m15q3">
+<p class="q">Two risks are on the register. Risk X: p = 50%, L = AED 0.8m. Risk Y: p = 2%, L = AED 60m, which is more than the buyer's entire equity. The seller will protect only one. Which should the buyer insist on, and why?</p>
+<ul><li>X, because it is far more likely to happen.</li><li data-correct>Y, because it has the higher expected loss and, more importantly, a single occurrence would be ruinous, which expected value understates.</li><li>Neither: both are small relative to price.</li><li>X, because a 2% event can be ignored in practice.</li></ul>
+<p class="explain">Expected loss already favours Y (1.2m against 0.4m). Beyond that, a buyer is not indifferent between a certain small cost and a small chance of ruin. Losses that threaten the buyer's survival are trigger territory: cover them, insure them, or do not sign. Frequency is the wrong measure.</p>
+</div>
+
+<h2>Sensitivity: how robust is the verdict?</h2>
+<p>Every probability in the register is an estimate. Before giving advice, find out how wrong you can be before the verdict changes. Vary each key input and find the <b>break-even</b>: the value at which effective price equals value.</p>
+<ul>
+<li>If the verdict flips only when a probability moves from 30% to 80%, the advice is robust. Say so.</li>
+<li>If it flips between 30% and 35%, the honest advice is "this is finely balanced and depends on X; here is how to find out more about X".</li>
+</ul>
+
+<div class="num" data-id="m15n4" data-answer="30" data-tol="0.02">
+<p class="q">Price AED 100m, deal costs AED 2m, value to the buyer AED 108m. One uncovered risk with L = AED 20m. At what probability, in %, does effective price equal value?</p>
+<p class="explain">Room = 108 − 100 − 2 = AED 6m. Break-even when p × 20m = 6m, so p = 30%. If advisers put the probability at 10%, pursue. If they say "somewhere between 20% and 40%", the deal turns on that one risk, and the right next step is to cover it or to investigate it, not to argue about the basket.</p>
+</div>
+
+<div class="num" data-id="m15n5" data-answer="11500000" data-tol="0.01">
+<p class="q">Price AED 95m. Expected kept risk AED 18.5m. Deal costs AED 2m. Value to the buyer AED 104m. What is the minimum price reduction, in AED, that makes the deal break even if nothing else changes?</p>
+<p class="explain">Effective price = 95 + 18.5 + 2 = AED 115.5m. Shortfall against value = 115.5 − 104 = AED 11.5m. A reduction of at least that much is needed, or protections that cut kept risk by the same amount. Offering the seller both routes ("price down by 11.5m, or these two protections") is how you turn a likely walk into a counter-proposal.</p>
+</div>
+
+<h2>Writing the advice</h2>
+<p>The output is a <b>deal landing memo</b>: one or two pages a decision-maker can act on. Structure:</p>
+<ol>
+<li><b>Bottom line.</b> Verdict, effective price against value, and the two or three points that decide it. Three lines.</li>
+<li><b>Leverage.</b> The eight factors scored, with the fact behind each score.</li>
+<li><b>Issues and landings.</b> For each disputed term: both openings, the precedent band with n and the deals behind it, the predicted landing, and whether to hold, trade or concede.</li>
+<li><b>Kept risk.</b> The register, the protection for each risk, and the total.</li>
+<li><b>Conditions, trades and triggers.</b> What must be obtained, what to give for it, and when to stop.</li>
+<li><b>What would change this advice.</b> The sensitivities.</li>
+<li><b>Sources and checks.</b> Every number traced to a clause, a precedent row or a named study.</li>
+</ol>
+<div class="note lawyer">"On the terms we expect to get, you'd be paying about 125 for something you value at 131, so I'd pursue. The general limits will come out seller-friendly and I wouldn't spend effort there. The two things worth fighting for are cover for the data incident and the licence renewal as a condition. If the regulator signals a refusal, we stop."</div>
+<div class="note trap">Three ways to get this wrong. Reporting the landing without the verdict. Giving a verdict without a number. And presenting estimated probabilities as facts: always show the break-even so the reader can substitute their own view.</div>
+
+<div class="quiz" data-id="m15q4">
+<p class="q">Four months into a deal, diligence finds a risk that takes effective price above value. The client says: "We've spent two million on advisers, we can't walk now." What is the correct analysis?</p>
+<ul><li>The two million should be added to value, since walking would waste it.</li><li>The two million should be added to effective price, making the deal look even worse.</li><li data-correct>The two million is spent either way and is irrelevant; compare only future costs and value, then re-price, cover the risk, or walk.</li><li>The client is right: reputational cost of walking outweighs the numbers.</li></ul>
+<p class="explain">Costs already incurred do not change with the decision, so they belong on neither side. Only costs still to come count as deal costs. This is the sunk-cost effect that pre-agreed walk-away triggers exist to resist. Reputation can be a real cost, but it must be stated and weighed as such, not smuggled in through money already spent.</p>
+</div>
+
+<div class="quiz" data-id="m15q5">
+<p class="q">The model says pursue, with a surplus of AED 0.5m on a AED 180m deal. Which summary is the most accurate advice?</p>
+<ul><li>"Pursue: the numbers support the deal."</li><li>"Walk: the margin is too thin."</li><li data-correct>"The deal is at break-even within the accuracy of our estimates. It depends on two inputs, which are these, and here is what would firm each one up."</li><li>"We need more data before any view can be given."</li></ul>
+<p class="explain">A surplus of 0.3% of price is inside the error of any probability estimate. Calling it a clear pursue or a clear walk claims precision you do not have. Refusing to give a view helps no one. The useful answer names the swing factors and how to resolve them.</p>
+</div>
+
+<div class="quiz" data-id="m15q6">
+<p class="q">Which statement best describes how modules 14 and 15 fit together?</p>
+<ul><li>Module 14 decides what to ask for; module 15 predicts what you will get.</li><li data-correct>Module 14 predicts what terms are obtainable; module 15 values those terms against the deal's actual risks, which tells you which ones to fight for and whether the whole deal is worth doing.</li><li>They are alternatives: use the landing model for small deals and the risk model for large ones.</li><li>Module 15 replaces module 14 once a risk register exists.</li></ul>
+<p class="explain">Prediction without valuation tells you where terms will land but not whether that is acceptable. Valuation without prediction tells you what you would like but not what is achievable. Together they give the advice: the obtainable package, what it leaves with the buyer, and whether to proceed.</p>
+</div>
+
+<h2>Key terms</h2>
+<dl class="terms">
+<dt>Risk register</dt><dd>A table of specific possible losses, each with a probability, an amount, a timing and the protection that answers for it.</dd>
+<dt>Kept risk</dt><dd>The expected loss that stays with the buyer after recovery under the SPA and any insurance: probability times loss minus recovery.</dd>
+<dt>Recovery (R)</dt><dd>What the buyer will actually receive for a loss, after time limits, de minimis, basket and cap, and limited by the money really available.</dd>
+<dt>Effective price</dt><dd>Headline price plus expected kept risk plus deal costs.</dd>
+<dt>Deal costs</dt><dd>Future costs of completing the transaction: fees, insurance premium, filing fees and delay.</dd>
+<dt>Value to the buyer</dt><dd>Standalone value of the business plus synergies minus integration cost.</dd>
+<dt>Synergies</dt><dd>Additional profit created by combining the buyer and the target.</dd>
+<dt>Walk-away trigger</dt><dd>A condition fixed in advance under which the buyer will not sign, whatever else is offered.</dd>
+<dt>Sunk-cost effect</dt><dd>The tendency to continue because of money already spent, which is irrelevant to the decision.</dd>
+<dt>Break-even</dt><dd>The value of an input at which effective price equals value and the verdict flips.</dd>
+<dt>Sensitivity</dt><dd>How far an estimate can move before the advice changes.</dd>
+<dt>Tradeable</dt><dd>A term valued in money so it can be exchanged for another term of greater value to the party receiving it.</dd>
+<dt>Deal landing memo</dt><dd>The written advice: verdict, leverage, predicted landings, kept risk, conditions, triggers and sensitivities.</dd>
+</dl>

@@ -1,0 +1,169 @@
+<h1>The landing model: precedent plus leverage</h1>
+<p class="lede">After this module you can take a disputed term, build a precedent band for it from past deals, score the leverage in the current deal, and state where the term will probably land and what would move it.</p>
+
+<h2>What you are actually predicting</h2>
+<p>Every negotiated term in an SPA starts with two <b>opening positions</b> (what each side first asks for) and ends at a <b>landing</b> (what is signed). A senior M&A lawyer can usually tell you the landing on day one. That is the judgment clients pay for, and it rests on two inputs only.</p>
+<ol>
+<li><b>Precedent:</b> where this term landed in comparable deals. This gives a range.</li>
+<li><b>Leverage:</b> which side has more power in this deal. This says where in the range.</li>
+</ol>
+<p>The lawyer does this from memory of perhaps a hundred deals. You have no such memory, so you do it explicitly, from a table. The method is the same and has one advantage: every step can be checked and challenged.</p>
+<div class="note">Keep three things apart. <b>Client data</b> is what one client got on one deal ("we had a 20% cap last time"). <b>Precedent</b> is the pattern across many deals. <b>Market</b> is the lawyer's word for precedent they consider current and comparable. A single past deal is an anecdote and is weak evidence.</div>
+
+<h2>Step 1: define the term in a comparable unit</h2>
+<p>Deals differ in size, so raw amounts cannot be compared. Convert every term into a unit that travels.</p>
+<table>
+<tr><th>Term</th><th>Unit</th><th>Higher number favours</th></tr>
+<tr><td>General cap</td><td>% of price</td><td>Buyer</td></tr>
+<tr><td>Basket</td><td>% of price, plus type (tipping or deductible)</td><td>Seller</td></tr>
+<tr><td>De minimis</td><td>% of price</td><td>Seller</td></tr>
+<tr><td>Time limit (survival)</td><td>Months</td><td>Buyer</td></tr>
+<tr><td>Escrow or holdback</td><td>% of price and months held</td><td>Buyer</td></tr>
+<tr><td>Sandbagging, materiality scrape, basket type</td><td>Category</td><td>Depends on category</td></tr>
+</table>
+<p>Always note the direction. A leverage score that pushes the cap up must push the basket down.</p>
+
+<h2>Step 2: choose comparables, then read off the band</h2>
+<p>A <b>comparable</b> is a past deal that shares the features that drive the term. Filter in this order, because this is the order of explanatory power in the data you have:</p>
+<ol>
+<li><b>Warranty insurance, yes or no.</b> This splits the population in two. With insurance, the seller's cap is near zero (in the 22-deal set: median about 0.3% of price, and several deals where warranties do not survive closing at all). Without it, the cap sits around 10 to 17%.</li>
+<li><b>Seller type.</b> Private equity sellers and carve-out sellers behave differently from founders (module 2).</li>
+<li><b>Deal size.</b> Larger deals tend to have lower caps as a percentage, because the absolute amounts get large. CMS 2026 reports 43% of large deals with caps below 10%.</li>
+<li><b>Legal culture.</b> English-style or US-style paper. This matters most for categories such as basket type.</li>
+</ol>
+<p>From the comparables, take the 25th percentile, the median and the 75th percentile (<b>P25, median, P75</b>). That is the <b>precedent band</b>. Half of comparable deals landed inside it. Always state <b>n</b>, the number of deals behind the band.</p>
+<div class="note trap">A band from three deals is three anecdotes. If n is below 4, relax the least important filter and say that you did. And never average across the insured and uninsured groups: the average of 0.3% and 15% describes no deal that exists.</div>
+<details class="think"><summary>Before reading on: your filtered set gives a cap band of 10 / 15 / 17%. CMS 2026 says 58% of European deals have caps below 50% of price. Do these conflict?</summary><p>No. "Below 50%" includes everything from 1% to 49%, so your band sits comfortably inside it. Published studies report coarse buckets across all deal types. Use them to check that your band is not absurd, and to quote a named source in a negotiation. Use your own table for the point estimate. If they truly conflict, explain why (different region, size, insurance mix). Do not blend them.</p></details>
+
+<div class="quiz" data-id="m14q1">
+<p class="q">You are predicting the cap for an uninsured founder sale at USD 40m. Your table has 9 uninsured deals and 8 insured ones. A colleague suggests using all 17 "for a bigger sample". What is the best reply?</p>
+<ul><li>Agree: a larger n always gives a more reliable median.</li><li data-correct>Refuse: insurance changes the mechanism that sets the cap, so the 8 insured deals are a different population and would drag the median toward a value no uninsured deal shows.</li><li>Agree, but weight the insured deals at 50%.</li><li>Refuse: only deals at exactly USD 40m are comparable.</li></ul>
+<p class="explain">Sample size helps only when the extra deals come from the same process. Insurance replaces the seller as the source of recovery, so the seller's cap is set by a different logic. Weighting is a blend of two populations and still describes neither. Insisting on identical size would leave you with n = 0; size is a softer filter than insurance.</p>
+</div>
+
+<h2>Step 3: score the leverage</h2>
+<p><b>Leverage</b> is the ability to get the other side to accept your terms, and it comes from one thing: how much worse off each side is if the deal does not happen. Lawyers call your fallback your <b>BATNA</b> (best alternative to a negotiated agreement). The side with the better alternative has the leverage.</p>
+<p>Score eight observable factors from the buyer's side: +1 if the fact favours the buyer, −1 if it favours the seller, 0 if neutral or unknown.</p>
+<table>
+<tr><th>Factor</th><th>+1 (buyer stronger)</th><th>−1 (seller stronger)</th><th>Mechanism</th></tr>
+<tr><td>Competition</td><td>Bilateral deal</td><td>Auction with several bidders</td><td>In an auction the seller compares markups and picks the cleanest.</td></tr>
+<tr><td>Seller's need</td><td>Distress, deadline, fund at end of life</td><td>Can keep the business</td><td>Time pressure is the strongest single source of leverage.</td></tr>
+<tr><td>Warranty insurance</td><td>None</td><td>Policy in place</td><td>Insurance gives the seller a complete answer to "who pays if a warranty is untrue?"</td></tr>
+<tr><td>Diligence findings</td><td>Red flags</td><td>Clean</td><td>Findings justify protection, though they belong in specific indemnities.</td></tr>
+<tr><td>Seller continuity</td><td>Sellers leave with the cash</td><td>Sellers roll over or stay as managers</td><td>A buyer rarely sues the people running its new business, so it accepts less.</td></tr>
+<tr><td>Buyer type</td><td>Financial buyer with alternatives</td><td>Strategic buyer that needs this asset</td><td>Need on the buyer's side is the mirror of the seller's need.</td></tr>
+<tr><td>Market cycle</td><td>Few buyers, cheap targets</td><td>Capital chasing deals</td><td>The cycle shifts everyone's alternatives at once.</td></tr>
+<tr><td>Regulatory and timing risk</td><td>Quick, clean close</td><td>Approvals needed</td><td>A seller facing delay risk demands certainty elsewhere.</td></tr>
+</table>
+<p>Add the eight scores, then <b>clip</b> the total to the range −2 to +2. Clipping reflects reality: beyond a point, more leverage does not move a term further, because the weaker side walks or the term hits the edge of what anyone signs.</p>
+<div class="note">The factors are not equally important and the weights are not known. Equal weights are a deliberate simplification: with eight factors and a clipped total, the answer is not sensitive to the weights unless one factor dominates. When one does dominate (a seller who truly does not need to sell), say so and override the arithmetic. Lab 6 has a deal built on exactly that.</div>
+
+<div class="quiz" data-id="m14q2">
+<p class="q">A private equity fund in its final year is auctioning a business to five bidders. Warranty insurance is arranged. Management keep 15% and stay. Diligence is clean. The buyer is a trade competitor that needs this asset to stay in the market. What is the raw leverage score, treating market cycle and regulatory risk as neutral?</p>
+<ul><li>+1</li><li>−1</li><li data-correct>−4</li><li>−5</li></ul>
+<p class="explain">Competition −1 (auction). Seller's need +1 (fund must exit). Insurance −1. Diligence −1 (clean, so no argument for extra protection). Continuity −1 (management stay). Buyer type −1 (a strategic buyer that needs the asset). Market cycle and regulatory risk 0. Total −4, clipped to −2. The tempting error is to score the fund's deadline as decisive: it is real, but an auction with five bidders means the deadline will be met by someone else if you are difficult.</p>
+</div>
+
+<h2>Step 4: compute the landing</h2>
+<p>Start at the median. Move toward the side that has leverage, in proportion to the clipped score:</p>
+<blockquote class="clause">landing = median + (|score| ÷ 2) × (edge of band on the stronger side − median)</blockquote>
+<p>For a term where a higher number favours the buyer (cap, time limit, escrow), a positive score moves toward P75 and a negative score toward P25. For a term where a lower number favours the buyer (basket, de minimis), reverse it. Finally, <b>clamp</b> the result between the two opening positions: a deal cannot land outside what the parties asked for.</p>
+<p><b>Worked example.</b> Uninsured band for the general cap: P25 10%, median 15%, P75 16.7%. Leverage score +1. Landing = 15 + (1 ÷ 2) × (16.7 − 15) = 15.85%. Call it 16%, or in the language of a negotiation, "15 to 17".</p>
+<div data-widget="landing"></div>
+<p>Use the calculator above. Set every factor to +1, then to −1, and watch how far the answer can travel. Then change the band and note that the band matters more than the score. Getting the comparables right is most of the skill.</p>
+
+<div class="num" data-id="m14n1" data-answer="12" data-tol="0.01">
+<p class="q">Cap band for your comparables: P25 10%, median 15%, P75 20%. Raw leverage score is −3. The buyer opened at 100% and the seller opened at 12%. What cap does the model predict, in % of price?</p>
+<p class="explain">Clip −3 to −2. Landing before clamping = 15 + (2 ÷ 2) × (10 − 15) = 10%. But the seller itself offered 12%, and no seller lands below its own opening offer, so clamp to 12%. The lesson: read the opening positions before you quote the band. An opening inside the band tells you the other side knows the market and has left itself little room.</p>
+</div>
+
+<div class="num" data-id="m14n2" data-answer="0.625" data-tol="0.03">
+<p class="q">Basket band (uninsured, % of price): P25 0.5, median 0.75, P75 1.16. Leverage score +1 for the buyer. Buyer opened at 0.25%, seller at 2%. Predicted basket, in % of price?</p>
+<p class="explain">A lower basket favours the buyer, so a positive score moves toward P25. Landing = 0.75 + (1 ÷ 2) × (0.5 − 0.75) = 0.625%. It lies between the openings, so no clamp. The common slip is to move toward P75 because "+1 means up".</p>
+</div>
+
+<h2>Step 5: categories, and terms that do not move</h2>
+<p>Some terms are categories, not numbers. Predict them by frequency in the comparables, then adjust for leverage.</p>
+<table class="bs">
+<tr><th>Term</th><th>Buyer wants</th><th>Seller wants</th><th>Why</th><th>Typical landing</th></tr>
+<tr><td>Basket type</td><td>Tipping</td><td>Deductible</td><td>Tipping recovers the whole amount once the threshold is passed</td><td>Follows legal culture: tipping on European-style paper (CMS 2026: 87% of baskets), deductible far more common in the US (49% of US baskets against 13% in Europe)</td></tr>
+<tr><td>Sandbagging</td><td>Express right to claim despite knowledge</td><td>Express bar</td><td>Decides whether diligence knowledge kills a claim</td><td>Often silent (ABA 2025: 68% silent, 28% pro, 4% anti). In the 22-deal set: pro in most founder deals, anti only in two carve-outs</td></tr>
+<tr><td>Materiality scrape</td><td>Double</td><td>None</td><td>Stops "material" being counted twice against the buyer</td><td>Double scrape in most deals in the set that have an indemnity</td></tr>
+<tr><td>Fundamental warranties cap</td><td>100% of price</td><td>100% of price</td><td>Title and capacity go to whether the buyer got what it paid for</td><td>100%. Almost never negotiated</td></tr>
+<tr><td>Fraud</td><td>Uncapped</td><td>Uncapped</td><td>No one can contract out of their own fraud</td><td>Uncapped. Never negotiated in substance</td></tr>
+</table>
+<p>Recognising the terms that do not move saves negotiating capital. A buyer who opens by "demanding" a 100% cap for title has demanded what the seller's first draft already gave.</p>
+
+<details class="think"><summary>Before reading on: the cap equals the escrow in several deals in the precedent set. Why is that pairing stable?</summary><p>Because it gives each side what it most wants. The seller knows its worst case exactly and can spend the rest of the money. The buyer knows the money is there and never has to sue or chase anyone. Once both see this, the argument is only about one number. When you predict a cap for founders who are leaving, predict the escrow at the same time: they often turn out to be the same number.</p></details>
+
+<h2>Step 6: say what would move it</h2>
+<p>A prediction without its drivers is a guess. For each term, name the one or two facts that would shift the landing, and in which direction. This is also how you turn a prediction into advice: it tells the client which facts to change.</p>
+<table>
+<tr><th>If this changes…</th><th>…then</th></tr>
+<tr><td>Insurance is added</td><td>Seller cap drops to near zero. The basket becomes the policy retention. The fight moves to exclusions and who pays the premium.</td></tr>
+<tr><td>A second bidder appears</td><td>Every general term moves one step toward the seller.</td></tr>
+<tr><td>Diligence finds a quantified problem</td><td>General terms do not move much. A specific indemnity or price chip appears instead.</td></tr>
+<tr><td>Sellers agree to roll over 20%</td><td>Cap and escrow fall. The rollover shares themselves become the buyer's protection.</td></tr>
+<tr><td>Price is paid partly as an earn-out or deferred</td><td>Buyer accepts lower escrow, because it can set claims off against money it has not yet paid.</td></tr>
+</table>
+
+<div class="quiz" data-id="m14q3">
+<p class="q">You predicted a 16% cap and 5% escrow for an uninsured founder sale. The founders now offer to take 30% of the price in buyer shares locked for two years. What should you expect?</p>
+<ul><li>No change: consideration type is a price point and does not affect risk terms.</li><li data-correct>The buyer can accept a lower cash escrow, because locked shares give it something to claim against, and the founders will argue for a lower cap because they now share the downside.</li><li>The cap should rise, because the founders are now more committed.</li><li>The escrow should rise, because shares are riskier than cash.</li></ul>
+<p class="explain">Locked shares are a form of security: the buyer can cancel or claw back shares to satisfy a claim. They also align the founders with the buyer, which is the continuity factor moving toward −1. Both effects reduce the need for cash escrow and soften the cap. Consideration structure and risk terms are one system.</p>
+</div>
+
+<div class="quiz" data-id="m14q4">
+<p class="q">A partner tells you: "On an insured deal the cap discussion is over in five minutes." Which statement best explains why, using the precedent set?</p>
+<ul><li>Insurers forbid sellers from giving any cap above 1%.</li><li>Insured deals are always auctions, so sellers always win.</li><li data-correct>Once a policy pays for unknown warranty breaches, the seller has a principled reason to give a nominal cap and the buyer has little reason to resist; the two insured deals with high caps (25% and 37.5%) had special facts.</li><li>Buyers on insured deals do not do diligence, so they have no basis to ask.</li></ul>
+<p class="explain">Insurance removes the buyer's need, which is what the cap exists to serve. The exceptions in the set prove the rule: in one the sellers bought the policy and a large earn-out sat behind a small upfront price; in the other the founders still stood behind 25%. Insurers do not forbid seller caps, and insured buyers must do thorough diligence or the policy excludes the area.</p>
+</div>
+
+<h2>Where the model fails, and what to do about it</h2>
+<ul>
+<li><b>Thin or unrepresentative precedent.</b> The 22 deals are US filings. Private UAE deals are not public. Until you have local data, present the band as "public precedent" and ask a practising lawyer how local deals differ. That question, asked clause by clause, is the knowledge-capture exercise from the Gulfstream demo.</li>
+<li><b>Dominant factors.</b> One fact can outweigh seven. Check for it after you add up.</li>
+<li><b>Linked terms.</b> Parties trade one term against another (module 13). The model predicts each term alone. Treat the set of predictions as the centre of a package, and expect one term to land worse and another better.</li>
+<li><b>Irrelevant terms.</b> The model will predict a cap even when the cap protects against nothing that matters. The next module deals with that.</li>
+<li><b>People.</b> Some clients will not give an escrow on principle. Some lawyers always mark up the same way. Ask.</li>
+</ul>
+<div class="note lawyer">"On the precedent we have for uninsured founder sales, caps sit between 10 and 17%, and I'd expect us to land at the upper end given there's no other bidder and the founders are leaving. What I can't see from public deals is how that compares with what you're seeing locally."</div>
+
+<div class="quiz" data-id="m14q5">
+<p class="q">Your model predicts 18 months for the time limit. The seller's lawyer says: "CMS shows over 24 months in only 32% of deals, so 12 months is market." What is the strongest response?</p>
+<ul><li>"Our model says 18, so 18 it is."</li><li>"CMS is a European study and does not apply."</li><li data-correct>"The same study shows 18 to 24 months in 33% and over 24 in 32%, so about two thirds of deals are at 18 months or longer. Twelve is the minority position."</li><li>"Market is irrelevant; our client needs 36 months."</li></ul>
+<p class="explain">The other side quoted a true number that does not support its conclusion. The course figures from CMS 2026 are 6 to 12 months in 9%, 12 to 18 in 26%, 18 to 24 in 33%, over 24 in 32%. Answering with the full distribution wins the point on their own source. Citing your model as authority persuades no one, and dismissing market data abandons your best argument.</p>
+</div>
+
+<div class="quiz" data-id="m14q6">
+<p class="q">After filtering to uninsured carve-out sellers you have 2 deals, with caps of 10% and 35%. What do you report?</p>
+<ul><li>A band of 10 to 35% with a median of 22.5%.</li><li>The lower figure, to be conservative for the buyer.</li><li data-correct>That n = 2 is too thin; widen to all uninsured deals (n = 9, band 10 / 15 / 16.7), report that, and note the two carve-outs as individual data points.</li><li>That no prediction is possible.</li></ul>
+<p class="explain">Two deals do not make a band, and their midpoint is an artefact. Relax the least important filter, state that you did, and keep the two close comparables as colour. Refusing to predict is the wrong lesson: a transparent estimate with a stated n is more useful than silence.</p>
+</div>
+
+<div class="num" data-id="m14n3" data-answer="15" data-tol="0.01">
+<p class="q">Time-limit band for uninsured deals: P25 15 months, median 18, P75 18. Leverage score is −2 (seller strong). Buyer opened at 36 months, seller at 9. Predicted time limit, in months?</p>
+<p class="explain">Higher favours the buyer, so a negative score moves toward P25. Landing = 18 + (2 ÷ 2) × (15 − 18) = 15 months, inside the openings. Notice the band is asymmetric: the median equals P75, so even maximum buyer leverage predicts 18. In this data set 18 months is a hard ceiling for uninsured deals, which matches the audit-cycle logic from module 8.</p>
+</div>
+
+<div class="quiz" data-id="m14q7">
+<p class="q">Which of these is the best one-line summary of what the landing model produces?</p>
+<ul><li>The legally correct value of each term.</li><li>The value the buyer should insist on.</li><li data-correct>A transparent first estimate of where each term will settle, with the evidence and the drivers stated so that an experienced lawyer can correct a specific step.</li><li>A replacement for asking a lawyer what is market.</li></ul>
+<p class="explain">No term has a legally correct value: parties are free to agree what they like. The model does not say what to insist on either; that depends on what the term is worth to this client, which is the subject of the next module. Its value is that it is explicit, so disagreement lands on a step ("your comparables are wrong", "you have under-scored the seller's alternatives") and you learn from it.</p>
+</div>
+
+<h2>Key terms</h2>
+<dl class="terms">
+<dt>Opening position</dt><dd>The term a party first proposes, usually padded beyond what it expects to get.</dd>
+<dt>Landing</dt><dd>The term as finally signed.</dd>
+<dt>Precedent band</dt><dd>The 25th percentile, median and 75th percentile of a term across comparable past deals, stated with the number of deals behind it.</dd>
+<dt>Comparable</dt><dd>A past deal sharing the features that drive the term: insurance status first, then seller type, size and legal culture.</dd>
+<dt>Client data</dt><dd>What one client obtained on one deal; an anecdote and weak evidence of market.</dd>
+<dt>Leverage</dt><dd>The power to get terms accepted, which comes from being less harmed than the other side if the deal fails.</dd>
+<dt>BATNA</dt><dd>Best alternative to a negotiated agreement: what a party does if this deal does not happen.</dd>
+<dt>Leverage score</dt><dd>The sum of eight factors scored +1, 0 or −1 from the buyer's side, clipped to the range −2 to +2.</dd>
+<dt>Clipping</dt><dd>Limiting the leverage score to ±2 because extra leverage beyond a point no longer moves a term.</dd>
+<dt>Clamping</dt><dd>Restricting a predicted landing to lie between the two opening positions.</dd>
+<dt>Dominant factor</dt><dd>A single fact, such as a seller with no need to sell, that outweighs the arithmetic of the other factors.</dd>
+<dt>Driver</dt><dd>A fact which, if changed, would move the predicted landing in a stated direction.</dd>
+</dl>

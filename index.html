@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Engineer to Legal · Courses</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script src="shared/theme.js"></script><link rel="stylesheet" href="shared/style.css">
+<style>body{display:block}.w{max-width:980px;margin:0 auto;padding:28px 22px 100px}.nav{display:flex;align-items:center;margin-bottom:40px}.nav .sp{flex:1}.nav b{font:700 15px var(--ui)}
+.course{display:grid;grid-template-columns:1fr auto;gap:20px;align-items:center;padding:26px 28px;border:1px solid var(--line);border-radius:16px;background:var(--surface);text-decoration:none;color:var(--ink);margin:14px 0;transition:border-color .12s,box-shadow .12s}
+.course:hover{border-color:var(--acc);box-shadow:var(--shadow)}.course h2{margin:6px 0 8px;font-size:26px}.course p{margin:0;color:var(--mut);font:16.5px/1.55 var(--read)}
+.course .m{display:flex;gap:14px;margin-top:12px;font-size:12.5px;color:var(--mut)}.course .go{width:48px;height:48px;border-radius:50%;background:var(--acc);color:var(--acc-ink);display:flex;align-items:center;justify-content:center;font-size:20px}
+.course .sub{display:flex;gap:14px;margin-top:14px}.course .sub a{font-size:13px}</style></head>
+<body><div class="w"><div class="nav"><b>Engineer to Legal</b><span class="sp"></span><button class="iconbtn" data-themebtn></button></div>
+<div class="kicker">Courses</div><h1 style="font-size:44px;margin:8px 0 12px">Legal practice for engineers</h1>
+<p class="lede" style="max-width:62ch">Self-paced courses that teach the mechanisms behind legal work, tested on real documents. Progress is stored in your browser only.</p>
+<div id="list"></div></div>
+<script>
+fetch('courses.json').then(r=>r.json()).then(cs=>{const L=document.getElementById('list');cs.forEach(c=>{const a=document.createElement('a');a.className='course';a.href=c.path;
+a.innerHTML=`<div><div class="kicker">${c.subtitle}</div><h2>${c.title}</h2><p>${c.description}</p><div class="m"><span>${c.modules} modules</span><span>${c.hours}</span><span>${c.status}</span></div>${c.podcast?`<div class="sub"><a href="${c.podcast}" onclick="event.stopPropagation()">♪ Podcast</a></div>`:''}</div><span class="go">→</span>`;L.append(a)})});
+</script></body></html>

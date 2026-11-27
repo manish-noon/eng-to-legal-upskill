@@ -1,0 +1,211 @@
+<h1>Limitations on liability: de minimis, basket, cap, time</h1>
+<p class="lede">After this module you can take any claim and any limitation package, run the claim through the filters in the right order, and state how much the seller actually pays and which filter did the damage.</p>
+
+<h2>The pipeline, and which claims enter it</h2>
+<p>Module 7 gave you a right to damages. The seller's lawyers then wrap that right in a schedule of <strong>limitations</strong>: contractual filters that remove or shrink claims. The seller's case is legitimate: it sold in order to stop owning the risks of the business, it wants to spend or distribute the price, and unlimited exposure for years defeats the purpose of selling. The buyer's case is equally simple: every limitation is a slice of the price that is not really protected. Think of the schedule as a filter pipeline. A claim must pass each stage in order:</p>
+<ol>
+<li><strong>Type</strong>: what kind of claim is it? That decides which of the later filters apply.</li>
+<li><strong>Time</strong>: was it notified before the deadline, in the right form?</li>
+<li><strong>De minimis</strong>: is this single claim big enough to count?</li>
+<li><strong>Basket</strong>: do all counting claims together exceed the threshold?</li>
+<li><strong>Cap</strong>: is there room left under the ceiling?</li>
+<li><strong>Reducers</strong>: has the loss already been recovered, provided for or caused by the buyer?</li>
+<li><strong>Bypass</strong>: fraud skips stages 2 to 6.</li>
+</ol>
+<p>Stage 1 is a routing table. Typical drafting (always read the actual clause):</p>
+<table>
+<tr><th>Claim type</th><th>Time limit</th><th>De minimis and basket</th><th>Cap</th></tr>
+<tr><td>Business warranties (accounts, contracts, IP, employees and so on)</td><td>General period</td><td>Apply</td><td>General cap</td></tr>
+<tr><td>Fundamental warranties (title, capacity)</td><td>Longer</td><td>Usually do not apply</td><td>100% of the price</td></tr>
+<tr><td>Tax warranties and tax covenant (module 9)</td><td>Tax period</td><td>Often disapplied for the covenant</td><td>Negotiated: general cap or the price</td></tr>
+<tr><td>Specific indemnities (module 9)</td><td>Own period</td><td>Do not apply</td><td>Own cap</td></tr>
+<tr><td>Leakage (locked-box deals)</td><td>Short, own period</td><td>Do not apply</td><td>The amount of the leakage</td></tr>
+<tr><td>Fraud</td><td>Statutory only</td><td>Do not apply</td><td>None</td></tr>
+</table>
+<p>The logic of the routing: the more certain and the more basic the promise, the fewer filters. Title is binary and wholly within the seller's knowledge, so it gets no thresholds and a cap at the full price. Business warranties cover the noisy unknown, so they get every filter.</p>
+
+<h2>Stage 2: time limits and notice</h2>
+<p>Without a clause, English law gives six years to sue on an ordinary contract (twelve if it is signed as a deed). The SPA replaces that with a much shorter <strong>time limit</strong> (US: <strong>survival period</strong>): the date by which the buyer must notify a claim, after which the warranty is dead.</p>
+<blockquote class="clause">The Seller shall not be liable for any Claim unless the Buyer gives written notice of it, with reasonable details of the matter and the Buyer's good-faith estimate of the amount, on or before the date 18 months after Completion. Any Claim so notified shall be deemed withdrawn unless proceedings are issued and served within 6 months of the notice.</blockquote>
+<p>Decode: two clocks. Clock one is the notice deadline. Clock two forces you to sue or settle, so the seller is not left with a notified claim hanging forever. English courts apply notice clauses strictly: a late notice, or one without the required detail, loses the claim.</p>
+<p><strong>The duration logic.</strong> Warranties are statements about the past. Hidden problems surface when the buyer closes a financial year and has it audited. One full audit cycle under the buyer's ownership takes roughly 12 to 18 months from closing, two cycles roughly 24. Buyers ask for two, sellers offer one. Tax follows a different clock: the tax authority can reopen past years for a statutory period, so the tax time limit tracks that period plus a margin. The reference data puts tax limits at often 4 to 7 years.</p>
+<div class="note uae">If onshore UAE law governs, short contractual notification periods may not operate as drafted. This is one reason parties choose English, DIFC or ADGM law. Ask counsel; do not assert.</div>
+<div class="quiz" data-id="m08q1">
+<p class="q">Using the clause above, closing was on 1 January of year 1. The buyer sends a compliant notice of a AED 2m warranty claim on 1 June of year 2 (month 17). Settlement talks drag. The buyer issues proceedings on 1 February of year 3 (month 25). What is the result?</p>
+<ul>
+<li>The claim proceeds: it was notified inside the 18-month limit</li>
+<li>The claim proceeds: the statutory limitation period has years to run</li>
+<li data-correct>The claim is lost: proceedings were not issued within 6 months of the notice</li>
+<li>The claim proceeds, but only for the loss that arose before month 18</li>
+</ul>
+<p class="explain">Notice was in time (month 17). The second clock expired 6 months later, at month 23. Proceedings at month 25 are too late, so the claim is deemed withdrawn. The statutory period is irrelevant because the contract replaced it. Buyers lose good claims this way. If talks are continuing as the deadline nears, you issue proceedings or get a written extension.</p>
+</div>
+
+<h2>Stages 3 and 4: de minimis and basket</h2>
+<p>A <strong>de minimis</strong> (US: <strong>mini-basket</strong> or per-claim threshold) excludes any single claim below a set amount. Excluded claims vanish: they are not paid and do not count towards the basket. Rationale: every business has small defects, and investigating a AED 20k claim costs both sides more than the claim. It favours the seller. Two drafting points decide its bite:</p>
+<ul>
+<li><strong>Aggregation</strong>: buyers add that claims arising from the same or related facts are treated as one claim. Forty employees each underpaid AED 5k is then one AED 200k claim, not forty excluded ones.</li>
+<li>Once a claim exceeds the de minimis, the whole claim counts, not only the excess (unless the clause says otherwise).</li>
+</ul>
+<p>A <strong>basket</strong> (English-style: <strong>threshold</strong>) is an aggregate hurdle: the seller pays nothing until all counting claims together exceed it. It comes in two types.</p>
+<ul>
+<li><strong>Tipping basket</strong> ("first dollar"): once the total exceeds the basket, the seller pays the whole total, back to the first dirham.</li>
+<li><strong>Deductible basket</strong> ("excess only"): the seller pays only the amount above the basket. The basket amount is a permanent loss to the buyer.</li>
+</ul>
+<p>The rationale for either type: the price already assumes a normal level of imperfection, and the basket is that allowance. The tipping type treats it as a trigger for serious trouble. The deductible type treats it as a cost the buyer agreed to carry, like an insurance excess. A tipping basket has a cliff: a buyer with claims just below it gains the whole pile by finding one more. Sellers point to that incentive when they ask for a deductible.</p>
+<details class="think"><summary>Before reading on: the basket already blocks small totals. Why does a seller also insist on a de minimis?</summary><p>They filter different things. The basket tests the sum. Without a de minimis, a buyer can fill the basket with hundreds of trivial items (a late filing fee, a miscounted pallet), each needing investigation, and tip it. The de minimis removes noise at the per-claim level, so only meaningful items can accumulate. That is also why buyers fight for aggregation of related claims: without it, a real systematic problem made of small identical instances disappears entirely.</p></details>
+
+<h2>Stage 5: caps</h2>
+<p>A <strong>cap</strong> is the maximum the seller can ever pay. It is the term with the largest money effect and the clearest economics: with a cap of 20%, the seller is certain to keep 80% of the price whatever is found.</p>
+<ul>
+<li><strong>General cap</strong>: applies to business warranty claims, as a percentage of the price.</li>
+<li><strong>Fundamental cap</strong>: 100% of the price for title and capacity. The seller should never keep money for shares it did not validly sell.</li>
+<li><strong>Separate caps</strong>: tax and each specific indemnity may have their own.</li>
+<li><strong>Overall cap</strong>: usually all claims of every type together cannot exceed the price.</li>
+<li><strong>Cap equal to the escrow</strong>: where part of the price is held in escrow, a seller may offer a cap equal to that amount, so the buyer's only recourse is the escrow fund. This is common where sellers are funds that will distribute everything else.</li>
+</ul>
+<p>Caps are cumulative: every amount paid uses up room under the cap for later claims.</p>
+<div class="note trap">Check the base of every percentage. "20% of the Purchase Price" and "20% of Enterprise Value" are different numbers, and the purchase price itself may or may not include escrowed, deferred or earn-out amounts. When you compare a deal with precedent, convert everything to a percentage of the same base first.</div>
+<div class="num" data-id="m08n1" data-answer="26.3" data-tol="0.01">
+<p class="q">A draft SPA sets the general cap at "20% of the Enterprise Value". Enterprise value is AED 100m and the purchase price for the shares is AED 76m. Your precedent table records caps as a percentage of purchase price. What number do you enter for this deal? Answer in percent, one decimal.</p>
+<p class="explain">Cap in money = 20% &times; 100m = AED 20m. As a share of the price: 20m / 76m = 26.3%. Entering "20%" would understate the cap by a quarter and corrupt every comparison you make with it. Normalising the base is the first step of any precedent analysis.</p>
+</div>
+
+<h2>The worked example</h2>
+<p>Price AED 76m. De minimis 0.1% of price (AED 76k). Basket 1% (AED 760k). General cap 20% (AED 15.2m). Time limit 18 months. Three business warranty claims, all notified in time:</p>
+<table>
+<tr><th>Claim</th><th>AED k</th><th>Passes de minimis?</th></tr>
+<tr><td>A: unpaid supplier invoice</td><td>50</td><td>No (below 76)</td></tr>
+<tr><td>B: undisclosed tax penalty</td><td>300</td><td>Yes</td></tr>
+<tr><td>C: IP licence breach</td><td>600</td><td>Yes</td></tr>
+<tr><td><strong>Counting total</strong></td><td><strong>900</strong></td><td>Exceeds the 760 basket</td></tr>
+</table>
+<p>Tipping basket: the seller pays <strong>AED 900k</strong>. Deductible basket: the seller pays 900 - 760 = <strong>AED 140k</strong>. Same facts, same percentages, a 6.4 times difference from one word. Now vary the facts:</p>
+<table>
+<tr><th>Variation</th><th>Working</th><th>Tipping</th><th>Deductible</th></tr>
+<tr><td>Only A and B arise</td><td>Counting total 300k, below the 760k basket</td><td>0</td><td>0</td></tr>
+<tr><td>C is notified in month 20</td><td>C is time-barred. Counting total 300k</td><td>0</td><td>0</td></tr>
+<tr><td>Add claim D: accounts misstatement, AED 20m</td><td>Counting total 20.9m. Tipping 20.9m, deductible 20.14m. Both exceed the 15.2m cap</td><td>15.2m</td><td>15.2m</td></tr>
+<tr><td>Title defect: seller did not own 10% of the shares, loss AED 7.6m</td><td>Fundamental: no de minimis, no basket, cap 76m</td><td>7.6m</td><td>7.6m</td></tr>
+<tr><td>The seller knew of A, B and C and hid them</td><td>Fraud: every filter is off, including the de minimis on A</td><td>950k</td><td>950k</td></tr>
+</table>
+<p>Read the table for sensitivity. For small claims the basket type and size decide everything. For large claims only the cap matters. The late claim shows that one missed deadline can destroy more than the late claim: C's removal pulled B below the basket as well.</p>
+<div data-widget="claimsim"></div>
+<p>Change the de minimis, the basket type and size, the cap and the claim amounts in the simulator, and watch which claims survive and which filter stops each one.</p>
+<div class="num" data-id="m08n2" data-answer="1350000" data-tol="0.01">
+<p class="q">Price AED 120m. De minimis 0.1% of price. Tipping basket 1%. Cap 15%. Four timely business warranty claims on unrelated facts: AED 90k, 400k, 500k and 450k. How much does the seller pay? Answer in AED.</p>
+<p class="explain">De minimis = 120k, so the 90k claim is excluded. Counting total = 400k + 500k + 450k = 1,350k. Basket = 1,200k: exceeded. Tipping, so the whole counting total is paid: 1,350,000. The cap (18m) is not reached. The 90k is not revived by the basket tipping: a claim below the de minimis is gone for all purposes.</p>
+</div>
+<div class="num" data-id="m08n3" data-answer="150000" data-tol="0.01">
+<p class="q">Same deal and claims as the previous question, but the basket is a deductible. How much does the seller pay? Answer in AED.</p>
+<p class="explain">Counting total is still 1,350k. A deductible pays only the excess over the basket: 1,350k - 1,200k = 150,000. Moving from tipping to deductible cost the buyer AED 1.2m here, exactly the basket amount. That is always the maximum cost of conceding a deductible, which lets you price the concession in a trade.</p>
+</div>
+<div class="num" data-id="m08n4" data-answer="420000" data-tol="0.01">
+<p class="q">Price AED 50m. De minimis 0.2% of price, with related claims aggregated. Tipping basket 0.8%. Cap 25%. Timely claims: thirty customer refunds of AED 8k each, all caused by the same product defect, one unrelated claim of AED 95k, and one unrelated claim of AED 180k. How much does the seller pay? Answer in AED.</p>
+<p class="explain">De minimis = 100k. The thirty refunds share a cause, so they aggregate to 240k and count. The 95k claim is below 100k and is excluded. The 180k claim counts. Counting total = 420k. Basket = 400k: exceeded, tipping, so the seller pays 420,000. Without the aggregation wording each 8k refund would be excluded, the total would be 180k, and the buyer would recover nothing.</p>
+</div>
+<div class="num" data-id="m08n5" data-answer="14000000" data-tol="0.01">
+<p class="q">Price AED 200m. De minimis 0.1%. Deductible basket 0.5%. General cap 10%. In year one the seller paid AED 6m on a business warranty claim, after the deductible had been fully absorbed. A second business warranty claim of AED 18m is now notified in time. How much does the seller pay on it? Answer in AED.</p>
+<p class="explain">Cap = 10% &times; 200m = 20m, and it is cumulative. 6m is already used, leaving 14m. The new claim passes the de minimis (200k). The deductible was used up by the first claim, so nothing more is deducted. 18m exceeds the remaining 14m, so the seller pays 14,000,000 and the buyer bears 4m. When a cap is binding, the basket terms are irrelevant.</p>
+</div>
+<div class="num" data-id="m08n6" data-answer="27000000" data-tol="0.01">
+<p class="q">Price AED 90m. Business warranties: de minimis 0.1%, tipping basket 1%, general cap 20%. Fundamental warranties: no de minimis or basket, cap 100% of price. Overall cap: the price. Timely claims: business warranty claims of AED 70k, AED 500k and AED 22m, and a title claim of AED 9m. How much does the seller pay in total? Answer in AED.</p>
+<p class="explain">Route each claim first. Business claims: de minimis = 90k, so the 70k is excluded. Counting total = 22.5m, above the 900k basket, tipping, so 22.5m, then capped at 20% &times; 90m = 18m. Title claim: fundamental, so no thresholds and its own cap of 90m: 9m in full. Total = 18m + 9m = 27,000,000, inside the overall cap of 90m. The common error is to put the title claim under the general cap and answer 18m.</p>
+</div>
+
+<h2>Stages 6 and 7: reducers and bypasses</h2>
+<p>After the numeric filters come rules that reduce what is left. Each one prevents the buyer being paid for something it has not really lost.</p>
+<table>
+<tr><th>Reducer</th><th>Rule</th><th>Rationale</th></tr>
+<tr><td>No double recovery</td><td>One loss, one payment, even if it breaches several warranties or was already compensated in the completion accounts</td><td>Damages compensate; they do not reward</td></tr>
+<tr><td>Third-party recovery</td><td>Amounts recoverable from insurers or third parties reduce the claim, or are repaid to the seller if received later</td><td>The seller is the payer of last resort. Buyers resist any duty to sue the third party first</td></tr>
+<tr><td>Mitigation</td><td>The buyer must take reasonable steps to limit the loss</td><td>Restates the general contract-law duty</td></tr>
+<tr><td>Change in law</td><td>No liability for losses caused by laws or tax rates changed after signing</td><td>The warranty spoke about the world at signing</td></tr>
+<tr><td>Provisions in the accounts</td><td>No claim to the extent the matter was provided for in the accounts</td><td>It was already in the price</td></tr>
+<tr><td>Buyer's own acts</td><td>No liability for losses caused by the buyer's voluntary acts after closing, such as changing accounting policies</td><td>The seller no longer controls the company</td></tr>
+<tr><td><strong>Conduct of claims</strong></td><td>If a third party sues the company on a matter the seller may have to pay for, the seller may direct or take over the defence</td><td>The person who pays wants to control the cost. Buyers limit this where the claimant is a key customer or regulator</td></tr>
+</table>
+<p><strong>What bypasses the pipeline.</strong> Fraud always does: English law does not let a party exclude liability for its own fraud, and SPAs say so expressly, usually adding dishonesty or wilful concealment. Specific indemnities and leakage claims are normally drafted outside the thresholds and the general cap, because they cover identified items, not the noisy unknown.</p>
+<div class="quiz" data-id="m08q2">
+<p class="q">The limitations schedule says: "Nothing in this Schedule limits the Seller's liability for fraud by the Seller." After closing you find that the target's finance manager, who is not a seller, falsified stock records. The seller, a holding company, knew nothing. The loss is AED 30m and the general cap is AED 15m. What can you recover from the seller?</p>
+<ul>
+<li>AED 30m: fraud removes the cap</li>
+<li data-correct>AED 15m: the accounts warranty is breached, but the fraud was not the seller's, so the cap applies</li>
+<li>Nothing: fraud by an employee is not a warranty breach</li>
+<li>AED 30m, because fraud can never be limited by contract under English law</li>
+</ul>
+<p class="explain">The warranty claim is good: the accounts were wrong, and warranties are strict. But the carve-out is for fraud "by the Seller". An innocent seller is not fraudulent because someone inside the target was. The English rule against excluding fraud concerns a party's own fraud. Buyers therefore negotiate whose fraud counts, for example fraud by the seller or its directors, officers and the named managers. Sellers resist, because they cannot monitor everyone.</p>
+</div>
+<div class="quiz" data-id="m08q3">
+<p class="q">The SPA contains a specific indemnity for a named pending lawsuit, drafted outside the limitations schedule with its own cap of AED 5m. The lawsuit settles for AED 60k. The de minimis for warranty claims is AED 76k. Can you recover the 60k?</p>
+<ul>
+<li>No: it is below the de minimis</li>
+<li>No: it must first be added to the basket</li>
+<li data-correct>Yes: the indemnity never enters the threshold stages</li>
+<li>Yes, but only if other claims have already tipped the basket</li>
+</ul>
+<p class="explain">Stage 1 is routing. A specific indemnity drafted outside the schedule skips the de minimis and basket and runs only against its own cap. Thresholds exist to filter unknown noise. This item was known, named and priced as a seller risk, so there is nothing to filter. Always check the drafting, though: a limitations schedule that applies to "all claims under this Agreement" would catch it.</p>
+</div>
+<div class="quiz" data-id="m08q4">
+<p class="q">You are the buyer. Diligence was clean, but the target has one concentrated exposure: a single technology platform whose failure would cost tens of millions. The seller offers a choice. Package 1: tipping basket of 0.5%, cap of 10%. Package 2: deductible basket of 1%, cap of 30%. Price AED 100m. Which fits your risk?</p>
+<ul>
+<li>Package 1: a tipping basket always recovers more</li>
+<li data-correct>Package 2: your exposure is one large loss, where the cap decides recovery and the basket type is nearly irrelevant</li>
+<li>Package 1: a lower basket means claims start sooner</li>
+<li>Neither matters: a platform failure would be fraud</li>
+</ul>
+<p class="explain">Price the packages against your loss distribution. For a AED 40m loss, package 1 pays 10m and package 2 pays 30m. The deductible costs you at most its own amount, AED 1m. Package 1 is better only if you expect many small claims totalling between 0.5m and about 11m, the point where its 10m cap has already bound. Conceding the basket to win the cap is the cheap trade when the risk is fat-tailed. A technical failure is not fraud unless someone lied about it.</p>
+</div>
+
+<h2>Market data, insurance and typical landings</h2>
+<table>
+<tr><th>Term</th><th>Europe (CMS 2026, 601 deals from 2025)</th><th>US comparison</th></tr>
+<tr><td>De minimis</td><td>Present in 73% of deals, mostly up to 0.25% of price</td><td>No figure in the course reference</td></tr>
+<tr><td>Basket</td><td>Present in 66% of deals. 87% of baskets tipping, 13% deductible</td><td>49% of US baskets deductible (US figure reported alongside the CMS data)</td></tr>
+<tr><td>General cap</td><td>Below 50% of price in 58% of deals. Below 10% in 43% of large deals</td><td>No figure in the course reference</td></tr>
+<tr><td>Time limit</td><td>6 to 12 months: 9%. 12 to 18: 26%. 18 to 24: 33%. Over 24: 32%</td><td>No figure in the course reference</td></tr>
+</table>
+<p>Read these with care. CMS covers European deals on which CMS advised. US studies cover different samples. No public dataset exists for Gulf deals, so "market" in the UAE is practitioner judgement. The studies report that Europe tips and the US is split, but they do not prove why. One explanation lawyers offer is that US agreements more often scrape materiality, leaving the basket as the only small-claims filter, so sellers insist it be a true deductible. Treat that as a hypothesis and say only that practice differs.</p>
+<p><strong>Insurance changes the cap.</strong> With <strong>W&amp;I insurance</strong> (warranty and indemnity insurance, called RWI in the US), the buyer claims for unknown warranty breaches from an insurer. The seller's general cap then collapses to a nominal amount, often AED 1, and the limits that matter move into the policy: its excess plays the role of a deductible basket and its limit the role of the cap. Module 9 covers this in detail.</p>
+<div class="quiz" data-id="m08q5">
+<p class="q">The SPA caps the seller's liability for business warranty claims at AED 1 and states that the buyer's sole recourse for such claims is the W&amp;I policy. Fundamental warranties stay capped at the price. A business warranty breach causes a loss of AED 5m, which the insurer declines because the matter falls within a policy exclusion. What do you recover from the seller?</p>
+<ul>
+<li>AED 5m: the seller is liable whenever the insurer does not pay</li>
+<li data-correct>AED 1: the cap applies whether or not the policy responds</li>
+<li>AED 5m, because the breach is treated as fundamental once insurance fails</li>
+<li>The policy excess only</li>
+</ul>
+<p class="explain">The cap is a term of the SPA and does not depend on the insurer's decision. Routing does not change either: a business warranty stays a business warranty. The risk of policy exclusions therefore sits with the buyer unless the SPA says the seller backs them, which sellers rarely accept. Before signing, read the exclusions as carefully as the cap.</p>
+</div>
+<table class="bs">
+<tr><th>Term</th><th>Buyer wants</th><th>Seller wants</th><th>Why</th><th>Typical landing</th></tr>
+<tr><td>De minimis</td><td>None or low, with aggregation of related claims</td><td>0.1% to 0.25% or more, no aggregation</td><td>Filters noise; can also erase systematic small losses</td><td>CMS 2026: in 73% of deals, mostly up to 0.25% of price</td></tr>
+<tr><td>Basket</td><td>Tipping, 0.5% or less</td><td>Deductible, 1% or more</td><td>The basket amount is the buyer's retained loss under a deductible</td><td>CMS 2026: 87% tipping in Europe. US split roughly evenly</td></tr>
+<tr><td>General cap</td><td>100% of price</td><td>10% to 30%, or nominal with W&amp;I</td><td>Fixes the share of the price the seller keeps for certain</td><td>CMS 2026: below 50% in 58% of deals, lower in large deals</td></tr>
+<tr><td>Fundamental cap</td><td>100% of price, no thresholds</td><td>The same, kept narrow in scope</td><td>No sale, no price</td><td>100%. Rarely moves. The fight is over which warranties are "fundamental"</td></tr>
+<tr><td>Time limit</td><td>24 to 36 months</td><td>12 to 18 months</td><td>One audit cycle against two</td><td>CMS 2026: 18 to 24 months is the largest band (33%)</td></tr>
+<tr><td>Tax time limit</td><td>6 to 7 years</td><td>As short as the reassessment period allows</td><td>Tracks the authority's power to reopen</td><td>Often 4 to 7 years</td></tr>
+<tr><td>Conduct of claims</td><td>Buyer controls, consults seller</td><td>Seller controls defence</td><td>Payer wants control; owner wants relationships</td><td>Seller may direct, with carve-outs for key customers and regulators</td></tr>
+<tr><td>Fraud carve-out</td><td>Fraud by seller, its people and target management</td><td>Seller's own fraud only</td><td>Whose dishonesty lifts the limits</td><td>Always present. Scope negotiated</td></tr>
+</table>
+<div class="note lawyer">"We can live with their cap if the basket tips and tax and title sit outside it. What we can't accept is the de minimis without aggregation, because our real exposure here is many small identical claims."</div>
+<details class="think"><summary>Think first: why would a rational buyer ever sign with a general cap of 10% of the price?</summary><p>Because the cap is one input into price and not a measure of safety. A buyer accepts it when (a) insurance covers the layer above, (b) diligence was deep and the remaining unknowns are judged small, (c) known risks are carved out into indemnities outside the cap, (d) the seller is staying in the business, so suing it is unattractive anyway, or (e) it is an auction and a higher cap would lose the deal. The correct test is expected uncompensated loss at that cap compared with what a higher cap would cost in price or in probability of winning.</p></details>
+<details class="think"><summary>Think first: you hold counting claims of AED 700k against a AED 760k tipping basket, with two months left on the time limit. What does the structure push you to do, and how will the seller respond?</summary><p>One more counting claim of AED 80k (just above the de minimis) releases the full 780k, so the marginal value of finding a claim is almost ten times its size. You will audit hard and notify anything arguable. The seller anticipates this: it will contest each small claim, argue that items are separate (to keep them under the de minimis) and scrutinise notice formalities. Under a deductible the marginal claim is worth only its excess over the basket, so neither side fights. This cliff effect is the seller's best argument against tipping baskets.</p></details>
+<details class="think"><summary>Think first: why is fraud uncapped even though the seller negotiated a cap in good faith?</summary><p>Limitations price the risk of honest error: both sides accept that the seller may be wrong without knowing it. Fraud is a different event: the seller used private information to take the buyer's money. If caps applied, a seller could profit from lying by any amount above the cap, so the cap would create the incentive it is meant to assume away. Removing it restores the incentive to disclose, which was the first function of warranties.</p></details>
+
+<h2>Key terms</h2>
+<dl class="terms">
+<dt>Limitations</dt><dd>The contractual filters, usually in one schedule, that restrict when and how much a seller must pay on claims under the SPA.</dd>
+<dt>Time limit (survival period)</dt><dd>The contractual deadline by which the buyer must notify a claim, replacing the longer statutory limitation period.</dd>
+<dt>De minimis (mini-basket)</dt><dd>A per-claim threshold below which a single claim is excluded entirely and does not count towards the basket.</dd>
+<dt>Aggregation</dt><dd>Wording that treats claims arising from the same or related facts as one claim for the de minimis.</dd>
+<dt>Basket (threshold)</dt><dd>An aggregate amount that all counting claims together must exceed before the seller pays anything.</dd>
+<dt>Tipping basket</dt><dd>A basket which, once exceeded, makes the seller liable for the whole amount of the counting claims from the first unit of currency.</dd>
+<dt>Deductible basket</dt><dd>A basket under which the seller pays only the amount by which counting claims exceed it.</dd>
+<dt>General cap</dt><dd>The maximum aggregate amount the seller can owe for business warranty claims, usually a percentage of the price.</dd>
+<dt>Fundamental cap</dt><dd>The higher ceiling, normally 100% of the price, that applies to title and capacity warranties.</dd>
+<dt>Double recovery</dt><dd>Being compensated twice for the same loss, which limitation schedules prohibit.</dd>
+<dt>Conduct of claims</dt><dd>The clause deciding who controls the defence of a third-party claim for which the seller may have to pay.</dd>
+<dt>Fraud carve-out</dt><dd>The provision that none of the limitations apply to claims arising from fraud, with its scope depending on whose fraud is named.</dd>
+<dt>W&amp;I insurance (RWI)</dt><dd>Insurance under which an insurer, not the seller, pays the buyer for losses from unknown warranty breaches.</dd>
+</dl>
