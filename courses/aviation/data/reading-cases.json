@@ -1,0 +1,220 @@
+[
+  {
+    "id": "06-coachmen",
+    "label": "Used purchase · inspection and release",
+    "brief": "You act for the buyer. Inspection has finished. The inspection centre identifies an airworthiness discrepancy. The seller refuses to correct it and asks to retain the deposit and positioning costs. Prepare the buyer’s election before the notice window closes.",
+    "questions": [
+      {
+        "prompt": "Which path fits a refusal by the seller to fix an airworthiness item identified by the named centre?",
+        "choices": [
+          "Reject under the refusal branch and claim the specified inspection and positioning costs",
+          "Use ordinary rejection and always bear round-trip movement costs",
+          "Accept unconditionally and recover consequential losses under the warranty"
+        ],
+        "value": "Reject under the refusal branch and claim the specified inspection and positioning costs",
+        "section": "§7, refusal and rejection",
+        "quote": "all costs of the Pre-Purchase Inspection attributable to the Acceptance Items",
+        "reason": "Ordinary rejection and rejection after a refusal have different cost rules. The text limits the latter claim to specified costs."
+      },
+      {
+        "prompt": "How many days after the inspection does the contract give for the written election? Enter the number as drafted.",
+        "value": 2,
+        "section": "§7, acceptance",
+        "quote": "by use of Exhibit A within 2 (two) days",
+        "reason": "Section 7 specifies days. The separate balance-payment clause expressly uses business days."
+      },
+      {
+        "prompt": "If the team instead agrees to a cure, which pair of documents should it use, in sequence?",
+        "choices": [
+          "Exhibit A with the outstanding discrepancies, then Exhibit B at delivery",
+          "Exhibit B with discrepancies, then the equipment list as final receipt",
+          "The two forms are interchangeable once the seller has the funds"
+        ],
+        "value": "Exhibit A with the outstanding discrepancies, then Exhibit B at delivery",
+        "section": "§§7–8 and Exhibits A and B",
+        "quote": "Subject to Seller's correction of the following discrepancies at Seller's expense",
+        "reason": "A records technical acceptance subject to identified corrections. B records delivery. Do not sign the receipt while the exception remains unresolved."
+      }
+    ],
+    "proof": {
+      "prompt": "Copy the words in the refusal paragraph that expressly name who pays the specified inspection costs.",
+      "start": "Should Seller refuse to correct the Airworthy Items",
+      "end": "8. DELIVERY:",
+      "section": "§7, final paragraph",
+      "quote": "shall be paid for by the Seller, including all positioning expenses",
+      "core": "shall be paid for by the seller",
+      "locator": "§7, seller refusal",
+      "locations": [
+        "§2(a), deposit",
+        "§7, seller refusal",
+        "Exhibit B, delivery receipt"
+      ]
+    },
+    "memo": "Serve the written rejection before the election expires and request prompt return of the deposit. Document the centre’s finding and the seller’s refusal. Object to a duplicate positioning deduction under the specific refusal branch and reserve rights over its interaction with ordinary rejection. Itemise eligible costs. Review the conflicting internal references before authorising funds."
+  },
+  {
+    "id": "01-jetblue-a320",
+    "label": "OEM purchase · which delay remedy governs?",
+    "brief": "You act for the airline. A slot has slipped. Someone has entered an exact daily recovery into the budget using the first delay clause they found. Read the rest of the filing before approving the entry.",
+    "questions": [
+      {
+        "prompt": "Which instrument expressly substitutes an entire liquidated-damages provision for the main clause?",
+        "choices": [
+          "Letter Agreement 7, paragraph 3",
+          "Exhibit C, the price revision formula",
+          "The form of bill of sale"
+        ],
+        "value": "Letter Agreement 7, paragraph 3",
+        "section": "Letter Agreement 7 ¶3, replacing §11.1",
+        "quote": "11.1 of the Agreement is deleted in its entirety",
+        "reason": "The replacement instruction and the letter’s inconsistency rule establish the route to the controlling text."
+      },
+      {
+        "prompt": "What can the team put in a receivables forecast using this public text alone?",
+        "choices": [
+          "A conditional claim structure with the amount and key time inputs undisclosed",
+          "The full purchase price for each delayed aircraft",
+          "A zero daily rate because no digits are visible"
+        ],
+        "value": "A conditional claim structure with the amount and key time inputs undisclosed",
+        "section": "Letter Agreement 7 ¶3, substituted §11.1",
+        "quote": "US $[***] (US Dollars – $[***]), for each day of delay",
+        "reason": "Identify aircraft category, revised contractual month, delay cause, applicable cap and claim procedure. Redactions prevent a numerical entitlement."
+      },
+      {
+        "prompt": "What immediate instruction best protects a potential claim?",
+        "choices": [
+          "Obtain the operative unredacted deadline and serve the required written claim in time",
+          "Wait for the seller to pay automatically after technical acceptance",
+          "Wait until expiry of every aircraft warranty before sending a claim"
+        ],
+        "value": "Obtain the operative unredacted deadline and serve the required written claim in time",
+        "section": "Letter Agreement 7 ¶3, last paragraph before UNQUOTE",
+        "quote": "submitting a written claim for liquidated damages to the Seller not later than [***]",
+        "reason": "Preserve evidence now. A late aircraft alone cannot establish amount, timeliness or coverage."
+      }
+    ],
+    "proof": {
+      "prompt": "Copy the words in the replacement provision that make relief depend on an action by the buyer.",
+      "start": "The Buyer’s right to liquidated damages in respect of an Aircraft is conditioned on",
+      "end": "UNQUOTE",
+      "section": "Letter Agreement 7 ¶3, substituted §11.1",
+      "quote": "submitting a written claim for liquidated damages",
+      "scope": "11.1 of the Agreement is deleted in its entirety and replaced",
+      "core": "submitting a written claim",
+      "locator": "Letter Agreement 7 ¶3, substituted §11.1",
+      "locations": [
+        "Base agreement §11.1",
+        "Letter Agreement 7 ¶3, substituted §11.1",
+        "Letter Agreement 7 ¶2, guarantees"
+      ]
+    },
+    "memo": "Challenge the budget entry. Reconcile the affected aircraft and its revised delivery period to the effective letters, then verify which days qualify and who will send the claim. Obtain the unredacted calculation before booking any particular recovery."
+  },
+  {
+    "id": "12-midway-lease",
+    "label": "Operating lease · the first two rent invoices",
+    "brief": "You act for the airline. Assume qualifying tender and delivery on the same day, a current payment status with no Default, and 18 qualifying modification days within the first rental period. Use a hypothetical daily rent of $4,000. No alternate application of the credit is agreed.",
+    "questions": [
+      {
+        "prompt": "What event anchors the defined Rent Commencement Date in this aircraft-specific lease?",
+        "choices": [
+          "Tender under the referenced common-terms clause",
+          "First revenue flight",
+          "Completion of the post-delivery modifications"
+        ],
+        "value": "Tender under the referenced common-terms clause",
+        "section": "§1.1, Rent Commencement Date",
+        "quote": "Lessor tenders the Aircraft",
+        "reason": "Read the definition back into §3.2. Condition at delivery and the date of the first revenue flight answer different questions."
+      },
+      {
+        "prompt": "How much credit in dollars accrues on the stated facts?",
+        "value": 36000,
+        "section": "§3.2, first rental period",
+        "quote": "fifty percent (50%)",
+        "reason": "18 × $4,000 × 50% = $36,000. The assumed days are within the 30-day limit."
+      },
+      {
+        "prompt": "How should treasury schedule the credit on these facts?",
+        "choices": [
+          "Apply it to rent for the second rental period following delivery",
+          "Withhold half of the first invoice before tender",
+          "Treat it as an unconditional maintenance reserve refund"
+        ],
+        "value": "Apply it to rent for the second rental period following delivery",
+        "section": "§3.2, final sentence",
+        "quote": "the second Rental Period following the Delivery Date",
+        "reason": "When the credit is earned and when it may be used are separate cash events."
+      }
+    ],
+    "proof": {
+      "prompt": "Copy the part of the rent paragraph that says where to apply the credit.",
+      "start": "Such credit shall",
+      "end": "3.3 Supplemental Rent and Maintenance Adjustment:",
+      "section": "§3.2, final sentence",
+      "quote": "the second Rental Period following the Delivery Date",
+      "core": "second rental period",
+      "locator": "§3.2, rent",
+      "locations": [
+        "§2.2, term",
+        "§3.2, rent",
+        "§3.4, maintenance contribution"
+      ]
+    },
+    "memo": "Verify tender under the incorporated agreement and pay the first instalment as required. Document qualifying work days and check default status. Reconcile the credit to the later invoice. If working capital is tight, request written agreement to earlier application."
+  },
+  {
+    "id": "21-global-crossing-finance",
+    "label": "Finance lease · loss and interim funding",
+    "brief": "You act for the operator. Assume a qualifying loss of the entire aircraft on day 0 and applicable insurance proceeds paid on day 54. The lessor has not previously received the full amount in a form it can irrevocably apply. The operator proposes stopping rent on day 0.",
+    "questions": [
+      {
+        "prompt": "By which numbered day must the operator pay or cause payment of the agreed insurance value on the assumed facts?",
+        "value": 54,
+        "section": "§10.3(1), earlier-of test",
+        "quote": "90 days after the occurrence of an Event of Loss",
+        "reason": "The earlier of day 90 and receipt of proceeds on day 54 is day 54. The full-receipt exception has not already discharged the obligation."
+      },
+      {
+        "prompt": "What must the team establish before treating both scheduled rent streams as ended under the loss clause?",
+        "choices": [
+          "Full irrevocable and unconditional payment of the agreed insurance value",
+          "An insurance adjuster has opened a claim",
+          "Removal of the airframe from the operator’s traffic schedule"
+        ],
+        "value": "Full irrevocable and unconditional payment of the agreed insurance value",
+        "section": "§10.3(2), continuing rent",
+        "quote": "paid irrevocably and unconditionally in full",
+        "reason": "§10.3 keeps both financing and periodic rent running until the payment condition is met."
+      },
+      {
+        "prompt": "What further check precedes termination of the lease term under the whole-aircraft loss provision?",
+        "choices": [
+          "All secured obligations have also been paid, discharged or performed",
+          "The operator has ordered a replacement aircraft",
+          "An engine has been removed from its mount"
+        ],
+        "value": "All secured obligations have also been paid, discharged or performed",
+        "section": "§10.3(3), termination",
+        "quote": "if all Secured Obligations have been paid, discharged, or performed",
+        "reason": "Conveyance also has its own joint written request mechanics. Engine-only loss follows another branch."
+      }
+    ],
+    "proof": {
+      "prompt": "Copy the words in the continuing-rent paragraph that tie the payment obligation to final settlement.",
+      "start": "(2) Until the date on which the Agreed Insurance Value is paid",
+      "end": "If the Agreed Insurance Value is paid irrevocably",
+      "section": "§10.3(2), opening sentence",
+      "quote": "paid irrevocably and unconditionally in full",
+      "core": "irrevocably and unconditionally in full",
+      "locator": "§10.3(2), aircraft loss",
+      "locations": [
+        "§10.2(2), notice",
+        "§10.3(2), aircraft loss",
+        "§10.4(2), engine loss"
+      ]
+    },
+    "memo": "Keep both rent streams in the liquidity forecast. Confirm the payment due date, payee and actual application with the insurer and lessor. Reconcile any conditional refund of unaccrued rent separately, then clear remaining secured obligations before treating the lease term as ended."
+  }
+]

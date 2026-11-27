@@ -8,7 +8,11 @@ let saveT;
 function saveP(){LS.set('av_progress',P)}
 async function loadP(){P=Object.assign(P,LS.get('av_progress',{}))}
 
-function modScore(mid){const n=P.counts[mid]||0;let ans=0,first=0;for(const[id,v]of Object.entries(P.items)){if(id.startsWith(mid)){if(v.done)ans++;if(v.done&&v.first)first++}}return{n,ans,first,pct:n?Math.round(100*first/n):0,complete:n>0&&ans>=n}}
+function belongsToModule(questionId, moduleId) {
+  return questionId.startsWith(moduleId+'q') || questionId.startsWith(moduleId+'n');
+}
+
+function modScore(mid){const n=ASSESSMENT_SIZES[mid] || P.counts[mid] || 0;let ans=0,first=0;for(const[id,v]of Object.entries(P.items)){if(belongsToModule(id,mid)){if(v.done)ans++;if(v.done&&v.first)first++}}return{n,ans,first,pct:n?Math.round(100*first/n):0,complete:n>0&&ans>=n}}
 
 function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.innerHTML='';
   const tot=MODS.reduce((a,[id])=>{const m=modScore(id);a.n+=m.n||10;a.a+=m.ans;return a},{n:0,a:0});const pct=Math.round(100*tot.a/tot.n);
@@ -16,11 +20,11 @@ function renderSide(){const cur=location.hash||'#/home';const s=$('#side');s.inn
   const link=(href,n,t,sc,done,ext)=>el('a',{href,class:cur===href?'on':'',target:ext?'_blank':null},el('span',{class:'n'},n),el('span',{},t),sc?el('span',{class:'sc'+(done?' done':'')},sc):null);
   s.append(link('../../','←','All courses'),link('#/home','⌂','Dashboard'));
   let grp='';MODS.forEach(([id,t,g])=>{if(g!==grp){grp=g;s.append(el('h3',{},g))}const m=modScore(id);s.append(link('#/m/'+id,MLABEL(id),t,m.n?(m.complete?`${m.pct}%`:`${m.ans}/${m.n}`):'',m.complete))});
-  s.append(el('h3',{},'Labs on real documents'));LABS.forEach(([id,t])=>s.append(link('#/lab/'+id,'▸',t.replace(/^Lab \d · /,''),P.labs[id]||'',!!P.labs[id])));
+  s.append(el('h3',{},'Labs on real documents'));LABS.forEach(([id,t])=>s.append(link('#/lab/'+id,'▸',t.replace(/^Lab \d+ · /,''),P.labs[id]||'',EDITION.isLabComplete(id,P.labs[id]))));
   s.append(el('h3',{},'Reference'));s.append(link('#/drill','↻','Flashcard drill'),link('handbook.html','▤','Handbook',null,0,1),link('cheatsheet.html','▤','Cheatsheet',null,0,1),link('docs/index.html','▤','Documents',null,0,1));
   s.append(el('h3',{},'Your progress'),el('div',{class:'mut',style:'font-size:12px;margin:0 8px'},'Stored in this browser only.'),el('div',{class:'tools'},
     el('button',{class:'sec',onclick:exportProgress},'Export'),el('button',{class:'sec',onclick:importProgress},'Import'),el('button',{class:'sec',onclick:()=>{if(confirm('Erase all progress in this browser?')){['av_progress','av_graded','av_saved'].forEach(k=>localStorage.removeItem(k));location.reload()}}},'Reset')));
-  const crumb=$('#crumb');if(crumb){const [,a,b]=cur.split('/');let t='Dashboard',g='';if(a==='m'){const m=MODS.find(x=>x[0]===b);if(m){g=m[2];t=m[1]}}else if(a==='lab'){const l=LABS.find(x=>x[0]===b);if(l){g='Labs';t=l[1].replace(/^Lab \d · /,'')}}else if(a==='drill'){g='Reference';t='Flashcard drill'}crumb.innerHTML='';crumb.append(g?el('span',{},g+'  /  '):'',el('b',{},t))}
+  const crumb=$('#crumb');if(crumb){const [,a,b]=cur.split('/');let t='Dashboard',g='';if(a==='m'){const m=MODS.find(x=>x[0]===b);if(m){g=m[2];t=m[1]}}else if(a==='lab'){const l=LABS.find(x=>x[0]===b);if(l){g='Labs';t=l[1].replace(/^Lab \d+ · /,'')}}else if(a==='drill'){g='Reference';t='Flashcard drill'}crumb.innerHTML='';crumb.append(g?el('span',{},g+'  /  '):'',el('b',{},t))}
 }
 const PKEYS=['av_progress','av_graded','av_saved'];
 function exportProgress(){const o={};PKEYS.forEach(k=>{const v=localStorage.getItem(k);if(v!=null)o[k]=v});const a=el('a',{href:URL.createObjectURL(new Blob([JSON.stringify(o)],{type:'application/json'})),download:'aviation-progress.json'});document.body.append(a);a.click();a.remove()}
@@ -49,7 +53,7 @@ function updateFoot(){const f=$('#modfoot');if(!f||!curMod)return;const m=modSco
     status.replaceChildren(el('b',{},m.complete?'Diagnostic complete':'Diagnostic · no pass mark'),el('p',{},m.ans+' of '+m.n+' answered. Start with the modules linked below for any missed items.'));
     gaps.forEach(id=>{const row=MODS.find(m=>m[0]===id);if(row)status.append(el('p',{},el('a',{href:'#/m/'+id},row[1])))});
   }
-  if(m.n&&m.ans)status.append(el('button',{class:'sec',style:'margin-top:10px',onclick:()=>{if(confirm('Clear your answers for this module?')){for(const k of Object.keys(P.items))if(k.startsWith(curMod))delete P.items[k];saveP();route()}}},'Reset module'));
+  if(m.n&&m.ans)status.append(el('button',{class:'sec',style:'margin-top:10px',onclick:()=>{if(confirm('Clear your answers for this module?')){for(const k of Object.keys(P.items))if(belongsToModule(k,curMod))delete P.items[k];saveP();route()}}},'Reset module'));
   const nav=el('div',{class:'pn'});const prev=MODS[i-1],next=MODS[i+1];
   nav.append(prev?el('a',{href:'#/m/'+prev[0],class:'pv'},el('span',{},'← Previous'),el('b',{},prev[1])):el('span'),next?el('a',{href:'#/m/'+next[0],class:'nx'},el('span',{},'Next →'),el('b',{},next[1])):el('a',{href:'#/lab/extract',class:'nx'},el('span',{},'Next →'),el('b',{},'Labs on real documents')));
   f.append(status,nav)}

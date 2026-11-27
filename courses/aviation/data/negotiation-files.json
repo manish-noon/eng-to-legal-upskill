@@ -1,0 +1,110 @@
+[
+  {
+    "id": "security",
+    "name": "Operating lease · bank security",
+    "mandate": "The operator has an approved bank line but scarce cash. The owner has another credible customer. The operator can replace a bank instrument quickly if the owner supplies the release paperwork. Its treasury mandate permits at most $360,000 of cash collateral at any time.",
+    "draft": "A loss of eligibility by the issuing bank entitles the owner to require cash in place of the instrument. The operator shall maintain cover until replacement is effective.",
+    "old": "require cash in place of the instrument",
+    "new": "request another eligible instrument",
+    "note": "Treasury can source another bank. Can we also get a date for release of the old security? Please check whether the replacement has to arrive before the old one can be cancelled.",
+    "forecast": [
+      "The operator gets an unconditional right to cancel first",
+      "A replacement route opens, with uninterrupted security and a release procedure",
+      "The bank itself owes the operator a cash refund under this lease"
+    ],
+    "compare": "An owner with a competing customer can insist on continuous cover. Offering bank-to-bank replacement with an agreed release process directly addresses that demand. Check the signature set for the sequence and the party able to release the existing instrument.",
+    "final": "Security clause. Following written notice of issuer ineligibility, the operator may supply eligible substitute cover. Existing cover continues until the owner confirms the substitute has become effective. The owner must then issue cancellation instructions that day.",
+    "schedule": "Treasury assumptions. The old issuer holds $180,000 cash collateral. The new issuer requires $225,000 cash before the substitute takes effect. The old issuer will return its cash two business days after the owner sends cancellation instructions. No temporary credit is available.",
+    "question": "At the moment the new issuer is funded, how much cash collateral in USD would be outstanding across both banks?",
+    "answer": 405000,
+    "working": "$180,000 + $225,000 = $405,000 until the original bank releases its collateral. This is a cash peak, not an expected loss.",
+    "action": [
+      "Approve as drafted because the release notice is due that day",
+      "Negotiate a bank-confirmed exchange or at least $45,000 less simultaneous collateral",
+      "Treat the entire $405,000 as a permanent additional rent payment"
+    ],
+    "decision": "Negotiate a bank-confirmed exchange or at least $45,000 less simultaneous collateral",
+    "model": "The new wording wins the choice of substitute, but the release instruction does not release cash from the bank account. Get both issuers to confirm an executable exchange or reduce the overlap before approval. The peak exceeds the mandate by $45,000."
+  },
+  {
+    "id": "warranty",
+    "name": "Operating lease · a repair claim after return",
+    "mandate": "The operator expects to pay for work shortly before return. The owner holds the supplier warranty and wants a clean handover. The supplier will process claims only in the owner’s name. The operator can supply costed work orders and cooperate after handover.",
+    "draft": "Any unresolved supplier claim passes to the owner at handover. All receipts after that date are for the owner’s account.",
+    "old": "All receipts after that date are for the owner’s account",
+    "new": "The operator retains the whole amount of each open claim",
+    "note": "Engineering funded the repair. Ask who follows the supplier after handover and whether we can recover even though we cannot bring the claim ourselves.",
+    "forecast": [
+      "The supplier becomes directly liable to the operator when it comments",
+      "The operator gets all future settlements for any damage",
+      "The owner keeps the claim and remits specified proceeds for documented operator costs"
+    ],
+    "compare": "The supplier limits who can claim. The parties can separate the right to run the claim from the allocation of proceeds once collected. A settlement statement and a remittance deadline are more credible concessions than demanding the supplier recognise a new claimant.",
+    "final": "Handover schedule. The owner will pursue listed open repair claims at the operator’s documented request. Once cash is collected, it will pass the lesser of the net repair proceeds and the operator’s evidenced expenditure to the operator. This obligation continues after return.",
+    "schedule": "Assume a listed claim and no deductions other than an agreed $8,000 collection cost. The supplier pays $116,000 for the repair after handover. The operator can evidence $94,000 of expenditure. There is no downtime payment.",
+    "question": "How much in USD must the owner remit to the operator under this settlement?",
+    "answer": 94000,
+    "working": "Net repair proceeds are $108,000. The documented expenditure cap is $94,000, leaving $14,000 of net proceeds with the owner.",
+    "action": [
+      "Claim directly against the supplier for $116,000",
+      "Confirm the repair is on the signed schedule, retain invoices and agree a remittance date",
+      "Book the entire supplier estimate as cash at redelivery"
+    ],
+    "decision": "Confirm the repair is on the signed schedule, retain invoices and agree a remittance date",
+    "model": "The operator can enforce a remittance promise against its counterparty, subject to the text and actual collection. It still depends on someone else to submit and pursue the claim. Ask for reporting, a deadline after receipt and a route to resolve a disputed deduction."
+  },
+  {
+    "id": "purchase",
+    "name": "Used purchase · payment for a transfer",
+    "mandate": "The buyer values the engine support programme and has an equivalent aircraft available next month. Only the programme administrator can approve transfer. The seller wants a prompt closing and will cooperate but cannot bind the administrator.",
+    "draft": "The seller shall assist with the application. The aircraft may close while the application is pending.",
+    "old": "assist with the application",
+    "new": "obtain enrolment in the buyer’s name before closing",
+    "note": "A support account shown as current is encouraging. Ask the programme desk whether it has signed off the transfer and whether there is an entry charge.",
+    "forecast": [
+      "An account statement binds the administrator to approve",
+      "An independent confirmation or a priced reserve can bridge the gap",
+      "Consent is automatic when title passes"
+    ],
+    "compare": "The buyer’s alternative strengthens its position on a condition or holdback. The seller can offer cash protection and cooperation. Even an unqualified promise from the seller cannot itself grant third-party consent.",
+    "final": "Closing amendment. A pending application may remain open if $72,000 of the seller’s proceeds stays in escrow. On timely production of an administrator’s invoice the agent pays the documented enrolment charge up to the escrow balance. The buyer bears any excess.",
+    "schedule": "Scenario. The administrator approves enrolment after closing and issues an eligible $91,000 invoice in time. The client accepts at most $11,843 of additional cost. All figures use the same date and currency.",
+    "question": "On these terms, how much of that charge in USD falls on the buyer?",
+    "answer": 19000,
+    "working": "$91,000 less $72,000 leaves $19,000 with the buyer. The stated ceiling is $11,843, so the proposed reserve is $7,157 short.",
+    "action": [
+      "Close unconditionally because programme approval is likely",
+      "Require an extra $7,157 of collectible protection on this invoice scenario and address outright refusal separately",
+      "Treat the escrow as buying membership if the administrator refuses the aircraft"
+    ],
+    "decision": "Require an extra $7,157 of collectible protection on this invoice scenario and address outright refusal separately",
+    "model": "Tie any reserve increase to escrow instructions the agent can actually perform. Ask whether rejection of enrolment is a separate hard stop: more money for an invoice does not secure access to the programme."
+  },
+  {
+    "id": "records",
+    "name": "Operating lease · records at a third-party archive",
+    "mandate": "The operator wants to keep maintenance records with a specialist. The owner needs copies for recovery if the operator fails. The archive is independent and will act only under its service contract. There is a first markup and a clean reading copy, but no execution set.",
+    "draft": "The operator will retain the original records at its own premises. Any change in custody requires the owner’s written approval.",
+    "old": "retain the original records at its own premises",
+    "new": "keep the records at an approved archive",
+    "note": "We can deliver access credentials. Confirm whether the archive can release certified copies to the owner following a default without waiting for our instructions.",
+    "forecast": [
+      "Qualified external custody may be accepted in exchange for an effective access undertaking",
+      "Credentials alone bind the archive and its successors",
+      "A clean copy proves that the owner conceded"
+    ],
+    "compare": "A direct undertaking could satisfy the owner without forcing the records back in-house. It is an opening for negotiation. Neither a clean rendering nor a margin question confirms agreement.",
+    "final": "File status. A reading copy accepts the proposed custody wording. It contains no signature or execution correspondence. No custody letter or amendment to the archive service contract is supplied.",
+    "schedule": "Client assumptions. Recovering the records without direct access would cost $87,000 if needed. The operator has a $22,000 internal budget allocation for this risk, with no insurance, escrow or third-party recovery. Ignore probability.",
+    "question": "How much of the $87,000 loss in USD would remain with the operator in the stated loss event?",
+    "answer": 87000,
+    "working": "The operator retains the entire $87,000. An internal budget allocation funds part of its own cost and creates no recovery against another party.",
+    "action": [
+      "Record the clause as settled and subtract the budget from the loss",
+      "Request the executed text and the archive’s own undertaking before relying on access",
+      "Treat records access as impossible at every third-party archive"
+    ],
+    "decision": "Request the executed text and the archive’s own undertaking before relying on access",
+    "model": "Keep the issue open. Ask who may obtain which records, on what trigger and under whose authority. Verify that the archive has accepted the instruction and test access before relying on it. The material supports an ask and a predicted trade, not a signed result."
+  }
+]

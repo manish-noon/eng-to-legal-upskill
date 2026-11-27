@@ -6,6 +6,25 @@ HERE = Path(__file__).resolve().parent
 COURSE = HERE.parents[2] / "courses/aviation"
 
 
+def check_reading_cases():
+    cases = json.loads((COURSE / "data/reading-cases.json").read_text())
+    for case in cases:
+        text = " ".join((COURSE / "docs" / (case["id"] + ".txt")).read_text().split())
+        for row in case["questions"]:
+            quote = " ".join(row["quote"].split())
+            assert quote in text and 0 < len(quote.split()) <= 25 and row["section"], row
+            if "choices" in row:
+                assert row["choices"].count(row["value"]) == 1, row
+        proof = case["proof"]
+        scope = text.index(proof["scope"]) if "scope" in proof else 0
+        start = text.index(proof["start"], scope)
+        end = text.index(proof["end"], start + len(proof["start"]))
+        assert proof["quote"] in text[start:end], proof
+        assert proof["core"] in proof["quote"].lower(), proof
+        assert proof["locations"].count(proof["locator"]) == 1, proof
+    print("Checked %d reading cases and their citation windows" % len(cases))
+
+
 def main():
     manifest = json.loads((HERE.parent / "sources/manifest.json").read_text())
     rows = []
@@ -25,3 +44,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    check_reading_cases()

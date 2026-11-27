@@ -1,6 +1,23 @@
 # Aviation course verification
 
-The 13 teaching modules contain 118 scored items. The baseline adds 15 and the final adds 19. Reviewers answered shuffled prompts with grading attributes and explanations removed, then compared their responses with the authored keys. A different author checked each group. Worked examples, SVG values, factual claims and legal qualifications were reviewed separately.
+## Contract-reading edition
+
+Sixteen modules contain 146 scored items. The diagnostic has 18 items and the final has 24. All 152 question IDs from the original edition remain usable. New lessons sit directly after the relevant foundation lesson. Browser progress and individual module resets distinguish those IDs and the new lesson suffixes.
+
+| Check | Evidence |
+|---|---|
+| Three new teaching modules | Independent readers answered all 28 shuffled and unmarked items before comparing with the keys, including six numeric answers. They checked the diagrams, worked figures and filed clauses. |
+| New diagnostic and exam questions | Eight new items answered blind. Clarified the exam question asking for the amount of a repair bill borne by the buyer. |
+| Four public-file exercises | Twelve interpretations and calculations independently solved from the exhibits. Each case also requires the correct provision and a short excerpt containing its operative language. The OEM delay exercise scopes the evidence check to the replacement letter. |
+| Four fictional markup exercises | Independently recomputed the collateral peak, warranty distribution, programme-transfer shortfall and unfunded records risk. The two scored checks per case concern the later file. Opening forecasts and written trade proposals have model commentary and are unscored. |
+| Two independent client calls | A separate reader received the deal briefs, read the exhibits and reached both decisions before seeing the model memos. All eight short quotations and both lease-budget calculations checked. The learner assesses their own written advice against a published rubric. |
+| Existing teaching and calculations | Checked the new read-alongs against their cited provisions. Recomputed all three earlier deal-desk decisions. Existing public extraction fields pass the 21-file audit below. |
+
+The instructional markups, comments, counters, time limits and assumed commercial facts in fictional files are teaching examples. Private materials informed topic selection. They supply neither public quotations nor market statistics. For a live file, a practitioner must confirm the complete executed set, third-party authority, actual technical evidence and jurisdiction-specific procedures.
+
+## Original edition
+
+The original 13 teaching modules contained 118 scored items. Its baseline had 15 and its final had 19. Reviewers answered shuffled prompts with grading attributes and explanations removed, then compared their responses with the authored keys. A different author checked each group. Worked examples, SVG values, factual claims and legal qualifications were reviewed separately.
 
 | Material | Independent check | Result |
 |---|---|---|

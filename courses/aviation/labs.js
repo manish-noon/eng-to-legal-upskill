@@ -169,6 +169,6 @@ LAB.issues=async function(main){
     el('p',{},'Recitals and §1(b). The defined asset is an airframe without engines. The as-is wording still contains a landing-gear inspection-life promise. Ask for records demonstrating that life and an express cash adjustment for any deficit. If the seller declines, cap your bid at the evidenced residual value.'),
     el('p',{},'§3(b). Technical acceptance has already occurred. The waiver retains protection for intervening damage or a changed condition before delivery. Require a dated reinspection and a records comparison before releasing funds. An agreed condition exception needs a remedy and a deadline.'),
     el('p',{},'§§1(c), 2(a), 4. The price is wired to the seller while sale instruments are held by an escrow agent. Align cleared funds, lien releases and instrument release. If simultaneous escrow is refused, quantify cash exposed during the gap and get explicit authority to take it.'),
-    el('a',{href:'../../build/aviation/templates/landing-memo.md',download:'aircraft-landing-memo.md'},'Download the decision memo template'));recordLab('issues','Draft compared');};
+    el('a',{href:'#/lab/markup'},'Work a negotiation file →'),el('p',{},'Use the same record structure on your own agreement.'),el('a',{href:'../../build/aviation/templates/landing-memo.md',download:'aircraft-landing-memo.md'},'Download the decision memo template'));recordLab('issues','Draft compared');};
   main.append(el('div',{class:'split'},await documentPane('05-baltia-kalitta'),el('div',{class:'sticky'},form)));
 };

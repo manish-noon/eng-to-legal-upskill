@@ -11,3 +11,13 @@
 .risk-inputs{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:0 14px}
 .calc-result{border-top:3px solid var(--acc);padding:14px 0;font:600 18px/1.6 var(--ui)}
 @media(max-width:900px){.split{display:block}.doc{height:42vh}.sticky{margin-top:16px}}
+.reading-desk{align-items:start}
+.reading-desk .doc{white-space:pre-wrap;overflow-wrap:anywhere}
+@media(min-width:1101px){.reading-desk>div:first-child{position:sticky;top:64px}}
+.reading-desk .lab-form{min-width:0}
+.reading-desk del{color:var(--bad);text-decoration-thickness:2px}
+.reading-desk ins{background:var(--ok-soft);color:var(--ink);text-decoration:underline}
+.reading-desk+.reading-desk{margin-top:2rem;padding-top:1rem;border-top:2px solid var(--ink)}
+.later-file{scroll-margin-top:64px}
+.reading-desk [aria-live] label:has(input[type=checkbox]){display:flex;align-items:baseline;gap:.65em;margin:.65em 0;cursor:pointer}
+.reading-desk input[type=checkbox]{flex:none}

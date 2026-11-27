@@ -1,6 +1,6 @@
 # Clearing the aircraft deal
 
-Given an aircraft purchase agreement or operating or finance lease and an issues list, trace each clause to its commercial function, predict disputed landings from cited comparable terms and bargaining leverage, quantify retained exposure and advise sign, negotiate or walk.
+Given an unfamiliar aircraft purchase or lease file and its issues list, find the controlling language across drafts, definitions and schedules, explain who must do what by when, predict and verify disputed outcomes, price the exposure left with the client and advise sign, negotiate or walk.
 
 Audience: Dubai-based technology founder with extensive engineering experience and no legal training. Prices, durations and probabilities in teaching scenarios are illustrative assumptions.
 
@@ -11,9 +11,12 @@ Audience: Dubai-based technology founder with extensive engineering experience a
 | Buying new | 03 PDPs and delivery | Trace deposits, acceptance and final payment |
 | Buying new | 04 Delay and support | Price delay relief, termination and warranty recovery |
 | Buying used | 05 Inspection to closing | Condition release of price on condition, title and records |
+| Buying used | 05b Reading the closing set | Turn an inspection report and a disputed acceptance form into executable closing instructions |
 | Leasing | 06 Rent and security | Calculate payment and collateral exposure |
 | Leasing | 07 Maintenance and return | Model reserves, claims and redelivery |
+| Leasing | 07b Running the aircraft under lease | Trace charter, possession, lien, records and modification permissions to a dispatch or hold decision |
 | Leasing | 08 Casualty and default | Trace insurance, indemnities, quiet enjoyment and enforcement |
+| Leasing | 08b Reading a marked lease | Follow an edit from the margin through definitions, operative covenants, schedules and the signed copy |
 | Context | 09 Financing structures | Trace finance lease, ECA and JOLCO obligations |
 | Context | 10 Priority and export | Separate international interests, national registries and IDERA |
 | Context | 11 Tax and forum | Identify evidence and local advice needed in a cross-border closing |

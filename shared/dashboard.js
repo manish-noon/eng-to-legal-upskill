@@ -58,7 +58,7 @@ function showHome(section) {
   const labs = el('section',{id:'labs',class:'journal-section'},el('h2',{},'Labs on real documents'),
     el('div',{class:'cards'},LABS.map(([key,label,detail])=>el('a',{href:'#/lab/'+key},
       el('span',{class:'kicker'},label.split(' · ')[0]),el('b',{},label.split(' · ')[1]),el('span',{},detail),
-      P.labs[key]?el('small',{class:'ok'},P.labs[key]):null))));
+      P.labs[key]?el('small',{class:EDITION.isLabComplete?.(key,P.labs[key])===false?'mut':'ok'},P.labs[key]):null))));
   const refs = el('section',{id:'reference',class:'journal-section'},el('h2',{},'The reference shelf'),
     el('div',{class:'shelf'},[...(EDITION.podcast ? [['podcast.html','Podcast']] : []),['handbook.html','Handbook'],['cheatsheet.html','One-page cheatsheet'],['docs/index.html','Exhibit library'],['#/drill','Flashcard drill']].map(([href,label])=>el('a',{href},label,' ↗'))));
   main.append(curriculum,labs,refs,el('div',{class:'prose limits',html:EDITION.limits}));
